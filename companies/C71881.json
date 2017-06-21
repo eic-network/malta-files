@@ -1,0 +1,78 @@
+{
+  "name": "ARTPLUS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEANNE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            226659M",
+        "address": "AIRWAYSHOUSE,2NDFLOOR,HIGHSTREET,SLIEMASLM1549MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KAIS EZAALOUK\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            J58H54H8",
+        "address": "GANZOURALSOUKP.O.BOX:085TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KAIS EZAALOUK\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            J58H54H8",
+        "address": "GANZOURALSOUKP.O.BOX:085TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01785",
+        "address": "2,THEOLIVE,TRIQESPRITBARTHETMADLIENANAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KAIS EZAALOUK\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            J58H54H8",
+        "address": "GANZOURALSOUKP.O.BOX:085TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "AIRWAYS HOUSE, 2ND FLOOR HIGH STREET",
+  "company_id": "C 71881",
+  "registration_date": "Aug 19, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BELLAPRIMA LTD",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCA DEL CIUCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0085123",
+        "address": "STR.CASTELD'ASSO10,VITERBOITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5230628",
+        "address": "VIACAVADIGORGA7VITERBOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5230628",
+        "address": "VIACAVADIGORGA7VITERBOITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARCO FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5230628",
+        "address": "VIACAVADIGORGA7VITERBOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCA DEL CIUCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0085123",
+        "address": "STR.CASTELD'ASSO10,VITERBOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "113, TRIQ IR-RUSSETT, KAPPARA,",
+  "company_id": "C 35317",
+  "registration_date": "Dec 22, 2004",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1300
+}

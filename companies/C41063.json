@@ -1,0 +1,572 @@
+{
+  "name": "ASTONFIELD RENEWABLE RESOURCES LTD",
+  "total_issued_shares_value": 2001000,
+  "total_authorised_shares_value": 3002000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 2000,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1000
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ATIQ SAIFUDDIN KARIMBAI ANJARWALLA\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            KE017001",
+        "address": "S.K.A.HOUSE,DEDANKIMATHIAVENUE,MOMBASA80100GPOKENYA"
+      },
+      {
+        "name": "THOMAS BILODEAU\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            159714406",
+        "address": "176FEDERALSTREET,6THFLOOR,BOSTON,MASSACHUSETTS,02110UNITEDSTATES"
+      },
+      {
+        "name": "SOURABH SEN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            A9266859",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      },
+      {
+        "name": "AMEET LALCHAND SHAH\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452019579",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ATIQ SAIFUDDIN KARIMBAI ANJARWALLA\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            KE017001",
+        "address": "S.K.A.HOUSE,DEDANKIMATHIAVENUE,MOMBASA80100GPOKENYA"
+      },
+      {
+        "name": "THOMAS BILODEAU\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            159714406",
+        "address": "176FEDERALSTREET,6THFLOOR,BOSTON,MASSACHUSETTS,02110UNITEDSTATES"
+      },
+      {
+        "name": "SOURABH SEN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            A9266859",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      },
+      {
+        "name": "AMEET LALCHAND SHAH\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452019579",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RODNEY LEE BERGER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            454329939",
+        "address": "10/21,PORTOMASO,ST.JULIANSPTM01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ATIQ SAIFUDDIN KARIMBAI ANJARWALLA\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            KE017001",
+        "address": "S.K.A.HOUSE,DEDANKIMATHIAVENUE,MOMBASA80100GPOKENYA"
+      },
+      {
+        "name": "THOMAS BILODEAU\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            159714406",
+        "address": "176FEDERALSTREET,6THFLOOR,BOSTON,MASSACHUSETTS,02110UNITEDSTATES"
+      },
+      {
+        "name": "SOURABH SEN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            A9266859",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      },
+      {
+        "name": "AMEET LALCHAND SHAH\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452019579",
+        "address": "405LEXINGTONAVENUE,26THFLOOR,NEWYORKNY10174UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABSOLUTE RETURNS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            639749",
+        "address": "PORTCULLISTRUSTNETCHAMBERS,POBOX3444,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "ALTWT INVESTMENTS LLC\r",
+        "nationality": "",
+        "party_id": "                                                            L09000072722",
+        "address": "80SW8THSTREET,,3100MIAMI,FLORIDA33103UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "ASTONFIELD MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1001720",
+        "address": "AKARABLDG.,24,DECASTROSTREET,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 45325
+        }
+      },
+      {
+        "name": "BENGALIO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1481633",
+        "address": "COSTALBUILDING,WICKHAM'SCAY11,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "CONCORDE INVESTMENT CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            CL-215135",
+        "address": "HARBOURPLACE,4THFLOOR,103SOUTHCHURCHSTREET,GRANDCAYMANKY1-1102CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "DADA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            417216",
+        "address": "24DECASTROSTREET,WICHAMSCAY,ROADTOWM,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4600
+        }
+      },
+      {
+        "name": "DIDATA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            195003",
+        "address": "1,LAMPOUSASSTREET,NICOSIA1095CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "FULCRUM LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            99440",
+        "address": "43/45,LAMOTTESTREET,JERSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6850
+        }
+      },
+      {
+        "name": "HARWOOD LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            41445",
+        "address": "SUITE2004,LEVEL2,ALEXANDERHOUSE,CYBERCITY,EBENEMAURITIUS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7200
+        }
+      },
+      {
+        "name": "INCANDESCENET LLC\r",
+        "nationality": "",
+        "party_id": "                                                            4345528",
+        "address": "525WEST22NDSTREET4D,NEWYORKNY1011UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JUXTA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1435036",
+        "address": "COSTALBUILDING,WICKHAM'SCAY11,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "KAIDEN LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109426C",
+        "address": "3RDFLOOR,BARCLAYSHOUSE,VICTORIASTREET,DOUGLASIM12LEISLEOFMAN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1950
+        }
+      },
+      {
+        "name": "LUMEX CAPITAL INC.\r",
+        "nationality": "",
+        "party_id": "                                                            117255",
+        "address": "STERLINGOFFSHORELIMITED,SUITE305,CAPITALCITYBUILDING,VICTORIA,MAHE,REPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375
+        }
+      },
+      {
+        "name": "PARVEL INTERNATIONAL ENTERPRISES INC\r",
+        "nationality": "",
+        "party_id": "                                                            657365",
+        "address": "POBOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "POSTEX HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            E36627",
+        "address": "P.O.BOX127,MANDARA,NORTHRIDGE,GRANDTURK,TURKSANDCAICOSISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "RN2 SOLAR LLC",
+        "nationality": "",
+        "party_id": "",
+        "address": "12SHELLEYLANE,WESTHARRISON,NEWYORK10604UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1700
+        }
+      },
+      {
+        "name": "SHALOGRAM INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            207635",
+        "address": "4THFLOORFIRSTCARIBBEANHOUSE,GEORGETOWN,GRANDCAYMAN,CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "SIMBA CORPORATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C15551",
+        "address": "LR1870/1/569,2NDFLOORAPOLLOCENTRE,RINGROADPARKLANDS,SARITCENTRE,NAIROBI00606KENYA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "STARFISH HOLDINGS\r",
+        "nationality": "",
+        "party_id": "                                                            148821",
+        "address": "POBOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "WATERPORT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1404437",
+        "address": "AKARABUILDING,24DECASTROSTREET,WICHAMSCAY,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "NIKO CANNER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            017024832",
+        "address": "525WEST22NDSTREET,APARTMENT40,NEWYORK,NY10011UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "VIREN & BINA DOSHI",
+        "nationality": "BRITISH",
+        "party_id": "",
+        "address": "23,BOULEVARDDELATOUR,MAUBOURG,PARIS75007FRANCE",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "DAVID JOSEPH ELSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            424933527",
+        "address": "16240OLDSEWARDHIGHWAY,ANCHORAGEAK99516UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 325
+        }
+      },
+      {
+        "name": "JAMES LEO ELSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            430676162",
+        "address": "17151,88THAVENUENORTH,MAPLEGROVEMN55369UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 325
+        }
+      },
+      {
+        "name": "JOHN BERNARD ELSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            458708380",
+        "address": "6195,NORTHWESTBOULEVARD,APT120,PLYMOUTHMN56442UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 325
+        }
+      },
+      {
+        "name": "DOUGLAS BARRY & SUSAN MADDEN FORMAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            424527798/424499371",
+        "address": "7,CANTERBURYROAD,HARRISON,NEWYORK10528-2301UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 165
+        }
+      },
+      {
+        "name": "DREW FORMAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            426645783",
+        "address": "7,CANTERBURYROAD,HARRISON,NEWYORK10528-2301UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 170
+        }
+      },
+      {
+        "name": "SHAILESH HARIBHAKTI\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1777318",
+        "address": "42FREEPRESSHOUSE,215NARIMANPOINT,MUMBAI400021INDIA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "JOSEPH VINCENT MC DEVITT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800242289",
+        "address": "6,PARKSIDEAVENUE,LONDONSW195ESENGLAND",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "NEERAJ MITAL\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            218414889",
+        "address": "12SHELLEYLANE,WESTHARRISON,NEWYORK10604UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "HEMANTHA PARVATHARAJ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            461362015",
+        "address": "185FLOCKTOWNROAD,LONGVALLEY,NEWJERSEYNJ10301-460UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SHRIRAMA N. PHADKE\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            G5895209",
+        "address": "P.O.BOX17592,NAIROBI00500KENYA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "JANICE MARGARET RHODY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            309907776",
+        "address": "449,GRANDVIEWAVENUEWEST,ROSEVILLEMN55133UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      },
+      {
+        "name": "CHANDRAVADAN DIPCHAND MEGHJI SHAH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761114026",
+        "address": "PLOTNO.71A/C,GREVILLEAGROVEPLOT,NAIROBIKENYA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 75
+        }
+      },
+      {
+        "name": "LALCHAND DEVSHI SHAH\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            B057143",
+        "address": "NYOKAROAD,PLOTNO1185,MOMBASSAKENYA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 102000,
+  "address": "SUITE 10, 189 MARINA SUITES, MARINA STREET,",
+  "company_id": "C 41063",
+  "registration_date": "Mar 29, 2007",
+  "shares_currency": "GBP",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 203000
+}

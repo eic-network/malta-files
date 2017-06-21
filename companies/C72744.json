@@ -1,0 +1,102 @@
+{
+  "name": "ALLWOODS AND STEEL (PROPERTY 2) LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438158M",
+        "address": "MARIAREGINA,QRIBSANANTON,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438158M",
+        "address": "MARIAREGINA,QRIBSANANTON,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNA BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448165M",
+        "address": "MARIAREGINA,QRIBSANANTON,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438158M",
+        "address": "MARIAREGINA,QRIBSANANTON,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KARL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123891M",
+        "address": "MARIAREGINA,QRIBSANT'ANTONATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "THEA BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0197493M",
+        "address": "MARIAREGINA,QRIBSANT'ANTONATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "ANTHONY BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438158M",
+        "address": "MARIAREGINA,QRIBSANANTON,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "9, MARIA REGINA, QRIB SANT'ANTON,",
+  "company_id": "C 72744",
+  "registration_date": "Oct 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1200
+}

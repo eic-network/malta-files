@@ -1,0 +1,89 @@
+{
+  "name": "AXEBRIDGE OPERATIONS MALTA LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAULO CESAR DE MIRANDA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            449860651",
+        "address": "7155LOSPINOSBLVDCORALGABLESMIAMIFL33143-6412UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAULO CESAR DE MIRANDA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            449860651",
+        "address": "7155LOSPINOSBLVDCORALGABLESMIAMIFL33143-6412UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQISWQ3570MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAULO CESAR DE MIRANDA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            449860651",
+        "address": "7155LOSPINOSBLVDCORALGABLESMIAMIFL33143-6412UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARBADOS INVESTMENTS HOLDING LLC.\r",
+        "nationality": "",
+        "party_id": "                                                            L15000190573",
+        "address": "1001BRICKELLBAYDRIVE,SUITE2406,MIAMIFL33131UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "PAULO CESAR DE MIRANDA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            449860651",
+        "address": "7155LOSPINOSBLVDCORALGABLESMIAMIFL33143-6412UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL,",
+  "company_id": "C 76347",
+  "registration_date": "Jul 07, 2016",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,99 @@
+{
+  "company_id": "C 28201",
+  "address": "37, APT. R DOLPHIN COURT, EMBASSY WAY,",
+  "name": "BROADWAY LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "registration_date": "May 21, 2001",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "party_id": "                                                            319660M",
+        "address": "31,OAKHILLAPARTMENTS,MARQUISSCICLUNASTREET,ST.JULIANSSLM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLASSIC SERVICES LIMITED\r",
+        "party_id": "                                                            C 20507",
+        "address": "111/6,ST.LUCIASTREET,VALLETTAVLT09MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "CLASSIC SERVICES LIMITED\r",
+        "party_id": "                                                            C 20507",
+        "address": "111/6,ST.LUCIASTREET,VALLETTAVLT09MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "party_id": "                                                            319660M",
+        "address": "31,OAKHILLAPARTMENTS,MARQUISSCICLUNASTREET,ST.JULIANSSLM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "party_id": "                                                            319660M",
+        "address": "31,OAKHILLAPARTMENTS,MARQUISSCICLUNASTREET,ST.JULIANSSLM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "party_id": "                                                            319660M",
+        "address": "31,OAKHILLAPARTMENTS,MARQUISSCICLUNASTREET,ST.JULIANSSLM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "party_id": "                                                            263262M",
+        "address": "37,APT.R,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

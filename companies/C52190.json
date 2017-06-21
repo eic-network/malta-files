@@ -1,0 +1,96 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Mar 07, 2011",
+  "status": "",
+  "locality": "FGURA",
+  "name": "BUISSY.COM LTD",
+  "total_issued_shares": 1200,
+  "address": "23, SOUTH HOUSE, HOMPESCH ROAD,",
+  "company_id": "C 52190",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "39,KNEKTASVAGEN,BORAS50649SWEDEN",
+        "party_id": "                                                            34637708",
+        "name": "SVANTE MATTIAS LIND\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "address": "BLOCKD1,FLAT4,OURLADYOFSORROWSSTREET,PIETA'PTA1423MALTA",
+        "party_id": "                                                            286788M",
+        "name": "RYAN QUINTANO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "BLOCKD1,FLAT4,OURLADYOFSORROWSSTREET,PIETA'PTA1423MALTA",
+        "party_id": "                                                            286788M",
+        "name": "RYAN QUINTANO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "39,KNEKTASVAGEN,BORAS50649SWEDEN",
+        "party_id": "                                                            34637708",
+        "name": "SVANTE MATTIAS LIND\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "address": "BLOCKD1,FLAT4,OURLADYOFSORROWSSTREET,PIETA'PTA1423MALTA",
+        "party_id": "                                                            286788M",
+        "name": "RYAN QUINTANO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "39,KNEKTASVAGEN,BORAS50649SWEDEN",
+        "party_id": "                                                            34637708",
+        "name": "SVANTE MATTIAS LIND\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "address": "BLOCKD1,FLAT4,OURLADYOFSORROWSSTREET,PIETA'PTA1423MALTA",
+        "party_id": "                                                            286788M",
+        "name": "RYAN QUINTANO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "122,HATFIELD,TRIQSANTUMAS,FGURAFGR1604MALTA",
+        "party_id": "                                                            19241",
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "23,'SOUTHHOUSE',TRIQHOMPESCH,FGURAFGR2010MALTA",
+        "party_id": "                                                            C 59853",
+        "name": "EML GLOBAL LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

@@ -1,0 +1,78 @@
+{
+  "company_id": "C 52547",
+  "address": "NO. 9, TRIQ IL-LUMIJA,",
+  "name": "BRAIN CONSULTING LTD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Apr 08, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARMEN OTERA\r",
+        "party_id": "                                                            YA0753463",
+        "address": "5,VIADEGLIOLMI,QUARTUS.ELENA9045(CA)ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEN OTERA\r",
+        "party_id": "                                                            YA0753463",
+        "address": "5,VIADEGLIOLMI,QUARTUS.ELENA9045(CA)ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEN OTERA\r",
+        "party_id": "                                                            YA0753463",
+        "address": "5,VIADEGLIOLMI,QUARTUS.ELENA9045(CA)ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEN OTERA\r",
+        "party_id": "                                                            YA0753463",
+        "address": "5,VIADEGLIOLMI,QUARTUS.ELENA9045(CA)ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMEN OTERA\r",
+        "party_id": "                                                            YA0753463",
+        "address": "5,VIADEGLIOLMI,QUARTUS.ELENA9045(CA)ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SIMON CIANTAR\r",
+        "party_id": "                                                            10241",
+        "address": "24,IDLEWIND,TRIQIR-RADED,MANIKATAST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

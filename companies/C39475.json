@@ -1,0 +1,94 @@
+{
+  "company_id": "C 39475",
+  "address": "27, GROGNET STREET,",
+  "name": "3M INTERNATIONAL LIMITED",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Sep 05, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADEL EL ARABI AL ZAWI\r",
+        "party_id": "                                                            DK00049630",
+        "address": "DYBEDALEN3,11TV,ARHUSV8210DENMARK",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "NAJI-MOHAMED OSMAN ALGANGA\r",
+        "party_id": "                                                            12388",
+        "address": "SHARA,OMARMUKHTARAZZAWIA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADEL EL ARABI AL ZAWI\r",
+        "party_id": "                                                            DK00049630",
+        "address": "DYBEDALEN3,11TV,ARHUSV8210DENMARK",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADEL EL ARABI AL ZAWI\r",
+        "party_id": "                                                            DK00049630",
+        "address": "DYBEDALEN3,11TV,ARHUSV8210DENMARK",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "NAJI-MOHAMED OSMAN ALGANGA\r",
+        "party_id": "                                                            12388",
+        "address": "SHARA,OMARMUKHTARAZZAWIA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADEL EL ARABI AL ZAWI\r",
+        "party_id": "                                                            DK00049630",
+        "address": "DYBEDALEN3,11TV,ARHUSV8210DENMARK",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "NAJI-MOHAMED OSMAN ALGANGA\r",
+        "party_id": "                                                            12388",
+        "address": "SHARA,OMARMUKHTARAZZAWIA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADEL EL ARABI AL ZAWI\r",
+        "party_id": "                                                            DK00049630",
+        "address": "DYBEDALEN3,11TV,ARHUSV8210DENMARK",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "FAWZI ARABI D. ALZAWI\r",
+        "party_id": "                                                            849692",
+        "address": "SHARA,OMARMUKHTARAZZAWIA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

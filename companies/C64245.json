@@ -1,0 +1,38 @@
+{
+  "name": "BIG LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "9, BRITANNIA HOUSE, OLD BAKERY STREET,",
+  "company_id": "C 64245",
+  "registration_date": "Mar 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

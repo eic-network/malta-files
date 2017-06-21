@@ -1,0 +1,110 @@
+{
+  "name": "AZZOPARDI ENTERPRISING LIMITED",
+  "total_issued_shares_value": 34942.92,
+  "total_authorised_shares_value": 37269.97,
+  "authorised_shares": [
+    {
+      "issued_shares": 1001,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 14000,
+      "type": "PreferenceNonReedemable/NonVoting/NonCumilative",
+      "authorised_share_capital": 14500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTON AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42352G",
+        "address": "DARCARMELAGEDRINSTREETVICTORIAVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42352G",
+        "address": "DARCARMELAGEDRINSTREETVICTORIAVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42352G",
+        "address": "DARCARMELAGEDRINSTREETVICTORIAVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42352G",
+        "address": "DARCARMELAGEDRINSTREETVICTORIAVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTON AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42352G",
+        "address": "DARCARMELAGEDRINSTREETVICTORIAVICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "KURT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            41585G",
+        "address": "DARCARMELA,GEDRINSTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RACHEL AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            450178M",
+        "address": "PERLA,TRIQL-IMBLOKKTALFRANCIZIVICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15001,
+  "address": "DOVIK BUILDINGS, FORTUNATO MIZZI STREET",
+  "company_id": "C 29072",
+  "registration_date": "Dec 19, 2001",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 16000
+}

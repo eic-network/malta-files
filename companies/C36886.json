@@ -1,0 +1,103 @@
+{
+  "name": "77 LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FILIPPA GALEA TESTAFERRATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236175M",
+        "address": "84A,MAINSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARL PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            349677M",
+        "address": "CALEDONIATOWERSFLAT1QUI-SI-SANASEAFRONTSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARL PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            349677M",
+        "address": "CALEDONIATOWERSFLAT1QUI-SI-SANASEAFRONTSLIEMAMALTA"
+      },
+      {
+        "name": "HUGH PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            246245M",
+        "address": "85,MAINSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CELAINE BORG GAFA'\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10927",
+        "address": "7,LEVEL1,TRIQKORDIN,PAOLAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARL PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            349677M",
+        "address": "CALEDONIATOWERSFLAT1QUI-SI-SANASEAFRONTSLIEMAMALTA"
+      },
+      {
+        "name": "HUGH PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            246245M",
+        "address": "85,MAINSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "L S O SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8537",
+        "address": "3INDEPENDENCESQUARE,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "CARL PERALTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            349677M",
+        "address": "CALEDONIATOWERSFLAT1QUI-SI-SANASEAFRONTSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "213, TOWER ROAD,",
+  "company_id": "C 36886",
+  "registration_date": "Sep 02, 2005",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 500
+}

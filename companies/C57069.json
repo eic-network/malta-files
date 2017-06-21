@@ -1,0 +1,89 @@
+{
+  "name": "BIG BANG LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MadlienaHeights,fl12Triqil-Ward,MadlienaSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MadlienaHeights,fl12Triqil-Ward,MadlienaSWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL SCHRANZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            373380M",
+        "address": "THEORCHARD,LOURDESLANE,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MadlienaHeights,fl12Triqil-Ward,MadlienaSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEPPLER OVERSEAS S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            772743",
+        "address": "58ST,ADRTOWER.OFFICE600-A,PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "POSITRON INTERNATIONAL SA\r",
+        "nationality": "",
+        "party_id": "                                                            770579",
+        "address": "S.AOFEAST53RDSTREET,MARBELLA,MMGTOWER,2NDFLOOR,PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "GROUND FLOOR, PALACE COURT CHURCH STREET",
+  "company_id": "C 57069",
+  "registration_date": "Jul 26, 2012",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

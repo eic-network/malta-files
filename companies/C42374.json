@@ -1,0 +1,115 @@
+{
+  "name": "ALPSTREAM AVIATION MALTA LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 19999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 19999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            918790",
+        "address": "208/8,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL FRANCIS MILLERSHIP\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099124989",
+        "address": "3,WESTBOURNEPARKROAD,LONDONW25PXUNITEDKINGDOM"
+      },
+      {
+        "name": "ROMAN SHVETSKIY\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63NO7961696",
+        "address": "STREETGENERALKHAZOVA,HOUSE12,APARTMENT33,PUSHKINST.PETERSBURGRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL FRANCIS MILLERSHIP\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099124989",
+        "address": "3,WESTBOURNEPARKROAD,LONDONW25PXUNITEDKINGDOM"
+      },
+      {
+        "name": "ROMAN SHVETSKIY\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63NO7961696",
+        "address": "STREETGENERALKHAZOVA,HOUSE12,APARTMENT33,PUSHKINST.PETERSBURGRUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL FRANCIS MILLERSHIP\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099124989",
+        "address": "3,WESTBOURNEPARKROAD,LONDONW25PXUNITEDKINGDOM"
+      },
+      {
+        "name": "ROMAN SHVETSKIY\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63NO7961696",
+        "address": "STREETGENERALKHAZOVA,HOUSE12,APARTMENT33,PUSHKINST.PETERSBURGRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALPSTREAM AG\r",
+        "nationality": "",
+        "party_id": "                                                            CHE-112.884.996",
+        "address": "KANONENSTRASSELUCERNE6003SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 19999
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "4, V. DIMECH STREET",
+  "company_id": "C 42374",
+  "registration_date": "Sep 17, 2007",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

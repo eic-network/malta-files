@@ -1,0 +1,91 @@
+{
+  "name": "AUTOBAHN LIMITED",
+  "total_issued_shares_value": 220000,
+  "total_authorised_shares_value": 220000,
+  "authorised_shares": [
+    {
+      "issued_shares": 220000,
+      "type": "Ordinary",
+      "authorised_share_capital": 220000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NATASHA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43992M",
+        "address": "145,IL-VEDUTA,TRIQCLAIREE.ENGEL,TA'GIORNI,ST.JULIANSSTJ1816MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NAZZARENO MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312573M",
+        "address": "145,IL-VEDUTA,TRIQCLAIREE.ENGEL,TA'GIORNI,ST.JULIANSSTJ1816MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NAZZARENO MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312573M",
+        "address": "145,IL-VEDUTA,TRIQCLAIREE.ENGEL,TA'GIORNI,ST.JULIANSSTJ1816MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "71,CARMELSTREET,SLIEMASLM1157MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NAZZARENO MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312573M",
+        "address": "145,IL-VEDUTA,TRIQCLAIREE.ENGEL,TA'GIORNI,ST.JULIANSSTJ1816MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NAZZARENO MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312573M",
+        "address": "145,IL-VEDUTA,TRIQCLAIREE.ENGEL,TA'GIORNI,ST.JULIANSSTJ1816MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 219996
+        }
+      },
+      {
+        "name": "RONNIE MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244050M",
+        "address": "RONMAY,MDINAROAD,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 220000,
+  "address": "AUTOBAHN, MDINA ROAD,",
+  "company_id": "C 18199",
+  "registration_date": "Apr 06, 1995",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 220000
+}

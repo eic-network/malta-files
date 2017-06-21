@@ -1,0 +1,104 @@
+{
+  "name": "68 FELLAS LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03286",
+        "address": "TA'NEIDER,TRIQIL-GIZIMIN,SWIEQISWQ3504MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRA.VER HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 55849",
+        "address": "21APRINCESSMARGARETSTREET,MSIDAMSD1331MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ZIPPY HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65676",
+        "address": "21A,PRINCESSMARGARETSTREETMSIDAMSD1331MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "21A PRINCESS MARGARET STREET,",
+  "company_id": "C 57017",
+  "registration_date": "Jul 20, 2012",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,122 @@
+{
+  "name": "betspodd Holding Limited",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TILL CHRISTIAN HOPPE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561937371",
+        "address": "TURINERWEG644269DORTMUNDGERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HUBERTUS FELIX BRAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561931881",
+        "address": "KUCKSHAUSERSTRASSE9244265DORTMUNDGERMANY"
+      },
+      {
+        "name": "TILL CHRISTIAN HOPPE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561937371",
+        "address": "TURINERWEG644269DORTMUNDGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HUBERTUS FELIX BRAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561931881",
+        "address": "KUCKSHAUSERSTRASSE9244265DORTMUNDGERMANY"
+      },
+      {
+        "name": "TILL CHRISTIAN HOPPE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561937371",
+        "address": "TURINERWEG644269DORTMUNDGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PKF (MALTA) & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/40",
+        "address": "35,MANNARINOROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HUBERTUS FELIX BRAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561931881",
+        "address": "KUCKSHAUSERSTRASSE9244265DORTMUNDGERMANY"
+      },
+      {
+        "name": "TILL CHRISTIAN HOPPE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561937371",
+        "address": "TURINERWEG644269DORTMUNDGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BENJAMIN OLIVER ANDREAS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561943171",
+        "address": "HAINALLEE58,44139DORTMUNDGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 292
+        }
+      },
+      {
+        "name": "HUBERTUS FELIX BRAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561931881",
+        "address": "KUCKSHAUSERSTRASSE9244265DORTMUNDGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 479
+        }
+      },
+      {
+        "name": "TILL CHRISTIAN HOPPE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            561937371",
+        "address": "TURINERWEG644269DORTMUNDGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 479
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "35, MANNARINO ROAD,",
+  "company_id": "C 38237",
+  "registration_date": "Mar 17, 2006",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

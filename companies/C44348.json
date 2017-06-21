@@ -1,0 +1,92 @@
+{
+  "name": "BAHRIJA DESIGN CONCEPTS LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 75,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 75,
+      "nominal_value_per_share": 10
+    },
+    {
+      "issued_shares": 75,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 75,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ALEX VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            404662M",
+        "address": "48,TRIQIL-PARROCCASANTAVENERAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHEN PAUL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            791960",
+        "address": "FLT.6,40,STEEPLEVIEWMANSIONSMRABATSTR.,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHEN PAUL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            791960",
+        "address": "FLT.6,40,STEEPLEVIEWMANSIONSMRABATSTR.,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEPHEN PAUL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            791960",
+        "address": "FLT.6,40,STEEPLEVIEWMANSIONSMRABATSTR.,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPIRIDIONE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19506",
+        "address": "40,GREATSIEGE1565STREET,MELLIEHAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHEN PAUL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            791960",
+        "address": "FLT.6,40,STEEPLEVIEWMANSIONSMRABATSTR.,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEPHEN PAUL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            791960",
+        "address": "FLT.6,40,STEEPLEVIEWMANSIONSMRABATSTR.,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 75
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150,
+  "address": "40, GREAT SIEGE 1565 STREET,",
+  "company_id": "C 44348",
+  "registration_date": "May 29, 2008",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 150
+}

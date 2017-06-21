@@ -1,0 +1,115 @@
+{
+  "name": "AMB - Advanced Medical Biotechnologies Ltd",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMASLM1106MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN ALEXIS GRIMAUD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            07CP08456",
+        "address": "23,AVENUEDEL'OBSERVATOIRE,75066PARIS06FRANCE"
+      },
+      {
+        "name": "GILLES PIERRE LOUIS GUTIERREZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            0031283A",
+        "address": "3,SQAQNRU1TRIQIL-BALIGUARENAQRENDIQRD1361MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEAN ALEXIS GRIMAUD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            07CP08456",
+        "address": "23,AVENUEDEL'OBSERVATOIRE,75066PARIS06FRANCE"
+      },
+      {
+        "name": "GILLES PIERRE LOUIS GUTIERREZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            0031283A",
+        "address": "3,SQAQNRU1TRIQIL-BALIGUARENAQRENDIQRD1361MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEAN ALEXIS GRIMAUD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            07CP08456",
+        "address": "23,AVENUEDEL'OBSERVATOIRE,75066PARIS06FRANCE"
+      },
+      {
+        "name": "GILLES PIERRE LOUIS GUTIERREZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            0031283A",
+        "address": "3,SQAQNRU1TRIQIL-BALIGUARENAQRENDIQRD1361MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "G M CORPORATE AND FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22760",
+        "address": "147/1ST.LUCIASTREETVALLETTAVLT1185MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "G M CORPORATE AND FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22760",
+        "address": "147/1ST.LUCIASTREETVALLETTAVLT1185MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "147/1 ST. LUCIA STREET",
+  "company_id": "C 50156",
+  "registration_date": "Jul 12, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

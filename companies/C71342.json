@@ -1,0 +1,97 @@
+{
+  "name": "ARAMIS INVEST LIMITED",
+  "total_issued_shares_value": 3461,
+  "total_authorised_shares_value": 3461,
+  "authorised_shares": [
+    {
+      "issued_shares": 3429,
+      "type": "Ordinary",
+      "authorised_share_capital": 3429,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 32,
+      "type": "RedeemablePreferenceB",
+      "authorised_share_capital": 32,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J. ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0504362M",
+        "address": "3,TRIQIL-KBIRASQAQNRU.15ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0504362M",
+        "address": "3,TRIQIL-KBIRASQAQNRU.15ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0504362M",
+        "address": "3,TRIQIL-KBIRASQAQNRU.15ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MELLBY GARD INTRESSENTER AB\r",
+        "nationality": "",
+        "party_id": "                                                            556314-0747",
+        "address": "RIGGAREGATAN53,MALMO21113SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2229
+        }
+      },
+      {
+        "name": "BALTICAS INVEST AB\r",
+        "nationality": "",
+        "party_id": "                                                            559009-4339",
+        "address": "POSITIONEN14,STOCKHOLM11541SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3461,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE 1642), STRAIT STREET,",
+  "company_id": "C 71342",
+  "registration_date": "Jul 08, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3461
+}

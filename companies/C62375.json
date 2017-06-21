@@ -1,0 +1,97 @@
+{
+  "total_issued_shares_value": 1165,
+  "registration_date": "Oct 25, 2013",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BSP BAKERY SOLUTIONS LTD",
+  "total_issued_shares": 1165,
+  "address": "WHITEHALL MANSIONS - LEVEL 2 TA' XBIEX SEAFRONT",
+  "company_id": "C 62375",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "KULLIYESOKAK12/1,GORELEKOYU,BEYKOZ,ISTANBULTURKEY",
+        "party_id": "                                                            U09403720",
+        "name": "HAKAN ESEN\r",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "25,CATHEDRALSTREET,WYNNCOURT,APARTMENT6,SLIEMASLM1525MALTA",
+        "party_id": "                                                            NXDRHD9P4",
+        "name": "WILHELMUS ADRIANUS WOESTENBURG\r",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "KULLIYESOKAK12/1,GORELEKOYU,BEYKOZ,ISTANBULTURKEY",
+        "party_id": "                                                            U09403720",
+        "name": "HAKAN ESEN\r",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "KULLIYESOKAK12/1,GORELEKOYU,BEYKOZ,ISTANBULTURKEY",
+        "party_id": "                                                            U09403720",
+        "name": "HAKAN ESEN\r",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "71,CARMELSTREET,SLIEMASLM1157MALTA",
+        "party_id": "                                                            10605",
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1164,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "KULLIYESOKAK12/1,GORELEKOYU,BEYKOZ,ISTANBULTURKEY",
+        "party_id": "                                                            U09403720",
+        "name": "HAKAN ESEN\r",
+        "nationality": "TURKISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "WHITEHALLMANSIONS-LEVEL2,TA'XBIEXSEAFRONT,TA'XBIEXXBX1026MALTA",
+        "party_id": "                                                            C 48074",
+        "name": "ATHOS FAMILY & BUSINESS SERVICES (MALTA) LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1164,
+      "authorised_share_capital": 1164,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "shares_currency": "EUR"
+}

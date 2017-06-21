@@ -1,0 +1,70 @@
+{
+  "name": "ANNA HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JAN ERIK MATS LOVENTORN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89787627",
+        "address": "ENBUSKEVAGEN1,HALMSTAD30270SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAN ERIK MATS LOVENTORN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89787627",
+        "address": "ENBUSKEVAGEN1,HALMSTAD30270SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAN ERIK MATS LOVENTORN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89787627",
+        "address": "ENBUSKEVAGEN1,HALMSTAD30270SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAN ERIK MATS LOVENTORN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89787627",
+        "address": "ENBUSKEVAGEN1,HALMSTAD30270SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BUILDING, 216, MARINA SEAFRONT",
+  "company_id": "C 72179",
+  "registration_date": "Sep 09, 2015",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

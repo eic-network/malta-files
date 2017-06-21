@@ -1,0 +1,109 @@
+{
+  "name": "B&G INVESTMENTS LTD",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "23/81,PORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "23/81,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "23/81,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "IL-KENN,TRIQIL-BAHARL-ISWED,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "23/81,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "23/81,PORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "52/1, TIGNE' SEAFRONT,",
+  "company_id": "C 50350",
+  "registration_date": "Aug 02, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

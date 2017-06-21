@@ -1,0 +1,51 @@
+{
+  "name": "B.M.T. LTD",
+  "total_issued_shares_value": 1155,
+  "total_authorised_shares_value": 1155,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.31
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MARIA ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403671M",
+        "address": "39,'COVADAIRIA'PAOLAROAD,TARXIENPLA11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.31,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PAOLO MASSARI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            053195P",
+        "address": "VIAPRATIDELLAFARNESINA80,ROMEITALY",
+        "shares": {
+          "nominal_value_per_share": 2.31,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "136, KENT STREET",
+  "company_id": "C 23492",
+  "registration_date": "Sep 28, 1998",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 500
+}

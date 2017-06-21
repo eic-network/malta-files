@@ -1,0 +1,91 @@
+{
+  "company_id": "C 61080",
+  "address": "ALBEA HOUSE,  TESTAFERRATA STREET",
+  "name": "BRICKS AND MALTA LIMITED",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Jul 09, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1600,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1600
+    }
+  ],
+  "total_authorised_shares": 1600,
+  "total_authorised_shares_value": 1600,
+  "total_issued_shares": 1600,
+  "total_issued_shares_value": 1600,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KIERON WILLIAMS\r",
+        "party_id": "                                                            0040154A",
+        "address": "36,TRIQIX-XIBER,TAL-IBRAGG,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GREEN LIGHT PRODUCTIONS LIMITED\r",
+        "party_id": "                                                            109494",
+        "address": "SUITE2B,143MAINSTREET,GIBRALTARGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1599,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KIERON WILLIAMS\r",
+        "party_id": "                                                            0040154A",
+        "address": "36,TRIQIX-XIBER,TAL-IBRAGG,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KIERON WILLIAMS\r",
+        "party_id": "                                                            0040154A",
+        "address": "36,TRIQIX-XIBER,TAL-IBRAGG,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KIERON WILLIAMS\r",
+        "party_id": "                                                            0040154A",
+        "address": "36,TRIQIX-XIBER,TAL-IBRAGG,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CLIVE CARUANA\r",
+        "party_id": "                                                            10908",
+        "address": "64,ST.BASILSTREET,MQABBAMQB1037MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

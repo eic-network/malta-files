@@ -1,0 +1,75 @@
+{
+  "name": "ARMAR SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FAIRLIGHT INTERNATIONAL CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            77932",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLANDMAJUROMH96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 960
+        }
+      },
+      {
+        "name": "PALETTA SERVICES CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            75171",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLANDMAJUROMH96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "147/1 ST. LUCIA STREET",
+  "company_id": "C 71900",
+  "registration_date": "Aug 14, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

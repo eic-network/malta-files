@@ -1,0 +1,89 @@
+{
+  "name": "ALTERNATIVE CAPITAL INVEST TREUHAND-UND VERWALTUNGS LTD.",
+  "total_issued_shares_value": 25000,
+  "total_authorised_shares_value": 25000,
+  "authorised_shares": [
+    {
+      "issued_shares": 24999,
+      "type": "Ordinary",
+      "authorised_share_capital": 24999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryDEFERRED",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DAVID DEMARCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            805259M",
+        "address": "BRIGHTONFLATS30/4MILNERSTREETSLIEMASLM08MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID DEMARCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            805259M",
+        "address": "BRIGHTONFLATS30/4MILNERSTREETSLIEMASLM08MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JEREMY GINGELL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361788M",
+        "address": "HILLTOPMANSIONS,FLAT3,ZBIBULANE,SANGWANNSGN2360MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID DEMARCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            805259M",
+        "address": "BRIGHTONFLATS30/4MILNERSTREETSLIEMASLM08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "2 D SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51863",
+        "address": "89,NAXXARROAD,BIRKIRKARABKR9007MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "DEFERRED",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ROBIN LOHMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C7K7R1W65",
+        "address": "EMIRATESHILLS,STREET3,VILLA47,DUBAISAUDIARABIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "BRIGHTON FLATS, 30, FLAT 4, MILNER STREET,",
+  "company_id": "C 52725",
+  "registration_date": "Dec 20, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

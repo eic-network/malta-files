@@ -1,0 +1,78 @@
+{
+  "name": "ANCORA LIMITED",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN G. PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            538552M",
+        "address": "\"MEDUSAHOUSE\"FLEUR-DE-LYSJUNCTION,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTINA PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4109A",
+        "address": "MEDUSAHOUSEFLEURDELYSJUNCTIONBIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTINA PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4109A",
+        "address": "MEDUSAHOUSEFLEURDELYSJUNCTIONBIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTINA PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4109A",
+        "address": "MEDUSAHOUSEFLEURDELYSJUNCTIONBIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN G. PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            538552M",
+        "address": "\"MEDUSAHOUSE\"FLEUR-DE-LYSJUNCTION,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "222, MERCHANTS STREET,",
+  "company_id": "C 42400",
+  "registration_date": "Sep 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

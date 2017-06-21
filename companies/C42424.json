@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 2040401,
+  "registration_date": "Sep 24, 2007",
+  "status": "",
+  "locality": "MSIDA",
+  "name": "BULGO HOLDINGS LIMITED",
+  "total_issued_shares": 2040401,
+  "address": "LEVEL 2, REGIONAL BUSINESS CENTRE UNIVERSITY HEIGHTS",
+  "company_id": "C 42424",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "party_id": "                                                            C 25114",
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "92,LARKSPUR/1,TRIQIL-FORGANAXXARMALTA",
+        "party_id": "                                                            499868M",
+        "name": "JOHN FARRUGIA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "party_id": "                                                            C 25114",
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Directors": [
+      {
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "party_id": "                                                            C 25114",
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA",
+        "party_id": "                                                            AB/26/84/39",
+        "name": "MAZARS MALTA\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2040400,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "party_id": "                                                            C 25114",
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD04MALTA",
+        "party_id": "                                                            C 25114",
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2040401,
+      "authorised_share_capital": 2040401,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2040401,
+  "total_authorised_shares_value": 2040401,
+  "shares_currency": "EUR"
+}

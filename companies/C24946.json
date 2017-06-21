@@ -1,0 +1,109 @@
+{
+  "name": "BLACKROCK LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "222, MERCHANTS STR.",
+  "company_id": "C 24946",
+  "registration_date": "Aug 11, 1989",
+  "shares_currency": "GBP",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

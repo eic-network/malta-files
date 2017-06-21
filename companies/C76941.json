@@ -1,0 +1,143 @@
+{
+  "name": "ARGENTAN GROUP LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 8500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8499999,
+      "nominal_value_per_share": 0.001
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.001
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22BTRIQIL-HEMELSWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "Flat20,DiamondHillAptsTriqSantaMargeritaSANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22BTRIQIL-HEMELSWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "Flat20,DiamondHillAptsTriqSantaMargeritaSANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22BTRIQIL-HEMELSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22BTRIQIL-HEMELSWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "Flat20,DiamondHillAptsTriqSantaMargeritaSANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARGENTAN FINANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 67845",
+        "address": "LEVEL7,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499999
+        }
+      },
+      {
+        "name": "CATHERINE PLACE INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30894",
+        "address": "LEVEL7,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500000,
+  "address": "LEVEL 7 - PORTOMASO BUSINESS TOWER",
+  "company_id": "C 76941",
+  "registration_date": "Aug 22, 2016",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 8500000
+}

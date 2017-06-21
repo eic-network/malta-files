@@ -1,0 +1,67 @@
+{
+  "name": "ANUNNAKI INVEST LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIUSEPPE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "TAL-BONZU,TRIQL-IMGHAZELSWIEQISWQ3141MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ULRIKE WANNEMACHER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3K6JH2WR",
+        "address": "BARFUSSTR.14BERLIN13349GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WOLFGANG J. WANNEMACHER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3K63K04W",
+        "address": "BARFUSSTR.14BERLIN13349GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "NOEL MUSCAT & CO, TAL BONZU, TRIQ L-IMGHAZEL,",
+  "company_id": "C 57443",
+  "registration_date": "Sep 04, 2012",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1250
+}

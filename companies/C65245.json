@@ -1,0 +1,78 @@
+{
+  "name": "BCFT Ltd.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLAYTON FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104185M",
+        "address": "SOUTHVIEW,BLOCKA,FLAT5,TRIQIT-TALJASWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KURT WALTER FUCHS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452666893",
+        "address": "157,PEACEABLESTREET,RIDGEFIELD,CT06877-4843UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KURT WALTER FUCHS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452666893",
+        "address": "157,PEACEABLESTREET,RIDGEFIELD,CT06877-4843UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KURT WALTER FUCHS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452666893",
+        "address": "157,PEACEABLESTREET,RIDGEFIELD,CT06877-4843UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KURT WALTER FUCHS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            452666893",
+        "address": "157,PEACEABLESTREET,RIDGEFIELD,CT06877-4843UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "40, VILLA FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 65245",
+  "registration_date": "May 21, 2014",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2000
+}

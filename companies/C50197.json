@@ -1,0 +1,97 @@
+{
+  "name": "BALDER EUROPE LIMITED",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA CARMELA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            357468M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,'MALAHIDE',TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Balder Capital Partners Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 50168",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39999
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 50197",
+  "registration_date": "Jul 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

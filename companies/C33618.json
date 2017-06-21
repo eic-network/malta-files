@@ -1,0 +1,65 @@
+{
+  "name": "ANASTASIA YACHTS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SERGEY ELKIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51No2109906",
+        "address": "ALTUFYEVSKOESHOSSE,96,FLAT60MOSCOW127349RUSSIANFEDERATION"
+      },
+      {
+        "name": "KONSTANTIN VOLKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51No2710034",
+        "address": "ROCHDELSKAYASTREET,11/5,FLAT42,MOSCOW123100RUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SERGEY ELKIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51No2109906",
+        "address": "ALTUFYEVSKOESHOSSE,96,FLAT60MOSCOW127349RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "KONSTANTIN VOLKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51No2710034",
+        "address": "ROCHDELSKAYASTREET,11/5,FLAT42,MOSCOW123100RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "SEA BREEZE, G. CALI STREET,",
+  "company_id": "C 33618",
+  "registration_date": "Mar 30, 2004",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

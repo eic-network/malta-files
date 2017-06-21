@@ -1,0 +1,81 @@
+{
+  "name": "ALTADIA SOLUTIONS GROUPS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 601,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 601,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 599,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 599,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAOLO BRUCKNER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C3889022",
+        "address": "TAGERHALDE5,KUSNACHTCH8700SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAOLO BRUCKNER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C3889022",
+        "address": "TAGERHALDE5,KUSNACHTCH8700SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAOLO BRUCKNER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C3889022",
+        "address": "TAGERHALDE5,KUSNACHTCH8700SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMERGING MANAGER PLATFORM LTD\r",
+        "nationality": "",
+        "party_id": "                                                            42571",
+        "address": "TJPEARMANBUILDING,3,BURNABYSTREET,HAMILTONHM12BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 601
+        }
+      },
+      {
+        "name": "SANTIAGO MARTINEZ NOVO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            35462460W",
+        "address": "COUTODEABIXO19,CASTRELO,CAMBADOS,PONTEVEDRA36639SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 599
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "40, VILLA FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 57131",
+  "registration_date": "Aug 02, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

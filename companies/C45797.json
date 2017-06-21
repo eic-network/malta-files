@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 10000,
+  "registration_date": "Dec 10, 2008",
+  "status": "",
+  "locality": "ST. JULIANS",
+  "name": "BST CONSULT LTD",
+  "total_issued_shares": 100,
+  "address": "GROUND FLOOR, PALACE COURT, CHURCH STREET,",
+  "company_id": "C 45797",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA",
+        "party_id": "                                                            C 46697",
+        "name": "RES MALTA LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "9,MADLIENAHEIGHTS,FL12,TRIQIL-WARD,MADLIENA,SWIEQISWQ1120MALTA",
+        "party_id": "                                                            301479M",
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA",
+        "party_id": "                                                            C 46697",
+        "name": "RES MALTA LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Directors": [
+      {
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA",
+        "party_id": "                                                            C 46697",
+        "name": "RES MALTA LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "TheOrchard',LourdesLane,St.George's,ST.JULIANSMALTA",
+        "party_id": "                                                            AB/26/84/56",
+        "name": "Victor Schranz & Associates\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 99,
+          "nominal_value_per_share": 100,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "2,SPINOLAROAD,ST.JULIANSSTJ3014MALTA",
+        "party_id": "                                                            C 52096",
+        "name": "SOLV INTERNATIONAL LTD.\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 100,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "2,SPINOLAROAD,ST.JULIANSSTJ3014MALTA",
+        "party_id": "                                                            C 52096",
+        "name": "SOLV INTERNATIONAL LTD.\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 100,
+      "issued_shares": 100,
+      "authorised_share_capital": 100,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 100,
+  "total_authorised_shares_value": 10000,
+  "shares_currency": "EUR"
+}

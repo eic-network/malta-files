@@ -1,0 +1,83 @@
+{
+  "name": "BLUE PASSAGE ENTERPRISES LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GNOSIS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56893",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GNOSIS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56893",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VIKTORIA LENTI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            140561A",
+        "address": "59,APT.1.,TRIQTAL-KATIDRAL,SLIEMASLM1522MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GNOSIS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56893",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESZTER AGNES URBAN\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BB5938383",
+        "address": "1.,KOLOZSVARIUTCA,BIATORBAGYH-2051HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PETER URBAN\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BB0725729",
+        "address": "1.,KOLOZSVARIUTCA,BIATORBAGYH-2051HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "158, MERCHANTS STREET,",
+  "company_id": "C 75571",
+  "registration_date": "May 10, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

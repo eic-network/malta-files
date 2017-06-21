@@ -1,0 +1,109 @@
+{
+  "company_id": "C 39169",
+  "address": "27, GROGNET STREET,",
+  "name": "BRANEX CO. LTD",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Jul 19, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NEBOJSA JOSILO\r",
+        "party_id": "                                                            003719507",
+        "address": "ANDRENIKOLICA4,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      },
+      {
+        "name": "BRANIMIR MELENTIJEVIC\r",
+        "party_id": "                                                            003357876",
+        "address": "KUMODRASKA109,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEBOJSA JOSILO\r",
+        "party_id": "                                                            003719507",
+        "address": "ANDRENIKOLICA4,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "BRANIMIR MELENTIJEVIC\r",
+        "party_id": "                                                            003357876",
+        "address": "KUMODRASKA109,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEBOJSA JOSILO\r",
+        "party_id": "                                                            003719507",
+        "address": "ANDRENIKOLICA4,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      },
+      {
+        "name": "BRANIMIR MELENTIJEVIC\r",
+        "party_id": "                                                            003357876",
+        "address": "KUMODRASKA109,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEBOJSA JOSILO\r",
+        "party_id": "                                                            003719507",
+        "address": "ANDRENIKOLICA4,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      },
+      {
+        "name": "BRANIMIR MELENTIJEVIC\r",
+        "party_id": "                                                            003357876",
+        "address": "KUMODRASKA109,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NEBOJSA JOSILO\r",
+        "party_id": "                                                            003719507",
+        "address": "ANDRENIKOLICA4,BEOGRADSERBIA&MONTENEGRO",
+        "nationality": "YUGOSLAV"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

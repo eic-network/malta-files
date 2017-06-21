@@ -1,0 +1,109 @@
+{
+  "company_id": "C 60164",
+  "address": "103, AGAPE, OFFICE 1, TRIQ GHARRAM,",
+  "name": "BPM CONSULTANCY SERVICES LIMITED",
+  "locality": "ZEBBUG",
+  "status": "",
+  "registration_date": "Apr 24, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MIRIAM BUGEJA\r",
+        "party_id": "                                                            020481G",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            113473M",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MIRIAM BUGEJA\r",
+        "party_id": "                                                            020481G",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625,
+          "paid_up_%": 40,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            113473M",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625,
+          "paid_up_%": 40,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MIRIAM BUGEJA\r",
+        "party_id": "                                                            020481G",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            113473M",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MIRIAM BUGEJA\r",
+        "party_id": "                                                            020481G",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            113473M",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            113473M",
+        "address": "76,TRIQJANNAR,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL MIFSUD\r",
+        "party_id": "                                                            10635",
+        "address": "SHAMROCK,TRIQTA'MASRIJA,MELLIEHAMLH1636MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

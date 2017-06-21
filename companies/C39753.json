@@ -1,0 +1,115 @@
+{
+  "name": "5-SENSES LIMITED",
+  "total_issued_shares_value": 144000,
+  "total_authorised_shares_value": 145000,
+  "authorised_shares": [
+    {
+      "issued_shares": 72000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 72500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 72000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 72500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTON THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            356468M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            356468M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      },
+      {
+        "name": "NADIA THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191170M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            356468M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      },
+      {
+        "name": "NADIA THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191170M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            356468M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      },
+      {
+        "name": "NADIA THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191170M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTON THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            356468M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 72000
+        }
+      },
+      {
+        "name": "NADIA THEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191170M",
+        "address": "99,TRIQIL-KBIRA,ZEJTUNZTN3047MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 72000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 144000,
+  "address": "100, TRIQ IL-KBIRA,",
+  "company_id": "C 39753",
+  "registration_date": "Oct 16, 2006",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 145000
+}

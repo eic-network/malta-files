@@ -1,0 +1,101 @@
+{
+  "name": "BEAUTY INTERNATIONAL LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Asma Amhamed S ALBAKOUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            719111",
+        "address": "KrimeaSwaniRoadTripoliLibyaSTATEOFLIBYA"
+      },
+      {
+        "name": "Khaled Sleman A. ALGDAGAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            362765",
+        "address": "KrimeaSwaniStreetTripoliLibyaSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Asma Amhamed S ALBAKOUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            719111",
+        "address": "KrimeaSwaniRoadTripoliLibyaSTATEOFLIBYA"
+      },
+      {
+        "name": "Khaled Sleman A. ALGDAGAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            362765",
+        "address": "KrimeaSwaniStreetTripoliLibyaSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Khaled Sleman A. ALGDAGAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            362765",
+        "address": "KrimeaSwaniStreetTripoliLibyaSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Asma Amhamed S ALBAKOUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            719111",
+        "address": "KrimeaSwaniRoadTripoliLibyaSTATEOFLIBYA"
+      },
+      {
+        "name": "Khaled Sleman A. ALGDAGAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            362765",
+        "address": "KrimeaSwaniStreetTripoliLibyaSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Asma Amhamed S ALBAKOUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            719111",
+        "address": "KrimeaSwaniRoadTripoliLibyaSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Khaled Sleman A. ALGDAGAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            362765",
+        "address": "KrimeaSwaniStreetTripoliLibyaSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "15 GROGNET STREET",
+  "company_id": "C 69588",
+  "registration_date": "Apr 29, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

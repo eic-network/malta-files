@@ -1,0 +1,83 @@
+{
+  "name": "ASIAMERICA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEFAN FRANZ-JOSEF LEOPOLD FEUERSTEIN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3K7ZJF4T",
+        "address": "CHARLOTTENSTRASSE59,BERLIND-10117GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFAN FRANZ-JOSEF LEOPOLD FEUERSTEIN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3K7ZJF4T",
+        "address": "CHARLOTTENSTRASSE59,BERLIND-10117GERMANY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,STCHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFAN FRANZ-JOSEF LEOPOLD FEUERSTEIN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3K7ZJF4T",
+        "address": "CHARLOTTENSTRASSE59,BERLIND-10117GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY PARTNERS & COMPANY PLC\r",
+        "nationality": "",
+        "party_id": "                                                            C 68369",
+        "address": "168,ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JIMMY LEE\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GA306869",
+        "address": "P93,EMIRATESHILLS,DUBAI,UNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "168, ST. CHRISTOPHER STREET,",
+  "company_id": "C 68368",
+  "registration_date": "Dec 29, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

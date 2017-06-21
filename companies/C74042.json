@@ -1,0 +1,114 @@
+{
+  "company_id": "C 74042",
+  "address": "MAMMA MIA RESTAURANT, TA' XBIEX SEAFRONT",
+  "name": "BRAAI MASTERS CO LTD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Jan 22, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 600,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 600
+    },
+    {
+      "authorised_share_capital": 900,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 900
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STEPHEN BONAVIA\r",
+        "party_id": "                                                            261471M",
+        "address": "9,SKYLIGHT,TRIQPIETRUCAXARONAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ADONIS BRACE\r",
+        "party_id": "                                                            437581M",
+        "address": "PRINCESS,FL.4TRIQIL-QANTARSWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANGELO PULLICINO\r",
+        "party_id": "                                                            95667M",
+        "address": "'THECORNER',TRIQIX-XAJGHRAT,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELO PULLICINO\r",
+        "party_id": "                                                            95667M",
+        "address": "'THECORNER',TRIQIX-XAJGHRAT,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "STEPHEN BONAVIA\r",
+        "party_id": "                                                            261471M",
+        "address": "9,SKYLIGHT,TRIQPIETRUCAXARONAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 450,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ADONIS BRACE\r",
+        "party_id": "                                                            437581M",
+        "address": "PRINCESS,FL.4TRIQIL-QANTARSWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 450,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANGELO PULLICINO\r",
+        "party_id": "                                                            95667M",
+        "address": "'THECORNER',TRIQIX-XAJGHRAT,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANGELO PULLICINO\r",
+        "party_id": "                                                            95667M",
+        "address": "'THECORNER',TRIQIX-XAJGHRAT,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JESMOND MANICARO\r",
+        "party_id": "                                                            146078M",
+        "address": "25,ST.MICHAEL'SCOURT,FLAT4,TRIQID-DEJMATARXIENMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

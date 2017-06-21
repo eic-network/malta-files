@@ -1,0 +1,89 @@
+{
+  "name": "4W - WHERE WHEN WHAT WHY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            623481M",
+        "address": "'RIHAN',TRIQIL-BALLOTRA,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BAI BEAUTIFUL ANALYSIS INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            IBC/09/15/11400",
+        "address": "P.O.BOX31291,ALJAZEERAALHAMRA,RASALKHAIMAHUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CORNERSTONE BUSINESS CENTRE, SUITE 1, LEVEL 2, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 72185",
+  "registration_date": "Sep 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,119 @@
+{
+  "name": "ANCORA BLU LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ALDO ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198066M",
+        "address": "18,GOLDCREST,DAHLETIC-CIPRESS,ATTARDATD2811MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNE CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686022",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "RICHARD STANLEY CLOUGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305976738",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "STEPHEN CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122402L",
+        "address": "39,BORDEAUXBLKC,FL6,TRIQKATERINAVITALE,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNE CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686022",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "RICHARD STANLEY CLOUGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305976738",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "STEPHEN CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122402L",
+        "address": "39,BORDEAUXBLKC,FL6,TRIQKATERINAVITALE,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNE CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686022",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "RICHARD STANLEY CLOUGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305976738",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM"
+      },
+      {
+        "name": "STEPHEN CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122402L",
+        "address": "39,BORDEAUXBLKC,FL6,TRIQKATERINAVITALE,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE CLOUGH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686022",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "RICHARD STANLEY CLOUGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305976738",
+        "address": "50,SECONDAVENUE,FRINTON-ON-SEA,ESSEXCO139LXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "DELOITTE PLACE, MRIEHEL BYPASS, MRIEHEL",
+  "company_id": "C 45118",
+  "registration_date": "Sep 16, 2008",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 4000
+}

@@ -1,0 +1,83 @@
+{
+  "name": "ALTA PHOCEA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSE ROBERTO LUTRELL TEDMAN\r",
+        "nationality": "PANAMANIAN",
+        "party_id": "                                                            PA0138192",
+        "address": "BELLAVISTAGECANGREJO10501ENUM13PANAMAPANAMA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSE ROBERTO LUTRELL TEDMAN\r",
+        "nationality": "PANAMANIAN",
+        "party_id": "                                                            PA0138192",
+        "address": "BELLAVISTAGECANGREJO10501ENUM13PANAMAPANAMA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GUSTAVO JOSE LUTTRELL MORATORIO\r",
+        "nationality": "PANAMANIAN",
+        "party_id": "                                                            1972973",
+        "address": "BELLAVISTA,CECANGREJO10501ENUM13PANAMAPANAMA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSE ROBERTO LUTRELL TEDMAN\r",
+        "nationality": "PANAMANIAN",
+        "party_id": "                                                            PA0138192",
+        "address": "BELLAVISTAGECANGREJO10501ENUM13PANAMAPANAMA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AAMINA TRADING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            A345-07-09-1337",
+        "address": "THEDOMETOWER,CLUSTERN1,OFFICE3001P.O.BOX643727,JUMEIRAHLAKESTOWERSDUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "BLUEFIELD FINANCE GROUP INC.\r",
+        "nationality": "",
+        "party_id": "                                                            431346",
+        "address": "EDIFICOPARQUEURRACA,APARTAMENTO2C,AVENIDAFEDERICOBOYD&AVENIDABALBOA,APARTADO0823-05772PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 74203",
+  "registration_date": "Feb 02, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

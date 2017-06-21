@@ -1,0 +1,78 @@
+{
+  "name": "AVENTURA MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1640.2,
+  "total_authorised_shares_value": 1640.2,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1.6402
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCESCO APAP BOLOGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12464M",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE ECONOMOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E435312",
+        "address": "8,YIANGOUTORNARITISTREETLIMASSOL3035CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE ECONOMOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E435312",
+        "address": "8,YIANGOUTORNARITISTREETLIMASSOL3035CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "'KYLE',APARTMENT4,TRIQIL-MEDITERRANST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE ECONOMOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E435312",
+        "address": "8,YIANGOUTORNARITISTREETLIMASSOL3035CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA KATRANTZOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE1648598",
+        "address": "FLAT5,14SLOANEGARDENS,LONDONSW1W8DLUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1.6402,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 37704",
+  "registration_date": "Dec 28, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

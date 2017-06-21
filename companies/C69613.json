@@ -1,0 +1,115 @@
+{
+  "name": "BEECHBROOK LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85,ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504362M",
+        "address": "3,Triqil-Kbira,SqaqNru15,ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504362M",
+        "address": "3,Triqil-Kbira,SqaqNru15,ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19809",
+        "address": "57,FL7,TRIQSIRGEORGEBORG,SLIEMASLM1960MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "KARL DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504362M",
+        "address": "3,Triqil-Kbira,SqaqNru15,ZEBBUGZBG1400MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAMAUAL ABDULLAH T. BAKHSH\r",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "                                                            K767349",
+        "address": "BAKHSHVILLACOMPOUND,ALMATBOULISTREETALHAMRAHJEDDAH21411SAUDIARABIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "EMPHORA MANAGEMENT DMCC\r",
+        "nationality": "",
+        "party_id": "                                                            DMCC24757",
+        "address": "DUBAIMULTICOMMODITIESCENTRE,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "85, St. John Street,",
+  "company_id": "C 69613",
+  "registration_date": "Mar 18, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

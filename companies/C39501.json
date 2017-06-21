@@ -1,0 +1,109 @@
+{
+  "company_id": "C 39501",
+  "address": "10, JORIMANDA, TRIQ SAN VINCENZ DE PAULE,",
+  "name": "BREMA LIMITED",
+  "locality": "LUQA",
+  "status": "",
+  "registration_date": "Sep 12, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 10000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH MIFSUD\r",
+        "party_id": "                                                            285086M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RITA MIFSUD\r",
+        "party_id": "                                                            214968M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH MIFSUD\r",
+        "party_id": "                                                            285086M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RITA MIFSUD\r",
+        "party_id": "                                                            214968M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH MIFSUD\r",
+        "party_id": "                                                            285086M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RITA MIFSUD\r",
+        "party_id": "                                                            214968M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH MIFSUD\r",
+        "party_id": "                                                            285086M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RITA MIFSUD\r",
+        "party_id": "                                                            214968M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH MIFSUD\r",
+        "party_id": "                                                            285086M",
+        "address": "14,TRIQTAL-BAJJADA,QORMIQRM05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

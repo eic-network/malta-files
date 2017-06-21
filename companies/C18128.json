@@ -1,0 +1,83 @@
+{
+  "name": "A & V TOP ART LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARY ANNE SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330152M",
+        "address": "82,LAMARIANNAADRIATICSTREET,THEVILLAGE,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY ANNE SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330152M",
+        "address": "82,LAMARIANNAADRIATICSTREET,THEVILLAGE,SANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHARLES SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            265083M",
+        "address": "298,ST.PAUL'SSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY ANNE SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330152M",
+        "address": "82,LAMARIANNAADRIATICSTREET,THEVILLAGE,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARLES SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            265083M",
+        "address": "298,ST.PAUL'SSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARY ANNE SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330152M",
+        "address": "82,LAMARIANNAADRIATICSTREET,THEVILLAGE,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "298, ST. PAUL'S STREET,",
+  "company_id": "C 18128",
+  "registration_date": "Mar 29, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

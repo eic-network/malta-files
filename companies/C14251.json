@@ -1,0 +1,59 @@
+{
+  "name": "ARMIER SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STEFANO BORGHESI",
+        "nationality": "ITALIAN",
+        "party_id": "",
+        "address": "17,BOULEVARDDULARVOTTO,MONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FREE SEAS MARINE COMPANY LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "SANDRINGHAMHOUSE,83,SHIRLEYSTREET,NEWPROVIDENCE,NASSAUBAHAMAS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MISINT S.A.",
+        "nationality": "",
+        "party_id": "",
+        "address": "11,RUEALDRINGEN,LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 14251",
+  "registration_date": "Sep 22, 1992",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

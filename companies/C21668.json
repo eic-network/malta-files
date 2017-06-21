@@ -1,0 +1,125 @@
+{
+  "name": "BISTIT AFRICAN VENTURES COMPANY LTD",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 8000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK C SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617062M",
+        "address": "SARDINELLA,WARDIJAHILL,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADERIYIKE OLUBISI LAWAL\r",
+        "nationality": "",
+        "party_id": "                                                            A620771",
+        "address": "33,MACKSROAD,LONDONENGLAND"
+      },
+      {
+        "name": "MARY TITILOLA OLUWATUYI\r",
+        "nationality": "",
+        "party_id": "                                                            16188A",
+        "address": "PARADISE,FLAT6,TRIQIL-HARIFA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK C SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617062M",
+        "address": "SARDINELLA,WARDIJAHILL,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADERIYIKE OLUBISI LAWAL\r",
+        "nationality": "",
+        "party_id": "                                                            A620771",
+        "address": "33,MACKSROAD,LONDONENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "MARY TITILOLA OLUWATUYI\r",
+        "nationality": "",
+        "party_id": "                                                            16188A",
+        "address": "PARADISE,FLAT6,TRIQIL-HARIFA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "RITA SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208766M",
+        "address": "SARDINELLA,WARDIJAHILL,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "MARK C SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617062M",
+        "address": "SARDINELLA,WARDIJAHILL,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "GRECH, HYZLER, TORTELL & CO., 25, STRAIT STREET,",
+  "company_id": "C 21668",
+  "registration_date": "Jul 16, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

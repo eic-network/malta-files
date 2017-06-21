@@ -1,0 +1,91 @@
+{
+  "name": "BLACKLION PROPERTIES LIMITED",
+  "total_issued_shares_value": 2500,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLE,SIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48046",
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Rodolfo Odoni\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3653858",
+        "address": "20,MarkygianniStreet,AthensGR18344GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2499
+        }
+      },
+      {
+        "name": "CHRISTINA BERNANTETT TRATARI\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN2638709",
+        "address": "LOUKIAKRITI8,NEERITHREA,ATTICAGREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET",
+  "company_id": "C 45344",
+  "registration_date": "Oct 13, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

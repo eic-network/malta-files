@@ -1,0 +1,107 @@
+{
+  "name": "BESAFER LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 948,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 948,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 252,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 252,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RASMUS SEAN GEORG  TYLER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89125077",
+        "address": "105TRIQIT-TUFFIEHNAXXARMALTA"
+      },
+      {
+        "name": "CHRISTIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521489M",
+        "address": "58,WINCHESTERCRT,FL4TRIQKARMZERAFABIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RASMUS SEAN GEORG  TYLER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89125077",
+        "address": "105TRIQIT-TUFFIEHNAXXARMALTA"
+      },
+      {
+        "name": "CHRISTIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521489M",
+        "address": "58,WINCHESTERCRT,FL4TRIQKARMZERAFABIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RASMUS SEAN GEORG  TYLER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89125077",
+        "address": "105TRIQIT-TUFFIEHNAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RASMUS SEAN GEORG  TYLER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89125077",
+        "address": "105TRIQIT-TUFFIEHNAXXARMALTA"
+      },
+      {
+        "name": "CHRISTIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521489M",
+        "address": "58,WINCHESTERCRT,FL4TRIQKARMZERAFABIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RASMUS SEAN GEORG  TYLER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89125077",
+        "address": "105TRIQIT-TUFFIEHNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 948
+        }
+      },
+      {
+        "name": "CHRISTIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521489M",
+        "address": "58,WINCHESTERCRT,FL4TRIQKARMZERAFABIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 252
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "58, WINCHESTER CRT, FL 4, TIRQ KARM ZERAFA",
+  "company_id": "C 80201",
+  "registration_date": "Mar 28, 2017",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

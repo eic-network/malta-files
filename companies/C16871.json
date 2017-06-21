@@ -1,0 +1,91 @@
+{
+  "name": "BORG ALUMINIUM LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NANCY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75752G",
+        "address": "PETERNANCYHSEQALARDNADUR(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SUZANNE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75895M",
+        "address": "FLAT1,BORGFLATS,TRIQIL-QALA,NADUR(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SUZANNE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75895M",
+        "address": "FLAT1,BORGFLATS,TRIQIL-QALA,NADUR(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SUZANNE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75895M",
+        "address": "FLAT1,BORGFLATS,TRIQIL-QALA,NADUR(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NANCY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75752G",
+        "address": "PETERNANCYHSEQALARDNADUR(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "PETER PAUL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            47250G",
+        "address": "\"PETERNANCYHOUSE\"QALAROAD,NADUR(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "BORG ALUMINIUM TRIQ GUZEPPI LABRE",
+  "company_id": "C 16871",
+  "registration_date": "Oct 13, 1994",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,101 @@
+{
+  "company_id": "C 71092",
+  "address": "191/2 Triq Is-Saghtar",
+  "name": "Breakwater Management Limited",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Jun 24, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Balint Kollar\r",
+        "party_id": "                                                            0119008A",
+        "address": "TaMichelleTriqTaCencSANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      },
+      {
+        "name": "Janos Demeter Zsoldos\r",
+        "party_id": "                                                            72656A",
+        "address": "236StPaulStreetVALLETTAVLT1215MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Balint Kollar\r",
+        "party_id": "                                                            0119008A",
+        "address": "TaMichelleTriqTaCencSANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Janos Demeter Zsoldos\r",
+        "party_id": "                                                            72656A",
+        "address": "236StPaulStreetVALLETTAVLT1215MALTA",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Balint Kollar\r",
+        "party_id": "                                                            0119008A",
+        "address": "TaMichelleTriqTaCencSANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      },
+      {
+        "name": "Janos Demeter Zsoldos\r",
+        "party_id": "                                                            72656A",
+        "address": "236StPaulStreetVALLETTAVLT1215MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Balint Kollar\r",
+        "party_id": "                                                            0119008A",
+        "address": "TaMichelleTriqTaCencSANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      },
+      {
+        "name": "Janos Demeter Zsoldos\r",
+        "party_id": "                                                            72656A",
+        "address": "236StPaulStreetVALLETTAVLT1215MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Janos Demeter Zsoldos\r",
+        "party_id": "                                                            72656A",
+        "address": "236StPaulStreetVALLETTAVLT1215MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ]
+  }
+}

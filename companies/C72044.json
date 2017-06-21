@@ -1,0 +1,112 @@
+{
+  "name": "BALZAN PHARMACY LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 980,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 980,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1020,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1020,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247545M",
+        "address": "18,QRIBSANANTONATTARDMALTA"
+      },
+      {
+        "name": "FABIENNE SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37486G",
+        "address": "161,TOWERMANS,FL42,TRIQIT-TORRISLIEMAMALTA"
+      },
+      {
+        "name": "HELEN SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690046M",
+        "address": "161,TOWERMANS,FL42TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247545M",
+        "address": "18,QRIBSANANTONATTARDMALTA"
+      },
+      {
+        "name": "FABIENNE SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37486G",
+        "address": "161,TOWERMANS,FL42,TRIQIT-TORRISLIEMAMALTA"
+      },
+      {
+        "name": "HELEN SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690046M",
+        "address": "161,TOWERMANS,FL42TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FABIENNE SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37486G",
+        "address": "161,TOWERMANS,FL42,TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247545M",
+        "address": "18,QRIBSANANTONATTARDMALTA"
+      },
+      {
+        "name": "FABIENNE SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37486G",
+        "address": "161,TOWERMANS,FL42,TRIQIT-TORRISLIEMAMALTA"
+      },
+      {
+        "name": "HELEN SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690046M",
+        "address": "161,TOWERMANS,FL42TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FABIENNE SANT PORTANIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37486G",
+        "address": "161,TOWERMANS,FL42,TRIQIT-TORRISLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 980
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "70, ST. FRANCIS STREET",
+  "company_id": "C 72044",
+  "registration_date": "Aug 27, 2015",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

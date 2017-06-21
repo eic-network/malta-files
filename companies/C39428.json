@@ -1,0 +1,83 @@
+{
+  "name": "ARIS LIMITED",
+  "total_issued_shares_value": 95000,
+  "total_authorised_shares_value": 95000,
+  "authorised_shares": [
+    {
+      "issued_shares": 95000,
+      "type": "Ordinary",
+      "authorised_share_capital": 95000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "W&D\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SIRA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39344",
+        "address": "192,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 94999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 95000,
+  "address": "192, OLD BAKERY STREET,",
+  "company_id": "C 39428",
+  "registration_date": "Aug 29, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 95000
+}

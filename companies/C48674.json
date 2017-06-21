@@ -1,0 +1,109 @@
+{
+  "name": "B&J Company Ltd",
+  "total_issued_shares_value": 80000,
+  "total_authorised_shares_value": 80000,
+  "authorised_shares": [
+    {
+      "issued_shares": 80000,
+      "type": "Ordinary",
+      "authorised_share_capital": 80000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JULIET SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525174M",
+        "address": "SHALOMSARDINESTREET,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521677M",
+        "address": "193,TOWERSTREET,MOSTAMALTA"
+      },
+      {
+        "name": "JONATHAN SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            586674M",
+        "address": "SHALOM,SARDINESTREET,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521677M",
+        "address": "193,TOWERSTREET,MOSTAMALTA"
+      },
+      {
+        "name": "JONATHAN SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            586674M",
+        "address": "SHALOM,SARDINESTREET,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521677M",
+        "address": "193,TOWERSTREET,MOSTAMALTA"
+      },
+      {
+        "name": "JONATHAN SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            586674M",
+        "address": "SHALOM,SARDINESTREET,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            521677M",
+        "address": "193,TOWERSTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 40000
+        }
+      },
+      {
+        "name": "JULIET SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525174M",
+        "address": "SHALOMSARDINESTREET,BURMARRADST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 40000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 80000,
+  "address": "SHALOM, SARDINE STREET, BURMARRAD,",
+  "company_id": "C 48674",
+  "registration_date": "Jan 15, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 80000
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BALEV LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 3
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EMIL KARDALEV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            42687A",
+        "address": "18ST.RITA,FLT2TRIQGERRYZAMMITGZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMIL KARDALEV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            42687A",
+        "address": "18ST.RITA,FLT2TRIQGERRYZAMMITGZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMIL KARDALEV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            42687A",
+        "address": "18ST.RITA,FLT2TRIQGERRYZAMMITGZIRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            AB/04/87",
+        "address": "34,PCCHOUSEMOSTAROADATTARDATD1434MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMIL KARDALEV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            42687A",
+        "address": "18ST.RITA,FLT2TRIQGERRYZAMMITGZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DIMITAR HRISTOV BALEV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            346872597",
+        "address": "MLADOST4,BUSINESSPARKSOFIABUILDING8BSOFIA1715BULGARIA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "ALBERT NO. 2, TIRQ IL-PAPA PIJU XII,",
+  "company_id": "C 46068",
+  "registration_date": "Jan 20, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

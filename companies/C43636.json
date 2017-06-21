@@ -1,0 +1,117 @@
+{
+  "name": "B.R.I.S.T. LIMITED",
+  "total_issued_shares_value": 90403,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 90403,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "57,CATHEDRALSTREET,SLIEMASLM1522MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HOLDENHURST ENTERPRISES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1456133",
+        "address": "TRIDENTCHAMBERS,P.O.BOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SUNGREBE INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            529161",
+        "address": "TRIDENTCHAMBERSP.OBOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 90402
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 90403,
+  "address": "93, MILL STREET,",
+  "company_id": "C 43636",
+  "registration_date": "Feb 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100000
+}

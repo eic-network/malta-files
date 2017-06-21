@@ -1,0 +1,129 @@
+{
+  "name": "B & S COMPANY LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SILVANA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18187M",
+        "address": "CIAPPETTI,TRIQIL-BIES,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            963247M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SILVANA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18187M",
+        "address": "CIAPPETTI,TRIQIL-BIES,SANGWANNMALTA"
+      },
+      {
+        "name": "DANIELA SMITH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386576M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PKF (MALTA) & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/40",
+        "address": "35,MANNARINOROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            963247M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARGARET BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744245M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            963247M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SILVANA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18187M",
+        "address": "CIAPPETTI,TRIQIL-BIES,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2250
+        }
+      },
+      {
+        "name": "DANIELA SMITH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386576M",
+        "address": "BLK10/82PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "GAUDA SHOES, BISAZZA STREET,",
+  "company_id": "C 13278",
+  "registration_date": "Nov 13, 1991",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,135 @@
+{
+  "company_id": "C 74832",
+  "address": "TOWER GATE PLACE TAL-QROQQ STREET,",
+  "name": "BREAKING POINT HOLDING LTD",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Mar 17, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 0.15,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOFIA ADAMUK\r",
+        "party_id": "                                                            30378908",
+        "address": "TASACH3ASHDODISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      },
+      {
+        "name": "IDAN BUCH\r",
+        "party_id": "                                                            14010625",
+        "address": "RECANTILEON38ISRAELISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      },
+      {
+        "name": "EFRAIM OFIR MATZLAWI\r",
+        "party_id": "                                                            11879742",
+        "address": "41,DR.MASKOWITZST.,APT.1,REHOVOTISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      },
+      {
+        "name": "HAIM ZEEV MONTEKIO\r",
+        "party_id": "                                                            13214432",
+        "address": "6,2380ST.JAFFOTELAVIVISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      },
+      {
+        "name": "LIOR PERLMUTTER SHOSHANY\r",
+        "party_id": "                                                            13458182",
+        "address": "NISENBAUM3HOLONISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      },
+      {
+        "name": "TAMAR PERRY\r",
+        "party_id": "                                                            22639531",
+        "address": "19,DEREKHHAILANOT,BITANAHARON4029400ISRAEL",
+        "nationality": "ISRAELI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.15
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK ATTARD\r",
+        "party_id": "                                                            432675M",
+        "address": "IL-FALCO,LAPSISTREETST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

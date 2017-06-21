@@ -1,0 +1,91 @@
+{
+  "name": "ARENA LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "YOLANDA COLEIRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24675M",
+        "address": "43,TRIQIL-MIXTLA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "37,APT.R,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "37,APT.R,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "37,APT.R,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FERMO INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16010",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "37,APT.R,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "37 APT R. DOLPHIN COURT, EMBASSY WAY,",
+  "company_id": "C 34089",
+  "registration_date": "Jun 08, 2004",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,54 @@
+{
+  "name": "ANNABELLE LIMITED",
+  "total_issued_shares_value": 1164.6,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "WOLFGANG GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RNZVFOC",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENGERMANY"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNELIESE GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RN7MVC5",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENGERMANY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "15, GERRY ZAMMIT STREET,",
+  "company_id": "C 33410",
+  "registration_date": "Mar 12, 2004",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

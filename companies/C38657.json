@@ -1,0 +1,88 @@
+{
+  "name": "B-DREAMS LTD",
+  "total_issued_shares_value": 6000,
+  "total_authorised_shares_value": 6000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "Ordinary",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCISCO JAVIER GONZALEZ REVERTE\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AD524875",
+        "address": "VIALAIETANA,51-PRAL3a,BARCELONASPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCISCO JAVIER GONZALEZ REVERTE\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AD524875",
+        "address": "VIALAIETANA,51-PRAL3a,BARCELONASPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCISCO JAVIER GONZALEZ REVERTE\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AD524875",
+        "address": "VIALAIETANA,51-PRAL3a,BARCELONASPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMIGINEVE S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B62244496",
+        "address": "MALLORCA270,2-3BARCELONASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "GIGA GAMES SYSTEM S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B61713731",
+        "address": "CTRADERUBIASNATCUGAT,102,SANTCUGATDELVALLES,BARCELONASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "INVERSIONES BINELDE S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B63517767",
+        "address": "VIALAYETANA,51,PARL.3,BARCELONASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "60/2 MELITA STREET,",
+  "company_id": "C 38657",
+  "registration_date": "May 09, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 6000
+}

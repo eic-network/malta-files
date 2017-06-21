@@ -1,0 +1,132 @@
+{
+  "name": "ALW MAGRI BROTHERS LIMITED",
+  "total_issued_shares_value": 1222.92,
+  "total_authorised_shares_value": 1222.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 175,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 175,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 175,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 175,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 175,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 175,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "WALTER MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4174M",
+        "address": "1,TRIQGANNIVASSALLOLUQAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511061M",
+        "address": "OLDTRAFFORDII,TRIQGUZEPPIELLULLUQAMALTA"
+      },
+      {
+        "name": "LEONARD MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94664M",
+        "address": "LENDOR,TRIQGUZEPPIVASSALLOLUQAMALTA"
+      },
+      {
+        "name": "WALTER MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4174M",
+        "address": "1,TRIQGANNIVASSALLOLUQAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511061M",
+        "address": "OLDTRAFFORDII,TRIQGUZEPPIELLULLUQAMALTA"
+      },
+      {
+        "name": "LEONARD MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94664M",
+        "address": "LENDOR,TRIQGUZEPPIVASSALLOLUQAMALTA"
+      },
+      {
+        "name": "WALTER MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4174M",
+        "address": "1,TRIQGANNIVASSALLOLUQAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREW MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511061M",
+        "address": "OLDTRAFFORDII,TRIQGUZEPPIELLULLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 175
+        }
+      },
+      {
+        "name": "LEONARD MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94664M",
+        "address": "LENDOR,TRIQGUZEPPIVASSALLOLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 175
+        }
+      },
+      {
+        "name": "WALTER MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4174M",
+        "address": "1,TRIQGANNIVASSALLOLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 175
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 525,
+  "address": "LENDOR, TRIQ GUZEPPI VASSALLO",
+  "company_id": "C 22929",
+  "registration_date": "May 14, 1998",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 525
+}

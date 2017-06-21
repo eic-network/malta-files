@@ -1,0 +1,91 @@
+{
+  "company_id": "C 32625",
+  "address": "SUITE 3, FORT CAMPBELL APARTMENTS TRIQ SELMUN",
+  "name": "3M SHIPPING LTD",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Dec 05, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MASSIMO MIFSUD\r",
+        "party_id": "                                                            194877M",
+        "address": "FLAT2,FORTCAMPBELLAPARTMENTS,TRIQSELMUN,MELLIEHAMLH2442MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN MIFSUD\r",
+        "party_id": "                                                            1054145M",
+        "address": "91,'CRISTA',TRIQIT-TIBENSWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MASSIMO MIFSUD\r",
+        "party_id": "                                                            194877M",
+        "address": "FLAT2,FORTCAMPBELLAPARTMENTS,TRIQSELMUN,MELLIEHAMLH2442MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMO MIFSUD\r",
+        "party_id": "                                                            194877M",
+        "address": "FLAT2,FORTCAMPBELLAPARTMENTS,TRIQSELMUN,MELLIEHAMLH2442MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMO MIFSUD\r",
+        "party_id": "                                                            194877M",
+        "address": "FLAT2,FORTCAMPBELLAPARTMENTS,TRIQSELMUN,MELLIEHAMLH2442MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MIFSUD\r",
+        "party_id": "                                                            1054145M",
+        "address": "91CRISTA,TRIQIT-TIBEN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FACT AUDIT\r",
+        "party_id": "                                                            AB/2/15/15",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "A.S. HIBERNIANS LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 698811.9,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Founder",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PIO M VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "FARRUGIAGATT&FALZON,1STFLOOR,REGENCYHOUSE,REPUBLICSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1004848M",
+        "address": "'MARIA',LUQAROAD,PAOLAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1004848M",
+        "address": "'MARIA',LUQAROAD,PAOLAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASSOCJAZZJONI SPORTIVA HIBERNIANS",
+        "nationality": "",
+        "party_id": "",
+        "address": "CORRADINOPAVILLION,CORRADINOHILL,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 2450
+        }
+      },
+      {
+        "name": "ANTHONY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1004848M",
+        "address": "'MARIA',LUQAROAD,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 2550
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "CORRADINO PAVILLION, CORRADINO HEIGHTS, CORRADINO,",
+  "company_id": "C 26348",
+  "registration_date": "May 09, 2000",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 300000
+}

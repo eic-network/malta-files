@@ -1,0 +1,70 @@
+{
+  "company_id": "C 73828",
+  "address": "21, CARMEL STREET",
+  "name": "BRANDED JUICE LTD",
+  "locality": "ZABBAR",
+  "status": "",
+  "registration_date": "Jan 12, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KEVIN BARUN\r",
+        "party_id": "                                                            29379M",
+        "address": "88/2KARTAGINIZISTREETBIRZEBBUGIAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEVIN BARUN\r",
+        "party_id": "                                                            29379M",
+        "address": "88/2KARTAGINIZISTREETBIRZEBBUGIAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEVIN BARUN\r",
+        "party_id": "                                                            29379M",
+        "address": "88/2KARTAGINIZISTREETBIRZEBBUGIAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KEVIN BARUN\r",
+        "party_id": "                                                            29379M",
+        "address": "88/2KARTAGINIZISTREETBIRZEBBUGIAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEVIN BARUN\r",
+        "party_id": "                                                            29379M",
+        "address": "88/2KARTAGINIZISTREETBIRZEBBUGIAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

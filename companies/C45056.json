@@ -1,0 +1,117 @@
+{
+  "name": "BLUE SKIES REALTY LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "OORIANA DOREEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173183M",
+        "address": "RUTLAND,FLAT2,TRIQANTONSCHEMBRIADAMI,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            614758M",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            614758M",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      },
+      {
+        "name": "EDWARD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            901777",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            614758M",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      },
+      {
+        "name": "EDWARD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            901777",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NIKKI DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10506",
+        "address": "22,ST.PUBLIUSSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            614758M",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      },
+      {
+        "name": "EDWARD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            901777",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            614758M",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "EDWARD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            901777",
+        "address": "44TRIQIL-KNISJAMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "44 TRIQ IL-KNISJA",
+  "company_id": "C 45056",
+  "registration_date": "Sep 05, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

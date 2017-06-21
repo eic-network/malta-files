@@ -1,0 +1,70 @@
+{
+  "company_id": "C 79116",
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CNTRE, TOWER STREET, SWATAR,",
+  "name": "BREVITAS LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Jan 13, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MILAN DEKIC\r",
+        "party_id": "                                                            010146042",
+        "address": "VUKAKARADZICA111,STARAPAZOVA22300SERBIA",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BREVITAS HOLDINGS LIMITED\r",
+        "party_id": "                                                            163989",
+        "address": "9,BARRACKROAD,BELIZECITYBELIZE",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MILAN DEKIC\r",
+        "party_id": "                                                            010146042",
+        "address": "VUKAKARADZICA111,STARAPAZOVA22300SERBIA",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MILAN DEKIC\r",
+        "party_id": "                                                            010146042",
+        "address": "VUKAKARADZICA111,STARAPAZOVA22300SERBIA",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

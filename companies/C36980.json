@@ -1,0 +1,78 @@
+{
+  "name": "ARKLE TRADING INT LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            575583M",
+        "address": "'HOLYMARY',TRIQIT-TIN,ZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW WATERMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            020476605",
+        "address": "17,STROUDROAD,LONDONSW198DQUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW WATERMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            020476605",
+        "address": "17,STROUDROAD,LONDONSW198DQUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "122,HATFIELD,TRIQSANTUMAS,FGURAFGR1604MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW WATERMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            020476605",
+        "address": "17,STROUDROAD,LONDONSW198DQUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATTHEW WATERMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            020476605",
+        "address": "17,STROUDROAD,LONDONSW198DQUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "23,  Hompesch Road,",
+  "company_id": "C 36980",
+  "registration_date": "Sep 19, 2005",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 4500
+}

@@ -1,0 +1,108 @@
+{
+  "name": "ANTERIK.P. TRADING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 498,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1900,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO PULIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM7579004",
+        "address": "VIAVENERE24,MOTTASANTAANASTASIA,CATANIACAP95040ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCO PULIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM7579004",
+        "address": "VIAVENERE24,MOTTASANTAANASTASIA,CATANIACAP95040ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330859M",
+        "address": "13,DARIL-HENA,TRIQKARMSAMMUT,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "FRANCESCO PULIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM7579004",
+        "address": "VIAVENERE24,MOTTASANTAANASTASIA,CATANIACAP95040ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCO PULIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM7579004",
+        "address": "VIAVENERE24,MOTTASANTAANASTASIA,CATANIACAP95040ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VALORE NUNZIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA103449",
+        "address": "SERVIDIMARIARCO111,SIRACUSA96100ITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 251
+        }
+      },
+      {
+        "name": "FRANCESCO PULIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM7579004",
+        "address": "VIAVENERE24,MOTTASANTAANASTASIA,CATANIACAP95040ITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 247
+        }
+      },
+      {
+        "name": "GEORGE DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330859M",
+        "address": "13,DARIL-HENA,TRIQKARMSAMMUT,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "TA' SAN TUMAS, FLAT 1, BLOCK 2, TRIQ IL-GANDOFFLI,",
+  "company_id": "C 41002",
+  "registration_date": "Mar 22, 2007",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

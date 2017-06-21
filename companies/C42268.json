@@ -1,0 +1,93 @@
+{
+  "name": "BLACK EAGLE SHIPPING CO. LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OKTEM AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U00087804",
+        "address": "HAVUZLUBOSTANSOK.VILTASSITESI,NO:6,ISTINYE,ISTANBULTURKEY"
+      },
+      {
+        "name": "OZGUR AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U03403595",
+        "address": "ESKITASOCAKLARIMEVKII,BURHANIYEMAH.,PALMIYEBOGAZICIEVLERI,NO:18,BEYLERBEYI,USUKDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OKTEM AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U00087804",
+        "address": "HAVUZLUBOSTANSOK.VILTASSITESI,NO:6,ISTINYE,ISTANBULTURKEY"
+      },
+      {
+        "name": "OZGUR AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U03403595",
+        "address": "ESKITASOCAKLARIMEVKII,BURHANIYEMAH.,PALMIYEBOGAZICIEVLERI,NO:18,BEYLERBEYI,USUKDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OKTEM AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U00087804",
+        "address": "HAVUZLUBOSTANSOK.VILTASSITESI,NO:6,ISTINYE,ISTANBULTURKEY"
+      },
+      {
+        "name": "OZGUR AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U03403595",
+        "address": "ESKITASOCAKLARIMEVKII,BURHANIYEMAH.,PALMIYEBOGAZICIEVLERI,NO:18,BEYLERBEYI,USUKDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OKTEM AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U00087804",
+        "address": "HAVUZLUBOSTANSOK.VILTASSITESI,NO:6,ISTINYE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "OZGUR AKSOY\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U03403595",
+        "address": "ESKITASOCAKLARIMEVKII,BURHANIYEMAH.,PALMIYEBOGAZICIEVLERI,NO:18,BEYLERBEYI,USUKDAR,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 42268",
+  "registration_date": "Sep 03, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

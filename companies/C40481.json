@@ -1,0 +1,97 @@
+{
+  "name": "BAHN Group Holding Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Jacob Carsten Nielsen\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            55267A",
+        "address": "CapitolMans,BlkB,Fl8,TriqMatthewPulisSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Benjamin NORREGAARD\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            204706575",
+        "address": "Mariehojgard17,Horsholm2970DENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "NO.2,  GERALDU FARRUGIA STREET,",
+  "company_id": "C 40481",
+  "registration_date": "Dec 28, 2006",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1500
+}

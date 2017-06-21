@@ -1,0 +1,75 @@
+{
+  "name": "BODEL",
+  "total_issued_shares_value": 4658.74,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIAN PAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319793M",
+        "address": "189,IX-XATTTA'SANTAMARIA,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIAN PAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319793M",
+        "address": "189,IX-XATTTA'SANTAMARIA,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIAN PAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319793M",
+        "address": "189,IX-XATTTA'SANTAMARIA,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL ANTHONY BODEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761101355",
+        "address": "189,IX-XATTTA'SANTAMARIA,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARIAN PAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319793M",
+        "address": "189,IX-XATTTA'SANTAMARIA,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "189, IX-XATT TA' SANTA MARIA,",
+  "company_id": "P 1163",
+  "registration_date": "Aug 02, 2008",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

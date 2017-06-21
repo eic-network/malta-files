@@ -1,0 +1,91 @@
+{
+  "name": "BEDRA LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SAVIOUR GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381551M",
+        "address": "46,PAULINGUANEZSTREETRABATRBT08MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCO GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREETDINGLIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCO GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREETDINGLIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK ANTHONY SCALPELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02089",
+        "address": "GODLIEVETRIQWALTERL.SALOMONEMOSTAMST2312MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCO GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREETDINGLIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCO GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREETDINGLIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SAVIOUR GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381551M",
+        "address": "46,PAULINGUANEZSTREETRABATRBT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "46, PAUL INGUANEZ STREET,",
+  "company_id": "C 37684",
+  "registration_date": "Dec 27, 2005",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 500
+}

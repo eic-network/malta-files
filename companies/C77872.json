@@ -1,0 +1,83 @@
+{
+  "company_id": "C 77872",
+  "address": "CMS HOUSE, THIRD FLOOR, ST. PETER'S STREET,",
+  "name": "BOTTEGA SICANA LTD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Oct 31, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FREEDOM ONE HOLDING LTD\r",
+        "party_id": "                                                            C 77735",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREETSANGWANNSGN2310MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 765,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 735,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENASWIEQISWQ1413MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

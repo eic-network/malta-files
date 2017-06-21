@@ -1,0 +1,70 @@
+{
+  "name": "BACKHAM INVEST LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUKE FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BACKHAM HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 66088",
+        "address": "LEVEL1,LMCOMPLEXBREWERYSTREET,MRIEHELBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, LM COMPLEX BREWERY STREET, MRIEHEL",
+  "company_id": "C 73489",
+  "registration_date": "Dec 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

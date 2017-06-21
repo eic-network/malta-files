@@ -1,0 +1,89 @@
+{
+  "name": "BI COMPANY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ISAM BAHLOUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71814L",
+        "address": "DUPLEXSUITES,FLAT21,TRIQIL-LAMPARA,BAHARIC-CAGHAQNAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ISAM BAHLOUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71814L",
+        "address": "DUPLEXSUITES,FLAT21,TRIQIL-LAMPARA,BAHARIC-CAGHAQNAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ISAM BAHLOUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71814L",
+        "address": "DUPLEXSUITES,FLAT21,TRIQIL-LAMPARA,BAHARIC-CAGHAQNAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ISAM BAHLOUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71814L",
+        "address": "DUPLEXSUITES,FLAT21,TRIQIL-LAMPARA,BAHARIC-CAGHAQNAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIANLUCA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            29893A",
+        "address": "49,TRIQKARMENUCAMILLERI,QORMIQRM4631MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ISAM BAHLOUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71814L",
+        "address": "DUPLEXSUITES,FLAT21,TRIQIL-LAMPARA,BAHARIC-CAGHAQNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DUPLEX SUITES, FLAT 21, TRIQ IL-LAMPARA, BAHAR IC-CAGHAQ",
+  "company_id": "C 73584",
+  "registration_date": "Dec 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

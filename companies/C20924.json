@@ -1,0 +1,109 @@
+{
+  "company_id": "C 20924",
+  "address": "48, SQAQ NRU. 2, TRIQ IX-XATT,",
+  "name": "BOSTECO LIMITED",
+  "locality": "PIETA'",
+  "status": "In Dissolution",
+  "registration_date": "Dec 31, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1867,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1.5,
+      "issued_shares": 1850
+    }
+  ],
+  "total_authorised_shares": 1867,
+  "total_authorised_shares_value": 2800.5,
+  "total_issued_shares": 1850,
+  "total_issued_shares_value": 2775,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LEONARD ATTARD\r",
+        "party_id": "                                                            744546M",
+        "address": "SOLENOR,TRIQIL-FAWWARA,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGLO MED CONSULTANTS LIMITED\r",
+        "party_id": "                                                            C 44543",
+        "address": "VAULT14,LEVEL2VALLETTAWATERFRONTFLORIANAFRN1913MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1849,
+          "paid_up_%": 94.53,
+          "nominal_value_per_share": 1.5
+        }
+      },
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 94.53,
+          "nominal_value_per_share": 1.5
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEONARD ATTARD\r",
+        "party_id": "                                                            744546M",
+        "address": "SOLENOR,TRIQIL-FAWWARA,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEONARD ATTARD\r",
+        "party_id": "                                                            744546M",
+        "address": "SOLENOR,TRIQIL-FAWWARA,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EMANUEL DEBONO\r",
+        "party_id": "                                                            903481",
+        "address": "\"LABELLAROSA\",COUNTR.BARBAROSTREET,ATTARDATD1202MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "BERKSHIRE TRADEINVEST LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HBM MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34837",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HBM MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34837",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SARAH JO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429778M",
+        "address": "NO.5,TA'GIORNICOURT,TRIQFRANCESCOBALBI,ST.JULIANSSTJ1600MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HBM MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34837",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIO GIL DELGADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BC458392",
+        "address": "CI.ALAMO31SANPEDRODEALCANTARA29670SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "FABIOLA ROMAN MACIAS\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            31670178-Y",
+        "address": "CI.ALAMO31,SANPEDRODEALCANTARA29670SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DSLR NOTARIES, SUITE 772, FTIEH STREET, BIRKIRKARA BYPASS,",
+  "company_id": "C 72150",
+  "registration_date": "Sep 04, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

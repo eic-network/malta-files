@@ -1,0 +1,136 @@
+{
+  "name": "AZURE SERVICES LIMITED",
+  "total_issued_shares_value": 41164.69,
+  "total_authorised_shares_value": 44658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARK ANTHONY GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403768M",
+        "address": "12,ALBACORA,TRIQIL-KWARTIN,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PERRY NEWTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            37765A",
+        "address": "VICTORIACOURT,BLOCKB,FLAT10,TRIQIR-RATTANMELLIEHAMLH1520MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PERRY NEWTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            37765A",
+        "address": "VICTORIACOURT,BLOCKB,FLAT10,TRIQIR-RATTANMELLIEHAMLH1520MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PERRY NEWTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            37765A",
+        "address": "VICTORIACOURT,BLOCKB,FLAT10,TRIQIR-RATTANMELLIEHAMLH1520MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ISLAND HOTELS GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 19442",
+        "address": "22,EUROPACENTRE,JOHNLOPEZSTREET,FLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20000
+        }
+      },
+      {
+        "name": "MEDITERRANEAN OVERSEAS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1469705",
+        "address": "325WATERFRONTDRIVE,OMARHADGEBUILDING,2NDFLOOR,WICKHAM'SCAY,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20000
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40500,
+  "address": "LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL,",
+  "company_id": "C 31224",
+  "registration_date": "Apr 02, 2003",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 42000
+}

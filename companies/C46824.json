@@ -1,0 +1,123 @@
+{
+  "name": "BIDRIVALS LIMITED",
+  "total_issued_shares_value": 4323.6,
+  "total_authorised_shares_value": 4323.6,
+  "authorised_shares": [
+    {
+      "issued_shares": 360299,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 360299,
+      "nominal_value_per_share": 0.012
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.012
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281474M",
+        "address": "'19',PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "SUITEA,DOLPHINCOURTA,EMBASSYWAY,TA'XBIEXXBX1071MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "SUITEA,DOLPHINCOURTA,EMBASSYWAY,TA'XBIEXXBX1071MALTA"
+      },
+      {
+        "name": "Jonas Nordlund\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PalaisdelaPlage,37AvePrincesseGrace98000MonacoMonacoMONACO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "SUITEA,DOLPHINCOURTA,EMBASSYWAY,TA'XBIEXXBX1071MALTA"
+      },
+      {
+        "name": "Jonas Nordlund\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PalaisdelaPlage,37AvePrincesseGrace98000MonacoMonacoMONACO"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/01",
+        "address": "FOURTHFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "SUITEA,DOLPHINCOURTA,EMBASSYWAY,TA'XBIEXXBX1071MALTA"
+      },
+      {
+        "name": "Jonas Nordlund\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PalaisdelaPlage,37AvePrincesseGrace98000MonacoMonacoMONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BIDRIVALS GROUP PLC\r",
+        "nationality": "",
+        "party_id": "                                                            C 49414",
+        "address": "FLATNO.5,THEFIRS,GORGBORGOLIVIERSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.012,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 360299
+        }
+      },
+      {
+        "name": "JONAS NORDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PALAISDELAPLAGUE,37,AVEPRINCESSEGRACE,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 0.012,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 360300,
+  "address": "FLAT NO. 5, THE FIRS, GORG BORG OLIVIER STREET,",
+  "company_id": "C 46824",
+  "registration_date": "May 15, 2009",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 360300
+}

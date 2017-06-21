@@ -1,0 +1,114 @@
+{
+  "company_id": "C 68803",
+  "address": "B2, INDUSTRY STREET,",
+  "name": "BREAKROCK HOLDINGS LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Jan 29, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 3000
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FAROUK ABDULLA\r",
+        "party_id": "                                                            F1856911",
+        "address": "LEPETITVEYTAUX4,VEYTAUXSWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "ALBANE BERARD\r",
+        "party_id": "                                                            X3033813",
+        "address": "CHEMINPETITCLOS24,CLARENS1815SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "MICHAEL DAVID WILLCOX\r",
+        "party_id": "                                                            800957995",
+        "address": "HOLLYLODGE,SUNNYSIDE,BERGHAPTON,NORFOLKNR151DDUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FJV FIDUCIARY LIMITED acting as trustee of Majorca Trust\r",
+        "party_id": "                                                            C 23197",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FAROUK ABDULLA\r",
+        "party_id": "                                                            F1856911",
+        "address": "LEPETITVEYTAUX4,VEYTAUXSWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "ALBANE BERARD\r",
+        "party_id": "                                                            X3033813",
+        "address": "CHEMINPETITCLOS24,CLARENS1815SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "MICHAEL DAVID WILLCOX\r",
+        "party_id": "                                                            800957995",
+        "address": "HOLLYLODGE,SUNNYSIDE,BERGHAPTON,NORFOLKNR151DDUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FAROUK ABDULLA\r",
+        "party_id": "                                                            F1856911",
+        "address": "LEPETITVEYTAUX4,VEYTAUXSWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "ALBANE BERARD\r",
+        "party_id": "                                                            X3033813",
+        "address": "CHEMINPETITCLOS24,CLARENS1815SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "MICHAEL DAVID WILLCOX\r",
+        "party_id": "                                                            800957995",
+        "address": "HOLLYLODGE,SUNNYSIDE,BERGHAPTON,NORFOLKNR151DDUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "company_id": "C 59632",
+  "address": "114, THE STRAND,",
+  "name": "BR1 LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Mar 11, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRUNO MONTALBANO\r",
+        "party_id": "                                                            AA3200394",
+        "address": "CONTRADAGORGHIMONTAGNOLAN.1INT.1,SANTAMARGHERITADIBELICE,AGRIGENTO,SICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRUNO MONTALBANO\r",
+        "party_id": "                                                            AA3200394",
+        "address": "CONTRADAGORGHIMONTAGNOLAN.1INT.1,SANTAMARGHERITADIBELICE,AGRIGENTO,SICILYITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1800,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PAOLO STAGNO\r",
+        "party_id": "                                                            AR3418362",
+        "address": "VIACASTELFORTEN.83/CP.TRI.,PALERMO,SICILYITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRUNO MONTALBANO\r",
+        "party_id": "                                                            AA3200394",
+        "address": "CONTRADAGORGHIMONTAGNOLAN.1INT.1,SANTAMARGHERITADIBELICE,AGRIGENTO,SICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRUNO MONTALBANO\r",
+        "party_id": "                                                            AA3200394",
+        "address": "CONTRADAGORGHIMONTAGNOLAN.1INT.1,SANTAMARGHERITADIBELICE,AGRIGENTO,SICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

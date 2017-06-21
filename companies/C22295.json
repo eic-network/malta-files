@@ -1,0 +1,62 @@
+{
+  "company_id": "C 22295",
+  "address": "1 COL. SAVONA STREET",
+  "name": "BRANDRAM LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Dec 19, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1000,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 2500,
+  "total_authorised_shares_value": 2500000,
+  "total_issued_shares": 2500,
+  "total_issued_shares_value": 2500000,
+  "shares_currency": "ITL",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALDO MAIRA\r",
+        "party_id": "                                                            31331238",
+        "address": "VIAG.AMICOMEDICO,93017SANCATALDOPROVINCEOFCALTANISETTASICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DELOITTE LIMITED\r",
+        "party_id": "                                                            C 16746",
+        "address": "DELOITTEPLACE,MRIEHELBY-PASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1000
+        }
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALDO MAIRA\r",
+        "party_id": "                                                            31331238",
+        "address": "VIAG.AMICOMEDICO,93017SANCATALDOPROVINCEOFCALTANISETTASICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALDO MAIRA\r",
+        "party_id": "                                                            31331238",
+        "address": "VIAG.AMICOMEDICO,93017SANCATALDOPROVINCEOFCALTANISETTASICILYITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

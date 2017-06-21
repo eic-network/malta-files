@@ -1,0 +1,75 @@
+{
+  "company_id": "C 38061",
+  "address": "12/13 STRAIT STREET",
+  "name": "BROOKFIELD INTERACTIVE SYSTEMS LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 23, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MELVYN SANDLER\r",
+        "party_id": "                                                            30703A",
+        "address": "80,FLAT4BTIGNESTREETSLIEMAMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PRAGMA GAMING LIMITED\r",
+        "party_id": "                                                            5581855",
+        "address": "14,BRUNELLCOURTRUDHEATHWAY,GADBROOKPARKNORTHWICHCW97LPUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MELVYN SANDLER\r",
+        "party_id": "                                                            30703A",
+        "address": "80,FLAT4BTIGNESTREETSLIEMAMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MELVYN SANDLER\r",
+        "party_id": "                                                            30703A",
+        "address": "80,FLAT4BTIGNESTREETSLIEMAMALTA",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

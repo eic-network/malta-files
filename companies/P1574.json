@@ -1,0 +1,77 @@
+{
+  "name": "ATTAX",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JOHN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363261M",
+        "address": "T4F,CARAVAGGIOCOURT10,TIGNEPOINT,SLIEMATP01MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            779959M",
+        "address": "CASALIVIA,TRIQSIRARTHURBORTON,MOSTAMST1885MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "RAYMOND AXISA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            498563M",
+        "address": "L-GHODWA,TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "SAVIOUR AXISA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385361M",
+        "address": "TA'FEKRUNA,FLAT1,TRIQDAMASKU,MUNXAR(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "PEUGEOT BUILDINGS, PSAILA STREET,",
+  "company_id": "P 1574",
+  "registration_date": "Apr 17, 2015",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,89 @@
+{
+  "name": "BG Enterprises Limited",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 99999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 99999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281474M",
+        "address": "'19',PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281474M",
+        "address": "'19',PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GODWIN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            283465M",
+        "address": "MEDINA,MONS.M.AZZOPARDISTREET,MOSTAMST05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281474M",
+        "address": "'19',PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CASTLE HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40138",
+        "address": "COBALTHOUSE,2NDFLOOR,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "Cobalt House, 2nd Floor Notabile Road, Mriehel",
+  "company_id": "C 40165",
+  "registration_date": "Dec 05, 2006",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,115 @@
+{
+  "name": "ATMAN HOLDING LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 699,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 699,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 466,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 466,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "QUICKSILVER INNOVATIVE IDEAS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            4843944",
+        "address": "4,BRACKLEYCLOSE,BOURNEMOUTHINTERNATIONALAIRPORT,CHRISTCHURCH,DORSETBH236SEENGLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 699
+        }
+      },
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 466
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "41, ST. CHRISTOPHER STREET,",
+  "company_id": "C 60992",
+  "registration_date": "Jun 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1165
+}

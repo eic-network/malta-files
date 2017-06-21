@@ -1,0 +1,62 @@
+{
+  "company_id": "C 70583",
+  "address": "198, OLD BAKERY STREET,",
+  "name": "BOSPHORUS MARITIME INVESTMENT HOLDING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 14, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ERHAN BAYRAKTAR\r",
+        "party_id": "                                                            U01932184",
+        "address": "ZUHTUPASAMAH,MUNIRNURETTINSELCUKCADNO:80ICKAPINO:9,KADIKOYISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERHAN BAYRAKTAR\r",
+        "party_id": "                                                            U01932184",
+        "address": "ZUHTUPASAMAH,MUNIRNURETTINSELCUKCADNO:80ICKAPINO:9,KADIKOYISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERHAN BAYRAKTAR\r",
+        "party_id": "                                                            U01932184",
+        "address": "ZUHTUPASAMAH,MUNIRNURETTINSELCUKCADNO:80ICKAPINO:9,KADIKOYISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERHAN BAYRAKTAR\r",
+        "party_id": "                                                            U01932184",
+        "address": "ZUHTUPASAMAH,MUNIRNURETTINSELCUKCADNO:80ICKAPINO:9,KADIKOYISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

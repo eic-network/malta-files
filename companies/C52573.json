@@ -1,0 +1,89 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Apr 12, 2011",
+  "status": "",
+  "locality": "BIRKIRKARA",
+  "name": "Buffer Boys Limited",
+  "total_issued_shares": 1500,
+  "address": "1, GIUSEPPA PSAILA STREET, SWATAR,",
+  "company_id": "C 52573",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "50,VILLASANANTON,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "party_id": "                                                            543881M",
+        "name": "MICHAEL FORMOSA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "50,VILLASANANTON,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "party_id": "                                                            543881M",
+        "name": "MICHAEL FORMOSA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "50,VILLASANANTON,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "party_id": "                                                            543881M",
+        "name": "MICHAEL FORMOSA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "50,VILLASANANTON,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "party_id": "                                                            543881M",
+        "name": "MICHAEL FORMOSA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "'XELHA',TRIQIS-SIEGH,IBRAGG,SWIEQIMALTA",
+        "party_id": "                                                            103486658",
+        "name": "IAN JOHN JAMES\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 765,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "50,VILLASANANTON,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "party_id": "                                                            543881M",
+        "name": "MICHAEL FORMOSA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 735,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "'XELHA',TRIQIS-SIEGH,IBRAGG,SWIEQIMALTA",
+        "party_id": "                                                            103486658",
+        "name": "IAN JOHN JAMES\r",
+        "nationality": "BRITISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 1500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

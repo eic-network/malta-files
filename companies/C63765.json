@@ -1,0 +1,177 @@
+{
+  "name": "AMAGIS CAPITAL MANAGEMENT LTD",
+  "total_issued_shares_value": 150000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 144000,
+      "type": "OrdinaryCOMMON",
+      "authorised_share_capital": 144000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 6000,
+      "type": "OrdinarySPECIAL",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIULIO CESARE STASI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3380168",
+        "address": "36,TRIQSANGUZEPP,SENGLEAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREA ANGELONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D672285",
+        "address": "34,LANCASTERGARDENS,LONDONSW195DGUNITEDKINGDOM"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEANCHARLESREYMONACOMONACO"
+      },
+      {
+        "name": "GIULIO CESARE STASI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3380168",
+        "address": "36,TRIQSANGUZEPP,SENGLEAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREA ANGELONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D672285",
+        "address": "34,LANCASTERGARDENS,LONDONSW195DGUNITEDKINGDOM"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEANCHARLESREYMONACOMONACO"
+      },
+      {
+        "name": "GIULIO CESARE STASI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3380168",
+        "address": "36,TRIQSANGUZEPP,SENGLEAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA ANGELONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D672285",
+        "address": "34,LANCASTERGARDENS,LONDONSW195DGUNITEDKINGDOM"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEANCHARLESREYMONACOMONACO"
+      },
+      {
+        "name": "GIULIO CESARE STASI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3380168",
+        "address": "36,TRIQSANGUZEPP,SENGLEAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMAGIS CAPITAL HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 63691",
+        "address": "184,ST.LUCIASTREET,VALLETTAVLT1189MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "COMMON",
+          "issued_shares": 144000
+        }
+      },
+      {
+        "name": "ANDREA ANGELONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D672285",
+        "address": "34,LANCASTERGARDENS,LONDONSW195DGUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "SPECIAL",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEANCHARLESREYMONACOMONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "SPECIAL",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "SIMONE RUSSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5681901",
+        "address": "190A,MOZARTTERRACEEBURYSTREETLONDONSW1W8UPUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "SPECIAL",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "184, ST. LUCIA STREET,",
+  "company_id": "C 63765",
+  "registration_date": "Feb 06, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 250000
+}

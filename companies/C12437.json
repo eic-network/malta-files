@@ -1,0 +1,94 @@
+{
+  "name": "3RD MILLENIUM LIMITED",
+  "total_issued_shares_value": 8385.74,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2700,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3750,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH GATT RUTTER\r",
+        "nationality": "MEXICAN",
+        "party_id": "                                                            493946M",
+        "address": "4C,ST.PAUL'SMANSIONSTA'XBIEXSEAFRONTTA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH GATT RUTTER\r",
+        "nationality": "MEXICAN",
+        "party_id": "                                                            493946M",
+        "address": "4C,ST.PAUL'SMANSIONSTA'XBIEXSEAFRONTTA'XBIEXMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH GATT RUTTER\r",
+        "nationality": "MEXICAN",
+        "party_id": "                                                            493946M",
+        "address": "4C,ST.PAUL'SMANSIONSTA'XBIEXSEAFRONTTA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH GATT RUTTER\r",
+        "nationality": "MEXICAN",
+        "party_id": "                                                            493946M",
+        "address": "4C,ST.PAUL'SMANSIONSTA'XBIEXSEAFRONTTA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "JOHN GATT RUTTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            60371M",
+        "address": "23,S.TAYLORCOLERIDGESTREETLIMITSOFNAXXARNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "SARAH GATT RUTTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190372M",
+        "address": "23,SAMUELTAYLORCOLERIDGESTREET,BIRGUMA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3600,
+  "address": "4C, SAINT PAUL'S MANSIONS TA'XBIEX SEAFRONT",
+  "company_id": "C 12437",
+  "registration_date": "Mar 08, 1991",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

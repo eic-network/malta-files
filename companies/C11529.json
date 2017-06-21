@@ -1,0 +1,109 @@
+{
+  "name": "A.R.E. LIMITED",
+  "total_issued_shares_value": 69881.19,
+  "total_authorised_shares_value": 69881.19,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "Ordinary",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALEX BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109057M",
+        "address": "10,'THEELMS'GEORGEBORGOLIVIERSTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEX BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109057M",
+        "address": "10,'THEELMS'GEORGEBORGOLIVIERSTREETSLIEMAMALTA"
+      },
+      {
+        "name": "EDWARD VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292155M",
+        "address": "6,UPTONVALECOURTFORRESTSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEX BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109057M",
+        "address": "10,'THEELMS'GEORGEBORGOLIVIERSTREETSLIEMAMALTA"
+      },
+      {
+        "name": "EDWARD VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292155M",
+        "address": "6,UPTONVALECOURTFORRESTSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "IAN CROCKFORD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19508",
+        "address": "93,FL2,OLDCOLLEGESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEX BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109057M",
+        "address": "10,'THEELMS'GEORGEBORGOLIVIERSTREETSLIEMAMALTA"
+      },
+      {
+        "name": "EDWARD VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292155M",
+        "address": "6,UPTONVALECOURTFORRESTSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEX BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109057M",
+        "address": "10,'THEELMS'GEORGEBORGOLIVIERSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "EDWARD VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292155M",
+        "address": "6,UPTONVALECOURTFORRESTSTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 15000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "14, TOWER ROAD,",
+  "company_id": "C 11529",
+  "registration_date": "Mar 30, 1990",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 30000
+}

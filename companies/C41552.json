@@ -1,0 +1,91 @@
+{
+  "name": "BILANDER LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659956M",
+        "address": "PALLAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHEN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460561M",
+        "address": "17/1,KEVMANAPARTMENTSTRIQID-DENCI,MELLIEHAMLH4410MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEPHEN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460561M",
+        "address": "17/1,KEVMANAPARTMENTSTRIQID-DENCI,MELLIEHAMLH4410MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10638",
+        "address": "70,BAJADASTREET,ZABBARZBR3016MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHEN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460561M",
+        "address": "17/1,KEVMANAPARTMENTSTRIQID-DENCI,MELLIEHAMLH4410MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BO JOHAN CARLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34780579",
+        "address": "367,WIMBELDONPARKROAD,LONDONSW196PEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "PALAZZO PIETRO STIGES, 103, STRAIT STREET,",
+  "company_id": "C 41552",
+  "registration_date": "Jun 04, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

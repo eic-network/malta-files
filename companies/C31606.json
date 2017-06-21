@@ -1,0 +1,89 @@
+{
+  "name": "ATA LTD.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PASQUALE SCARAMOZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5167077",
+        "address": "29,VIAPALAZZINES.FANTINO,SANLORENZO89069ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PASQUALE SCARAMOZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5167077",
+        "address": "29,VIAPALAZZINES.FANTINO,SANLORENZO89069ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH JOHN DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04886",
+        "address": "60,KOSCO,TRIQG.CALITA'XBIEXXBX1424MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PASQUALE SCARAMOZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5167077",
+        "address": "29,VIAPALAZZINES.FANTINO,SANLORENZO89069ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRUSTFORTE FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 25928",
+        "address": "21A,PRINCESSMARGARETSTREET,MSIDAMSD1331MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "TRUSTFORTE FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 25928",
+        "address": "21A,PRINCESSMARGARETSTREET,MSIDAMSD1331MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "21a, PRINCESS MARGARET STREET",
+  "company_id": "C 31606",
+  "registration_date": "Jun 17, 2003",
+  "shares_currency": "USD",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

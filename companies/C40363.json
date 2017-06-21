@@ -1,0 +1,109 @@
+{
+  "company_id": "C 40363",
+  "address": "LEICESTER COURT, SUITE 2, EDGAR BERNARD STREET,",
+  "name": "Bramandia Trading Limited",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Dec 20, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MANUEL ANGEL NORNIELLA CARRENO\r",
+        "party_id": "                                                            AA867538",
+        "address": "CAVADA4,3A,OVIEDOASTURIAS33002SPAIN",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "LUIS PRADA PEREZ\r",
+        "party_id": "                                                            AE766719",
+        "address": "33559,CELANGOS/N,CANGASDEONIS,ASTURIASSPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAFIKI HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 40296",
+        "address": "LEICESTERCOURT,SUITE2,EDGARBERNARDSTREET,GZIRAGZR1702MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MANUEL ANGEL NORNIELLA CARRENO\r",
+        "party_id": "                                                            AA867538",
+        "address": "CAVADA4,3A,OVIEDOASTURIAS33002SPAIN",
+        "nationality": "SPANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANUEL ANGEL NORNIELLA CARRENO\r",
+        "party_id": "                                                            AA867538",
+        "address": "CAVADA4,3A,OVIEDOASTURIAS33002SPAIN",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "LUIS PRADA PEREZ\r",
+        "party_id": "                                                            AE766719",
+        "address": "33559,CELANGOS/N,CANGASDEONIS,ASTURIASSPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MANUEL ANGEL NORNIELLA CARRENO\r",
+        "party_id": "                                                            AA867538",
+        "address": "CAVADA4,3A,OVIEDOASTURIAS33002SPAIN",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "LUIS PRADA PEREZ\r",
+        "party_id": "                                                            AE766719",
+        "address": "33559,CELANGOS/N,CANGASDEONIS,ASTURIASSPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUIS PRADA PEREZ\r",
+        "party_id": "                                                            AE766719",
+        "address": "33559,CELANGOS/N,CANGASDEONIS,ASTURIASSPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

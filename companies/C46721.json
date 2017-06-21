@@ -1,0 +1,91 @@
+{
+  "name": "AZURE VENTURES LIMITED",
+  "total_issued_shares_value": 4451.75,
+  "total_authorised_shares_value": 8903.5,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 0.89035
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52/1,SOUTHSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON TABONE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305720826",
+        "address": "2NDFLOOR,DEBURGHHOUSE,MARKETROAD,WICKFORD,ESSEXSS120BBUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON TABONE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305720826",
+        "address": "2NDFLOOR,DEBURGHHOUSE,MARKETROAD,WICKFORD,ESSEXSS120BBUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JASON TABONE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305720826",
+        "address": "2NDFLOOR,DEBURGHHOUSE,MARKETROAD,WICKFORD,ESSEXSS120BBUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.89035,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.89035,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, SUITE 5, TOWER STREET, SWATAR,",
+  "company_id": "C 46721",
+  "registration_date": "Apr 28, 2009",
+  "shares_currency": "GBP",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

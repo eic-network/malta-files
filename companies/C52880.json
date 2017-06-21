@@ -1,0 +1,117 @@
+{
+  "name": "BONA FIDES INVESTMENTS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28TRUQIL-PLUVIERA,SANGWANNSGN1930MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IEVGEN SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            EK074545",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6BMIZIKEVICHIUKRAINE"
+      },
+      {
+        "name": "OLEKSANDR SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0326943",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6B,MIZIKEVICHIUKRAINE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IEVGEN SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            EK074545",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6BMIZIKEVICHIUKRAINE"
+      },
+      {
+        "name": "OLEKSANDR SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0326943",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6B,MIZIKEVICHIUKRAINE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR k/as SILVIO BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10235",
+        "address": "4,COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGA,NAXXARNXR2232MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IEVGEN SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            EK074545",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6BMIZIKEVICHIUKRAINE"
+      },
+      {
+        "name": "OLEKSANDR SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0326943",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6B,MIZIKEVICHIUKRAINE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IEVGEN SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            EK074545",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6BMIZIKEVICHIUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "OLEKSANDR SACHKOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0326943",
+        "address": "ODESSAREGION,SOVINYON,RESIDENTIALAREA,ODESSABLVD.6B,MIZIKEVICHIUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "217 SUITE 4, 21st SEPTEMBER AVENUE,",
+  "company_id": "C 52880",
+  "registration_date": "May 18, 2011",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

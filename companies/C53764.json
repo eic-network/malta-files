@@ -1,0 +1,109 @@
+{
+  "company_id": "C 53764",
+  "address": "58, OLD BAKERY STREET,",
+  "name": "BRIDGE FINANCE AND ADVISORY SERVICES COMPANY LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 06, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 2500,
+  "total_authorised_shares_value": 2500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANCO GALEA\r",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREET,DINGLIDGL1070MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "LUCIO SCIRIHA\r",
+        "party_id": "                                                            265686M",
+        "address": "IL-WIZGHA,TRIQWIEDIL-BUSBUEZ,RABATRBT4214MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCO GALEA\r",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREET,DINGLIDGL1070MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "LUCIO SCIRIHA\r",
+        "party_id": "                                                            265686M",
+        "address": "IL-WIZGHA,TRIQWIEDIL-BUSBUEZ,RABATRBT4214MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCO GALEA\r",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREET,DINGLIDGL1070MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "LUCIO SCIRIHA\r",
+        "party_id": "                                                            265686M",
+        "address": "IL-WIZGHA,TRIQWIEDIL-BUSBUEZ,RABATRBT4214MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCO GALEA\r",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREET,DINGLIDGL1070MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "LUCIO SCIRIHA\r",
+        "party_id": "                                                            265686M",
+        "address": "IL-WIZGHA,TRIQWIEDIL-BUSBUEZ,RABATRBT4214MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCO GALEA\r",
+        "party_id": "                                                            402281M",
+        "address": "24,IMMACULATECONCEPTIONSTREET,DINGLIDGL1070MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "party_id": "                                                            19203",
+        "address": "IL-KENN,TRIQIL-BAHARL-ISWED,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "total_issued_shares_value": 1201,
+  "registration_date": "Dec 21, 2011",
+  "status": "",
+  "locality": "QORMI",
+  "name": "BROWN'S PHARMACY RAHAL GDID LTD.",
+  "total_issued_shares": 1201,
+  "address": "BROWN'S PHARMACIES, TRIQ L-INDUSTRIJA,",
+  "company_id": "C 54793",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "THEBURROW,TRIQIL-FRANCIZI,IBRAG,SWIEQISWQ2136MALTA",
+        "party_id": "                                                            313270M",
+        "name": "ALEXANDER FENECH\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "163,MAINSTREETSIGGIEWIMALTA",
+        "party_id": "                                                            217270M",
+        "name": "ROBERT SPITERI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "163,MAINSTREETSIGGIEWIMALTA",
+        "party_id": "                                                            217270M",
+        "name": "ROBERT SPITERI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "THEBURROW,TRIQIL-FRANCIZI,IBRAG,SWIEQISWQ2136MALTA",
+        "party_id": "                                                            313270M",
+        "name": "ALEXANDER FENECH\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "163,MAINSTREETSIGGIEWIMALTA",
+        "party_id": "                                                            217270M",
+        "name": "ROBERT SPITERI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "THEBURROW,TRIQIL-FRANCIZI,IBRAG,SWIEQISWQ2136MALTA",
+        "party_id": "                                                            313270M",
+        "name": "ALEXANDER FENECH\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "163,MAINSTREETSIGGIEWIMALTA",
+        "party_id": "                                                            217270M",
+        "name": "ROBERT SPITERI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "party_id": "                                                            AB/26/84/45",
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Redeemable Preference",
+          "paid_up_%": 100
+        },
+        "address": "LEVEL2,203,RUED'ARGENS,GZIRAMALTA",
+        "party_id": "                                                            C 41030",
+        "name": "Banif Bank (Malta) plc\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "BROWN'SPHARMACIESTRIQL-INDUSTRIJAQORMIMALTA",
+        "party_id": "                                                            C 22952",
+        "name": "BROWN'S PHARMA LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "BROWN'SPHARMACIES,TRIQL-INDUSTRIJA,QORMIMALTA",
+        "party_id": "                                                            C 19342",
+        "name": "GBY GROUP LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "RedeemablePreferenceA"
+    }
+  ],
+  "total_authorised_shares": 1201,
+  "total_authorised_shares_value": 1201,
+  "shares_currency": "EUR"
+}

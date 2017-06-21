@@ -1,0 +1,96 @@
+{
+  "company_id": "C 64197",
+  "address": "18/2, SOUTH STREET,",
+  "name": "BRINDISI INVESTMENTS LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 12, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100000000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 30003000
+    }
+  ],
+  "total_authorised_shares": 100000000,
+  "total_authorised_shares_value": 100000000,
+  "total_issued_shares": 30003000,
+  "total_issued_shares_value": 30003000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "party_id": "                                                            664359M",
+        "address": "24,SARDINELLA,TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAGROPAR EMPREENDIMENTOS E PARTICIPACOES S.A.\r",
+        "party_id": "                                                            07.021.622/0001-45",
+        "address": "AVENIDARIOBRANCO,10.108,16THFLOOR,RIODEJANEIROBRAZIL",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30003000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "party_id": "                                                            664359M",
+        "address": "24,SARDINELLA,TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "party_id": "                                                            664359M",
+        "address": "24,SARDINELLA,TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TONIO GRECH\r",
+        "party_id": "                                                            260360M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT1102MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "BLUE OCEAN-I LIMITED",
+  "total_issued_shares_value": 4500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 4500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MEDINA MANAGEMENT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7062",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MEDINA MANAGEMENT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7062",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48046",
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MEDINA MANAGEMENT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7062",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MONTANA C.V.\r",
+        "nationality": "",
+        "party_id": "                                                            50224999",
+        "address": "STRAATWEG193,3054AD,ROTTERDAMNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2250
+        }
+      },
+      {
+        "name": "Q-SOLUTION C.V.\r",
+        "nationality": "",
+        "party_id": "                                                            50225138",
+        "address": "LANDRELAAN5,3055WH,ROTTERDAMNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4500,
+  "address": "93, Mill Street,",
+  "company_id": "C 45862",
+  "registration_date": "Dec 17, 2008",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 4500
+}

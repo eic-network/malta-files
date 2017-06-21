@@ -1,0 +1,101 @@
+{
+  "name": "ALVIS HOLDING LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EAGLE EYES MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            116865",
+        "address": "SUITE305,MARINATOWERS,NEWTOWNBARRACKS,BELIZECITYBELIZE"
+      },
+      {
+        "name": "TATIANA SOBOLEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            714926623",
+        "address": "KASTANAEVSKAYASTREET,51/1-16,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EAGLE EYES MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            116865",
+        "address": "SUITE305,MARINATOWERS,NEWTOWNBARRACKS,BELIZECITYBELIZE"
+      },
+      {
+        "name": "TATIANA SOBOLEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            714926623",
+        "address": "KASTANAEVSKAYASTREET,51/1-16,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TATIANA SOBOLEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            714926623",
+        "address": "KASTANAEVSKAYASTREET,51/1-16,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EAGLE EYES MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            116865",
+        "address": "SUITE305,MARINATOWERS,NEWTOWNBARRACKS,BELIZECITYBELIZE"
+      },
+      {
+        "name": "TATIANA SOBOLEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            714926623",
+        "address": "KASTANAEVSKAYASTREET,51/1-16,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EAGLE EYES MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            116865",
+        "address": "SUITE305,MARINATOWERS,NEWTOWNBARRACKS,BELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "TATIANA SOBOLEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            714926623",
+        "address": "KASTANAEVSKAYASTREET,51/1-16,MOSCOWRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "82, GABRIEL COURT, FLAT 1, SIR ARTURO MERCIECA STREET",
+  "company_id": "C 23362",
+  "registration_date": "Apr 04, 1995",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

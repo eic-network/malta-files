@@ -1,0 +1,97 @@
+{
+  "name": "BIRCH HOLDING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCESCO APAP BOLOGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12464M",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENRY TORE NILERT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            52177765",
+        "address": "57,PEELSTREET,LONDONW87PAUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HENRY TORE NILERT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            52177765",
+        "address": "57,PEELSTREET,LONDONW87PAUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "IL-KENN,TRIQIL-BAHARL-ISWED,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HENRY TORE NILERT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            52177765",
+        "address": "57,PEELSTREET,LONDONW87PAUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HENRY TORE NILERT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            52177765",
+        "address": "57,PEELSTREET,LONDONW87PAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "WILLIAM TORE NILERT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45716131",
+        "address": "EKLANDAGATAN33,GOTHENBURG41282SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 42387",
+  "registration_date": "Sep 18, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

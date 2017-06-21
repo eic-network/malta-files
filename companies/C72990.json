@@ -1,0 +1,109 @@
+{
+  "name": "ARGO TRADING & SHIPPING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "THEMISTOKLIS KALAPOTHARAKOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI4635542",
+        "address": "37,GLADSTONOSSTREET,PENTELIATTICAGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THEMISTOKLIS KALAPOTHARAKOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI4635542",
+        "address": "37,GLADSTONOSSTREET,PENTELIATTICAGREECE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMASLM1106MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THEMISTOKLIS KALAPOTHARAKOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI4635542",
+        "address": "37,GLADSTONOSSTREET,PENTELIATTICAGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CBS CONSULTING INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            634202",
+        "address": "PALMGROVEHOUSE,P.O.BOX438,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "LIONMAR TRADING & SHIPPING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 63036",
+        "address": "147/1,ST.LUCIASTREET,VALLETTAVLT1185MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "ZURAB GUMBERIDZE\r",
+        "nationality": "GEORGIAN",
+        "party_id": "                                                            11AB41745",
+        "address": "12A,TSERETELISTREET,FLAT18,TBILISIGEORGIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ANA-MARIA TUTEA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            086808325",
+        "address": "10,11THAUGUSTSTREET,1000SOFIABULGARIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "147/1 ST. LUCIA STREET",
+  "company_id": "C 72990",
+  "registration_date": "Nov 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

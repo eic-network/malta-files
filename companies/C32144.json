@@ -1,0 +1,59 @@
+{
+  "company_id": "C 32144",
+  "address": "147/1 ST. LUCIA STREET",
+  "name": "BREEZE MARITIME LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 26, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDOARDO SCIANDRA",
+        "party_id": "",
+        "address": "RUEDUCENTRE22,1025,ST.SULPICESWITZERLAND",
+        "nationality": "SWISS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CENTRAL PACIFIC INVESTORS INC.",
+        "party_id": "",
+        "address": "CALLEELVIRAMENDEZNO.10EDIFICIOINTERSECOPISO2,PANAMA5,PANAMAPANAMA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MARIO PREZZI",
+        "party_id": "",
+        "address": "496,ROUTEDESMONTSDELAVAUX,LACROIX-SUR-LUTRY1602SWITZERLAND",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

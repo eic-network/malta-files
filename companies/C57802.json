@@ -1,0 +1,122 @@
+{
+  "name": "Beofor Holdings Ltd.",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARK ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190773M",
+        "address": "GTCOURTB,FLAT13,RESORTSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80897833",
+        "address": "56,KARLAVAGENSTOCKHOLMS-11449SWEDEN"
+      },
+      {
+        "name": "CATHARINA MARGARETHA VERTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81163688",
+        "address": "KARLAV.56,STOCKHOLMSE-11449SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80897833",
+        "address": "56,KARLAVAGENSTOCKHOLMS-11449SWEDEN"
+      },
+      {
+        "name": "CATHARINA MARGARETHA VERTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81163688",
+        "address": "KARLAV.56,STOCKHOLMSE-11449SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80897833",
+        "address": "56,KARLAVAGENSTOCKHOLMS-11449SWEDEN"
+      },
+      {
+        "name": "CATHARINA MARGARETHA VERTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81163688",
+        "address": "KARLAV.56,STOCKHOLMSE-11449SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEOFOR INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 78012",
+        "address": "NO135MEDITERRANEANSTREET,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "EUROPEAN BEVERAGE TRADING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53517",
+        "address": "135,MEDITERRANEANSTREET,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "KELLA INVESTMENTS MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 50059",
+        "address": "135,MEDITERRANEANSTREETST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "135, MEDITERRANEAN STREET,",
+  "company_id": "C 57802",
+  "registration_date": "Oct 09, 2012",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1000
+}

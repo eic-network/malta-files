@@ -1,0 +1,96 @@
+{
+  "name": "ARCHAMBAULT SERVICES LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 50
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GABRIEL SAFDIE\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0218701",
+        "address": "COURST.PIERRE1GENEVA1204SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            843891",
+        "address": "70,TRIQIL-KONTIR.BARBARO,ATTARDATD1200MALTA"
+      },
+      {
+        "name": "GABRIEL SAFDIE\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0218701",
+        "address": "COURST.PIERRE1GENEVA1204SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            843891",
+        "address": "70,TRIQIL-KONTIR.BARBARO,ATTARDATD1200MALTA"
+      },
+      {
+        "name": "GABRIEL SAFDIE\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0218701",
+        "address": "COURST.PIERRE1GENEVA1204SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "'Kyle'TRIQIL-MEDITERRANST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            843891",
+        "address": "70,TRIQIL-KONTIR.BARBARO,ATTARDATD1200MALTA"
+      },
+      {
+        "name": "GABRIEL SAFDIE\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0218701",
+        "address": "COURST.PIERRE1GENEVA1204SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CMN SA\r",
+        "nationality": "",
+        "party_id": "                                                            CH-660-0074995-5",
+        "address": "16RUEDEHESSEGENEVACH-1204SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 50,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 61592",
+  "registration_date": "Aug 14, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

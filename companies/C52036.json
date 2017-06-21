@@ -1,0 +1,122 @@
+{
+  "name": "Beachfront Ltd.",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREAS WILHELM ISENSCHMID\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1297064",
+        "address": "SCHLOSSBERGSTRASSE38,CH-8820WADENSWIL8820SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS WILHELM ISENSCHMID\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1297064",
+        "address": "SCHLOSSBERGSTRASSE38,CH-8820WADENSWIL8820SWITZERLAND"
+      },
+      {
+        "name": "ELIZABETH ANNE MARIE ROTHFIELD\r",
+        "nationality": "",
+        "party_id": "                                                            111745A",
+        "address": "82,TRIQIR-REPUBLIKA,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS WILHELM ISENSCHMID\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1297064",
+        "address": "SCHLOSSBERGSTRASSE38,CH-8820WADENSWIL8820SWITZERLAND"
+      },
+      {
+        "name": "ELIZABETH ANNE MARIE ROTHFIELD\r",
+        "nationality": "",
+        "party_id": "                                                            111745A",
+        "address": "82,TRIQIR-REPUBLIKA,VALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS WILHELM ISENSCHMID\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1297064",
+        "address": "SCHLOSSBERGSTRASSE38,CH-8820WADENSWIL8820SWITZERLAND"
+      },
+      {
+        "name": "ELIZABETH ANNE MARIE ROTHFIELD\r",
+        "nationality": "",
+        "party_id": "                                                            111745A",
+        "address": "82,TRIQIR-REPUBLIKA,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COTTOXIL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65780",
+        "address": "60/2,MELITASTREET,VALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 264
+        }
+      },
+      {
+        "name": "PACIFICA INVESTORS CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            1579344",
+        "address": "AKARABLDG,24DECASTROSTREET,WICKHAMSCAY1ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 493
+        }
+      },
+      {
+        "name": "SISOLANTI LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1579379",
+        "address": "AKARABUILDING,24DECASTROSTREET,WICKHAMSCAY1ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 493
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2 MELITA STREET",
+  "company_id": "C 52036",
+  "registration_date": "Feb 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

@@ -1,0 +1,93 @@
+{
+  "total_issued_shares_value": 20000,
+  "registration_date": "Apr 14, 2015",
+  "status": "",
+  "locality": "ZEBBUG",
+  "name": "Bull Europe Ltd",
+  "total_issued_shares": 20000,
+  "address": "Central Business Centre Floor 2 Suite 1, Mdina Road",
+  "company_id": "C 68376",
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "address": "CENTRALBUSINESSCENTREFLOOR2SUITE1MDINAROADZEBBUGMALTA",
+        "party_id": "                                                            220069M",
+        "name": "GEOFFREY MIFSUD FARRUGIA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "26661WhiteOaksDriveLagunaHillsCa.92653CaliforniaUNITEDSTATES",
+        "party_id": "                                                            420826407",
+        "name": "FRANCIS GREGORY MELLO\r",
+        "nationality": "AMERICAN"
+      },
+      {
+        "address": "2483WestWalnutAveRialtoCa.92376RialtoUNITEDSTATES",
+        "party_id": "                                                            455234350",
+        "name": "MARK JAMMAL NUREDDINE\r",
+        "nationality": "AMERICAN"
+      },
+      {
+        "address": "HOGARTRIQIL-BETTIJAATTARDMALTA",
+        "party_id": "                                                            217670M",
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "VILLASANTANNATRIQIL-FERROVIJAATTARDMALTA",
+        "party_id": "                                                            673062M",
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "party_id": "                                                            AB/26/84/26",
+        "name": "MGI MALTA\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 10000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "ZAMCOBUILDINGMILLSTREETQORMIQRM3013MALTA",
+        "party_id": "                                                            C 9964",
+        "name": "A.G. INVESTMENTS LTD\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 10000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "2483WestWalnutAveRialtoCa.92376RialtoUNITEDSTATES",
+        "party_id": "                                                            1721771",
+        "name": "BULL OUTDOOR PRODUCTS INC.\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 20000,
+      "authorised_share_capital": 30000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 30000,
+  "total_authorised_shares_value": 30000,
+  "shares_currency": "EUR"
+}

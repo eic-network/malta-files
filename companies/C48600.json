@@ -1,0 +1,107 @@
+{
+  "name": "AMELUK LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KASPER SKJOLD NEMETH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102629493",
+        "address": "EMILSVEJ,61,OLYSTYKKE3650DENMARK"
+      },
+      {
+        "name": "JACOB CARSTEN NIELSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102096720",
+        "address": "FLAT8,BLOCKB,CAPITALMANSION,MATTHEWPULISSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KASPER SKJOLD NEMETH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102629493",
+        "address": "EMILSVEJ,61,OLYSTYKKE3650DENMARK"
+      },
+      {
+        "name": "JACOB CARSTEN NIELSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102096720",
+        "address": "FLAT8,BLOCKB,CAPITALMANSION,MATTHEWPULISSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JACOB CARSTEN NIELSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102096720",
+        "address": "FLAT8,BLOCKB,CAPITALMANSION,MATTHEWPULISSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KASPER SKJOLD NEMETH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102629493",
+        "address": "EMILSVEJ,61,OLYSTYKKE3650DENMARK"
+      },
+      {
+        "name": "JACOB CARSTEN NIELSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102096720",
+        "address": "FLAT8,BLOCKB,CAPITALMANSION,MATTHEWPULISSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACOB CARSTEN NIELSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102096720",
+        "address": "FLAT8,BLOCKB,CAPITALMANSION,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "KASPER SKJOLD NEMETH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102629493",
+        "address": "EMILSVEJ,61,OLYSTYKKE3650DENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 8, BLOCK B, CAPITAL MANSION, MATTHEW PULIS STREET,",
+  "company_id": "C 48600",
+  "registration_date": "Jan 06, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

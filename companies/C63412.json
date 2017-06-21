@@ -1,0 +1,109 @@
+{
+  "name": "BLUE PILGRIMS LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH M. FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1118436",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BENEDICT FONTANET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4473609",
+        "address": "RUEDEL'EVECHE5,GENEVECH1204SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH M. FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1118436",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BENEDICT FONTANET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4473609",
+        "address": "RUEDEL'EVECHE5,GENEVECH1204SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH M. FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1118436",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BENEDICT FONTANET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4473609",
+        "address": "RUEDEL'EVECHE5,GENEVECH1204SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH M. FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1118436",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DARWELL TRADING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52211",
+        "address": "2NDFLOOR,EUROPACENTRE,ST.ANNESTREET,FLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99
+        }
+      },
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "2ND FLOOR, EUROPA CENTRE, ST. ANNE STREET,",
+  "company_id": "C 63412",
+  "registration_date": "Feb 17, 2014",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 100
+}

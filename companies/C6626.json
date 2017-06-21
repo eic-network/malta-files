@@ -1,0 +1,96 @@
+{
+  "company_id": "C 6626",
+  "address": "1A, NEW HOWARD STREET,",
+  "name": "BRIAR COMPANY LIMITED",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "registration_date": "Company Status",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NOEL GAUCI\r",
+        "party_id": "                                                            218071M",
+        "address": "PEARLMDINAROADZEBBUGZBG03MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SANTINO GAUCI\r",
+        "party_id": "                                                            421839M",
+        "address": "MARTESON,VJALIL-HELSIEN,ZEBBUGMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NOEL GAUCI\r",
+        "party_id": "                                                            218071M",
+        "address": "PEARLMDINAROADZEBBUGZBG03MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 98500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "SANTINO GAUCI\r",
+        "party_id": "                                                            421839M",
+        "address": "MARTESON,VJALIL-HELSIEN,ZEBBUGMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Redeemable Preference",
+          "class": "",
+          "issued_shares": 1500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL GAUCI\r",
+        "party_id": "                                                            218071M",
+        "address": "PEARLMDINAROADZEBBUGZBG03MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SANTINO GAUCI\r",
+        "party_id": "                                                            421839M",
+        "address": "MARTESON,VJALIL-HELSIEN,ZEBBUGMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL GAUCI\r",
+        "party_id": "                                                            218071M",
+        "address": "PEARLMDINAROADZEBBUGZBG03MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SANTINO GAUCI\r",
+        "party_id": "                                                            421839M",
+        "address": "MARTESON,VJALIL-HELSIEN,ZEBBUGMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NOEL GAUCI\r",
+        "party_id": "                                                            218071M",
+        "address": "PEARLMDINAROADZEBBUGZBG03MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK ANTHONY SCALPELLO\r",
+        "party_id": "                                                            02089",
+        "address": "GODLIEVETRIQWALTERL.SALOMONEMOSTAMST2312MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

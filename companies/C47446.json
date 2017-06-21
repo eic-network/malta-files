@@ -1,0 +1,78 @@
+{
+  "name": "BLAZIG LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTHONY VALVO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            737555M",
+        "address": "ABACUS,SUITE2,PSAILASTREET,SANTAVENERASVR9017MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ABDUL-BASIT IGTET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            N0004090",
+        "address": "GIESSHUBELSTRASSE62D,ZURICH8045SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABDUL-BASIT IGTET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            N0004090",
+        "address": "GIESSHUBELSTRASSE62D,ZURICH8045SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABDUL-BASIT IGTET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            N0004090",
+        "address": "GIESSHUBELSTRASSE62D,ZURICH8045SWITZERLAND"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABDUL-BASIT IGTET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            N0004090",
+        "address": "GIESSHUBELSTRASSE62D,ZURICH8045SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABDUL-BASIT IGTET\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            N0004090",
+        "address": "GIESSHUBELSTRASSE62D,ZURICH8045SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "COBALT HOUSE, 2ND FLOOR, NOTABILE ROAD, MRIEHEL,",
+  "company_id": "C 47446",
+  "registration_date": "Aug 03, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

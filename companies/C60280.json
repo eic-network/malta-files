@@ -1,0 +1,101 @@
+{
+  "name": "3MCONSULTA LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "10,'TASMANCOURT',BIRKIRKARAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JEAN PAUL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298883M",
+        "address": "6,TRIQSANTANTNIN,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "10,'TASMANCOURT',BIRKIRKARAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JEAN PAUL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298883M",
+        "address": "6,TRIQSANTANTNIN,BALZANMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "10,'TASMANCOURT',BIRKIRKARAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "10,'TASMANCOURT',BIRKIRKARAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JEAN PAUL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298883M",
+        "address": "6,TRIQSANTANTNIN,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "10,'TASMANCOURT',BIRKIRKARAROAD,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JEAN PAUL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298883M",
+        "address": "6,TRIQSANTANTNIN,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "FACTORY MRH 012B, MRIEHEL INDUSTRIAL ESTATE,",
+  "company_id": "C 60280",
+  "registration_date": "May 02, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

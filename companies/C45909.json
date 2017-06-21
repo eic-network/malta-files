@@ -1,0 +1,78 @@
+{
+  "name": "Betula Holding Limited",
+  "total_issued_shares_value": 4500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 4500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOOST VANDENBROECK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            0052326A",
+        "address": "FL1,68VERDALAFLATSTRIQIL-HAWTSWIEQISWQ3435MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAN ERIK GUSTAV LARSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62927943",
+        "address": "TOMTEPOGATAN,13,3,STOCKHOLM11339SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4500,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL AND BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 45909",
+  "registration_date": "Dec 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4500
+}

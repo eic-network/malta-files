@@ -1,0 +1,59 @@
+{
+  "name": "ARMCO LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "OLEG BOROUCHKO\r",
+        "nationality": "",
+        "party_id": "                                                            43NO1971300",
+        "address": "ACARYA,TRIQIS-SWIEQI,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OLEG BOROUCHKO\r",
+        "nationality": "",
+        "party_id": "                                                            43NO1971300",
+        "address": "ACARYA,TRIQIS-SWIEQI,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SERGIO GREGORIAN\r",
+        "nationality": "",
+        "party_id": "                                                            21NO1270722",
+        "address": "70HORNSEYLANELONDONN65LOENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "5, FLAT 2, MERCHANTS STREET,",
+  "company_id": "C 18745",
+  "registration_date": "Jul 06, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,151 @@
+{
+  "name": "ARK LIMITED",
+  "total_issued_shares_value": 58250,
+  "total_authorised_shares_value": 58250,
+  "authorised_shares": [
+    {
+      "issued_shares": 23299,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 23299,
+      "nominal_value_per_share": 2.5
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLASWIEQIMALTA"
+      },
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLASWIEQIMALTA"
+      },
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLASWIEQIMALTA"
+      },
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATLAS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23431",
+        "address": "47-50,TA'XBIEXSEAFRONTTA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 23299
+        }
+      },
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 23300,
+  "address": "6, PROF. ALFRED CRAIG STREET,",
+  "company_id": "C 15701",
+  "registration_date": "Dec 22, 1993",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 23300
+}

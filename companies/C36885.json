@@ -1,0 +1,76 @@
+{
+  "company_id": "C 36885",
+  "address": "AUBERGE SAN ANTON, BLOCK B, FLAT 6, OLD RAILWAY ROAD,",
+  "name": "BRIDGE REAL ESTATE LTD",
+  "locality": "BALZAN",
+  "status": "",
+  "registration_date": "Sep 02, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TATJANA AKIK\r",
+        "party_id": "                                                            14889532",
+        "address": "BISACKA4,10000ZAGREBCROATIA",
+        "nationality": "CROAT"
+      },
+      {
+        "name": "VINCE BALDACCHINO\r",
+        "party_id": "                                                            83969M",
+        "address": "MYCORNER,BUONTEMPOESTATE,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VINCE BALDACCHINO\r",
+        "party_id": "                                                            83969M",
+        "address": "MYCORNER,BUONTEMPOESTATE,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCE BALDACCHINO\r",
+        "party_id": "                                                            83969M",
+        "address": "MYCORNER,BUONTEMPOESTATE,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCE BALDACCHINO\r",
+        "party_id": "                                                            83969M",
+        "address": "MYCORNER,BUONTEMPOESTATE,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VINCE BALDACCHINO\r",
+        "party_id": "                                                            83969M",
+        "address": "MYCORNER,BUONTEMPOESTATE,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

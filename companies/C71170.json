@@ -1,0 +1,96 @@
+{
+  "company_id": "C 71170",
+  "address": "217, SUITE 4, 21ST SEPTEMBER AVENUE,",
+  "name": "BPH LTD",
+  "locality": "NAXXAR",
+  "status": "In Dissolution",
+  "registration_date": "Jun 23, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANETA IVANOVA DIMITROVA\r",
+        "party_id": "                                                            383027528",
+        "address": "HOUSE96,SOPHIAROAD,NO05-01,SINGAPORE228164SINGAPORE",
+        "nationality": "BULGARIAN"
+      },
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANETA IVANOVA DIMITROVA\r",
+        "party_id": "                                                            383027528",
+        "address": "HOUSE96,SOPHIAROAD,NO05-01,SINGAPORE228164SINGAPORE",
+        "nationality": "BULGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANETA IVANOVA DIMITROVA\r",
+        "party_id": "                                                            383027528",
+        "address": "HOUSE96,SOPHIAROAD,NO05-01,SINGAPORE228164SINGAPORE",
+        "nationality": "BULGARIAN"
+      },
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANETA IVANOVA DIMITROVA\r",
+        "party_id": "                                                            383027528",
+        "address": "HOUSE96,SOPHIAROAD,NO05-01,SINGAPORE228164SINGAPORE",
+        "nationality": "BULGARIAN"
+      },
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALEXANDER VALENZIA\r",
+        "party_id": "                                                            10454",
+        "address": "FLAT2,KANGAROOFLATS,SALVUAQUILINASTREET,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

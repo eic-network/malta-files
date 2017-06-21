@@ -1,0 +1,78 @@
+{
+  "company_id": "C 59153",
+  "address": "LEVEL 10, PORTOMASO BUSINESS TOWER, PORTOMASO",
+  "name": "3CX LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Jan 30, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 50000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 50000
+    }
+  ],
+  "total_authorised_shares": 50000,
+  "total_authorised_shares_value": 50000,
+  "total_issued_shares": 50000,
+  "total_issued_shares_value": 50000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NICHOLAS P. GALEA\r",
+        "party_id": "                                                            510654596",
+        "address": "ENGOMIBUSINESSCENTRE,28THOCTOBERSTREETNO1,NICOSIA2414CYPRUS",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NICHOLAS P. GALEA\r",
+        "party_id": "                                                            510654596",
+        "address": "ENGOMIBUSINESSCENTRE,28THOCTOBERSTREETNO1,NICOSIA2414CYPRUS",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS P. GALEA\r",
+        "party_id": "                                                            510654596",
+        "address": "ENGOMIBUSINESSCENTRE,28THOCTOBERSTREETNO1,NICOSIA2414CYPRUS",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS P. GALEA\r",
+        "party_id": "                                                            510654596",
+        "address": "ENGOMIBUSINESSCENTRE,28THOCTOBERSTREETNO1,NICOSIA2414CYPRUS",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHALIS SKENTER\r",
+        "party_id": "                                                            K00258093",
+        "address": "DODONIS5,LAKATAMIA,NICOSIA2326CYPRUS",
+        "nationality": "CYPRIOT"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

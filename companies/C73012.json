@@ -1,0 +1,83 @@
+{
+  "name": "BLACK SAILS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 120000,
+      "type": "Ordinary",
+      "authorised_share_capital": 120000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Glen Azzopardi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520589M",
+        "address": "21,AlbatrossTriqMonsinjurArturoBonniciMSIDAMSD2257MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Glen Azzopardi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520589M",
+        "address": "21,AlbatrossTriqMonsinjurArturoBonniciMSIDAMSD2257MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EVGENII MAKOVIZ\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530872988",
+        "address": "67,KAKKARINTIETOHMAJARVIFL-82600FINLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Glen Azzopardi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520589M",
+        "address": "21,AlbatrossTriqMonsinjurArturoBonniciMSIDAMSD2257MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELENA DEDIUSHINA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722831851",
+        "address": "67,KAKKARINTIETOHMAJARVIFL-82600FINLAND",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12000
+        }
+      },
+      {
+        "name": "EVGENII MAKOVIZ\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530872988",
+        "address": "67,KAKKARINTIETOHMAJARVIFL-82600FINLAND",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 108000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120000,
+  "address": "21,  Monsinjur Arturo Bonnici",
+  "company_id": "C 73012",
+  "registration_date": "Nov 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 120000
+}

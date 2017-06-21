@@ -1,0 +1,81 @@
+{
+  "name": "BLUEBELL INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NADINE GABRIELE SCHMITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4VG7008J",
+        "address": "VIABIXIO76,RIVALIGUREIM18015ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NADINE GABRIELE SCHMITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4VG7008J",
+        "address": "VIABIXIO76,RIVALIGUREIM18015ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NADINE GABRIELE SCHMITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4VG7008J",
+        "address": "VIABIXIO76,RIVALIGUREIM18015ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CORNERSTONE BUSINESS CENTRE, LEVEL 2, SUITE 1, 16th SEPTEMBER SQUARE,",
+  "company_id": "C 64393",
+  "registration_date": "Mar 25, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

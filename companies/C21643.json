@@ -1,0 +1,109 @@
+{
+  "name": "BETA PHARMA LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183654M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183654M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      },
+      {
+        "name": "MARIA DOLORES VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            369856M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183654M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      },
+      {
+        "name": "MARIA DOLORES VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            369856M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183654M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      },
+      {
+        "name": "MARIA DOLORES VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            369856M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183654M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000
+        }
+      },
+      {
+        "name": "MARIA DOLORES VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            369856M",
+        "address": "KENTIA,97,TRIQTUMASCHETCUTI,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "90, TRIQ IL-HAFUR,",
+  "company_id": "C 21643",
+  "registration_date": "Jul 10, 1997",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 100000
+}

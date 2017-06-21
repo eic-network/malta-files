@@ -1,0 +1,83 @@
+{
+  "name": "ALLY SERVICES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LUCA ALEOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0109068",
+        "address": "VIAPOSTA,17/2MIRANDOLAMODENA41037ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUCA ALEOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0109068",
+        "address": "VIAPOSTA,17/2MIRANDOLAMODENA41037ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NIVIANA GHISELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1017458",
+        "address": "VIAPOSTA,17/2MIRANDOLAMODENA41037ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUCA ALEOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0109068",
+        "address": "VIAPOSTA,17/2MIRANDOLAMODENA41037ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LU.CA. HOLDINGS LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 56639",
+        "address": "LEVEL4,SUITE8A,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "LUCA ALEOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0109068",
+        "address": "VIAPOSTA,17/2MIRANDOLAMODENA41037ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BLDG., 216, MARINA SEAFRONT,",
+  "company_id": "C 56640",
+  "registration_date": "Jun 12, 2012",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

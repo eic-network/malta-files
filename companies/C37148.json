@@ -1,0 +1,141 @@
+{
+  "name": "AVE MARIA JEWELLERY LIMITED",
+  "total_issued_shares_value": 58234.33,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAUL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            205468M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            871937M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            871937M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA"
+      },
+      {
+        "name": "MARIA LOURDES GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458271M",
+        "address": "SALVEREGINA,48,SIRLUIGIPREZIOSISQUARE,FLORIANAVLT1155MALTA"
+      },
+      {
+        "name": "PAUL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            205468M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA"
+      },
+      {
+        "name": "ROSE MARY GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621341M",
+        "address": "1,FLAT2,STANNESTREET,FLORIANAFRN9012MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            871937M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            871937M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4900
+        }
+      },
+      {
+        "name": "ROSE MARY GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621341M",
+        "address": "1,FLAT2,STANNESTREET,FLORIANAFRN9012MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MARIA LOURDES GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458271M",
+        "address": "SALVEREGINA,48,SIRLUIGIPREZIOSISQUARE,FLORIANAVLT1155MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "PAUL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            205468M",
+        "address": "1,FLAT2,ST.ANNESTREET,FLORIANAFRN9012MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "161, ST. LUCIA STREET",
+  "company_id": "C 37148",
+  "registration_date": "Oct 20, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

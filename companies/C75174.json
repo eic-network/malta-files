@@ -1,0 +1,101 @@
+{
+  "name": "ANIMAL KINGDOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CATHERINE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163589M",
+        "address": "35,AMAZONIATRIQMONS.DEPIRO,HAMRUNMALTA"
+      },
+      {
+        "name": "ARNOLD SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259984M",
+        "address": "133,TRIQL-ARKATA,PAOLAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CATHERINE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163589M",
+        "address": "35,AMAZONIATRIQMONS.DEPIRO,HAMRUNMALTA"
+      },
+      {
+        "name": "ARNOLD SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259984M",
+        "address": "133,TRIQL-ARKATA,PAOLAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CATHERINE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163589M",
+        "address": "35,AMAZONIATRIQMONS.DEPIRO,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATHERINE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163589M",
+        "address": "35,AMAZONIATRIQMONS.DEPIRO,HAMRUNMALTA"
+      },
+      {
+        "name": "ARNOLD SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259984M",
+        "address": "133,TRIQL-ARKATA,PAOLAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CATHERINE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163589M",
+        "address": "35,AMAZONIATRIQMONS.DEPIRO,HAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ARNOLD SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259984M",
+        "address": "133,TRIQL-ARKATA,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "136, TRIQ IL-FOSS,",
+  "company_id": "C 75174",
+  "registration_date": "Apr 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

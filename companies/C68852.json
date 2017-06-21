@@ -1,0 +1,78 @@
+{
+  "name": "BELLAVITA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCO BECCARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8530080",
+        "address": "VIAGGARIBALDI87CASTENEDOLO(BS)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCO BECCARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8530080",
+        "address": "VIAGGARIBALDI87CASTENEDOLO(BS)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCO BECCARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8530080",
+        "address": "VIAGGARIBALDI87CASTENEDOLO(BS)ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCO BECCARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8530080",
+        "address": "VIAGGARIBALDI87CASTENEDOLO(BS)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCO BECCARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8530080",
+        "address": "VIAGGARIBALDI87CASTENEDOLO(BS)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NOEL MUSCAT & CO TRIQ L-IMGHAZEL",
+  "company_id": "C 68852",
+  "registration_date": "Jan 30, 2015",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

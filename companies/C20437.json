@@ -1,0 +1,83 @@
+{
+  "name": "A & C ABELA CO LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LAURO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782358M",
+        "address": "109/110,MAINSTREET,NAXXARPLA13MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAURO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782358M",
+        "address": "109/110,MAINSTREET,NAXXARPLA13MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARTHESE ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460859M",
+        "address": "ROSABUILDINGSHOMPESCHROADFGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAURO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782358M",
+        "address": "109/110,MAINSTREET,NAXXARPLA13MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMMANUEL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            786956M",
+        "address": "SARDINELLATRIQPAWLUBORGATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "LAURO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782358M",
+        "address": "109/110,MAINSTREET,NAXXARPLA13MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "ROSA BUILDINGS, FLAT 1, HOMPESCH ROAD,",
+  "company_id": "C 20437",
+  "registration_date": "Aug 05, 1996",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 500
+}

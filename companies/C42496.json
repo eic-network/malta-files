@@ -1,0 +1,91 @@
+{
+  "name": "A.B. Corporation Europe Ltd",
+  "total_issued_shares_value": 2800,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 2800,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LEONARDO GIACONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F736362",
+        "address": "VIATURISCORDO,MISTERBIANCOCATANIAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEONARDO GIACONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F736362",
+        "address": "VIATURISCORDO,MISTERBIANCOCATANIAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LEONARDO GIACONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F736362",
+        "address": "VIATURISCORDO,MISTERBIANCOCATANIAITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH JOHN DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04886",
+        "address": "60,KOSCO,TRIQG.CALITA'XBIEXXBX1424MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEONARDO GIACONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F736362",
+        "address": "VIATURISCORDO,MISTERBIANCOCATANIAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RANK PROFESSIONAL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25699",
+        "address": "KOSCO,G.CALISTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400
+        }
+      },
+      {
+        "name": "RANK PROFESSIONAL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25699",
+        "address": "KOSCO,G.CALISTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2800,
+  "address": "60 Suite 6 Giuseppe Cali Street",
+  "company_id": "C 42496",
+  "registration_date": "Oct 03, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 4500
+}

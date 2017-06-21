@@ -1,0 +1,80 @@
+{
+  "name": "AYEMMA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 240,
+      "type": "Ordinary",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 5
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI NOSEDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2317884",
+        "address": "63,VL.VARESE,COMO22100ITALY"
+      },
+      {
+        "name": "JULIA KLARA MARIA SEEBACHER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1397230",
+        "address": "ROOSWEIDSTRASSE9A,WOLLERAUCH-8832SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI NOSEDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2317884",
+        "address": "63,VL.VARESE,COMO22100ITALY"
+      },
+      {
+        "name": "JULIA KLARA MARIA SEEBACHER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1397230",
+        "address": "ROOSWEIDSTRASSE9A,WOLLERAUCH-8832SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI NOSEDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2317884",
+        "address": "63,VL.VARESE,COMO22100ITALY"
+      },
+      {
+        "name": "JULIA KLARA MARIA SEEBACHER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1397230",
+        "address": "ROOSWEIDSTRASSE9A,WOLLERAUCH-8832SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JULIA KLARA MARIA SEEBACHER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1397230",
+        "address": "ROOSWEIDSTRASSE9A,WOLLERAUCH-8832SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 240,
+  "address": "149, OLD MINT STREET,",
+  "company_id": "C 48019",
+  "registration_date": "Oct 23, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 240
+}

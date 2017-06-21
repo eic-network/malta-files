@@ -1,0 +1,78 @@
+{
+  "company_id": "C 54690",
+  "address": "COBALT HOUSE, 2ND FLOOR, NOTABILE ROAD, MRIEHEL",
+  "name": "BRILINK LTD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Dec 14, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MAX BERTIL JOAKIM GUSTAFSSON\r",
+        "party_id": "                                                            85371478",
+        "address": "TUVESV18HELSINGBORG25591SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAX BERTIL JOAKIM GUSTAFSSON\r",
+        "party_id": "                                                            85371478",
+        "address": "TUVESV18HELSINGBORG25591SWEDEN",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAX BERTIL JOAKIM GUSTAFSSON\r",
+        "party_id": "                                                            85371478",
+        "address": "TUVESV18HELSINGBORG25591SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAX BERTIL JOAKIM GUSTAFSSON\r",
+        "party_id": "                                                            85371478",
+        "address": "TUVESV18HELSINGBORG25591SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAX BERTIL JOAKIM GUSTAFSSON\r",
+        "party_id": "                                                            85371478",
+        "address": "TUVESV18HELSINGBORG25591SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

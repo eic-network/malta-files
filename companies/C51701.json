@@ -1,0 +1,70 @@
+{
+  "name": "BLANC LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTOINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155783M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WOOD, GIBBINS & PARTNERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49825",
+        "address": "6,3RDFLOOR,MARKETSTREET,FLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "76 TRIQ L-GHENIEQED",
+  "company_id": "C 51701",
+  "registration_date": "Jan 18, 2011",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1165
+}

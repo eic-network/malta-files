@@ -1,0 +1,83 @@
+{
+  "name": "ANTAI CO. LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            124649M",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            124649M",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            124649M",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            124649M",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MA BO\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            0029891A",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 700
+        }
+      },
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            124649M",
+        "address": "13,TRIQGIO.FELICEINGLOTT,PEMBROKEPMK1133MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "ANTAI TRIQ PARISIO",
+  "company_id": "C 54479",
+  "registration_date": "Nov 22, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

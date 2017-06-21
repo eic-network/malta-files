@@ -1,0 +1,75 @@
+{
+  "company_id": "C 60265",
+  "address": "131, EAST STREET,",
+  "name": "BROOK SHIPPING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Apr 30, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NOVA SHIP INVEST, UNIPESSOAL, LDA\r",
+        "party_id": "                                                            511185774",
+        "address": "RUADACARREIRA115-117,FUNCHAL9000042PORTUGAL",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "S. MIFSUD & SONS LIMITED\r",
+        "party_id": "                                                            C 341",
+        "address": "65,BIRKIRKARAHILL,ST.JULIANSMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

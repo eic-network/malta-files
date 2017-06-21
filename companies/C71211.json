@@ -1,0 +1,78 @@
+{
+  "company_id": "C 71211",
+  "address": "FLAT 6, PEARL COURT, VJAL IL-HELSIEN,",
+  "name": "BRIDGE WORLD ENGINEERING & TRADING LTD",
+  "locality": "ZEBBUG",
+  "status": "",
+  "registration_date": "Jun 26, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BASHIR H.A. TIMRAZ\r",
+        "party_id": "                                                            3141257",
+        "address": "FLAT3,PEARLCOURTVJALIL-HELSIENZEBBUGZBG2074MALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BASHIR H.A. TIMRAZ\r",
+        "party_id": "                                                            3141257",
+        "address": "FLAT3,PEARLCOURTVJALIL-HELSIENZEBBUGZBG2074MALTA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BASHIR H.A. TIMRAZ\r",
+        "party_id": "                                                            3141257",
+        "address": "FLAT3,PEARLCOURTVJALIL-HELSIENZEBBUGZBG2074MALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BASHIR H.A. TIMRAZ\r",
+        "party_id": "                                                            3141257",
+        "address": "FLAT3,PEARLCOURTVJALIL-HELSIENZEBBUGZBG2074MALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BASHIR H.A. TIMRAZ\r",
+        "party_id": "                                                            3141257",
+        "address": "FLAT3,PEARLCOURTVJALIL-HELSIENZEBBUGZBG2074MALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GLEN AZZOPARDI\r",
+        "party_id": "                                                            115106",
+        "address": "26A,PLENACOURT,TRIQL-VITTMITAL-GWERRA,BIRKIRKARABKR4272MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

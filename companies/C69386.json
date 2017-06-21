@@ -1,0 +1,96 @@
+{
+  "company_id": "C 69386",
+  "address": "SERENITY FLAT NO 1, TUMAS FENECH STREET,",
+  "name": "3DG INVEST LTD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Mar 04, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CONSTANCE DE GHOUY\r",
+        "party_id": "                                                            08CL36340",
+        "address": "DOMAINED'ABRAJ,VILLAH2,MARRAKECH40000MOROCCO",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CESAR DE GHOUY\r",
+        "party_id": "                                                            10AP60761",
+        "address": "ZAZAMECKEM746/5II,PRAGUE15800CZECHREPUBLIC",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CHARLES DE GHOUY\r",
+        "party_id": "                                                            06AK29568",
+        "address": "65RUESAINTEANNE,3EMEETAGE,PARIS75002FRANCE",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CONSTANCE DE GHOUY\r",
+        "party_id": "                                                            08CL36340",
+        "address": "DOMAINED'ABRAJ,VILLAH2,MARRAKECH40000MOROCCO",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CONSTANCE DE GHOUY\r",
+        "party_id": "                                                            08CL36340",
+        "address": "DOMAINED'ABRAJ,VILLAH2,MARRAKECH40000MOROCCO",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CONSTANCE DE GHOUY\r",
+        "party_id": "                                                            08CL36340",
+        "address": "DOMAINED'ABRAJ,VILLAH2,MARRAKECH40000MOROCCO",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CONSTANCE DE GHOUY\r",
+        "party_id": "                                                            08CL36340",
+        "address": "DOMAINED'ABRAJ,VILLAH2,MARRAKECH40000MOROCCO",
+        "nationality": "FRENCH"
+      }
+    ]
+  }
+}

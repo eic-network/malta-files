@@ -1,0 +1,108 @@
+{
+  "name": "ARMALT LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 875,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 875,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 145,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 145,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 145,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 145,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SAMVEL GURJINYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0309304",
+        "address": "FALCON,FALT2,TRIQIT-TORRIMSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAMVEL GURJINYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0309304",
+        "address": "FALCON,FALT2,TRIQIT-TORRIMSIDAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IRINA USPENSKAYA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO8924033",
+        "address": "FALCONFLAT2TRIQIT-TORRIMSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAMVEL GURJINYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0309304",
+        "address": "FALCON,FALT2,TRIQIT-TORRIMSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH SPITERI AUDIBERT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136751M",
+        "address": "RICHTHOFENTRIQIT-TORRIMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 875
+        }
+      },
+      {
+        "name": "SAMVEL GURJINYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0309304",
+        "address": "FALCON,FALT2,TRIQIT-TORRIMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 145
+        }
+      },
+      {
+        "name": "HOVHANNES GURDZHINYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AE0507332",
+        "address": "FALCONFLAT2TRIQIT-TORRIMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 145
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "FALCON, FLAT 2, TRIQ IT-TORRI",
+  "company_id": "C 44129",
+  "registration_date": "Apr 29, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

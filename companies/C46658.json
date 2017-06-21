@@ -1,0 +1,83 @@
+{
+  "name": "Balkan and Black Sea Holding Co. Ltd",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARIF KENAN TURKANTOS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-TNO.458594",
+        "address": "ALPTEKINSOKAKNO.2D:6FENERBAHCEISTANBUL34726TURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARIF KENAN TURKANTOS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-TNO.458594",
+        "address": "ALPTEKINSOKAKNO.2D:6FENERBAHCEISTANBUL34726TURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "31,MDINAROAD,NAXXARNXR1903MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARIF KENAN TURKANTOS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-TNO.458594",
+        "address": "ALPTEKINSOKAKNO.2D:6FENERBAHCEISTANBUL34726TURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "NAVITRANS ACENTELIK HIZMETLERI ANONIM SIRKETI\r",
+        "nationality": "",
+        "party_id": "                                                            185372",
+        "address": "KAT2,NO.21,SELCUKNURICAD.MUMHANEKARAKOYBEYOGLUISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "25/16 VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 46658",
+  "registration_date": "Apr 17, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

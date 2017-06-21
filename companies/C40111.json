@@ -1,0 +1,91 @@
+{
+  "name": "BALTIC SMART INVESTMENTS LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Agita CEIKO\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4051431",
+        "address": "ViesuluStreet3RigaLV-1015LATVIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BALTIC SECRETARIAL SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1679678",
+        "address": "MILLMALLTOWER,2NDFLOOR,WICKHAMSCAY1,POBOX4406,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BALTIC SECRETARIAL SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1679678",
+        "address": "MILLMALLTOWER,2NDFLOOR,WICKHAMSCAY1,POBOX4406,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MATTHEW SAPIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10821",
+        "address": "11,CASABAMBINA,LORENZOGATTSTREET,BIRKIRKARABKR4030MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BALTIC SECRETARIAL SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1679678",
+        "address": "MILLMALLTOWER,2NDFLOOR,WICKHAMSCAY1,POBOX4406,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BALTIC SECRETARIAL SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1679678",
+        "address": "MILLMALLTOWER,2NDFLOOR,WICKHAMSCAY1,POBOX4406,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RAYANA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1689251",
+        "address": "MILLMALLTOWER,2NDFLOOR,WICKHAMSCAY1,POBOX4406,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CORNERLINE, DUN KARM STREET,",
+  "company_id": "C 40111",
+  "registration_date": "Dec 01, 2006",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

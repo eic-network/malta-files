@@ -1,0 +1,51 @@
+{
+  "name": "BLISS HOME",
+  "total_issued_shares_value": 240,
+  "total_authorised_shares_value": 240,
+  "authorised_shares": [
+    {
+      "issued_shares": 240,
+      "type": "",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "AURELIA CULOT\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            0073337A",
+        "address": "41,NATHALIEPOUTIATINTABONESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "DIANA PAOLA GAMBIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0346614L",
+        "address": "VOYAGER1,TRIQTAL-FRANCIZ,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 240,
+  "address": "VOYAGER 1, TRIQ TAL-FRANCIZ,",
+  "company_id": "P 1695",
+  "registration_date": "Jan 27, 2017",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 240
+}

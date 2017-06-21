@@ -1,0 +1,109 @@
+{
+  "name": "ATMAN ASSOCIATES LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY"
+      },
+      {
+        "name": "NICOLA FANELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E052089",
+        "address": "FOREROYAL,GORLEYROAD,RINGWOODBH243LDENGLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATMAN HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60992",
+        "address": "41,ST.CHRISTOPHERSTREET,VALLETTAVLT1464MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 75,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "MAURO ALVISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            A540443",
+        "address": "VIADELLECAMELIE,33,LAVENAPONTETRESAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 75,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "41 ST CHRISTOPHER STREET",
+  "company_id": "C 60993",
+  "registration_date": "Jun 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 250000
+}

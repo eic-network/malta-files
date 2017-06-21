@@ -1,0 +1,109 @@
+{
+  "name": "AMG INTERNATIONAL LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADNAN ARABI S. GHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            745338",
+        "address": "ADBUILDING2611,AINZARA1564,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAHMOUD A. S. ELGHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            472722",
+        "address": "ADBUILDING,10,34,116BENASHORESTREET,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ADNAN ARABI S. GHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            745338",
+        "address": "ADBUILDING2611,AINZARA1564,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAHMOUD A. S. ELGHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            472722",
+        "address": "ADBUILDING,10,34,116BENASHORESTREET,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ADNAN ARABI S. GHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            745338",
+        "address": "ADBUILDING2611,AINZARA1564,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAHMOUD A. S. ELGHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            472722",
+        "address": "ADBUILDING,10,34,116BENASHORESTREET,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ADNAN ARABI S. GHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            745338",
+        "address": "ADBUILDING2611,AINZARA1564,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAHMOUD A. S. ELGHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            472722",
+        "address": "ADBUILDING,10,34,116BENASHORESTREET,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "ADNAN ARABI S. GHARIB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            745338",
+        "address": "ADBUILDING2611,AINZARA1564,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "FLAT 1, PEARL RESIDENCE, TRIQ V MENVILLE,",
+  "company_id": "C 49717",
+  "registration_date": "May 20, 2010",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 200000
+}

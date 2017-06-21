@@ -1,0 +1,101 @@
+{
+  "name": "Baker Street Patisseries Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Alexia Fleri Soler\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            238093M",
+        "address": "45/4,TriqPlajjetIl-BognorST.PAUL'SBAYSPB2660MALTA"
+      },
+      {
+        "name": "Joseph Simon Gauci\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52968M",
+        "address": "31SoGalerie,Flat3,TriqDunKarmIKLINIKL1023MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Alexia Fleri Soler\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            238093M",
+        "address": "45/4,TriqPlajjetIl-BognorST.PAUL'SBAYSPB2660MALTA"
+      },
+      {
+        "name": "Joseph Simon Gauci\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52968M",
+        "address": "31SoGalerie,Flat3,TriqDunKarmIKLINIKL1023MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Joseph Simon Gauci\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52968M",
+        "address": "31SoGalerie,Flat3TriqDunKarmIKLINIKL1023MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Alexia Fleri Soler\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            238093M",
+        "address": "45/4,TriqPlajjetIl-BognorST.PAUL'SBAYSPB2660MALTA"
+      },
+      {
+        "name": "Joseph Simon Gauci\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52968M",
+        "address": "31SoGalerie,Flat3,TriqDunKarmIKLINIKL1023MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Alexia Fleri Soler\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            238093M",
+        "address": "45/4,TriqPlajjetIl-BognorST.PAUL'SBAYSPB2660MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 588
+        }
+      },
+      {
+        "name": "Joseph Simon Gauci\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52968M",
+        "address": "31SoGalerie,Flat3,TriqDunKarmIKLINIKL1023MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 612
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "The Picture House, Geronimo Abos street",
+  "company_id": "C 74983",
+  "registration_date": "Apr 07, 2016",
+  "shares_currency": "EUR",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

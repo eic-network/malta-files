@@ -1,0 +1,79 @@
+{
+  "company_id": "C 31194",
+  "address": "VINCENTI BUILDINGS, SUITE 237, 14/19, STRAIT STREET,",
+  "name": "BRIDGEPORT LABORATORIES LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 26, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IOANNIS FLOROS\r",
+        "party_id": "                                                            0273334",
+        "address": "12,MEGAALEXANDROUSTREET,GLYFADAGREECE",
+        "nationality": "CYPRIOT"
+      },
+      {
+        "name": "ITAI KATHEIN\r",
+        "party_id": "                                                            087886993",
+        "address": "322,EAST50THSTREET,NEWYORK10022UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "EYAL YECHEZKELL\r",
+        "party_id": "                                                            044152882",
+        "address": "322,EAST50THSTREET,NEWYORK10022UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ITAI KATHEIN\r",
+        "party_id": "                                                            087886993",
+        "address": "322,EAST50THSTREET,NEWYORK10022UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EYAL YECHEZKELL\r",
+        "party_id": "                                                            044152882",
+        "address": "322,EAST50THSTREET,NEWYORK10022UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EYAL YECHEZKELL\r",
+        "party_id": "                                                            044152882",
+        "address": "322,EAST50THSTREET,NEWYORK10022UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ]
+  }
+}

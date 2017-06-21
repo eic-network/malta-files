@@ -1,0 +1,91 @@
+{
+  "company_id": "C 50483",
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "name": "BROS GROUP HOLDING LIMITED",
+  "locality": "FLORIANA",
+  "status": "",
+  "registration_date": "Aug 23, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "KFG HOLDING LTD\r",
+        "party_id": "                                                            C 46659",
+        "address": "VAULT14,LEVEL2,VALLETTAWATERFRONT,FLORIANAFRN1913MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

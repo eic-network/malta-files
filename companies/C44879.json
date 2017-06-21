@@ -1,0 +1,78 @@
+{
+  "name": "AQUAZONE LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID HARDING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            68264M",
+        "address": "12,OLDBAKERYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SULAIMAN A. KHALIFA KARIM\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            524993",
+        "address": "SIDIMOUSSA,GHARIANSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SULAIMAN A. KHALIFA KARIM\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            524993",
+        "address": "SIDIMOUSSA,GHARIANSTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ADRIAN MILLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01889",
+        "address": "DESAINCRT,FLAT1,TRIQIT-TAMAL,ST.JULIANSSTJ1942MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SULAIMAN A. KHALIFA KARIM\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            524993",
+        "address": "SIDIMOUSSA,GHARIANSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SULAIMAN A. KHALIFA KARIM\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            524993",
+        "address": "SIDIMOUSSA,GHARIANSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "1, DE SAIN COURT TRIQ IT-TAMAL",
+  "company_id": "C 44879",
+  "registration_date": "Aug 08, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1250
+}

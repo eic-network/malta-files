@@ -1,0 +1,187 @@
+{
+  "name": "AVIASERVE LIMITED",
+  "total_issued_shares_value": 1000001,
+  "total_authorised_shares_value": 1000001,
+  "authorised_shares": [
+    {
+      "issued_shares": 250000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 250000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 250000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 250000,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            641052M",
+        "address": "20Triqil-GardellSANGWANNSGN4252MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVASTRIQIL-HARRUB,MADLIENASWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "Paul Psaila\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0158256M",
+        "address": "1TriqPaceSLIEMAMALTA"
+      },
+      {
+        "name": "JOHN R RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREETGHARGHURGHR1535MALTA"
+      },
+      {
+        "name": "JOHN S WILLIS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040687977",
+        "address": "WARRENHOUSE,WILLOWMEADDRIVE,PRESTBURY,CHESHIRESK104BUUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVASTRIQIL-HARRUB,MADLIENASWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "Paul Psaila\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0158256M",
+        "address": "1TriqPaceSLIEMAMALTA"
+      },
+      {
+        "name": "JOHN R RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREETGHARGHURGHR1535MALTA"
+      },
+      {
+        "name": "JOHN S WILLIS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040687977",
+        "address": "WARRENHOUSE,WILLOWMEADDRIVE,PRESTBURY,CHESHIRESK104BUUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVASTRIQIL-HARRUB,MADLIENASWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "Paul Psaila\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0158256M",
+        "address": "1TriqPaceSLIEMAMALTA"
+      },
+      {
+        "name": "JOHN R RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREETGHARGHURGHR1535MALTA"
+      },
+      {
+        "name": "JOHN S WILLIS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040687977",
+        "address": "WARRENHOUSE,WILLOWMEADDRIVE,PRESTBURY,CHESHIRESK104BUUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GGM Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 46163",
+        "address": "22,LASCARISWHARF,VALLETTAVLT1921MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250000
+        }
+      },
+      {
+        "name": "VICTOR ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            641052M",
+        "address": "20Triqil-GardellSANGWANNSGN4252MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000001,
+  "address": "22, LASCARIS WHARF,",
+  "company_id": "C 31426",
+  "registration_date": "May 15, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000001
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BALIAN HOLDINGS LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANN MARIE GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0911485",
+        "address": "29,KYOTOC.TRIDENTISTREET,TAL-IBRAGGSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA"
+      },
+      {
+        "name": "JONATHAN YOUENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            304907298",
+        "address": "6,DURWESTONMEWS,LONDONW1U6DDUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA"
+      },
+      {
+        "name": "JONATHAN YOUENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            304907298",
+        "address": "6,DURWESTONMEWS,LONDONW1U6DDUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA"
+      },
+      {
+        "name": "JONATHAN YOUENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            304907298",
+        "address": "6,DURWESTONMEWS,LONDONW1U6DDUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "6/5, SIR WILLIAM REID STREET,",
+  "company_id": "C 39318",
+  "registration_date": "Aug 10, 2006",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

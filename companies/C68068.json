@@ -1,0 +1,123 @@
+{
+  "name": "ASSOCIATED TOBACCO COMPANY LIMITED",
+  "total_issued_shares_value": 1451,
+  "total_authorised_shares_value": 1451,
+  "authorised_shares": [
+    {
+      "issued_shares": 1450,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1450,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOHN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312965M",
+        "address": "32,BWIEQISTREET,MOSTAMST2661MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LAETITIA LEFEVRE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            506773269",
+        "address": "FLAT1,THREEKCOURT,ST.JULIANS'SROAD,SANGWANNSGN2805MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAHA AREBI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMLH4042MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAHA AREBI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMLH4042MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEVILLE TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11118",
+        "address": "53,NEVANN,TRIQIL-BATTERIJA,ZONQOR,MARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAHA AREBI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMLH4042MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASSOCIATED TOBACCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68017",
+        "address": "4THFLOOR,AVANTECHBUILDING,ST.JULIAN'SROAD,SANGWANNSGN2805MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1450
+        }
+      },
+      {
+        "name": "MAITLAND MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44838",
+        "address": "4THFLOOR,AVANTECHBUILDING,ST.JULIAN'SROAD,SANGWANNSGN2805MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1451,
+  "address": "4TH FLOOR, AVANTECH BUILDING ST. JULIANS ROAD,",
+  "company_id": "C 68068",
+  "registration_date": "Dec 12, 2014",
+  "shares_currency": "USD",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1451
+}

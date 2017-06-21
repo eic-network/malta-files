@@ -1,0 +1,91 @@
+{
+  "name": "Amberton Holdings Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TATYANA CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417800L",
+        "address": "58TriqSant'AlfonsuSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLGA DITZEL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N5799193",
+        "address": "1/43,ST.FRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLGA DITZEL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N5799193",
+        "address": "1/43,ST.FRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04488",
+        "address": "31OAKHILLAPTSTRIQSCICLUNASLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OLGA DITZEL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N5799193",
+        "address": "1/43,ST.FRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Room 4, Office 18, Block 19 Vincenti Bld, Strait street",
+  "company_id": "C 52657",
+  "registration_date": "Apr 21, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

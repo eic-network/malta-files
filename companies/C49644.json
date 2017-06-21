@@ -1,0 +1,151 @@
+{
+  "company_id": "C 49644",
+  "address": "4TH FLOOR, AVANTECH BUILDING, ST. JULIAN'S ROAD,",
+  "name": "BRAIT MALTA LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "May 13, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 22499999999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 0.01,
+      "issued_shares": 226646456
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 0.01,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 22500000000,
+  "total_authorised_shares_value": 225000000,
+  "total_issued_shares": 226646457,
+  "total_issued_shares_value": 2266464.57,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MAHA AREBI\r",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "IVOR BRETT CHILDS\r",
+        "party_id": "                                                            099040881",
+        "address": "FRANCOISEPARK,EDENROCKLANE,PEREYBERE,MERVILLEMAURITIUS",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "HERMANUS ROELOF WILLEM TROSKIE\r",
+        "party_id": "                                                            NV602FK43",
+        "address": "2,RUEDESTHERMESROMAINS,MAMERL-8266LUXEMBOURG",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRAIT SE\r",
+        "party_id": "                                                            SE 1",
+        "address": "AVANTECHBUILDING,ST.JULIAN'SROAD,SANGWANNSGN2805MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 226646456,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.01
+        }
+      },
+      {
+        "name": "MAITLAND MALTA LIMITED\r",
+        "party_id": "                                                            C 44838",
+        "address": "4THFLOOR,AVANTECHBUILDING,ST.JULIAN'SROAD,SANGWANNSGN2805MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.01
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAHA AREBI\r",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "IVOR BRETT CHILDS\r",
+        "party_id": "                                                            099040881",
+        "address": "FRANCOISEPARK,EDENROCKLANE,PEREYBERE,MERVILLEMAURITIUS",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "HERMANUS ROELOF WILLEM TROSKIE\r",
+        "party_id": "                                                            NV602FK43",
+        "address": "2,RUEDESTHERMESROMAINS,MAMERL-8266LUXEMBOURG",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAHA AREBI\r",
+        "party_id": "                                                            131874M",
+        "address": "31,STELIASSTRET,ST.JULIANSSTJ1124MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "IVOR BRETT CHILDS\r",
+        "party_id": "                                                            099040881",
+        "address": "FRANCOISEPARK,EDENROCKLANE,PEREYBERE,MERVILLEMAURITIUS",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "party_id": "                                                            70793A",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "HERMANUS ROELOF WILLEM TROSKIE\r",
+        "party_id": "                                                            NV602FK43",
+        "address": "2,RUEDESTHERMESROMAINS,MAMERL-8266LUXEMBOURG",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA ANGELA STIVALA\r",
+        "party_id": "                                                            61673M",
+        "address": "FLAT2,GOLD2,TRIQIS-SNAJJA,MSIDAMSD1113MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

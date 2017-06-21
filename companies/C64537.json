@@ -1,0 +1,70 @@
+{
+  "company_id": "C 64537",
+  "address": "15, GROGNET STREET,",
+  "name": "BOURJ EL-SHATI CONSTRUCTION LTD",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Apr 03, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HISHAM MAHMED TBELA\r",
+        "party_id": "                                                            383600",
+        "address": "SHATTROAD,NEARTHEMOSQUE'SHINSHIR,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HISHAM MAHMED TBELA\r",
+        "party_id": "                                                            383600",
+        "address": "SHATTROAD,NEARTHEMOSQUE'SHINSHIR,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HISHAM MAHMED TBELA\r",
+        "party_id": "                                                            383600",
+        "address": "SHATTROAD,NEARTHEMOSQUE'SHINSHIR,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HISHAM MAHMED TBELA\r",
+        "party_id": "                                                            383600",
+        "address": "SHATTROAD,NEARTHEMOSQUE'SHINSHIR,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "HISHAM MAHMED TBELA\r",
+        "party_id": "                                                            383600",
+        "address": "SHATTROAD,NEARTHEMOSQUE'SHINSHIR,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

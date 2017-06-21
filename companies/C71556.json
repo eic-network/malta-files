@@ -1,0 +1,91 @@
+{
+  "name": "ARPER SHIPPING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENASWIEQISWQ1413MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIO SPIEZIA\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            036688",
+        "address": "4,AVENUEHECTOROTTOMONACO98000MONACO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIO SPIEZIA\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            036688",
+        "address": "4,AVENUEHECTOROTTOMONACO98000MONACO"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUNGARO-MIFSUD ASSURANCE\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/01",
+        "address": "CMSHOUSE,THRIDFLOOR,STPETER'SSTREETSANGWANNSGN2310MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIO SPIEZIA\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            036688",
+        "address": "4,AVENUEHECTOROTTOMONACO98000MONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIO SPIEZIA\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            036688",
+        "address": "4,AVENUEHECTOROTTOMONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1350
+        }
+      },
+      {
+        "name": "GIOVANNI STABILE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3673943",
+        "address": "18,QUAIJ.C.REY,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "CMS HOUSE, GROUND FLOOR ST. PETER'S STREET",
+  "company_id": "C 71556",
+  "registration_date": "Jul 22, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

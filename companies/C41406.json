@@ -1,0 +1,83 @@
+{
+  "name": "A.B.L. LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIETRO LOMBARDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AG4134117",
+        "address": "VIAGLAPIRAN12MASCALUCIA(CT)SICILYITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIETRO LOMBARDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AG4134117",
+        "address": "VIAGLAPIRAN12MASCALUCIA(CT)SICILYITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANGELO BISICCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AJ2589324",
+        "address": "VIAPLEBISCITONR381PL2SICILYITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIETRO LOMBARDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AG4134117",
+        "address": "VIAGLAPIRAN12MASCALUCIA(CT)SICILYITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELO BISICCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AJ2589324",
+        "address": "VIAPLEBISCITONR381PL2SICILYITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "PIETRO LOMBARDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AG4134117",
+        "address": "VIAGLAPIRAN12MASCALUCIA(CT)SICILYITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 41406",
+  "registration_date": "May 17, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

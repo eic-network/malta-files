@@ -1,0 +1,109 @@
+{
+  "name": "BALZAN ESTATES LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEAN PAUL SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            550079M",
+        "address": "TREVI,OFFICE1,SALINAROAD,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "PAUL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232165M",
+        "address": "PAULJACK,TRIQIL-FENICI,SAFIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "PAUL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232165M",
+        "address": "PAULJACK,TRIQIL-FENICI,SAFIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "PAUL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232165M",
+        "address": "PAULJACK,TRIQIL-FENICI,SAFIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POLIDANO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15143",
+        "address": "POLIDANOBROS.LTDHALFARRUGROADLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "POLIDANO PROPERTIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21689",
+        "address": "POLIDANOHOLDINGSLIMITED,HAL-FARRUGROAD,LUQALQA05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "POLIDANO GROUP OFFICE, HAL FARRUG ROAD,",
+  "company_id": "C 39469",
+  "registration_date": "Sep 05, 2006",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

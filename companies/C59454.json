@@ -1,0 +1,91 @@
+{
+  "company_id": "C 59454",
+  "address": "ARIES BUILDING, 4 GANNI VASSALLO STREET",
+  "name": "BRANDAIR LIMITED",
+  "locality": "LUQA",
+  "status": "",
+  "registration_date": "Feb 26, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANDREW TRINCHERO\r",
+        "party_id": "                                                            105586A",
+        "address": "FLAT2MAREIONIO(BLK1),TRIQIZ-ZONQOR,MARSASCALAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HUDCO B.V.\r",
+        "party_id": "                                                            64708764",
+        "address": "1062XK,OVERSCHIESTRAAT184,AMSTERDAMNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MVO GMBH\r",
+        "party_id": "                                                            HRB222089",
+        "address": "GERHARDING1,PLIENING,85652GERMANY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW TRINCHERO\r",
+        "party_id": "                                                            105586A",
+        "address": "FLAT2MAREIONIO(BLK1),TRIQIZ-ZONQOR,MARSASCALAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW TRINCHERO\r",
+        "party_id": "                                                            105586A",
+        "address": "FLAT2MAREIONIO(BLK1),TRIQIZ-ZONQOR,MARSASCALAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDREW TRINCHERO\r",
+        "party_id": "                                                            AU7083577",
+        "address": "SHELLICOURT,FLAT5TRIQIL-QALIETMARSASCALAMSK3310MALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WDM INTERNATIONAL\r",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

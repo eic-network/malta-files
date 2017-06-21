@@ -1,0 +1,117 @@
+{
+  "company_id": "C 41551",
+  "address": "93, MILL STREET,",
+  "name": "BROADFOOT INVESTMENTS LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Jun 04, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1600
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 1600,
+  "total_issued_shares_value": 1600,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DALMORE MANAGEMENT SERVICES LIMITED\r",
+        "party_id": "                                                            1786065",
+        "address": "WOODBOURNEHALL,POBOX3162ROADTOWN,TORTOLAVG1110VIRGINISLANDS,BRITISH",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LOUISE ANNE BREED\r",
+        "party_id": "                                                            518789915",
+        "address": "41MOSE,QUATFORD,BRIDGNORTH,SHROPSHIREUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 533,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EMMA CAPLAN\r",
+        "party_id": "                                                            514527991",
+        "address": "THEENDCOTTAGEBENFLEETHALL,23,GREENLANE,COBHAM,SURREYKT112NNUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 533,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ALISON HALES\r",
+        "party_id": "                                                            651890403",
+        "address": "80B,MOUNTARARATROAD,RICHMOND,SURREYTW106PNUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 533,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Alison Hales & Louise Breed & Emma Caplan\r",
+        "party_id": "                                                            651890403",
+        "address": "80B,MOUNTARARATROAD,RICHMOND,SURREYTW106PNUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DALMORE MANAGEMENT SERVICES LIMITED\r",
+        "party_id": "                                                            1786065",
+        "address": "WOODBOURNEHALL,POBOX3162ROADTOWN,TORTOLAVG1110VIRGINISLANDS,BRITISH",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DALMORE MANAGEMENT SERVICES LIMITED\r",
+        "party_id": "                                                            1786065",
+        "address": "WOODBOURNEHALL,POBOX3162ROADTOWN,TORTOLAVG1110VIRGINISLANDS,BRITISH",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN BORG\r",
+        "party_id": "                                                            48046",
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

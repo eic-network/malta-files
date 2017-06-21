@@ -1,0 +1,83 @@
+{
+  "name": "ALMO CONSULTING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCO B VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532261M",
+        "address": "52/2,OLDTHEATRESTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLEMENTS NOMINEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            516369",
+        "address": "OMCCHAMBERS,P.O.BOX3152ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'PALAZZO PIETRO STIGES', 60, CHRISTOPHER STREET,",
+  "company_id": "C 29631",
+  "registration_date": "Apr 29, 2002",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

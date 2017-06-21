@@ -1,0 +1,105 @@
+{
+  "name": "BEST WINES INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "DAMIAN BIGENI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4685G",
+        "address": "74/1,GEORGEBORGOLIVIERSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GIOVANNI BATTISTA FORTE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0107709A",
+        "address": "10,PALMSPRINGMANSIONS,FLAT2,TRIQPACESLIEMASLM3072MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Raffaele Piu\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4382315",
+        "address": "ViaRanieriGrassiNo9,Level1,PisaITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Raffaele Piu\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4382315",
+        "address": "ViaRanieriGrassiNo9,Level1,PisaITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAULIANA SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110125",
+        "address": "36,StDminkaStreet,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Raffaele Piu\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4382315",
+        "address": "ViaRanieriGrassiNo9,Level1,PisaITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SURITO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1853880",
+        "address": "PALMGROVEHOUSE,P.O.BOX438,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "YANA KVITKA\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            0118295A",
+        "address": "39FLAT6TRIQMARKIZIZIMMERMANNBARBAROSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE LEVEL 2, ONSITE BUILDINGS, VALLEY ROAD,",
+  "company_id": "C 68850",
+  "registration_date": "Jan 30, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

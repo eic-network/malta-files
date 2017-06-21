@@ -1,0 +1,121 @@
+{
+  "name": "BEST PLAY GAMING LIMITED",
+  "total_issued_shares_value": 660441,
+  "total_authorised_shares_value": 660441,
+  "authorised_shares": [
+    {
+      "issued_shares": 204999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 204999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 205001,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 205001,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 250441,
+      "type": "RedeemablePreferenceNON-VOTINGCUMULATIVE",
+      "authorised_share_capital": 250441,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHANN CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296178M",
+        "address": "15,HNIENADIVINATRIQINNASSABAQORMIQRM3542MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANN CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296178M",
+        "address": "15,HNIENADIVINATRIQINNASSABAQORMIQRM3542MALTA"
+      },
+      {
+        "name": "YORGEN FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36482M",
+        "address": "BLOCK28APARTMENT82,PORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHANN CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296178M",
+        "address": "15,HNIENADIVINATRIQINNASSABAQORMIQRM3542MALTA"
+      },
+      {
+        "name": "YORGEN FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36482M",
+        "address": "BLOCK28APARTMENT82,PORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHANN CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296178M",
+        "address": "15,HNIENADIVINATRIQINNASSABAQORMIQRM3542MALTA"
+      },
+      {
+        "name": "YORGEN FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36482M",
+        "address": "BLOCK28APARTMENT82,PORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHANN CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296178M",
+        "address": "15,HNIENADIVINATRIQINNASSABAQORMIQRM3542MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 204999
+        }
+      },
+      {
+        "name": "Oracle Gaming Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 44124",
+        "address": "LEVEL3,PORTOMASOBUSINESSTOWER,PORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 205001
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 660441,
+  "address": "LEVEL 3, PORTOMASO BUSINESS TOWER, PORTOMASO",
+  "company_id": "C 40445",
+  "registration_date": "Dec 27, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 660441
+}

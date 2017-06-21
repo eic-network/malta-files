@@ -1,0 +1,97 @@
+{
+  "name": "BluO Malta FinOp Limited",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201373M",
+        "address": "120,ESPOIR,VALLEYSTREET,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFAN BEULERTZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            37942A",
+        "address": "PORTICO7,MENSIJASTREET,ST.JULIANSSTJ1969MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFAN BEULERTZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            37942A",
+        "address": "PORTICO7,MENSIJASTREET,ST.JULIANSSTJ1969MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEFAN BEULERTZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            37942A",
+        "address": "PORTICO7,MENSIJASTREET,ST.JULIANSSTJ1969MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POLCONSULT SPOLKA Z ORGANICZONA\r",
+        "nationality": "",
+        "party_id": "                                                            080022338",
+        "address": "WELNIANYRYNEK,NR10A,LOK7,POCZTAGORZOMWIELKOPOLSIKOD66-400POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "STEFAN BEULERTZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            37942A",
+        "address": "PORTICO7,MENSIJASTREET,ST.JULIANSSTJ1969MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "PORTICO 7, MENSIJA STREET,",
+  "company_id": "C 45713",
+  "registration_date": "Nov 28, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

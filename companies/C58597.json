@@ -1,0 +1,107 @@
+{
+  "name": "BETCOMPILER LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 960,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 960,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Triglav Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 51270",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA"
+      },
+      {
+        "name": "MARC GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            515686M",
+        "address": "170,TRIQLELIFALZON,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Triglav Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 51270",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA"
+      },
+      {
+        "name": "MARC GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            515686M",
+        "address": "170,TRIQLELIFALZON,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258781M",
+        "address": "RAMSEY,FLAT1,TRIQFRAFERDMATTEI,ZEBBUGZBG1130MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Triglav Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 51270",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA"
+      },
+      {
+        "name": "MARC GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            515686M",
+        "address": "170,TRIQLELIFALZON,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 960
+        }
+      },
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 3, 64/1, AGITON BUILDINGS, ST. ANTHONY STREET,",
+  "company_id": "C 58597",
+  "registration_date": "Dec 12, 2012",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

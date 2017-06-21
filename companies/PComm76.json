@@ -1,0 +1,64 @@
+{
+  "total_issued_shares_value": 6333500,
+  "registration_date": "Nov 28, 2006",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BSR Real Estate Investments Partnership",
+  "total_issued_shares": 4333500,
+  "address": "171, Old Bakery Street,",
+  "company_id": "P COMM 76",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 3166750,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "OOSTEINDE7-11AMSTERDAM1017NETHERLANDS",
+        "party_id": "                                                            34254802",
+        "name": "BSR REAL ESTATE PARTNERS C.V.\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 3103415,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "ONEEXCHANGESQUARELONDONEC2A2JNUNITEDKINGDOM",
+        "party_id": "",
+        "name": "EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 63335,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "OOSTEINDE7-11AMSTERDAM1017WTNETHERLANDS",
+        "party_id": "                                                            34124059",
+        "name": "GIBOR BSR EUROPE BV\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 6333500,
+      "authorised_share_capital": 6333500,
+      "type": ""
+    }
+  ],
+  "total_authorised_shares": 6333500,
+  "total_authorised_shares_value": 6333500,
+  "shares_currency": "EUR"
+}

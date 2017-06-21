@@ -1,0 +1,101 @@
+{
+  "name": "A&G DISTRIBUTION LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3347608",
+        "address": "VIATERMOPILINO.26,SCICLISICILIAITALY"
+      },
+      {
+        "name": "GIANLUCA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4598982",
+        "address": "VIADELPALOROSSONO.14,SCICLI,SICILIAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3347608",
+        "address": "VIATERMOPILINO.26,SCICLISICILIAITALY"
+      },
+      {
+        "name": "GIANLUCA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4598982",
+        "address": "VIADELPALOROSSONO.14,SCICLI,SICILIAITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GIANLUCA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4598982",
+        "address": "VIADELPALOROSSONO.14,SCICLI,SICILIAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3347608",
+        "address": "VIATERMOPILINO.26,SCICLISICILIAITALY"
+      },
+      {
+        "name": "GIANLUCA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4598982",
+        "address": "VIADELPALOROSSONO.14,SCICLI,SICILIAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3347608",
+        "address": "VIATERMOPILINO.26,SCICLISICILIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "GIANLUCA CAUSARANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4598982",
+        "address": "VIADELPALOROSSONO.14,SCICLI,SICILIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 9, QAWRA TOWERS, TRIQ IL-QAWRA, QAWRA,",
+  "company_id": "C 65332",
+  "registration_date": "May 27, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

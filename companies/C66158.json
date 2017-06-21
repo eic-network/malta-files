@@ -1,0 +1,102 @@
+{
+  "name": "APPLETON LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ISABELLA FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F497281",
+        "address": "VIADELLEMURA29,VITERBOF497281ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ISABELLA FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F497281",
+        "address": "VIADELLEMURA29,VITERBOF497281ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "COSTANZA GARRAFA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F497280",
+        "address": "VIADELLEMURA29,VITERBOITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ISABELLA FERRAZZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F497281",
+        "address": "VIADELLEMURA29,VITERBOF497281ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KINANIS FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62210",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "KINANIS FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62210",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 335
+        }
+      },
+      {
+        "name": "LEVANTES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57804",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "7A SIR LUIGI CAMILLERI STREET",
+  "company_id": "C 66158",
+  "registration_date": "Jul 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

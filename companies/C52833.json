@@ -1,0 +1,181 @@
+{
+  "name": "BOE FINANCE LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARTIN CIAPPARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            413173M",
+        "address": "THEOTOKOS,SIRHARRYLUKESTREET,MGARRMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "34,RIVIERAMANS,APT10,TRIQIL-LAMPUKA,MARSASCALAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468258M",
+        "address": "IR-RAZZETT,BINGEMMAROAD,MGARRMALTA"
+      },
+      {
+        "name": "MARK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296963M",
+        "address": "ST.MARY,ST.MARYSTREET,MGARRMALTA"
+      },
+      {
+        "name": "MARTIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525264M",
+        "address": "THUIS,TRIQIZ-ZEBBIEGH,MGARRMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HLB FALZON & FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/14",
+        "address": "12,CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAFRN1060MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "34,RIVIERAMANS,APT10,TRIQIL-LAMPUKA,MARSASCALAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HAL MANN VELLA GROUP P.L.C.\r",
+        "nationality": "",
+        "party_id": "                                                            C 5067",
+        "address": "THEFACTORYMOSTAROADLIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "VERONICA CIAPPARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            459170M",
+        "address": "THEOTOKAS,SIRHARRYLUKESTREET,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "MIRIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            790260M",
+        "address": "43,VANILJASTREET,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468258M",
+        "address": "IR-RAZZETT,BINGEMMAROAD,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "MARK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296963M",
+        "address": "ST.MARY,ST.MARYSTREET,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "MARTIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525264M",
+        "address": "THUIS,TRIQIZ-ZEBBIEGH,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661359M",
+        "address": "SENTOSA,ZEBBIEGHROAD,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            240566M",
+        "address": "FIORANO,ZEBBIEGHROAD,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "HAL MANN, THE FACTORY, MOSTA ROAD,",
+  "company_id": "C 52833",
+  "registration_date": "May 12, 2011",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

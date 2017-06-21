@@ -1,0 +1,115 @@
+{
+  "name": "ATHLETICS MALTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 479,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 2.5
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWIN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619960M",
+        "address": "550,FLAT1,ST.PAUL'SSTREETST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWIN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619960M",
+        "address": "550,FLAT1,ST.PAUL'SSTREETST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ANTHONY A. CHIRCOP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731044M",
+        "address": "'PRIMROSE'25TRIQIR-REBBIEGHAQORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWIN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619960M",
+        "address": "550,FLAT1,ST.PAUL'SSTREETST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ANTHONY A. CHIRCOP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731044M",
+        "address": "'PRIMROSE'25TRIQIR-REBBIEGHAQORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH C. PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19206",
+        "address": "54,COL.LORENZOMANCHESTREET,PEMBROKEPBK1112MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWIN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619960M",
+        "address": "550,FLAT1,ST.PAUL'SSTREETST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ANTHONY A. CHIRCOP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731044M",
+        "address": "'PRIMROSE'25TRIQIR-REBBIEGHAQORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MALTA AMATEUR ATHLETIC ASSOCIATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "'ATHLETICSMALTAHOUSE',RACECOURSESTREET,MARSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 479
+        }
+      },
+      {
+        "name": "EDWIN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619960M",
+        "address": "550,FLAT1,ST.PAUL'SSTREETST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 480,
+  "address": "'ATHLETICS MALTA HOUSE', 7, RACECOURSE STREET,",
+  "company_id": "C 43593",
+  "registration_date": "Feb 18, 2008",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

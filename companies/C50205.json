@@ -1,0 +1,99 @@
+{
+  "name": "BETASEA LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOSEPH FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263478M",
+        "address": "4,TUDORHOUSE,TRASFIGURATIONSQUARE,LIJALJA1021MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GARY JAMES SHILLING\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305677714",
+        "address": "2NDFLOOR,DEBURGHHOUSE,MARKETROAD,WICKFORD,ESSEXSS120FDUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52/1SOUTHSTREETVALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52/1SOUTHSTREETVALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52/1SOUTHSTREETVALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "MLG HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 52218",
+        "address": "36,ARCHBISHOPSTREET,VALLETTAVLT1447MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, SUITE 5, TOWER STREET, SWATAR",
+  "company_id": "C 50205",
+  "registration_date": "Jul 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100
+}

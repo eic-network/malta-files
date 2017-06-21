@@ -1,0 +1,99 @@
+{
+  "name": "7 INVEST LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAYMOND J. VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487766M",
+        "address": "193,URSULINESISTERSSTREET,GUARDAMANGIA,PIETA'PTA1224MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENA,SWIEQISWQ1413MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MORENO PICCHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4118916",
+        "address": "1A,PIAZZAANDREACOSTA,CITTADICASTELLO,06012ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MORENO PICCHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4118916",
+        "address": "1A,PIAZZAANDREACOSTA,CITTADICASTELLO,06012ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MORENO PICCHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4118916",
+        "address": "1A,PIAZZAANDREACOSTA,CITTADICASTELLO,06012ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "7 HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 67290",
+        "address": "CMSHOUSE,THIRDFLOORST.PETER'SSTREETSANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "CMS HOUSE, THIRD FLOOR, ST. PETER'S STREET,",
+  "company_id": "C 59147",
+  "registration_date": "Jan 30, 2013",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

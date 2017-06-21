@@ -1,0 +1,93 @@
+{
+  "name": "ALRO LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER KAYMEN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099036707",
+        "address": "6,CHELSEAEMBANIKMENTLONDONSW34LFUNITEDKINGDOM"
+      },
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER KAYMEN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099036707",
+        "address": "6,CHELSEAEMBANIKMENTLONDONSW34LFUNITEDKINGDOM"
+      },
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER KAYMEN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099036707",
+        "address": "6,CHELSEAEMBANIKMENTLONDONSW34LFUNITEDKINGDOM"
+      },
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALRO GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44716",
+        "address": "LEVEL5,THEMALLCOMPLEX,THEMALL,FLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ISKANDAR KARAM\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540551492",
+        "address": "SUNHOUSE6CHELSEAEMBANKMENTLONDONSW34LFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 44780",
+  "registration_date": "Jul 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

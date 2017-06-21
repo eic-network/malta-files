@@ -1,0 +1,115 @@
+{
+  "name": "AS FINANCIAL SERVICES LIMITED",
+  "total_issued_shares_value": 135000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 134999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 134999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCESCO APAP BOLOGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12464M",
+        "address": "12,MESQUITASTREET,MDINAMDN1075MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            273773M",
+        "address": "IL-VISCHIO,TRIQEUGENIOBORG,ZEBBUGZBG2392MALTA"
+      },
+      {
+        "name": "ALBERTO SAFDIE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03FE20304",
+        "address": "122ROUTEDEFLORISSANTGENEVA1206SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            273773M",
+        "address": "IL-VISCHIO,TRIQEUGENIOBORG,ZEBBUGZBG2392MALTA"
+      },
+      {
+        "name": "ALBERTO SAFDIE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03FE20304",
+        "address": "122ROUTEDEFLORISSANTGENEVA1206SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IVAN CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            273773M",
+        "address": "IL-VISCHIO,TRIQEUGENIOBORG,ZEBBUGZBG2392MALTA"
+      },
+      {
+        "name": "ALBERTO SAFDIE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03FE20304",
+        "address": "122ROUTEDEFLORISSANTGENEVA1206SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HOBI TRADE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1439709",
+        "address": "TRIDENTCHAMBERS,WICKHAMSCAY,POBOX146,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 134999
+        }
+      },
+      {
+        "name": "ALBERTO SAFDIE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03FE20304",
+        "address": "122ROUTEDEFLORISSANTGENEVA1206SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 135000,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 42796",
+  "registration_date": "Nov 14, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

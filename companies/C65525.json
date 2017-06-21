@@ -1,0 +1,78 @@
+{
+  "name": "AMPA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "16,COLISA,MONS.A.BUHAGIARSTREET,RABATRBT1836MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CIPRIAN IULIAN STOEAN\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            AT7096140",
+        "address": "VIAGARIBALDI77/A,PASIANODIPORDENONE(PN)33087ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO. 89/1, TIGNE STREET,",
+  "company_id": "C 65525",
+  "registration_date": "Jun 06, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

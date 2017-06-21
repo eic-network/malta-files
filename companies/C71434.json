@@ -1,0 +1,70 @@
+{
+  "name": "BBB ONE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DG Fiduciary Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DG Fiduciary Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "24,TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DG Fiduciary Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ENERGY VESSEL COMPANY (BERMUDA) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            50453",
+        "address": "CLARENDONHOUSE,CHURCHSTREETWEST,HAMILTONHM11BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18/2, SOUTH STREET",
+  "company_id": "C 71434",
+  "registration_date": "Jul 14, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

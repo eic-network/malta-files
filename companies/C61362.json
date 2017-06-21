@@ -1,0 +1,101 @@
+{
+  "name": "BONSALL SHIPPING LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KEMAL AVCI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U09786608",
+        "address": "BAHCESEHIR,2.KISIMMAH,SELALEVILLANO86,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEMAL AVCI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U09786608",
+        "address": "BAHCESEHIR,2.KISIMMAH,SELALEVILLANO86,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEMAL AVCI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U09786608",
+        "address": "BAHCESEHIR,2.KISIMMAH,SELALEVILLANO86,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HALUK ATTILA AKSAK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01770306",
+        "address": "BADEM8VILLA6,BAHCESEHIR,BASAKSEHIR,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 303
+        }
+      },
+      {
+        "name": "KEMAL AVCI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U09786608",
+        "address": "BAHCESEHIR,2.KISIMMAH,SELALEVILLANO86,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 410
+        }
+      },
+      {
+        "name": "MURAT CACAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05567501",
+        "address": "SENLIKMAH.SEHITILHAN,YALCINSOK.NARCICEGISITESI,ABLOKNO5D9,BAKIRKOY,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 257
+        }
+      },
+      {
+        "name": "OMER BURAK TUNALI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U00371717",
+        "address": "MESAMASLAKB:8D:5,MASLAK,INSTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 61362",
+  "registration_date": "Jul 29, 2013",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

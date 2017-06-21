@@ -1,0 +1,89 @@
+{
+  "company_id": "C 72277",
+  "address": "50, TRIQ IX-XAGHRA TA' BARRA,",
+  "name": "BOTTLES & BOTTLES LIMITED",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Sep 16, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2800,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.5,
+      "issued_shares": 2800
+    }
+  ],
+  "total_authorised_shares": 2800,
+  "total_authorised_shares_value": 7000,
+  "total_issued_shares": 2800,
+  "total_issued_shares_value": 7000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "party_id": "                                                            450855M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARY VELLA\r",
+        "party_id": "                                                            314259M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "party_id": "                                                            450855M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.5
+        }
+      },
+      {
+        "name": "MARY VELLA\r",
+        "party_id": "                                                            314259M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.5
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY VELLA\r",
+        "party_id": "                                                            314259M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARY VELLA\r",
+        "party_id": "                                                            314259M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARY VELLA\r",
+        "party_id": "                                                            314259M",
+        "address": "50,TRIQIX-XAGHRATA'BARRAMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

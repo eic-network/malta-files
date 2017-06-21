@@ -1,0 +1,78 @@
+{
+  "name": "BALINEO LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPH DANGER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            814510673",
+        "address": "CZERNINGGASSE4/3/402VIENNA1020AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPH DANGER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            814510673",
+        "address": "CZERNINGGASSE4/3/402VIENNA1020AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPH DANGER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            814510673",
+        "address": "CZERNINGGASSE4/3/402VIENNA1020AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPH DANGER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            814510673",
+        "address": "CZERNINGGASSE4/3/402VIENNA1020AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POLONEO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59102",
+        "address": "60/2,MELITASTREETVALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 59103",
+  "registration_date": "Jan 25, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

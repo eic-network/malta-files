@@ -1,0 +1,141 @@
+{
+  "name": "8DEVICES EUROPE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1190,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1190,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETER BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422179M",
+        "address": "15,SAWADEE,OLDRAILWAYROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JONAS SABALIAUSKAS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22663739",
+        "address": "SIAULIU10-37,VILNIUSLT-01334LITHUANIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JONAS SABALIAUSKAS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22663739",
+        "address": "SIAULIU10-37,VILNIUSLT-01334LITHUANIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JONAS SABALIAUSKAS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22663739",
+        "address": "SIAULIU10-37,VILNIUSLT-01334LITHUANIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "UAB 8DEVICES\r",
+        "nationality": "",
+        "party_id": "                                                            302580277",
+        "address": "GEDIMINOSTR.47,KAUNASCITYMUNICIPALITY.KAUNASCITYLITHUANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1190
+        }
+      },
+      {
+        "name": "JONAS SABALIAUSKAS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22663739",
+        "address": "SIAULIU10-37,VILNIUSLT-01334LITHUANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3
+        }
+      },
+      {
+        "name": "JONAS SABALIAUSKAS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22607626",
+        "address": "T.KOSCIUSKOSG.24-26,VILNIUS,01100LITHUANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4
+        }
+      },
+      {
+        "name": "GEDIMINAS SIMANSKIS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22837707",
+        "address": "KALNOG.32-2,AUKSTUJURUSOKUVS.,AVIZIENIUSEN.,VILNIAUSRAJ.14180LITHUANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "29/14, VINCENTI BUILDINGS,  STRAIT STREET,",
+  "company_id": "C 71161",
+  "registration_date": "Jun 23, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

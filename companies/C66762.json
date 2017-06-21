@@ -1,0 +1,83 @@
+{
+  "name": "ASTRA LEASING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4268632",
+        "address": "SONNLEITENWEG2,GRAZ-ST.VEIT8046AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4268632",
+        "address": "SONNLEITENWEG2,GRAZ-ST.VEIT8046AUSTRIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4268632",
+        "address": "SONNLEITENWEG2,GRAZ-ST.VEIT8046AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4268632",
+        "address": "SONNLEITENWEG2,GRAZ-ST.VEIT8046AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTRID BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2692564",
+        "address": "SONNLEITENWEG2GRAZ-ST.VEIT8046AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 735
+        }
+      },
+      {
+        "name": "PETER BARTL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4268632",
+        "address": "SONNLEITENWEG2,GRAZ-ST.VEIT8046AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 765
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 3, THEUMA HOUSE, 302, ST. PAUL'S STREET",
+  "company_id": "C 66762",
+  "registration_date": "Sep 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

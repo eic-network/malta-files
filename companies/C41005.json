@@ -1,0 +1,62 @@
+{
+  "name": "BAHAM HOLDINGS LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 125,
+      "type": "Ordinary",
+      "authorised_share_capital": 125,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PHILLIPPE BAUDET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            01BC38150",
+        "address": "43,RUEDELIEGE,ARGENTEUIL95100FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILLIPPE BAUDET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            01BC38150",
+        "address": "43,RUEDELIEGE,ARGENTEUIL95100FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILLIPPE BAUDET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            01BC38150",
+        "address": "43,RUEDELIEGE,ARGENTEUIL95100FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILLIPPE BAUDET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            01BC38150",
+        "address": "43,RUEDELIEGE,ARGENTEUIL95100FRANCE",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 125,
+  "address": "10, FLAT 6, SAN JUAN, ST. GEORGE'S ROAD,",
+  "company_id": "C 41005",
+  "registration_date": "Mar 23, 2007",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 125
+}

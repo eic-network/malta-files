@@ -1,0 +1,91 @@
+{
+  "name": "BLUES LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "Ordinary",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH FENECH SOLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            683649M",
+        "address": "102,FLAT5,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH FENECH SOLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            683649M",
+        "address": "102,FLAT5,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH FENECH SOLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            683649M",
+        "address": "102,FLAT5,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH FENECH SOLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            683649M",
+        "address": "102,FLAT5,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NORVAL DESIRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430764M",
+        "address": "68/69,MELITASTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSEPH FENECH SOLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            683649M",
+        "address": "102,FLAT5,SPINOLAROAD,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "19 FELIC BORG STREET",
+  "company_id": "C 27393",
+  "registration_date": "Dec 04, 2000",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 6000
+}

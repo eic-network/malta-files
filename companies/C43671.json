@@ -1,0 +1,115 @@
+{
+  "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AMY FENECH ZARB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247689M",
+        "address": "TA'WEJDABLDGS,DESERTROSETRIQIT-TORRIMOSTAMST3509MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ASMIK MELIAN\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E310424",
+        "address": "18KALYPSOUSAPT.STROVOLOSNICOSIA2014CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ASMIK MELIAN\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E310424",
+        "address": "18KALYPSOUSAPT.STROVOLOSNICOSIA2014CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "SUITE8,TA'MALLIABUILDINGS,TRIQIN-NEGOZJU,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ASMIK MELIAN\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E310424",
+        "address": "18KALYPSOUSAPT.STROVOLOSNICOSIA2014CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTON GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            024374",
+        "address": "OLIAJITRADECENTRE1STFLOOR,VICTORIAMAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "THE PLAZA COMMERCIAL CENTRE LEVEL 8, SUITE 5, BISAZZA STREET",
+  "company_id": "C 43671",
+  "registration_date": "Feb 26, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

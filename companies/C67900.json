@@ -1,0 +1,70 @@
+{
+  "company_id": "C 67900",
+  "address": "OFFICE 2, SUITE 2, THE PENTHOUSE, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "name": "BREWERY INVESTMENTS LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Dec 03, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "OLEKSIY GAVRYSH\r",
+        "party_id": "                                                            EK388103",
+        "address": "FLATNO49,44-A,SHCHORSASTR.,KYIVUKRAINE",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BREWERY INVESTMENTS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 67902",
+        "address": "OFFICE2,SUITE2,THEPENTHOUSE,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLEKSIY GAVRYSH\r",
+        "party_id": "                                                            EK388103",
+        "address": "FLATNO49,44-A,SHCHORSASTR.,KYIVUKRAINE",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OLEKSIY GAVRYSH\r",
+        "party_id": "                                                            EK388103",
+        "address": "FLATNO49,44-A,SHCHORSASTR.,KYIVUKRAINE",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLEKSIY GAVRYSH\r",
+        "party_id": "                                                            EK388103",
+        "address": "FLATNO49,44-A,SHCHORSASTR.,KYIVUKRAINE",
+        "nationality": "UKRAINIAN"
+      }
+    ]
+  }
+}

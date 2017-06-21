@@ -1,0 +1,120 @@
+{
+  "company_id": "C 72269",
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3 - SUITE 3, 16TH SEPTEMBER SQUARE,",
+  "name": "BOUNTY BRANDS ENTERPRISES LIMITED",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Sep 16, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CRISPIAN DOUGLAS DILLON\r",
+        "party_id": "                                                            A00589852",
+        "address": "7LOVERSWALK,KENILWORTH,CAPETOWN7708SOUTHAFRICA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "NISSIM OHAYON\r",
+        "party_id": "                                                            381172M",
+        "address": "67/2,TRIQIZ-ZRAGEN,ATTARDATD2950MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOUNTY BRANDS HOLDINGS PLC\r",
+        "party_id": "                                                            10472393",
+        "address": "73,CORNHILL,LONDONEC3V3QQUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CRISPIAN DOUGLAS DILLON\r",
+        "party_id": "                                                            A00589852",
+        "address": "7LOVERSWALK,KENILWORTH,CAPETOWN7708SOUTHAFRICA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "NISSIM OHAYON\r",
+        "party_id": "                                                            381172M",
+        "address": "67/2,TRIQIZ-ZRAGEN,ATTARDATD2950MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CRISPIAN DOUGLAS DILLON\r",
+        "party_id": "                                                            A00589852",
+        "address": "7LOVERSWALK,KENILWORTH,CAPETOWN7708SOUTHAFRICA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "NISSIM OHAYON\r",
+        "party_id": "                                                            381172M",
+        "address": "67/2,TRIQIZ-ZRAGEN,ATTARDATD2950MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHANIE AZZOPARDI\r",
+        "party_id": "                                                            150685M",
+        "address": "HARMONYCRT,APT18,TRIQIL-HMISTAXTA'AWISSU,MOSTAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIA CIAPPARA\r",
+        "party_id": "                                                            73191M",
+        "address": "SAGHTAR,PIETRUFELICESTREET,SIGGIEWISGW3041MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "B & E HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARK ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            313188M",
+        "address": "5,TRIQSANTAMARIJA,MARSASCALAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            313188M",
+        "address": "5,TRIQSANTAMARIJA,MARSASCALAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            313188M",
+        "address": "5,TRIQSANTAMARIJA,MARSASCALAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARK ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            313188M",
+        "address": "5,TRIQSANTAMARIJA,MARSASCALAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARK ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            313188M",
+        "address": "5,TRIQSANTAMARIJA,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MARCEL P. ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            372293M",
+        "address": "79FLAT2,SEASPRAYTRIQIZ-ZONQORMARSASCALAMSK1014MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "B & E HOLDINGS CENTRE TRIQ SAN NIKOLA",
+  "company_id": "C 43496",
+  "registration_date": "Feb 05, 2008",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

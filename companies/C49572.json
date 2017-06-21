@@ -1,0 +1,78 @@
+{
+  "name": "BF MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "WALTER RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286163M",
+        "address": "30,ID-DWEJRA,TRIQIL-GEJZA,SWIEQISWQ3223MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JEANNE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            226659M",
+        "address": "FORTHMANSIONS,APARTMENT5A,TA'XBIEXSEAFRONT,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAMBERTO BELLETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK4298376",
+        "address": "1/ALOC.VALLEMOLINARA,COLLISULVELINORIETIITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAMBERTO BELLETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK4298376",
+        "address": "1/ALOC.VALLEMOLINARA,COLLISULVELINORIETIITALY"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LAMBERTO BELLETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK4298376",
+        "address": "1/ALOC.VALLEMOLINARA,COLLISULVELINORIETIITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GODAY HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44444",
+        "address": "AIRWAYSHOUSE,2NDFLOORHIGHSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "AIRWAYS HOUSE, 2ND FLOOR, HIGH STREET",
+  "company_id": "C 49572",
+  "registration_date": "Sep 28, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 10000
+}

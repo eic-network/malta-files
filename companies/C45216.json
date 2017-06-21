@@ -1,0 +1,91 @@
+{
+  "name": "AUGMENTUM LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PIO M. VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "AURORA,68,TRIQIL-PONT,SANTAMARIAESTATE,MELLIEHAMLH2800MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FADEL ELHADI KHALIFA MATUGH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            956296-2012",
+        "address": "ZAWIETDAHMANIAREAABUSETTASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FADEL ELHADI KHALIFA MATUGH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            956296-2012",
+        "address": "ZAWIETDAHMANIAREAABUSETTASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "'KYLE',APARTMENT4,TRIQIL-MEDITERRANST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FADEL ELHADI KHALIFA MATUGH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            956296-2012",
+        "address": "ZAWIETDAHMANIAREAABUSETTASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 45216",
+  "registration_date": "Sep 26, 2008",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

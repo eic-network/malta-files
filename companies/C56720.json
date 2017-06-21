@@ -1,0 +1,107 @@
+{
+  "name": "BEEZWAY SALES & SERVICES LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALESSIO COLUSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0123831",
+        "address": "VIASTARANZANO47,RONCHIDEILEGIONARIITALY"
+      },
+      {
+        "name": "IVAN MATEJAK\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            003779081",
+        "address": "ULICAJASEPRODANOVICA2/7,BELGRADESERBIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALESSIO COLUSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0123831",
+        "address": "VIASTARANZANO47,RONCHIDEILEGIONARIITALY"
+      },
+      {
+        "name": "IVAN MATEJAK\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            003779081",
+        "address": "ULICAJASEPRODANOVICA2/7,BELGRADESERBIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ENRICO BERTOLUTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2441938",
+        "address": "VLADIMIRAPOPOVICA44BELGRADESERBIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALESSIO COLUSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0123831",
+        "address": "VIASTARANZANO47,RONCHIDEILEGIONARIITALY"
+      },
+      {
+        "name": "IVAN MATEJAK\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            003779081",
+        "address": "ULICAJASEPRODANOVICA2/7,BELGRADESERBIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEEZWAY HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56719",
+        "address": "LEVEL1BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "SECURUM EQUITY PARTNERS & ASSOCIATES LLC\r",
+        "nationality": "",
+        "party_id": "                                                            5052780",
+        "address": "16192COASTALHIGHWAY,LEWES,COUNTYOFSUSSEXDELAWARE19958UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA,",
+  "company_id": "C 56720",
+  "registration_date": "Jun 19, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

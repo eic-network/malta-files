@@ -1,0 +1,157 @@
+{
+  "name": "BENCINI DEMAJO CORPORATE SERVICES LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1250,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Anthony Rossi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            315153M",
+        "address": "RegentPalace,Flat6,BonavitaStreet,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GODWIN BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "44,MELITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GODWIN BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "44,MELITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19809",
+        "address": "57,FL3,TRIQSIRGEORGEBORG,SLIEMASLM1960MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GODWIN BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "44,MELITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "M. DEMAJO (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2517",
+        "address": "'DEMAJOHOUSE',103,ARCHBISHOPSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "BENCINI INVESTMENTS LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 70873",
+        "address": "103,ARCHBISHOPSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "103, ARCHBISHOP STREET,",
+  "company_id": "C 57877",
+  "registration_date": "Oct 16, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

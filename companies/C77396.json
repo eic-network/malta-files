@@ -1,0 +1,70 @@
+{
+  "company_id": "C 77396",
+  "address": "598, ST. JOSEPH HIGH ROAD,",
+  "name": "BORGO MALTA (HOLDING) LIMITED",
+  "locality": "HAMRUN",
+  "status": "",
+  "registration_date": "Nov 07, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MUSTAFA AHMED MASOUD ABOUB\r",
+        "party_id": "                                                            GK4HF30P",
+        "address": "CAPTOLMANSION,BLOCKC,FLAT4,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MUSTAFA AHMED MASOUD ABOUB\r",
+        "party_id": "                                                            GK4HF30P",
+        "address": "CAPTOLMANSION,BLOCKC,FLAT4,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MUSTAFA AHMED MASOUD ABOUB\r",
+        "party_id": "                                                            GK4HF30P",
+        "address": "CAPTOLMANSION,BLOCKC,FLAT4,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MUSTAFA AHMED MASOUD ABOUB\r",
+        "party_id": "                                                            GK4HF30P",
+        "address": "CAPTOLMANSION,BLOCKC,FLAT4,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MUSTAFA AHMED MASOUD ABOUB\r",
+        "party_id": "                                                            GK4HF30P",
+        "address": "CAPTOLMANSION,BLOCKC,FLAT4,MATTHEWPULISSTREET,SLIEMAMALTA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

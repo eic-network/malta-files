@@ -1,0 +1,59 @@
+{
+  "name": "ATOLL SHIPPING CO. LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SERGUEI G KOUZNETSOV\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            500387636",
+        "address": "CREMON11,D-20457,HAMBURGGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARKADIA ENTERPRISES LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 495
+        }
+      },
+      {
+        "name": "FANTASIA ENTERPRISES LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "131, EAST STREET,",
+  "company_id": "C 21003",
+  "registration_date": "Jan 27, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

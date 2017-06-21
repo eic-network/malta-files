@@ -1,0 +1,77 @@
+{
+  "name": "BARDIA SHIPPING LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DIMITRIOS G KALLIANIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            I-378759",
+        "address": "49THISSEOSSTREET,15234CHALANDRIGREECE"
+      },
+      {
+        "name": "VASILEUIS G KALLIANIS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "24,LOFOUSTREET14565EKALIGREECE"
+      },
+      {
+        "name": "GEORGIOS A VOUTSAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            I-024324",
+        "address": "103-105,ANDROUTSOUSTREET18532PIRAEUSGREECE"
+      },
+      {
+        "name": "PETROS VOUTSAS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "103-105,ANDROUTSOUSTREET,PIRAEUS18532GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DIMITRIOS G KALLIANIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            I-378759",
+        "address": "49THISSEOSSTREET,15234CHALANDRIGREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      },
+      {
+        "name": "GEORGIOS A VOUTSAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            I-024324",
+        "address": "103-105,ANDROUTSOUSTREET18532PIRAEUSGREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 20850",
+  "registration_date": "Dec 11, 1996",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

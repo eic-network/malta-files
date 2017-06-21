@@ -1,0 +1,90 @@
+{
+  "name": "BELAY HOLDINGS LIMITED",
+  "total_issued_shares_value": 892236,
+  "total_authorised_shares_value": 1100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 446068,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 450000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 446068,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 450000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 100,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Tracy Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            0045757A",
+        "address": "CORPORATEHOUSE,10,ORATORYSTREET,NAXXARNXR2504MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Salina (Malta) Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 55178",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Salina (Malta) Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 55178",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Salina (Malta) Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 55178",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RBC TRUSTEES (GUERNSEY) LIMITED & RBC TRUSTEES (CI) LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "CANADOCOURT,ST.PETERPORT,GUERNSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 446068
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 892236,
+  "address": "CORPORATE HOUSE, 10 ORATORY STREET,",
+  "company_id": "C 47202",
+  "registration_date": "Jul 02, 2009",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1100000
+}

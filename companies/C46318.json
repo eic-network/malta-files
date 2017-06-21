@@ -1,0 +1,75 @@
+{
+  "name": "ANASTASIA NAVIGATION LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LAKIS PAPAMICHAEL\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C220184",
+        "address": "7,VLADIMIROUERACLEOUS,PAPHOS8010CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAKIS PAPAMICHAEL\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C220184",
+        "address": "7,VLADIMIROUERACLEOUS,PAPHOS8010CYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAKIS PAPAMICHAEL\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C220184",
+        "address": "7,VLADIMIROUERACLEOUS,PAPHOS8010CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LAKIS PAPAMICHAEL\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C220184",
+        "address": "7,VLADIMIROUERACLEOUS,PAPHOS8010CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080
+        }
+      },
+      {
+        "name": "VARVARA PAPAMICHAEL\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C382586",
+        "address": "7,VLADIMIROUERACLEOUS,PAPHOS8010CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "PALAZZO PIETRO STIGES, 103, STRAIT STREET,",
+  "company_id": "C 46318",
+  "registration_date": "Feb 27, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

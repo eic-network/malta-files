@@ -1,0 +1,132 @@
+{
+  "name": "BOLLICINE LTD",
+  "total_issued_shares_value": 62893.07,
+  "total_authorised_shares_value": 69881.19,
+  "authorised_shares": [
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWIN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150764M",
+        "address": "GHAJNVIRDILIJA,WIEDIL-BUSBIES,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45161M",
+        "address": "42,TRIQGHAXRATA'FRARBUGIBBAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "EDWIN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150764M",
+        "address": "GHAJNVIRDILIJA,WIEDIL-BUSBIES,RABATMALTA"
+      },
+      {
+        "name": "STEPHEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150864M",
+        "address": "50,EDERADAWRETIL-WIEDMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MOORE STEPHENS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/03",
+        "address": "46,TIMBERWHARF,MARSAMRS1442MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45161M",
+        "address": "42,TRIQGHAXRATA'FRARBUGIBBAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "EDWIN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150764M",
+        "address": "GHAJNVIRDILIJA,WIEDIL-BUSBIES,RABATMALTA"
+      },
+      {
+        "name": "STEPHEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150864M",
+        "address": "50,EDERADAWRETIL-WIEDMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45161M",
+        "address": "42,TRIQGHAXRATA'FRARBUGIBBAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9000
+        }
+      },
+      {
+        "name": "EDWIN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150764M",
+        "address": "GHAJNVIRDILIJA,WIEDIL-BUSBIES,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 9000
+        }
+      },
+      {
+        "name": "STEPHEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150864M",
+        "address": "50,EDERADAWRETIL-WIEDMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 9000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 27000,
+  "address": "32, NAXXAR ROAD,",
+  "company_id": "C 11106",
+  "registration_date": "Nov 13, 1989",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 30000
+}

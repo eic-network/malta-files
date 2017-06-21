@@ -1,0 +1,62 @@
+{
+  "name": "ANDRONIKOS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VAULT 14 LEVEL 2 VALLETTA WATERFRONT",
+  "company_id": "C 48647",
+  "registration_date": "Jan 13, 2010",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

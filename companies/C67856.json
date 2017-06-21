@@ -1,0 +1,91 @@
+{
+  "name": "BLV TECH LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "Ordinary",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            515955M",
+        "address": "2,MRAMMITI,LOURDESLANE,SWIEQISWQ3335MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABIO MARIETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5665477",
+        "address": "S.P.262DIR.N4MOSCIANOS.ANGELO(TE)64023ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FABIO MARIETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5665477",
+        "address": "S.P.262DIR.N4MOSCIANOS.ANGELO(TE)64023ITALY"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABIO MARIETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5665477",
+        "address": "S.P.262DIR.N4MOSCIANOS.ANGELO(TE)64023ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLV HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 63803",
+        "address": "41STCHRISTOPHERSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 85,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 297
+        }
+      },
+      {
+        "name": "FABIO MARIETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5665477",
+        "address": "S.P.262DIR.N4MOSCIANOS.ANGELO(TE)64023ITALY",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 85,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 300,
+  "address": "41, ST. CHRISTOPHER STREET,",
+  "company_id": "C 67856",
+  "registration_date": "Dec 01, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 300
+}

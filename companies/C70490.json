@@ -1,0 +1,165 @@
+{
+  "name": "BA CAPITAL HOLDING PLC",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 364000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20000000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 12786886,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 12786886,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETRA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324086M",
+        "address": "151,BIRBALSTREETBALZANBZN9011MALTA"
+      },
+      {
+        "name": "EDMOND ZAMMIT LAFERLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294476M",
+        "address": "140/142,TOWERSTREET,MOSTAMST3505MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BLUE CAPITAL HODLING SAL\r",
+        "nationality": "",
+        "party_id": "                                                            1902315",
+        "address": "C/OAKKAOUIASSOCIATES,2NDFLOOR,ATRIUMBUILDING,FOCHSOLIDERE,RIADELSOLH,BEIRUTLEBANON"
+      },
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "11,HANINI,TRIQENRICONAUDI,IKLINIKL1649MALTA"
+      },
+      {
+        "name": "RAMI EL JISR\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL3082426",
+        "address": "PAVILION,5THFLOOR,FRANCESTREET,RIADELSOLH,BEIRUTLEBANON"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BLUE CAPITAL HODLING SAL\r",
+        "nationality": "",
+        "party_id": "                                                            1902315",
+        "address": "C/OAKKAOUIASSOCIATES,2NDFLOOR,ATRIUMBUILDING,FOCHSOLIDERE,RIADELSOLH,BEIRUTLEBANON"
+      },
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "11,HANINI,TRIQENRICONAUDI,IKLINIKL1649MALTA"
+      },
+      {
+        "name": "RAMI EL JISR\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL3082426",
+        "address": "PAVILION,5THFLOOR,FRANCESTREET,RIADELSOLH,BEIRUTLEBANON"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BLUE CAPITAL HODLING SAL\r",
+        "nationality": "",
+        "party_id": "                                                            1902315",
+        "address": "C/OAKKAOUIASSOCIATES,2NDFLOOR,ATRIUMBUILDING,FOCHSOLIDERE,RIADELSOLH,BEIRUTLEBANON"
+      },
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "11,HANINI,TRIQENRICONAUDI,IKLINIKL1649MALTA"
+      },
+      {
+        "name": "RAMI EL JISR\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL3082426",
+        "address": "PAVILION,5THFLOOR,FRANCESTREET,RIADELSOLH,BEIRUTLEBANON"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUE CAPITAL HODLING SAL\r",
+        "nationality": "",
+        "party_id": "                                                            1902315",
+        "address": "C/OAKKAOUIASSOCIATES,2NDFLOOR,ATRIUMBUILDING,FOCHSOLIDERE,RIADELSOLH,BEIRUTLEBANON",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 18000000
+        }
+      },
+      {
+        "name": "RAMI EL JISR\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL3082426",
+        "address": "PAVILION,5THFLOOR,FRANCESTREET,RIADELSOLH,BEIRUTLEBANON",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2000000
+        }
+      },
+      {
+        "name": "AUDI INVESTMENTS HOLDING SAL\r",
+        "nationality": "",
+        "party_id": "                                                            1902536",
+        "address": "BANKAUDIS.A.L.,AUDISARADARGROUP,P.O.BOX11,2560RAIDELSOLH,BEIRUT1107-2808LEBANON",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 6393443
+        }
+      },
+      {
+        "name": "BCH INVESTMENTS LLC\r",
+        "nationality": "",
+        "party_id": "                                                            1154525",
+        "address": "LEVEL30,THEOBEROICENTRE,BUSINESSBAY,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 6393443
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000000,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 70490",
+  "registration_date": "May 08, 2015",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 36400000
+}

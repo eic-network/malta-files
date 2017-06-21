@@ -1,0 +1,70 @@
+{
+  "company_id": "C 72671",
+  "address": "THE PENTHOUSE, CAROLINA COURT, GIUSEPPE CALI STREET,",
+  "name": "3BI LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Oct 16, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BIATRICE-ELENA BOTEZATU\r",
+        "party_id": "                                                            AU2228661",
+        "address": "VIALESCALAGRECA,No161Sc.H.,SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHIARA LIMITED\r",
+        "party_id": "                                                            C 65185",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPECALISTREET,TA'XBIEXXBX1425MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BIATRICE-ELENA BOTEZATU\r",
+        "party_id": "                                                            AU2228661",
+        "address": "VIALESCALAGRECA,No161Sc.H.,SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BIATRICE-ELENA BOTEZATU\r",
+        "party_id": "                                                            AU2228661",
+        "address": "VIALESCALAGRECA,No161Sc.H.,SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BIATRICE-ELENA BOTEZATU\r",
+        "party_id": "                                                            AU2228661",
+        "address": "VIALESCALAGRECA,No161Sc.H.,SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

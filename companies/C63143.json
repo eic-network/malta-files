@@ -1,0 +1,151 @@
+{
+  "name": "Avia Leasing Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "Ordinary",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            141479M",
+        "address": "9,COTTAGEGARDEN,ALLEY3,BAKERYSTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OMAR BENEDIKTSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1201399",
+        "address": "AEGISDIA58,REYKJAVIK107ICELAND"
+      },
+      {
+        "name": "AIGARS JAKOVELS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3593787",
+        "address": "AUSEKLI,JAUNPILS,JAUNPILSMUNICIPALITYLV-3145LATVIA"
+      },
+      {
+        "name": "THORIR ALBERT KRISTINSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A2229305",
+        "address": "STRAZDUIELA7-1,SEBRUCIEMS,BABITEMUNICIPALITYLV-2107LATVIA"
+      },
+      {
+        "name": "JURGIS SEDLENIEKS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3921497",
+        "address": "SAULESALEJA6-50,RIGALV-1002LATVIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OMAR BENEDIKTSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1201399",
+        "address": "AEGISDIA58,REYKJAVIK107ICELAND"
+      },
+      {
+        "name": "AIGARS JAKOVELS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3593787",
+        "address": "AUSEKLI,JAUNPILS,JAUNPILSMUNICIPALITYLV-3145LATVIA"
+      },
+      {
+        "name": "THORIR ALBERT KRISTINSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A2229305",
+        "address": "STRAZDUIELA7-1,SEBRUCIEMS,BABITEMUNICIPALITYLV-2107LATVIA"
+      },
+      {
+        "name": "JURGIS SEDLENIEKS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3921497",
+        "address": "SAULESALEJA6-50,RIGALV-1002LATVIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10004",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNHMR1880MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OMAR BENEDIKTSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1201399",
+        "address": "AEGISDIA58,REYKJAVIK107ICELAND"
+      },
+      {
+        "name": "AIGARS JAKOVELS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3593787",
+        "address": "AUSEKLI,JAUNPILS,JAUNPILSMUNICIPALITYLV-3145LATVIA"
+      },
+      {
+        "name": "THORIR ALBERT KRISTINSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A2229305",
+        "address": "STRAZDUIELA7-1,SEBRUCIEMS,BABITEMUNICIPALITYLV-2107LATVIA"
+      },
+      {
+        "name": "JURGIS SEDLENIEKS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3921497",
+        "address": "SAULESALEJA6-50,RIGALV-1002LATVIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AVIA (HOLDING) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63142",
+        "address": "AMJLEGAL,OFFICE3,SUSANCOURT,TRIQIL-PRINJOLATA,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "OMAR BENEDIKTSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1201399",
+        "address": "AEGISDIA58,REYKJAVIK107ICELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "AMJ LEGAL BUSINESS BOX, 115A, FLOOR 4, VALLEY ROAD,",
+  "company_id": "C 63143",
+  "registration_date": "Dec 17, 2013",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,103 @@
+{
+  "company_id": "C 40891",
+  "address": "134, STRAIT STREET,",
+  "name": "BRIGHT STONE HOLDING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 01, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 24999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 24999
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 25000,
+  "total_authorised_shares_value": 25000,
+  "total_issued_shares": 25000,
+  "total_issued_shares_value": 25000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PETER MASSINE\r",
+        "party_id": "                                                            255639676",
+        "address": "THIELALLEE111,BERLIN14195GERMANY",
+        "nationality": "GERMAN"
+      },
+      {
+        "name": "JOHANNES MICHAEL MEYER\r",
+        "party_id": "                                                            802889127",
+        "address": "50,GEYERSTRABE,MUNICHGERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER MASSINE\r",
+        "party_id": "                                                            255639676",
+        "address": "THIELALLEE111,BERLIN14195GERMANY",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 24999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "NIGEL CAMILLERI\r",
+        "party_id": "                                                            484672M",
+        "address": "SEAVIEW,FLAT1B,ST.GEORGE'SROAD,ST.JULIANSMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER MASSINE\r",
+        "party_id": "                                                            255639676",
+        "address": "THIELALLEE111,BERLIN14195GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER MASSINE\r",
+        "party_id": "                                                            255639676",
+        "address": "THIELALLEE111,BERLIN14195GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER MASSINE\r",
+        "party_id": "                                                            255639676",
+        "address": "THIELALLEE111,BERLIN14195GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "name": "ANKRI LIMITED",
+  "total_issued_shares_value": 1400,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHANNES MERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            409594201",
+        "address": "9,EATONPLACE,LONDONSW1X8BNUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHANNES MERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            409594201",
+        "address": "9,EATONPLACE,LONDONSW1X8BNUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANNES MERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            409594201",
+        "address": "9,EATONPLACE,LONDONSW1X8BNUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1400,
+  "address": "22/13, STRAIT STREET,",
+  "company_id": "C 47529",
+  "registration_date": "Aug 13, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

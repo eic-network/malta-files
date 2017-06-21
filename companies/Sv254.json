@@ -1,0 +1,141 @@
+{
+  "company_id": "SV 254",
+  "address": "120, ST. URSULA STREET,",
+  "name": "Brooksbridge SICAV plc",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Jan 08, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 499,
+      "type": "Founder1",
+      "nominal_value_per_share": 1,
+      "issued_shares": 499
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "Founder2",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 5000000000,
+  "total_authorised_shares_value": 5000000000,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "MARK DAVID KELLY\r",
+        "party_id": "                                                            PT1787155",
+        "address": "32,HAVERSTOCKSTREET,LONDONN18DLUNITEDKINGDOM",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "RICHARD THOMSON WIGHT\r",
+        "party_id": "                                                            710275620",
+        "address": "6TRIQTAFUQIL-WIDIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TERESA ANNE BROOKS\r",
+        "party_id": "                                                            R694115",
+        "address": "12,THEGREEN,DUNBOYNECASTLE,MEATHIRELAND",
+        "nationality": "IRISH",
+        "shares": {
+          "type": "Founder",
+          "class": "2",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MARK DAVID KELLY\r",
+        "party_id": "                                                            PT1787155",
+        "address": "32,HAVERSTOCKSTREET,LONDONN18DLUNITEDKINGDOM",
+        "nationality": "IRISH",
+        "shares": {
+          "type": "Founder",
+          "class": "1",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "MARK DAVID KELLY\r",
+        "party_id": "                                                            PT1787155",
+        "address": "32,HAVERSTOCKSTREET,LONDONN18DLUNITEDKINGDOM",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "RICHARD THOMSON WIGHT\r",
+        "party_id": "                                                            710275620",
+        "address": "6TRIQTAFUQIL-WIDIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "MARK DAVID KELLY\r",
+        "party_id": "                                                            PT1787155",
+        "address": "32,HAVERSTOCKSTREET,LONDONN18DLUNITEDKINGDOM",
+        "nationality": "IRISH"
+      },
+      {
+        "name": "RICHARD THOMSON WIGHT\r",
+        "party_id": "                                                            710275620",
+        "address": "6TRIQTAFUQIL-WIDIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RICHARD THOMSON WIGHT\r",
+        "party_id": "                                                            1076914",
+        "address": "6,TRIQTA'FUQIL-WIDIEN,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "DANIEL GALEA\r",
+        "party_id": "                                                            2982G",
+        "address": "THEJOURNEYSTPAUL'SFIEFSTREET,KERCEM(GOZO)KCM1702MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "name": "APPROACH HOLDINGS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            837457M",
+        "address": "167,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLIFFORD SNIEDER\r",
+        "nationality": "",
+        "party_id": "                                                            408863650",
+        "address": "18,PONGOLAAVENUEEASTGATEEXT.SANDTONSOUTHAFRICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL COHEN\r",
+        "nationality": "",
+        "party_id": "                                                            416759741",
+        "address": "4,KOMATIAVENUEGALLOMANORSANDTONSOUTHAFRICA"
+      },
+      {
+        "name": "CLIFFORD SNIEDER\r",
+        "nationality": "",
+        "party_id": "                                                            408863650",
+        "address": "18,PONGOLAAVENUEEASTGATEEXT.SANDTONSOUTHAFRICA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL COHEN\r",
+        "nationality": "",
+        "party_id": "                                                            416759741",
+        "address": "4,KOMATIAVENUEGALLOMANORSANDTONSOUTHAFRICA"
+      },
+      {
+        "name": "CLIFFORD SNIEDER\r",
+        "nationality": "",
+        "party_id": "                                                            408863650",
+        "address": "18,PONGOLAAVENUEEASTGATEEXT.SANDTONSOUTHAFRICA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RENAISSANCE RETAIL GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            97/06790/06",
+        "address": "2NDFLOOR,9CHARLESCRESCENTEASTGATEEXTSANDTONSOUTHAFRICA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "167, MERCHANTS STREET,",
+  "company_id": "C 25751",
+  "registration_date": "Jan 18, 2000",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

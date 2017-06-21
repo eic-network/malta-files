@@ -1,0 +1,65 @@
+{
+  "name": "BETSY SHIPPING LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LILIANE BAUMGARTNER\r",
+        "nationality": "",
+        "party_id": "                                                            7964755",
+        "address": "80CHAMINDELAMONTAGNE1224GENEVASWITZERLAND"
+      },
+      {
+        "name": "SILVIA SORG",
+        "nationality": "",
+        "party_id": "",
+        "address": "AALENERSTR.7673492RAINAUGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CONTROL CORPORATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "PROTOCOL INVESTMENTS CORPORATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 21537",
+  "registration_date": "Jun 16, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

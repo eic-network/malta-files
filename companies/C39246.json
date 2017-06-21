@@ -1,0 +1,183 @@
+{
+  "name": "BIOREM INTERNATIONAL LTD.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 850,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 850,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 850,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 850,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FREDERICK FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116850M",
+        "address": "25,AMERYSTREET,SLIEMASLM1709MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BENJAMIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            407378M",
+        "address": "50,EUROMANSIONS,FLAT16,UNIVERSITYSTREET,MSIDAMALTA"
+      },
+      {
+        "name": "FREDERICK FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116850M",
+        "address": "25,AMERYSTREET,SLIEMASLM1709MALTA"
+      },
+      {
+        "name": "JOHN MARTIN LAING\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705538406",
+        "address": "APARTMENT9,2,BALLUTABUILDINGS,CARMELITESTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KURT NILSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34605785",
+        "address": "SORMENVAGEN44,VALLENTUNAS-18692SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BENJAMIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            407378M",
+        "address": "50,EUROMANSIONS,FLAT16,UNIVERSITYSTREET,MSIDAMALTA"
+      },
+      {
+        "name": "FREDERICK FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116850M",
+        "address": "25,AMERYSTREET,SLIEMASLM1709MALTA"
+      },
+      {
+        "name": "JOHN MARTIN LAING\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705538406",
+        "address": "APARTMENT9,2,BALLUTABUILDINGS,CARMELITESTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KURT NILSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34605785",
+        "address": "SORMENVAGEN44,VALLENTUNAS-18692SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BENJAMIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            407378M",
+        "address": "50,EUROMANSIONS,FLAT16,UNIVERSITYSTREET,MSIDAMALTA"
+      },
+      {
+        "name": "FREDERICK FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116850M",
+        "address": "25,AMERYSTREET,SLIEMASLM1709MALTA"
+      },
+      {
+        "name": "JOHN MARTIN LAING\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705538406",
+        "address": "APARTMENT9,2,BALLUTABUILDINGS,CARMELITESTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KURT NILSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34605785",
+        "address": "SORMENVAGEN44,VALLENTUNAS-18692SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BENJAMIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            407378M",
+        "address": "50,EUROMANSIONS,FLAT16,UNIVERSITYSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 425
+        }
+      },
+      {
+        "name": "FREDERICK FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116850M",
+        "address": "25,AMERYSTREET,SLIEMASLM1709MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 425
+        }
+      },
+      {
+        "name": "ECKL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1031298",
+        "address": "BELMONTCHAMBERSP.O.BOX3443,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 850
+        }
+      },
+      {
+        "name": "KURT NILSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34605785",
+        "address": "SORMENVAGEN44,VALLENTUNAS-18692SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "OWEN BUILDINGS, OFFICE NO. 3, TRIQ L-AHWA ZAMMIT,",
+  "company_id": "C 39246",
+  "registration_date": "Aug 01, 2006",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2000
+}

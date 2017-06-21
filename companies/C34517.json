@@ -1,0 +1,83 @@
+{
+  "name": "AXIA HOLDINGS LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "Ordinary",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RUBEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417676M",
+        "address": "CASARIMONDTRIQIR-RIMONAMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RUBEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417676M",
+        "address": "CASARIMONDTRIQIR-RIMONAMOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUBEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417676M",
+        "address": "CASARIMONDTRIQIR-RIMONAMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RUBEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417676M",
+        "address": "CASARIMONDTRIQIR-RIMONAMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAYMOND GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1068744M",
+        "address": "21,CASARIMOND,RIMONASTREET,MOSTAMST07MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "RUBEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417676M",
+        "address": "CASARIMONDTRIQIR-RIMONAMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "21, CASA RIMOND, RIMONA STREET,",
+  "company_id": "C 34517",
+  "registration_date": "Aug 26, 2004",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 6000
+}

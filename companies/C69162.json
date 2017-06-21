@@ -1,0 +1,101 @@
+{
+  "name": "Alshefa Trading Company Limited",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JAMAL AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            633834",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MILAD AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            030858",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAMAL AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            633834",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MILAD AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            030858",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MILAD AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            030858",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAMAL AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            633834",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MILAD AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            030858",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMAL AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            633834",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "MILAD AJAJ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            030858",
+        "address": "3224FORNAJSTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "127, Triq is-Santwarju,",
+  "company_id": "C 69162",
+  "registration_date": "Apr 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "ZABBAR",
+  "status": "",
+  "total_authorised_shares": 200000
+}

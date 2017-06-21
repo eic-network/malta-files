@@ -1,0 +1,128 @@
+{
+  "name": "BEC Holding Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      },
+      {
+        "name": "EDOARDO PASOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0624316",
+        "address": "S.NICOLO,VIAARGINE,14,ROTTOFRENOPIACENZAITALY"
+      },
+      {
+        "name": "ITALO PASOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1149183",
+        "address": "S.NICOLOVIAARGINE,14,ROTTOFRENOPIACENZA29010ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      },
+      {
+        "name": "EDOARDO PASOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0624316",
+        "address": "S.NICOLO,VIAARGINE,14,ROTTOFRENOPIACENZAITALY"
+      },
+      {
+        "name": "ITALO PASOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1149183",
+        "address": "S.NICOLOVIAARGINE,14,ROTTOFRENOPIACENZA29010ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 720
+        }
+      },
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 66318",
+  "registration_date": "Aug 08, 2014",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

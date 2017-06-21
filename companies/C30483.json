@@ -1,0 +1,99 @@
+{
+  "company_id": "C 30483",
+  "address": "THE COTTAGE QRENDI ROAD",
+  "name": "BRIDGE PRODUCTIONS LIMITED",
+  "locality": "SIGGIEWI",
+  "status": "In Dissolution",
+  "registration_date": "Nov 11, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PAUL ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            248852M",
+        "address": "THECOTTAGE,QRENDIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            248852M",
+        "address": "THECOTTAGE,QRENDIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "STEVE ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            143483M",
+        "address": "89,'SUVERA',TRIQL-GHAJN,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            248852M",
+        "address": "THECOTTAGE,QRENDIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            248852M",
+        "address": "THECOTTAGE,QRENDIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEVE ZAMMIT CUTAJAR\r",
+        "party_id": "                                                            143483M",
+        "address": "'THECOTTAGE'QRENDIROADSIGGIEWIQRM16MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "party_id": "                                                            23558M",
+        "address": "FLAT1,63C,B'KARAROAD,ST.JULIANSSTJ1301MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

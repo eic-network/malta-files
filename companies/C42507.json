@@ -1,0 +1,75 @@
+{
+  "name": "APOLLO HOLDING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DIANA DIZDAREVIC\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1307193880",
+        "address": "LOKSTEDTERSTEINDAMM20B,22529,HAMBURGGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIANA DIZDAREVIC\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1307193880",
+        "address": "LOKSTEDTERSTEINDAMM20B,22529,HAMBURGGERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIANA DIZDAREVIC\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1307193880",
+        "address": "LOKSTEDTERSTEINDAMM20B,22529,HAMBURGGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATRIO PLUS AG\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 78836",
+        "address": "ALTERWALL34-36,HAMBURGD20457GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1600
+        }
+      },
+      {
+        "name": "DIANA DIZDAREVIC\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1307193880",
+        "address": "LOKSTEDTERSTEINDAMM20B,22529,HAMBURGGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "OFFICE 84, SUITE A, DOLPHIN COURT A, EMBASSY WAY,",
+  "company_id": "C 42507",
+  "registration_date": "Oct 04, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ALMER NAVIGATION LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHN TH GIAVRIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            M248819",
+        "address": "47-49,BOUBOULINASSTREET,GR18535,PIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELDITAL FOUNDATION INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "FORESIGHT FINANCIAL INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "131, EAST STREET,",
+  "company_id": "C 25163",
+  "registration_date": "Sep 17, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

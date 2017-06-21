@@ -1,0 +1,96 @@
+{
+  "company_id": "C 38377",
+  "address": "PLOT 141,  INDUSTRIAL ESTATE,",
+  "name": "BORVIN ALUMINIUM LIMITED",
+  "locality": "LUQA",
+  "status": "",
+  "registration_date": "Mar 22, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 50000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 50000
+    }
+  ],
+  "total_authorised_shares": 50000,
+  "total_authorised_shares_value": 116468.65,
+  "total_issued_shares": 50000,
+  "total_issued_shares_value": 116468.65,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 22480,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "CLINT BORG\r",
+        "party_id": "                                                            99279M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 18880,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "COLIN BORG\r",
+        "party_id": "                                                            178285M",
+        "address": "SOUTHERNREEFAPTS,FLAT7,TRIQIC-CERVJOLAMARSASCALAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8640,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "CASABORVIN,NOTARYZARBSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

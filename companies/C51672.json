@@ -1,0 +1,105 @@
+{
+  "name": "BARKO MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAY ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279364M",
+        "address": "SPRINGDALE,39,GABRIELEHENINSTREET,PEMBROKEPBK1121MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRIAN TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316764M",
+        "address": "PEBBLES,TRIQIL-MAHSEL,STTHOMASBAY,MARSASCALAMSK3649MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BRIAN TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316764M",
+        "address": "PEBBLES,TRIQIL-MAHSEL,STTHOMASBAY,MARSASCALAMSK3649MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE 2, SUITE 2, THE PENTHOUSE, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "company_id": "C 51672",
+  "registration_date": "Jan 14, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

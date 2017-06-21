@@ -1,0 +1,109 @@
+{
+  "name": "ATLAS VENTURES LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43065M",
+        "address": "10BRIDGEJUNCTIONMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AYOUR MOHAMED K ALI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            100810",
+        "address": "24,SIDIABDULGELIL,JANZOUR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MARIO PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43065M",
+        "address": "10BRIDGEJUNCTIONMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AYOUR MOHAMED K ALI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            100810",
+        "address": "24,SIDIABDULGELIL,JANZOUR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MARIO PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43065M",
+        "address": "10BRIDGEJUNCTIONMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01785",
+        "address": "2,THEOLIVE,TRIQESPRITBARTHETMADLIENANAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AYOUR MOHAMED K ALI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            100810",
+        "address": "24,SIDIABDULGELIL,JANZOUR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MARIO PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43065M",
+        "address": "10BRIDGEJUNCTIONMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AYOUR MOHAMED K ALI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            100810",
+        "address": "24,SIDIABDULGELIL,JANZOUR,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "MARIO PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43065M",
+        "address": "10BRIDGEJUNCTIONMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "SUITE 4, SKYWAY OFFICES, BLOCK A, MARINA SEAFRONT,",
+  "company_id": "C 63649",
+  "registration_date": "Jan 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 200000
+}

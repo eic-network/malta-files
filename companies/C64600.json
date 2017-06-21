@@ -1,0 +1,109 @@
+{
+  "company_id": "C 64600",
+  "address": "11, REGENT HOUSE, BISAZZA STREET,",
+  "name": "BROMBAT LTD",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Apr 07, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 40000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 40000
+    }
+  ],
+  "total_authorised_shares": 40000,
+  "total_authorised_shares_value": 40000,
+  "total_issued_shares": 40000,
+  "total_issued_shares_value": 40000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IAIN DAVID CHRISTOPHER SIMS\r",
+        "party_id": "                                                            166109L",
+        "address": "6,RICHMONDCOURTFLAT3,TRIQGHARIL-LEMBI,SLIEMASLM1560MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DANIEL JONATHAN THOMAS\r",
+        "party_id": "                                                            42857A",
+        "address": "GWYNDYFLAT5,215,SWIEQIROAD,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IAIN DAVID CHRISTOPHER SIMS\r",
+        "party_id": "                                                            166109L",
+        "address": "6,RICHMONDCOURTFLAT3,TRIQGHARIL-LEMBI,SLIEMASLM1560MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "DANIEL JONATHAN THOMAS\r",
+        "party_id": "                                                            42857A",
+        "address": "GWYNDYFLAT5,215,SWIEQIROAD,SWIEQIMALTA",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IAIN DAVID CHRISTOPHER SIMS\r",
+        "party_id": "                                                            166109L",
+        "address": "6,RICHMONDCOURTFLAT3,TRIQGHARIL-LEMBI,SLIEMASLM1560MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DANIEL JONATHAN THOMAS\r",
+        "party_id": "                                                            42857A",
+        "address": "GWYNDYFLAT5,215,SWIEQIROAD,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IAIN DAVID CHRISTOPHER SIMS\r",
+        "party_id": "                                                            166109L",
+        "address": "6,RICHMONDCOURTFLAT3,TRIQGHARIL-LEMBI,SLIEMASLM1560MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DANIEL JONATHAN THOMAS\r",
+        "party_id": "                                                            42857A",
+        "address": "GWYNDYFLAT5,215,SWIEQIROAD,SWIEQIMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DOROTHY SIMS\r",
+        "party_id": "                                                            208072M",
+        "address": "6,RICHMONDCOURT,FLAT3,GHARIL-LEMBISTREETSLIEMASLM1560MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

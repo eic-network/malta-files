@@ -1,0 +1,93 @@
+{
+  "name": "AUREX TRADING CO LTD.",
+  "total_issued_shares_value": 20964.36,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDOARDO MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0052398M",
+        "address": "AZZOPARDIFLATSFL2,BLK3A.SCIORTINOSTREETMSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAMILLE MARSHA CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            295075M",
+        "address": "FLT5,ZAHRACOURT,NAXXARROAD,SANGWANNSGN05MALTA"
+      },
+      {
+        "name": "EDOARDO MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0052398M",
+        "address": "AZZOPARDIFLATSFL2,BLK3A.SCIORTINOSTREETMSIDAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CAMILLE MARSHA CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            295075M",
+        "address": "FLT5,ZAHRACOURT,NAXXARROAD,SANGWANNSGN05MALTA"
+      },
+      {
+        "name": "EDOARDO MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0052398M",
+        "address": "AZZOPARDIFLATSFL2,BLK3A.SCIORTINOSTREETMSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDOARDO MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0052398M",
+        "address": "AZZOPARDIFLATSFL2,BLK3A.SCIORTINOSTREETMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4500
+        }
+      },
+      {
+        "name": "R.B. LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 1530",
+        "address": "353,MDINAROAD,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 9000,
+  "address": "353 MDINA ROAD",
+  "company_id": "C 10831",
+  "registration_date": "Jul 20, 1989",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 10000
+}

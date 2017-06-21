@@ -1,0 +1,121 @@
+{
+  "total_issued_shares_value": 1300,
+  "registration_date": "Aug 07, 2014",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BRUCE REYNOLDS HOLDINGS LTD",
+  "total_issued_shares": 1300,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 66289",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "3,RATHDORAMEWS,HAMBLELANE,BURSLEDONSOUTHAMPTONSO318ELUNITEDKINGDOM",
+        "party_id": "                                                            514209014",
+        "name": "PETER BRUCE\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "7,VIADUCTCLOSE,BASSALEGNEWPORTNP108FTUNITEDKINGDOM",
+        "party_id": "                                                            210416633",
+        "name": "JULIAN LEE REYNOLDS\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "party_id": "                                                            677458M",
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "3,RATHDORAMEWS,HAMBLELANE,BURSLEDONSOUTHAMPTONSO318ELUNITEDKINGDOM",
+        "party_id": "                                                            514209014",
+        "name": "PETER BRUCE\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "7,VIADUCTCLOSE,BASSALEGNEWPORTNP108FTUNITEDKINGDOM",
+        "party_id": "                                                            210416633",
+        "name": "JULIAN LEE REYNOLDS\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "3,RATHDORAMEWS,HAMBLELANE,BURSLEDONSOUTHAMPTONSO318ELUNITEDKINGDOM",
+        "party_id": "                                                            514209014",
+        "name": "PETER BRUCE\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "7,VIADUCTCLOSE,BASSALEGNEWPORTNP108FTUNITEDKINGDOM",
+        "party_id": "                                                            210416633",
+        "name": "JULIAN LEE REYNOLDS\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA",
+        "party_id": "                                                            AB/26/84/64",
+        "name": "FG AUDIT LTD\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 143,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "3,RATHDORAMEWS,HAMBLELANE,BURSLEDONSOUTHAMPTONSO318ELUNITEDKINGDOM",
+        "party_id": "                                                            514209014",
+        "name": "PETER BRUCE\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 143,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "7,VIADUCTCLOSE,BASSALEGNEWPORTNP108FTUNITEDKINGDOM",
+        "party_id": "                                                            210416633",
+        "name": "JULIAN LEE REYNOLDS\r",
+        "nationality": "BRITISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 286,
+      "authorised_share_capital": 286,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 143,
+      "authorised_share_capital": 143,
+      "type": "OrdinaryB"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 871,
+      "authorised_share_capital": 871,
+      "type": "OrdinaryC"
+    }
+  ],
+  "total_authorised_shares": 1300,
+  "total_authorised_shares_value": 1300,
+  "shares_currency": "EUR"
+}

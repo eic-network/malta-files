@@ -1,0 +1,81 @@
+{
+  "name": "BEST WAY PAYMENT SOLUTIONS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ITZHAK COHEN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            13693927",
+        "address": "HAROE21,APT11,REHOVOTISRAEL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ITZHAK COHEN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            13693927",
+        "address": "HAROE21,APT11,REHOVOTISRAEL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ITZHAK COHEN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            13693927",
+        "address": "HAROE21,APT11,REHOVOTISRAEL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ITZHAK COHEN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            13693927",
+        "address": "HAROE21,APT11,REHOVOTISRAEL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SAN JUAN, 116/8, ST. GEORGE'S ROAD,",
+  "company_id": "C 69387",
+  "registration_date": "Mar 04, 2015",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

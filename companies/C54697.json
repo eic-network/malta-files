@@ -1,0 +1,97 @@
+{
+  "company_id": "C 54697",
+  "address": "FLAT NO. 4, 'CINZIA COURT', GUZE ORLANDO STREET,",
+  "name": "3BX LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Dec 14, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CHRIS BRINCAT\r",
+        "party_id": "                                                            26785M",
+        "address": "FLATNO.3,ANTONIOAGIUSSTREET,FLORIANAFRN1133MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JERMAIN BRINCAT\r",
+        "party_id": "                                                            431586M",
+        "address": "\"JERCHRI\",PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRIS BRINCAT\r",
+        "party_id": "                                                            26785M",
+        "address": "FLATNO.3,ANTONIOAGIUSSTREET,FLORIANAFRN1133MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JERMAIN BRINCAT\r",
+        "party_id": "                                                            431586M",
+        "address": "\"JERCHRI\",PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JERMAIN BRINCAT\r",
+        "party_id": "                                                            431586M",
+        "address": "\"JERCHRI\",PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JERMAIN BRINCAT\r",
+        "party_id": "                                                            431586M",
+        "address": "\"JERCHRI\",PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JERMAIN BRINCAT\r",
+        "party_id": "                                                            431586M",
+        "address": "\"JERCHRI\",PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "party_id": "                                                            11271",
+        "address": "16,COLISA,MONS.A.BUHAGIARSTREET,RABATRBT1836MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

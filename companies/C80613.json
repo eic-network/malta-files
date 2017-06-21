@@ -1,0 +1,83 @@
+{
+  "company_id": "C 80613",
+  "address": "HAL MANN VELLA, CENTRAL OFFICE BUILDING, LEVEL 0, MOSTA ROAD,",
+  "name": "BRIDGE LOGISTICS LTD",
+  "locality": "LIJA",
+  "status": "",
+  "registration_date": "Apr 25, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "THOMAS MOLENDINI\r",
+        "party_id": "                                                            AV8913152",
+        "address": "CARTESFLATSNO.1,BORDINOSTREET,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INFC HOLDING LTD\r",
+        "party_id": "                                                            10011502",
+        "address": "1STFLOOR,COBDENCOURT,WIMPOLECLOSE,BROMLEY,KENTBR29JFUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "THOMAS MOLENDINI\r",
+        "party_id": "                                                            AV8913152",
+        "address": "CARTESFLATSNO.1,BORDINOSTREET,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THOMAS MOLENDINI\r",
+        "party_id": "                                                            AV8913152",
+        "address": "CARTESFLATSNO.1,BORDINOSTREET,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "THOMAS MOLENDINI\r",
+        "party_id": "                                                            AV8913152",
+        "address": "CARTESFLATSNO.1,BORDINOSTREET,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "THOMAS MOLENDINI\r",
+        "party_id": "                                                            AV8913152",
+        "address": "CARTESFLATSNO.1,BORDINOSTREET,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

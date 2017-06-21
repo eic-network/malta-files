@@ -1,0 +1,83 @@
+{
+  "name": "BALKAN POWER INVEST HOLDING LIMITED",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER CHRISTENSEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82236569",
+        "address": "EKEBYSKOGSV9,SE-18255DJURSHOLMSWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER CHRISTENSEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82236569",
+        "address": "EKEBYSKOGSV9,SE-18255DJURSHOLMSWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER CHRISTENSEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82236569",
+        "address": "EKEBYSKOGSV9,SE-18255DJURSHOLMSWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CEMENTIR HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            188019",
+        "address": "AFRODITIS25,2NDFLOOROFFICE204,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 816
+        }
+      },
+      {
+        "name": "LONAVI PROPERTIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            184713",
+        "address": "GR.XENOPOULOU17,P.C.3106LIMASSOLCYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 784
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1600,
+  "address": "189/1 THE STRAND",
+  "company_id": "C 40732",
+  "registration_date": "Feb 06, 2007",
+  "shares_currency": "USD",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1600
+}

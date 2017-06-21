@@ -1,0 +1,160 @@
+{
+  "name": "BITUMEN IMPORT COMPANY LIMITED",
+  "total_issued_shares_value": 349405.95,
+  "total_authorised_shares_value": 349405.95,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MARIO GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            523365M",
+        "address": "FLAT3,ALBACOURT,K.SCHEMBRISTREET,MSIDAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IAN J STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMSD12MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HECTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388358M",
+        "address": "HONEYLANE,STAYLORCOLERIDGESTREET,NAXXARMALTA"
+      },
+      {
+        "name": "JOHN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            211650M",
+        "address": "'LOYKA',ST.CATHERINESTREET,QRENDIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HECTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388358M",
+        "address": "HONEYLANE,STAYLORCOLERIDGESTREET,NAXXARMALTA"
+      },
+      {
+        "name": "JOHN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            211650M",
+        "address": "'LOYKA',ST.CATHERINESTREET,QRENDIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/05",
+        "address": "DeloittePlace,MriehelBypassMriehelBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HECTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388358M",
+        "address": "HONEYLANE,STAYLORCOLERIDGESTREET,NAXXARMALTA"
+      },
+      {
+        "name": "JOHN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            211650M",
+        "address": "'LOYKA',ST.CATHERINESTREET,QRENDIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BITMAC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 249",
+        "address": "TA'XWIEKI,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50000
+        }
+      },
+      {
+        "name": "POLIDANO BROTHERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8884",
+        "address": "HAL-FARRUGROADLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50000
+        }
+      },
+      {
+        "name": "ASFALTAR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8313",
+        "address": "HAL-FARROAD,LIMITSOFBIRZEBBUGA,BIRZEBBUGIABBG06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 50000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "1, COL. SAVONA STREET,",
+  "company_id": "C 21150",
+  "registration_date": "Mar 05, 1997",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 150000
+}

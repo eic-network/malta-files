@@ -1,0 +1,101 @@
+{
+  "company_id": "C 52541",
+  "address": "18/2, SOUTH STREET,",
+  "name": "BREEZE YACHTING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Apr 08, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ERDEM DIZDAR\r",
+        "party_id": "                                                            TR-PNO.006734",
+        "address": "GOKTURKMERKEZMAH.ISTANBULCAD.,BINANO.8,DAIRE:DK14,EYUP,ISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELIF AYIK DIZDAR\r",
+        "party_id": "                                                            U02434834",
+        "address": "HALKALI,MERKEZMAH.BASINEKSPRESYOLUNO:5/A,KUCUKCEKMECE,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "UGUR AYIK\r",
+        "party_id": "                                                            TR-V055924",
+        "address": "HALLKAH,MERKEZMAHBASINEKSPRESYOLUNO:5/A,KUCUKCEKMECE,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ERDEM DIZDAR\r",
+        "party_id": "                                                            TR-PNO.006734",
+        "address": "GOKTURKMERKEZMAH.ISTANBULCAD.,BINANO.8,DAIRE:DK14,EYUP,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1197,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RAGIP TUNALILAR\r",
+        "party_id": "                                                            TR-Y360009",
+        "address": "ACARKENT44.SL.B509BEYKOZ,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERDEM DIZDAR\r",
+        "party_id": "                                                            TR-PNO.006734",
+        "address": "GOKTURKMERKEZMAH.ISTANBULCAD.,BINANO.8,DAIRE:DK14,EYUP,ISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERDEM DIZDAR\r",
+        "party_id": "                                                            TR-PNO.006734",
+        "address": "GOKTURKMERKEZMAH.ISTANBULCAD.,BINANO.8,DAIRE:DK14,EYUP,ISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

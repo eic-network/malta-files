@@ -1,0 +1,91 @@
+{
+  "name": "BMF COMPANY LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 4
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286290M",
+        "address": "31,OAKHILLAPARTMENTS,SCICLUNASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286290M",
+        "address": "31,OAKHILLAPARTMENTS,SCICLUNASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286290M",
+        "address": "31,OAKHILLAPARTMENTS,SCICLUNASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286290M",
+        "address": "31,OAKHILLAPARTMENTS,SCICLUNASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLASSIC SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20507",
+        "address": "111/6,ST.LUCIASTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "CLASSIC SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20507",
+        "address": "111/6,ST.LUCIASTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 4,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "111/6, ST. LUCIA STREET,",
+  "company_id": "C 21675",
+  "registration_date": "Jul 18, 1997",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

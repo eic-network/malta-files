@@ -1,0 +1,88 @@
+{
+  "company_id": "C 77757",
+  "address": "51 TA' XBIEX SEAFRONT",
+  "name": "BRIGHT SKY LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Oct 21, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1201
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1201,
+  "total_issued_shares_value": 1201,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "WILHELMUS ADRIANUS WOESTENBURG\r",
+        "party_id": "                                                            0058057A",
+        "address": "25,CATHEDRALSTREET,WYNNCOURT,APARTMENT6,SLIEMASLM1525MALTA",
+        "nationality": "DUTCH"
+      },
+      {
+        "name": "WILFRIED LOUIS LYDIA WOUTERS\r",
+        "party_id": "                                                            EJ365275",
+        "address": "KALLEBEEKSTRAAT793190BOORTMEERBEEKBELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIGHT SATURN LIMITED\r",
+        "party_id": "                                                            C 77753",
+        "address": "51,TA'XBIEXSEAFRONT,TA'XBIEXXBX1020MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1201,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILHELMUS ADRIANUS WOESTENBURG\r",
+        "party_id": "                                                            0058057A",
+        "address": "25,CATHEDRALSTREET,WYNNCOURT,APARTMENT6,SLIEMASLM1525MALTA",
+        "nationality": "DUTCH"
+      },
+      {
+        "name": "WILFRIED LOUIS LYDIA WOUTERS\r",
+        "party_id": "                                                            EJ365275",
+        "address": "KALLEBEEKSTRAAT793190BOORTMEERBEEKBELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WILHELMUS ADRIANUS WOESTENBURG\r",
+        "party_id": "                                                            0058057A",
+        "address": "25,CATHEDRALSTREET,WYNNCOURT,APARTMENT6,SLIEMASLM1525MALTA",
+        "nationality": "DUTCH"
+      },
+      {
+        "name": "WILFRIED LOUIS LYDIA WOUTERS\r",
+        "party_id": "                                                            EJ365275",
+        "address": "KALLEBEEKSTRAAT793190BOORTMEERBEEKBELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMONA PISCOPO\r",
+        "party_id": "                                                            201178M",
+        "address": "Q1-02TIGNEPOINT,SLIEMATP01MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

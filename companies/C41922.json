@@ -1,0 +1,89 @@
+{
+  "name": "Blueleaf Limited",
+  "total_issued_shares_value": 40645.01,
+  "total_authorised_shares_value": 40720.04,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1.625739
+    },
+    {
+      "issued_shares": 1,
+      "type": "Preference(PREFERREDSHARES)",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1.531394
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PHILIPPE MUULS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EF362589",
+        "address": "53,AVENUELEOERRERABRUSSELS1180BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILIPPE MUULS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EF362589",
+        "address": "53,AVENUELEOERRERABRUSSELS1180BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIPPE MUULS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EF362589",
+        "address": "53,AVENUELEOERRERABRUSSELS1180BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MENADO - TRADING E SERVICOS INTERNACIONAIS S.AR.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B146166",
+        "address": "47,AVENUEJOHNF.KENNEDY,LUXEMBOURGL-1855LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1.531394,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "(PREFERRED SHARES)",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Mochis Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 46246",
+        "address": "PALAZZOPIETROSTIGES,103STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.625739,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25001,
+  "address": "PALAZZO PIETRO STIGES, 103, STRAIT STREET,",
+  "company_id": "C 41922",
+  "registration_date": "Jul 20, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 25050
+}

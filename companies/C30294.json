@@ -1,0 +1,146 @@
+{
+  "name": "ARMIER DEVELOPMENTS LIMITED",
+  "total_issued_shares_value": 1747.03,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 395,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 395,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 270,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 270,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 85,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 85,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TARCISIO BARBARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401955M",
+        "address": "52,TA'BLAHSIEB,TRIQL-ISKOLA,SAFISFI1406MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TARCISIO BARBARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401955M",
+        "address": "52,TA'BLAHSIEB,TRIQL-ISKOLA,SAFISFI1406MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TARCISIO BARBARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401955M",
+        "address": "52,TA'BLAHSIEB,TRIQL-ISKOLA,SAFISFI1406MALTA"
+      },
+      {
+        "name": "SILVIO BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33754M",
+        "address": "COUNTRYLODGE,A.DESAAVEDRASTREET,NAXXARNXR2232MALTA"
+      },
+      {
+        "name": "Martin Charles\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67344M",
+        "address": "7TriqSanLawrenzBIRKIRKARABKR1521MALTA"
+      },
+      {
+        "name": "CHARLIE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670252M",
+        "address": "'CHARMAR',TRIQDUNSALVCIAPPARA,ZEBBUGZBG2460MALTA"
+      },
+      {
+        "name": "JOHN GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15554M",
+        "address": "SUNSETFLATS,FLAT3,DINGLIROADRABATMALTA"
+      },
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417060M",
+        "address": "\"LOURDES\",TRIQIL-HAMMIERI,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL E. BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48120",
+        "address": "5,HAIL,TRIQTHORNTONSLIEMASLM3150MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TARCISIO BARBARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401955M",
+        "address": "52,TA'BLAHSIEB,TRIQL-ISKOLA,SAFISFI1406MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TARCISIO BARBARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401955M",
+        "address": "52,TA'BLAHSIEB,TRIQL-ISKOLA,SAFISFI1406MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 395
+        }
+      },
+      {
+        "name": "GEORGE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417060M",
+        "address": "100,FLAT1,TRIQIL-HAMMIERI,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 270
+        }
+      },
+      {
+        "name": "CHARLIE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670252M",
+        "address": "'CHARMAR',TRIQDUNSALVCIAPPARA,ZEBBUGZBG2460MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 85
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 750,
+  "address": "52, TA' BLA HSIEB, TRIQ L-ISKOLA,",
+  "company_id": "C 30294",
+  "registration_date": "Oct 03, 2002",
+  "shares_currency": "EUR",
+  "locality": "SAFI",
+  "status": "",
+  "total_authorised_shares": 20000
+}

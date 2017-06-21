@@ -1,0 +1,70 @@
+{
+  "company_id": "C 52588",
+  "address": "'ABACUS' SUITE 2 PSAILA STREET",
+  "name": "BRAVESOX LIMITED",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "registration_date": "Apr 14, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PAUL MARMARA'\r",
+        "party_id": "                                                            799960M",
+        "address": "'FOURWINDS',TRIQJEANHOUELNAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDRELLAMARE LIMITED\r",
+        "party_id": "                                                            C 52438",
+        "address": "2NDFLOOR,COBALTHOUSENOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL MARMARA'\r",
+        "party_id": "                                                            799960M",
+        "address": "'FOURWINDS',TRIQJEANHOUELNAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL MARMARA'\r",
+        "party_id": "                                                            799960M",
+        "address": "'FOURWINDS',TRIQJEANHOUELNAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL MARMARA'\r",
+        "party_id": "                                                            799960M",
+        "address": "'FOURWINDS',TRIQJEANHOUELNAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

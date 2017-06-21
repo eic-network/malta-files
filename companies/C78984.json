@@ -1,0 +1,70 @@
+{
+  "company_id": "C 78984",
+  "address": "Noel Muscat & Co Triq L-Imghazel",
+  "name": "3Digital Limited",
+  "locality": "SWIEQI",
+  "status": "",
+  "registration_date": "Jan 11, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Maksym Shelekhov\r",
+        "party_id": "                                                            EK178519",
+        "address": "Naardenska675/916200PragueCZECHREPUBLIC",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Maksym Shelekhov\r",
+        "party_id": "                                                            EK178519",
+        "address": "Naardenska675/916200PragueCZECHREPUBLIC",
+        "nationality": "UKRAINIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Maksym Shelekhov\r",
+        "party_id": "                                                            EK178519",
+        "address": "Naardenska675/916200PragueCZECHREPUBLIC",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Maksym Shelekhov\r",
+        "party_id": "                                                            EK178519",
+        "address": "Naardenska675/916200PragueCZECHREPUBLIC",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Maksym Shelekhov\r",
+        "party_id": "                                                            EK178519",
+        "address": "Naardenska675/916200PragueCZECHREPUBLIC",
+        "nationality": "UKRAINIAN"
+      }
+    ]
+  }
+}

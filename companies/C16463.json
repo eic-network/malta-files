@@ -1,0 +1,91 @@
+{
+  "company_id": "C 16463",
+  "address": "233, TOWER ROAD,",
+  "name": "BORIS ARCIDIACONO LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jul 08, 1994",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 145000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 145000
+    }
+  ],
+  "total_authorised_shares": 145000,
+  "total_authorised_shares_value": 337759.08,
+  "total_issued_shares": 145000,
+  "total_issued_shares_value": 337759.09,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BORIS ARCIDIACONO\r",
+        "party_id": "                                                            484344M",
+        "address": "116/4,TOWERROAD,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELDRIDGE INVESTMENTS LIMITED\r",
+        "party_id": "                                                            C 18688",
+        "address": "233,TOWERROAD,SLIEMASLM1601MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 122500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "BORIS ARCIDIACONO\r",
+        "party_id": "                                                            484344M",
+        "address": "116/4,TOWERROAD,SLIEMAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 22500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BORIS ARCIDIACONO\r",
+        "party_id": "                                                            484344M",
+        "address": "116/4,TOWERROAD,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BORIS ARCIDIACONO\r",
+        "party_id": "                                                            484344M",
+        "address": "116/4,TOWERROAD,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GABRIELLA ARCIDIACONO\r",
+        "party_id": "                                                            201505L",
+        "address": "116/4,TOWERROAD,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "AQUAVITA LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARINA FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            127454M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DONALD FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596749M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DONALD FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596749M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA"
+      },
+      {
+        "name": "MARINA FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            127454M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DONALD FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596749M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DONALD FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596749M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "MARINA FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            127454M",
+        "address": "MALESHTRIQIL-FALKUNSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "MALESH TRIQ IL-FALKUN",
+  "company_id": "C 16478",
+  "registration_date": "Jul 12, 1994",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 50000
+}

@@ -1,0 +1,91 @@
+{
+  "company_id": "C 63515",
+  "address": "FLAT 2, TODD FLATS, BISAZZA STREET,",
+  "name": "BOROWSKI INDUSTRIAL CONSULTING LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jan 17, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANDRZEJ MAREK BOROWSKI\r",
+        "party_id": "                                                            CF9V2KYRK",
+        "address": "FLAT2,TODDFLATS,BISAZZASTREET,SLIEMAMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "YEDRAG HOLDINGS LIMITED\r",
+        "party_id": "                                                            1784098",
+        "address": "GENEVAPLACE,WATERFRONTDRIVE,POBOX3469,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ANDRZEJ MAREK BOROWSKI\r",
+        "party_id": "                                                            CF9V2KYRK",
+        "address": "FLAT2,TODDFLATS,BISAZZASTREET,SLIEMAMALTA",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDRZEJ MAREK BOROWSKI\r",
+        "party_id": "                                                            CF9V2KYRK",
+        "address": "FLAT2,TODDFLATS,BISAZZASTREET,SLIEMAMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDRZEJ MAREK BOROWSKI\r",
+        "party_id": "                                                            CF9V2KYRK",
+        "address": "FLAT2,TODDFLATS,BISAZZASTREET,SLIEMAMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDRZEJ MAREK BOROWSKI\r",
+        "party_id": "                                                            CF9V2KYRK",
+        "address": "FLAT2,TODDFLATS,BISAZZASTREET,SLIEMAMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "party_id": "                                                            00588",
+        "address": "164,MEADOWBANKMANS,FL.23,TRIQIT-TORRISLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "AMIA GROUP LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN NICOTRA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8321901",
+        "address": "VIACALI8,GIARRE,CATANIA95014ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN NICOTRA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8321901",
+        "address": "VIACALI8,GIARRE,CATANIA95014ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN NICOTRA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8321901",
+        "address": "VIACALI8,GIARRE,CATANIA95014ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IVAN NICOTRA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8321901",
+        "address": "VIACALI8,GIARRE,CATANIA95014ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HULL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18295",
+        "address": "CENTRALOFFICEBUILDINGS,BLOCKA,LEVEL1,HALMANNVELLA,MOSTAROAD,LIJALJA9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "HAL MANN VELLA, LEVEL 0 MOSTA ROAD",
+  "company_id": "C 54053",
+  "registration_date": "Oct 07, 2011",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

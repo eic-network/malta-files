@@ -1,0 +1,65 @@
+{
+  "name": "BATEAU LIMITED",
+  "total_issued_shares_value": 1164.6,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MATTHEW FIORINI LOWELL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79480M",
+        "address": "IL-HAWT,TRIQSANFRANGISKTA'ASSISI,MADLIENANAXXARMALTA"
+      },
+      {
+        "name": "SHARON FRIEDLAND ZACK\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            153458822",
+        "address": "20E,68THSTREET,APT3F,NEWYORKNY1002UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATTHEW FIORINI LOWELL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79480M",
+        "address": "IL-HAWT,TRIQSANFRANGISKTA'ASSISI,MADLIENANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SHARON FRIEDLAND ZACK\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            153458822",
+        "address": "20E,68THSTREET,APT3F,NEWYORKNY1002UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "34/1, TA' XBIEX TERRACE,",
+  "company_id": "C 33385",
+  "registration_date": "Mar 09, 2004",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

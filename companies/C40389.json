@@ -1,0 +1,103 @@
+{
+  "name": "AROM HOLDINGS LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 23293730,
+  "authorised_shares": [
+    {
+      "issued_shares": 999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 999,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL PACE ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            366873M",
+        "address": "34,'IRIS',SANTAMARIJAGARDENS,TRIQIZ-ZEBBUGMELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES J. SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488782M",
+        "address": "156,SLIEM,TRIQANNIBALEPRECA,LIJALJA1917MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOE GALEA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43364M",
+        "address": "59,BRAREDSTREET,BIRKIRKARABKR1252MALTA"
+      },
+      {
+        "name": "CHARLES J. SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488782M",
+        "address": "156,SLIEM,TRIQANNIBALEPRECA,LIJALJA1917MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES J. SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488782M",
+        "address": "156,SLIEM,TRIQANNIBALEPRECA,LIJALJA1917MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THE ARCHIDIOCESE OF MALTA - DIOCESAN OFFICE OF ADMINISTRATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "THEARCHBISHOP'SCURIAST.CALCEDONIUSSQUAREFLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "THE ECONOMO",
+        "nationality": "",
+        "party_id": "",
+        "address": "THEARCHBISHOP'SCURIA,ST.CALCEDONIUSSQUARE,FLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "ARCHBISHOP'S CURIA, ST. CALCEDONIUS SQUARE",
+  "company_id": "C 40389",
+  "registration_date": "Dec 21, 2006",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000000
+}

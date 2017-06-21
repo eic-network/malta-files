@@ -1,0 +1,167 @@
+{
+  "name": "Betfold Limited",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "VILLA'ISIS',TRIQTA'STRONKA,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "NIKI MIRECKI PEDERSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102531958",
+        "address": "VERDALA3,STGEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "OMAR MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233775M",
+        "address": "FLAT6CHAVANAAPARTMENTS,ST.GEORGE'SROAD,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "RADOSLAW SZYMON SKALSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AM1215498",
+        "address": "APARTMENT3,TAMALFLATS,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "VILLA'ISIS',TRIQTA'STRONKA,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "NIKI MIRECKI PEDERSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102531958",
+        "address": "VERDALA3,STGEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "OMAR MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233775M",
+        "address": "FLAT6CHAVANAAPARTMENTS,ST.GEORGE'SROAD,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "RADOSLAW SZYMON SKALSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AM1215498",
+        "address": "APARTMENT3,TAMALFLATS,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "VILLA'ISIS',TRIQTA'STRONKA,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "NIKI MIRECKI PEDERSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102531958",
+        "address": "VERDALA3,STGEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "OMAR MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233775M",
+        "address": "FLAT6CHAVANAAPARTMENTS,ST.GEORGE'SROAD,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "RADOSLAW SZYMON SKALSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AM1215498",
+        "address": "APARTMENT3,TAMALFLATS,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "VILLA'ISIS',TRIQTA'STRONKA,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 16000
+        }
+      },
+      {
+        "name": "OMAR MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233775M",
+        "address": "FLAT6CHAVANAAPARTMENTS,ST.GEORGE'SROAD,PACEVILLE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "NIKI MIRECKI PEDERSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102531958",
+        "address": "VERDALA3,STGEORGE'SPARK,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "RADOSLAW SZYMON SKALSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AM1215498",
+        "address": "APARTMENT3,TAMALFLATS,BIRKIRKARAHILL,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "86 ST. GEORGE'S ROAD, PACEVILLE,",
+  "company_id": "C 44430",
+  "registration_date": "Jun 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 40000
+}

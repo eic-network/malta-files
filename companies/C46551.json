@@ -1,0 +1,117 @@
+{
+  "name": "BARGAIN VEHICLES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "SIMON CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385466M",
+        "address": "152/9,NAXXARROAD,SANGWANNSGN9030MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JASON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171978M",
+        "address": "GLORYOFLOVE,VALLETTAROAD,KIRKOPKKP1811MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171978M",
+        "address": "GLORYOFLOVE,VALLETTAROAD,KIRKOPKKP1811MALTA"
+      },
+      {
+        "name": "LAWRENCE GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91983M",
+        "address": "20TRIQIL-GIBJUNGHAXAQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171978M",
+        "address": "GLORYOFLOVE,VALLETTAROAD,KIRKOPKKP1811MALTA"
+      },
+      {
+        "name": "LAWRENCE GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91983M",
+        "address": "20TRIQIL-GIBJUNGHAXAQMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10530",
+        "address": "RAMSEY,FLAT1,TRIQFRAFERDMATTEI,ZEBBUGZBG1130MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JASON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171978M",
+        "address": "GLORYOFLOVE,VALLETTAROAD,KIRKOPKKP1811MALTA"
+      },
+      {
+        "name": "LAWRENCE GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91983M",
+        "address": "20TRIQIL-GIBJUNGHAXAQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JASON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171978M",
+        "address": "GLORYOFLOVE,VALLETTAROAD,KIRKOPKKP1811MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "LAWRENCE GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91983M",
+        "address": "20TRIQIL-GIBJUNGHAXAQMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3, GLORY OF LOVE, VALLETTA ROAD",
+  "company_id": "C 46551",
+  "registration_date": "Apr 02, 2009",
+  "shares_currency": "EUR",
+  "locality": "KIRKOP",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

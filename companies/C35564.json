@@ -1,0 +1,97 @@
+{
+  "name": "BABICH INTERNATIONAL LTD",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 9800,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 9800,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT TAYLOR-EAST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531478M",
+        "address": "8,TRIQIL-GONNA,ATTARDATD1260MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SERGE GENDRON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            WH493362",
+        "address": "4361,DEBULLIONAPTS.105,MONTREALH2W2G2CANADA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SERGE GENDRON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            WH493362",
+        "address": "4361,DEBULLIONAPTS.105,MONTREALH2W2G2CANADA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SERGE GENDRON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            WH493362",
+        "address": "4361,DEBULLIONAPTS.105,MONTREALH2W2G2CANADA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SERGE GENDRON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            WH493362",
+        "address": "4361,DEBULLIONAPTS.105,MONTREALH2W2G2CANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Acier AGF Inc\r",
+        "nationality": "",
+        "party_id": "                                                            1148513766",
+        "address": "2270,RUEGARNEAU,LONGUEUIL(QUEBEC)CANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "BALLUTA TERRACE, C 3006, ST. JULIAN'S RAMP,",
+  "company_id": "C 35564",
+  "registration_date": "Feb 01, 2005",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 20000
+}

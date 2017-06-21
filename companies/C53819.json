@@ -1,0 +1,97 @@
+{
+  "company_id": "C 53819",
+  "address": "5/1, MERCHANTS STREET,",
+  "name": "BOTTESINI INTERNATIONAL HOLDINGS LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 13, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 498543,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 498543
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 498544,
+  "total_authorised_shares_value": 498544,
+  "total_issued_shares": 498544,
+  "total_issued_shares_value": 498544,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IAN DAVID WEBBER\r",
+        "party_id": "                                                            AAD520984",
+        "address": "PLAZADEISABELII,1PRIMEROIZQ,MADRIDSPAIN",
+        "nationality": "SPANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 498543,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "AHMED GOUELI JAIAL\r",
+        "party_id": "                                                            BD809590",
+        "address": "CALLEOLMON311A,MADRID28012SPAIN",
+        "nationality": "SPANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "party_id": "                                                            309780M",
+        "address": "168,MAINSTREET,LIJALJA1509MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "BILPIX LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 999,
+      "nominal_value_per_share": 2
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "TA'SANTUMASBLK2FLAT1TRIQIL-GANDOFFLIMARSASCALAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "TA'SANTUMASBLK2FLAT1TRIQIL-GANDOFFLIMARSASCALAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "BLOCK2,FLAT1,TA'SANTUMAS,TRIQIL-GANDOFFLI,MARSASCALAMSK3012MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "TA'SANTUMASBLK2FLAT1TRIQIL-GANDOFFLIMARSASCALAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INNOVATIVE ADS HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C79252",
+        "address": "AbacusBusinessCentre,Level1DunKarmStreet,B'KaraBypassBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "OSCAR DALVIT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5241347",
+        "address": "ERTAPALERMO1147822SANTARCANGELODIROMAGNARIMINIITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "Abacus Business Centre, Level 1 Dun Karm Street, B'Kara Bypass",
+  "company_id": "C 79256",
+  "registration_date": "Feb 07, 2017",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

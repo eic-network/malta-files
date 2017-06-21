@@ -1,0 +1,68 @@
+{
+  "name": "BENTRADE LIMITED",
+  "total_issued_shares_value": 24000,
+  "total_authorised_shares_value": 24000,
+  "authorised_shares": [
+    {
+      "issued_shares": 24000,
+      "type": "Ordinary",
+      "authorised_share_capital": 24000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LILJANA KNEZEVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            05205993",
+        "address": "195,MANWELDIMECHSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LILJANA KNEZEVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            05205993",
+        "address": "195,MANWELDIMECHSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "MIROSLAV RNJAK\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            27784",
+        "address": "195,MANWELDIMECHSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MIROSLAV RNJAK\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            27784",
+        "address": "195,MANWELDIMECHSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "UNIFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11126",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 24000,
+  "address": "195, MANWEL DIMECH STREET,",
+  "company_id": "C 26397",
+  "registration_date": "May 17, 2000",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 24000
+}

@@ -1,0 +1,65 @@
+{
+  "name": "ALPES SHIPPING & TRADING CO LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "OZKAN BURAK AKAT",
+        "nationality": "TURKISH",
+        "party_id": "",
+        "address": "CEMILASKANGUDERSOKAK,CAURETTEPE,ISTANBULTURKEY"
+      },
+      {
+        "name": "RUSTU ERIM AKAT",
+        "nationality": "TURKISH",
+        "party_id": "",
+        "address": "CAGLAYANAPTD6,GAYRETTEPE,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OZKAN BURAK AKAT",
+        "nationality": "TURKISH",
+        "party_id": "",
+        "address": "CEMILASKANGUDERSOKAK,CAURETTEPE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "RUSTU ERIM AKAT",
+        "nationality": "TURKISH",
+        "party_id": "",
+        "address": "CAGLAYANAPTD6,GAYRETTEPE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "60, SOUTH STREET,",
+  "company_id": "C 18085",
+  "registration_date": "Mar 23, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

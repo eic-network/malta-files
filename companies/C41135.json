@@ -1,0 +1,107 @@
+{
+  "name": "BLUE CREDIT LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MEHRDAD ESMAILI KIA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NN0D4PB05",
+        "address": "TIARARESIDENCE,EMERALDSUITE1205,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "KEVIN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579474M",
+        "address": "102,ST.MARYSTREETSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MEHRDAD ESMAILI KIA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NN0D4PB05",
+        "address": "TIARARESIDENCE,EMERALDSUITE1205,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "KEVIN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579474M",
+        "address": "102,ST.MARYSTREETSLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID GONZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            551078M",
+        "address": "21,TRAFALGARHOUSE,HOWARDSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MEHRDAD ESMAILI KIA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NN0D4PB05",
+        "address": "TIARARESIDENCE,EMERALDSUITE1205,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "KEVIN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579474M",
+        "address": "102,ST.MARYSTREETSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEHRDAD ESMAILI KIA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NN0D4PB05",
+        "address": "TIARARESIDENCE,EMERALDSUITE1205,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "GONZI GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45350",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "10, WESGHA REGGIE MILLER,",
+  "company_id": "C 41135",
+  "registration_date": "Apr 11, 2007",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

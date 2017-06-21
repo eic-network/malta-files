@@ -1,0 +1,91 @@
+{
+  "name": "BETALIA LIMITED",
+  "total_issued_shares_value": 60000,
+  "total_authorised_shares_value": 60000,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "Ordinary",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUIS GARCIA BADILLO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AD328131",
+        "address": "AVENIDAALMENARA,3,1CSOTOGRANDECADIZ11310SPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANUEL FIDEL NAVARRETE ALGUACIL\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BC875305",
+        "address": "CALLEMARIATUBAUNO15,EBAJO3,MADRID28050SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MANUEL FIDEL NAVARRETE ALGUACIL\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BC875305",
+        "address": "CALLEMARIATUBAUNO15,EBAJO3,MADRID28050SPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MANUEL FIDEL NAVARRETE ALGUACIL\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BC875305",
+        "address": "CALLEMARIATUBAUNO15,EBAJO3,MADRID28050SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETALIA HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48945",
+        "address": "APT12,LEVEL3,CHARLESCOURT,ST.LUKE'SROAD,GUARDAMANGIA,PIETA'PTA1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 59400
+        }
+      },
+      {
+        "name": "MANUEL FIDEL NAVARRETE ALGUACIL\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BC875305",
+        "address": "CALLEMARIATUBAUNO15,EBAJO3,MADRID28050SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 60000,
+  "address": "APT. 12, LEVEL 3, 31, CHARLES COURT, ST. LUKES ROAD, GUARDAMANGIA,",
+  "company_id": "C 49010",
+  "registration_date": "Mar 03, 2010",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 60000
+}

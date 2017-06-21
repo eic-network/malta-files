@@ -1,0 +1,78 @@
+{
+  "name": "62 HOLDING LTD",
+  "total_issued_shares_value": 31200,
+  "total_authorised_shares_value": 31200,
+  "authorised_shares": [
+    {
+      "issued_shares": 31200,
+      "type": "Ordinary",
+      "authorised_share_capital": 31200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AUDREY MCCORMICK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34772M",
+        "address": "18,PJAZZATIGNE,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO SENNA INTERNATIONAL CONSULTING S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B-57294605",
+        "address": "PASEOMALLORCA18PALMADEMALLORCA1a07012SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 31200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 31200,
+  "address": "18, PJAZZA TIGNE POINT,",
+  "company_id": "C 62930",
+  "registration_date": "Dec 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 31200
+}

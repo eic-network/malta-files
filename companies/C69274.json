@@ -1,0 +1,89 @@
+{
+  "name": "90MIN HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANASTASIOS OIKONOMIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI2232191",
+        "address": "SEABREEZE,FL.11,TRIQIL-MADONNATAS-SACROCUOR,SLIEMASLM1040MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANASTASIOS OIKONOMIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI2232191",
+        "address": "SEABREEZE,FL.11,TRIQIL-MADONNATAS-SACROCUOR,SLIEMASLM1040MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANASTASIOS OIKONOMIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI2232191",
+        "address": "SEABREEZE,FL.11,TRIQIL-MADONNATAS-SACROCUOR,SLIEMASLM1040MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANASTASIOS OIKONOMIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI2232191",
+        "address": "SEABREEZE,FL.11,TRIQIL-MADONNATAS-SACROCUOR,SLIEMASLM1040MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANASTASIOS OIKONOMIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI2232191",
+        "address": "SEABREEZE,FL.11,TRIQIL-MADONNATAS-SACROCUOR,SLIEMASLM1040MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ALBERT ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            571978M",
+        "address": "'JAVA',TRIQL-IMMAKULATA,MARSASCALAMSK1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "12, OFFICE 2/4B, TIGNE PLACE, TIGNE STREET,",
+  "company_id": "C 69274",
+  "registration_date": "Feb 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

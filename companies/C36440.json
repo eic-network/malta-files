@@ -1,0 +1,78 @@
+{
+  "name": "BEGLEY LIMITED",
+  "total_issued_shares_value": 800,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 800,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DONALD VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579782M",
+        "address": "AMBERCOURT,FLAT5,TRIQIT-TABIBGREGORIOMIFSUD,QRENDIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Sebastian Alfred Heinrich  Burckhardt\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4340779",
+        "address": "Gstaltenrainweg19,Riehen4125SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Sebastian Alfred Heinrich  Burckhardt\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4340779",
+        "address": "Gstaltenrainweg19,Riehen4125SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03688",
+        "address": "WARDAMISTIKA,12,TRIQSANTAKLEMENTINA,ZURRIEQZRQ2471MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Sebastian Alfred Heinrich  Burckhardt\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4340779",
+        "address": "Gstaltenrainweg19,Riehen4125SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COSA CONSTRUCTA HOLDING SA\r",
+        "nationality": "",
+        "party_id": "                                                            554426",
+        "address": "PANAZUR,CORPORATESHIPPINGSERVICESINC.HEADOFFICE,POBOX5235PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 800,
+  "address": "LEVEL 2,  VALLETTA BUILDINGS, SOUTH STREET",
+  "company_id": "C 36440",
+  "registration_date": "Jun 17, 2005",
+  "shares_currency": "GBP",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,64 @@
+{
+  "name": "ALTER DOMUS FINANCE PARTNERSHIP",
+  "total_issued_shares_value": 3,
+  "total_authorised_shares_value": 6,
+  "authorised_shares": [
+    {
+      "issued_shares": 3,
+      "type": "",
+      "authorised_share_capital": 3,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ALTER DOMUS (HOLDING) MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62843",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RENE BELTJENS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            61.09.17-371.75",
+        "address": "DORPSSTRAAT3VOSSEM3080BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "DOMINIQUE ROBYNS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            58.12.31-295.77",
+        "address": "VALLEEDEL'EAU10CHINY6812BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL,",
+  "company_id": "P COMM 132",
+  "registration_date": "Dec 15, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 6
+}

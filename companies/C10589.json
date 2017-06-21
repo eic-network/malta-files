@@ -1,0 +1,147 @@
+{
+  "name": "ARCADIA LTD",
+  "total_issued_shares_value": 4612.16,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 20,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1960,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1960,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "ARCADIA,P.P.SAYDONSTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            486841M",
+        "address": "ARCADIAP.P.SAYDONSTREETZURRIEQMALTA"
+      },
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "ARCADIA,P.P.SAYDONSTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "ARCADIA,P.P.SAYDONSTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            486841M",
+        "address": "ARCADIAP.P.SAYDONSTREETZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "SALVINO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474235M",
+        "address": "ARCADIA,P.P.SAYDONSTREETZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "ELIZABETH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135875M",
+        "address": "ARCADIAP.P.SAYDONSTREETZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 490
+        }
+      },
+      {
+        "name": "MARIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385366M",
+        "address": "ARCADIA,P.P.SAYDONSTREET,ZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 490
+        }
+      },
+      {
+        "name": "SILVIO DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            533971M",
+        "address": "ARCADIAP.P.SAYDONSTREETZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 490
+        }
+      },
+      {
+        "name": "NATHALIE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67968M",
+        "address": "'LECHARELON'TRIQK.SALIBAZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 490
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1980,
+  "address": "ARCADIA P.PAUL SAYDON STREET",
+  "company_id": "C 10589",
+  "registration_date": "May 02, 1989",
+  "shares_currency": "EUR",
+  "locality": "ZURRIEQ",
+  "status": "",
+  "total_authorised_shares": 40000
+}

@@ -1,0 +1,94 @@
+{
+  "name": "ARGENTARIUS CONCEPTS LTD.",
+  "total_issued_shares_value": 3010,
+  "total_authorised_shares_value": 3010,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10,
+      "type": "RedeemablePreferenceB",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTIAN GROESS\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            L05106881",
+        "address": "ALLERHEILIGEN108,ALLERHEILIGENBEIWILDON8412AUSTRIA"
+      },
+      {
+        "name": "DZEMO NESLANOVIC\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            A1562345",
+        "address": "SCHULGASSE25,DORNBIRN6850AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTIAN GROESS\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            L05106881",
+        "address": "ALLERHEILIGEN108,ALLERHEILIGENBEIWILDON8412AUSTRIA"
+      },
+      {
+        "name": "DZEMO NESLANOVIC\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            A1562345",
+        "address": "SCHULGASSE25,DORNBIRN6850AUSTRIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BEPPE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "TAL-BONZU,TRIQL-IMGHAZELSWIEQISWQ3141MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTIAN GROESS\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            L05106881",
+        "address": "ALLERHEILIGEN108,ALLERHEILIGENBEIWILDON8412AUSTRIA"
+      },
+      {
+        "name": "DZEMO NESLANOVIC\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            A1562345",
+        "address": "SCHULGASSE25,DORNBIRN6850AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DNCG Holding Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 77683",
+        "address": "NoelMuscat&CoTriqL-ImghazelSWIEQISWQ3141MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3010,
+  "address": "NOEL MUSCAT & CO., TRIQ L-IMGHAZEL,",
+  "company_id": "C 64608",
+  "registration_date": "Apr 08, 2014",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 3010
+}

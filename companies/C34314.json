@@ -1,0 +1,75 @@
+{
+  "name": "BLACK SEA EXPRESS LTD.",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RECAI OZTURK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-J358931",
+        "address": "YENIMAHALLE,MANOLYACAD.,PIRSULTANSOK.NO:14D14SOGANLIK,KARTAL,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RECAI OZTURK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-J358931",
+        "address": "YENIMAHALLE,MANOLYACAD.,PIRSULTANSOK.NO:14D14SOGANLIK,KARTAL,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RECAI OZTURK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-J358931",
+        "address": "YENIMAHALLE,MANOLYACAD.,PIRSULTANSOK.NO:14D14SOGANLIK,KARTAL,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FADIME OZTURK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-PNO.761570",
+        "address": "GOZTEPEMAH.HISAREVERITEPESITESI,NO.A-1GOKSU-BEYKOZ,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "RECAI OZTURK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-J358931",
+        "address": "YENIMAHALLE,MANOLYACAD.,PIRSULTANSOK.NO:14D14SOGANLIK,KARTAL,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 34314",
+  "registration_date": "Jul 20, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

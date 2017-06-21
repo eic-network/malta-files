@@ -1,0 +1,97 @@
+{
+  "name": "BELUGAIR LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER PETER JOACHIM HOLLAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0137074A",
+        "address": "FLAT1,SCHEMBRICOURT,TRIQIL-QRENDIZURRIEQZRQ1155MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER PETER JOACHIM HOLLAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0137074A",
+        "address": "FLAT1,SCHEMBRICOURT,TRIQIL-QRENDIZURRIEQZRQ1155MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER PETER JOACHIM HOLLAND\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0137074A",
+        "address": "FLAT1,SCHEMBRICOURT,TRIQIL-QRENDIZURRIEQZRQ1155MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BELUGAIR HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1872031",
+        "address": "MILLMALL,SUITE6,WICKHAMSCAY1,ROADTOWN,TORTOLAP.O.BOX3085VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "FLAT3JUNIPERHOUSE33TRIQSIRARTUROMERCIECASLIEMASLM1864MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "48, TRIQ STELLA MARIS,",
+  "company_id": "C 68471",
+  "registration_date": "Jan 07, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

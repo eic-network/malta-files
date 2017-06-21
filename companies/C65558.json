@@ -1,0 +1,95 @@
+{
+  "name": "BADEA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MADALINA PAULA BADEA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            052048362",
+        "address": "C/SANROQUE,15,102639BARRAX(ALBACETE)SPAINSPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LOREDANA MIHAELA BADEA\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD8382788",
+        "address": "MUN.ORADEAJUD.BIHORSTR.MILCOVULUINR.14BL.PB1AP.10ROMANIAROMANIA"
+      },
+      {
+        "name": "MADALINA PAULA BADEA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            052048362",
+        "address": "C/SANROQUE,15,102639BARRAX(ALBACETE)SPAINSPAIN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LOREDANA MIHAELA BADEA\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD8382788",
+        "address": "MUN.ORADEAJUD.BIHORSTR.MILCOVULUINR.14BL.PB1AP.10ROMANIAROMANIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LOREDANA MIHAELA BADEA\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD8382788",
+        "address": "MUN.ORADEAJUD.BIHORSTR.MILCOVULUINR.14BL.PB1AP.10ROMANIAROMANIA"
+      },
+      {
+        "name": "MADALINA PAULA BADEA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            052048362",
+        "address": "C/SANROQUE,15,102639BARRAX(ALBACETE)SPAINSPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LOREDANA MIHAELA BADEA\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD8382788",
+        "address": "MUN.ORADEAJUD.BIHORSTR.MILCOVULUINR.14BL.PB1AP.10ROMANIAROMANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MADALINA PAULA BADEA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            052048362",
+        "address": "C/SANROQUE,15,102639BARRAX(ALBACETE)SPAINSPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 2, RAINBOW, TRIQ TAX-XTUT, QAWRA",
+  "company_id": "C 65558",
+  "registration_date": "Jun 10, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

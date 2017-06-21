@@ -1,0 +1,140 @@
+{
+  "name": "ARNO MANAGEMENT LIMITED",
+  "total_issued_shares_value": 2742261,
+  "total_authorised_shares_value": 2742261,
+  "authorised_shares": [
+    {
+      "issued_shares": 685530,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 685530,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 342878,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 342878,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1713849,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 1713849,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4,
+      "type": "OrdinaryX",
+      "authorised_share_capital": 4,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOOST VANDENBROECK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            52326A",
+        "address": "20,FLAT3,DINGLISTREET,SLIEMASLM1904MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTIAN AUBRY\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CZ00751",
+        "address": "FOREL8,ST.PREX1162SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 685530
+        }
+      },
+      {
+        "name": "ALAN MICHAEL JACQUES AUBRY\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AI32870",
+        "address": "FLAT3,7CAMBRIDGEGATE,LONDONNW14JXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "X",
+          "issued_shares": 4
+        }
+      },
+      {
+        "name": "LOUIS JAMES AUBRY\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14AD37996",
+        "address": "CAMBRIDGEGATE(REGENT'SPARK)7,LONDONNW14JXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 685290
+        }
+      },
+      {
+        "name": "OLIVIA JOY AUBRY\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AX28084",
+        "address": "FARMERSTREET,23,LONDONW87SNUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 685290
+        }
+      },
+      {
+        "name": "VANESSA EMMANUELLE AUBRY\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12CI51907",
+        "address": "FLAT43,42-47GLOUCESTERROAD,LONDONSW74RAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 342878
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2742261,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL & BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 65406",
+  "registration_date": "May 30, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2742261
+}

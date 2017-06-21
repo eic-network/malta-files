@@ -1,0 +1,59 @@
+{
+  "name": "A.M.G. LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARTIO TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58395",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "ARTIO TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58395",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "SUITE 4, LEVEL 2, PARKLANE BUSINESS CENTRE, MOUNTBATTEN STREET,",
+  "company_id": "C 60776",
+  "registration_date": "Jun 12, 2013",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

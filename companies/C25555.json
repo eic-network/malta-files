@@ -1,0 +1,54 @@
+{
+  "name": "AMBERGEN MALTA HOLDING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "Ordinary",
+      "authorised_share_capital": 150,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANK JOSEF HERMAN AMBERGEN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            N28925515",
+        "address": "SCHOOLSTRAAT13,7741HR,COEVORDENNETHERLANDS"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANK JOSEF HERMAN AMBERGEN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            N28925515",
+        "address": "SCHOOLSTRAAT13,7741HR,COEVORDENNETHERLANDS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COMMERCIAL SERVICES BUREAU (CSB) LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 9035",
+        "address": "28/19,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150,
+  "address": "VINCENTI BUILDINGS, SUITE 205, 14/19, STRAIT STREET,",
+  "company_id": "C 25555",
+  "registration_date": "Dec 10, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 150
+}

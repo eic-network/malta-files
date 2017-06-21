@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Dec 31, 2003",
+  "status": "In Dissolution",
+  "locality": "ST. PAUL'S BAY",
+  "name": "BS INTERNATIONAL LTD",
+  "total_issued_shares": 1500,
+  "address": "DAVIDOFF COURT, FLAT 5, TRIQ IL-MULETT",
+  "company_id": "C 32949",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            29967A",
+        "name": "KVASHALI GIVI\r",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            29967A",
+        "name": "KVASHALI GIVI\r",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            29967A",
+        "name": "KVASHALI GIVI\r",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            29967A",
+        "name": "KVASHALI GIVI\r",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA",
+        "party_id": "                                                            AB/26/84/43",
+        "name": "KSI MALTA\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 750,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            4352893",
+        "name": "TATIANA BEREZKINA\r",
+        "nationality": "RUSSIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 750,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "DAVIDOFFCOURT,FLAT5,TRIQIL-MULETTST.PAUL'SBAYMALTA",
+        "party_id": "                                                            29967A",
+        "name": "KVASHALI GIVI\r",
+        "nationality": "RUSSIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 1500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

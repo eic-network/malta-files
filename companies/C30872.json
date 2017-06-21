@@ -1,0 +1,99 @@
+{
+  "name": "BORFIN LIMITED",
+  "total_issued_shares_value": 72673,
+  "total_authorised_shares_value": 18168210,
+  "authorised_shares": [
+    {
+      "issued_shares": 72673,
+      "type": "Ordinary",
+      "authorised_share_capital": 18168210,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IGNATIUS LICARI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241744M",
+        "address": "94,COSPICUAROAD,PAOLAPLA1902MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN J ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319548M",
+        "address": "IL-FALCO,LAPSISTREET,ST.JULIANSSTJ1267MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLE,SIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLE,SIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT EBEJER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10101",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLE,SIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 72671
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 72673,
+  "address": "TOWER GATE PALACE, TAL-QROQQ STREET,",
+  "company_id": "C 30872",
+  "registration_date": "Dec 31, 1992",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 18168210
+}

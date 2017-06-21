@@ -1,0 +1,77 @@
+{
+  "name": "4 OF HEARTS HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JAN ANTHONY HARTMAN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NR5RL24F4",
+        "address": "WILHELMINASTRAAT11,BARENDRECHTNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 492
+        }
+      },
+      {
+        "name": "JACOBUS VAN BODEGOM\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NMJ9C4193",
+        "address": "H.DELINTUEG25,SPIJKENISSENETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 312
+        }
+      },
+      {
+        "name": "JOHANNES VAN DER HEIDEN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXR7K23HO",
+        "address": "WESTERWALOSTRASSE9,LIMBURGGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 312
+        }
+      },
+      {
+        "name": "ALEXANDER VELDHUIS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH2381042",
+        "address": "KARELDOORMANSTREAAT78,ROTTERDAM3012GJNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 84
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "12/3, STRAIT STREET,",
+  "company_id": "C 46020",
+  "registration_date": "Jan 14, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

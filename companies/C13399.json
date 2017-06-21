@@ -1,0 +1,83 @@
+{
+  "name": "A.A.G. LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTONIA ATTARD GIALANZE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            497647M",
+        "address": "BLOCKC14,TRIQSOFIJACOSPICUAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIA ATTARD GIALANZE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            497647M",
+        "address": "BLOCKC14,TRIQSOFIJACOSPICUAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIA ATTARD GIALANZE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            497647M",
+        "address": "BLOCKC14,TRIQSOFIJACOSPICUAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIA ATTARD GIALANZE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            497647M",
+        "address": "BLOCKC14,TRIQSOFIJACOSPICUAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4995
+        }
+      },
+      {
+        "name": "DORIS GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325957M",
+        "address": "FLAT2,OLDBAILEYCOURTTRIQIS-SIDRASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "BLOCK C 14 TRIQ SOFIJA,",
+  "company_id": "C 13399",
+  "registration_date": "Dec 20, 1991",
+  "shares_currency": "EUR",
+  "locality": "COSPICUA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

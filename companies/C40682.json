@@ -1,0 +1,91 @@
+{
+  "name": "ASTRA LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191052M",
+        "address": "NOTREMAISON,GUZEBONNICISTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474551M",
+        "address": "9,QASAMTAL-BINITAL-GVERN,SAFIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474551M",
+        "address": "9,QASAMTAL-BINITAL-GVERN,SAFIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL SCIORTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04822",
+        "address": "KISSIMMEE,BLACKSEASTREET,ST.JULIANSSTJ1853MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474551M",
+        "address": "9,QASAMTAL-BINITAL-GVERN,SAFIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191052M",
+        "address": "NOTREMAISON,GUZEBONNICISTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ANTHONY FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474551M",
+        "address": "9,QASAMTAL-BINITAL-GVERN,SAFIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "9, IL-HOLMA TAGHNA, GOVERNMENT HOUSING ESTATE,",
+  "company_id": "C 40682",
+  "registration_date": "Jan 29, 2007",
+  "shares_currency": "EUR",
+  "locality": "SAFI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

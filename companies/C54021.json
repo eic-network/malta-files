@@ -1,0 +1,83 @@
+{
+  "name": "Blancon Ltd",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSE ANTONIO PIRES MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L578932",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSE ANTONIO PIRES MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L578932",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSE ANTONIO PIRES MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L578932",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSE ANTONIO PIRES MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L578932",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT MIGUEL MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            51016589",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "JOSE ANTONIO PIRES MADEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L578932",
+        "address": "RUADEMAGRELOSDECIMAN3,4625-164,MAGRELOSPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 54021",
+  "registration_date": "Oct 04, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

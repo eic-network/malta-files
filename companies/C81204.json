@@ -1,0 +1,62 @@
+{
+  "name": "ARGOS SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIOS STAMOS FARAKLAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM1919466",
+        "address": "2,ZISMOPOULOUSTREETANDPOSIDONOSAVENUE,GLYFADA16674ATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIOS STAMOS FARAKLAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM1919466",
+        "address": "2,ZISMOPOULOUSTREETANDPOSIDONOSAVENUE,GLYFADA16674ATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIOS STAMOS FARAKLAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM1919466",
+        "address": "2,ZISMOPOULOUSTREETANDPOSIDONOSAVENUE,GLYFADA16674ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KERDILIA SHIPPING CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            89807",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD.AJELTAKEISLAND,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 81204",
+  "registration_date": "Jun 05, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

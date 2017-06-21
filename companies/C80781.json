@@ -1,0 +1,83 @@
+{
+  "name": "BEESMONT MALTA LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEESMONT CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            41489",
+        "address": "ANDREW'SPLACE,5THFLOOR,51CHURCHSTREET,HAMILTONHM12BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "MARCO LUIGI MONTARSOLO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            532184856",
+        "address": "SEAFORTHMEWS,MORGANHILL,SANDY'SMA06BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3 - SUITE 3, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 80781",
+  "registration_date": "May 08, 2017",
+  "shares_currency": "USD",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

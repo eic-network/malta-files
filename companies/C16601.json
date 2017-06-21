@@ -1,0 +1,59 @@
+{
+  "name": "ANNCHRIS YACHTS LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ROLAND DARMANIN KISSAUN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431942M",
+        "address": "SEABREEZE,G.CALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNCHRIS YACHTS LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "17YORKSTRSTHELIERJERSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "S & D YACHTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3476",
+        "address": "'SEABREEZE',GIUSEPPECALISTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "SEABREEZE GIUSEPPE CALI STREET",
+  "company_id": "C 16601",
+  "registration_date": "Aug 08, 1994",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

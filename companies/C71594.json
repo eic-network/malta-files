@@ -1,0 +1,91 @@
+{
+  "name": "AXL Estates Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Charlene Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            180582M",
+        "address": "210,Apt4,ManwelDimechStreet,SLIEMASLM1050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AXL Invest Holdings Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 71593",
+        "address": "AbacusBusinessCentre,Level1,DunKarmStreet,B'KaraBypass,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AXL Invest Holdings Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 71593",
+        "address": "AbacusBusinessCentre,Level1,DunKarmStreet,B'KaraBypass,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AXL Invest Holdings Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 71593",
+        "address": "AbacusBusinessCentre,Level1,DunKarmStreet,B'KaraBypass,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AXL Invest Holdings Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 71593",
+        "address": "AbacusBusinessCentre,Level1,DunKarmStreet,B'KaraBypass,BIRKIRKARABKR9037MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 960
+        }
+      },
+      {
+        "name": "Alexandru Iulian Munteanu\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            050589084",
+        "address": "Mallnitz60,Carinthia,SpittalanderDrau9822AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Abacus Business Centre, Level 1, Dun Karm Street, B'Kara Bypass,",
+  "company_id": "C 71594",
+  "registration_date": "Jul 28, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

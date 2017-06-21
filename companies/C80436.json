@@ -1,0 +1,83 @@
+{
+  "name": "A&E GALEA SUPPLIES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ELIZABETH GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52259G",
+        "address": "\"MERHBA\"TRIQSANGORGPRECAXAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ELIZABETH GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52259G",
+        "address": "\"MERHBA\"TRIQSANGORGPRECAXAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELIZABETH GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52259G",
+        "address": "\"MERHBA\"TRIQSANGORGPRECAXAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ELIZABETH GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52259G",
+        "address": "\"MERHBA\"TRIQSANGORGPRECAXAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            35954G",
+        "address": "'MERHBA'DUNGORGPRECASTREETXAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ELIZABETH GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            52259G",
+        "address": "\"MERHBA\"TRIQSANGORGPRECAXAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "\"MERHBA\" TRIQ SAN GORG PRECA",
+  "company_id": "C 80436",
+  "registration_date": "Apr 12, 2017",
+  "shares_currency": "EUR",
+  "locality": "XAGHRA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1200
+}

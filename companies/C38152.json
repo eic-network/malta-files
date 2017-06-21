@@ -1,0 +1,103 @@
+{
+  "name": "APAS LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            366665M",
+        "address": "153,ANTOINEDEPAULESQUARE,PAOLAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT PAUL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            350060M",
+        "address": "34,TRIQTA'MARMORA,TA'MENSIJASANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT PAUL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            350060M",
+        "address": "34,TRIQTA'MARMORA,TA'MENSIJASANGWANNMALTA"
+      },
+      {
+        "name": "ANETTE SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25062M",
+        "address": "34,TRIQTA'MARMORATA'MENSIJASANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RALPH PULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10052",
+        "address": "DARNA,21,TRIQSANDWARDU,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT PAUL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            350060M",
+        "address": "34,TRIQTA'MARMORA,TA'MENSIJASANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERT PAUL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            350060M",
+        "address": "34,TRIQTA'MARMORA,TA'MENSIJASANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "ANETTE SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25062M",
+        "address": "34,TRIQTA'MARMORATA'MENSIJASANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "APAS LIMITED, SHOP 1, TOWER PROMENADE",
+  "company_id": "C 38152",
+  "registration_date": "Mar 08, 2006",
+  "shares_currency": "EUR",
+  "locality": "SANTA LUCIJA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

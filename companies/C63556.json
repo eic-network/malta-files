@@ -1,0 +1,96 @@
+{
+  "company_id": "C 63556",
+  "address": "2, SIR AUGUSTUS BARTOLO STREET",
+  "name": "BRIDGEPORT INVESTMENTS LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Jan 21, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWISGW1940MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIDGEPORT HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 77838",
+        "address": "2,SIRAUGUSTUSBARTOLOSTREETTA'XBIEXXBX1091MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWISGW1940MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA",
+        "nationality": "SOUTH AFRICAN"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWISGW1940MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

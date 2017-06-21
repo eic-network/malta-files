@@ -1,0 +1,78 @@
+{
+  "company_id": "C 68759",
+  "address": "SKYWAY OFFICES, BLK B, OFFICE 4, 178, MARINA STREET,",
+  "name": "BRANDERS LIMITED",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jan 27, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "WILHELMUS KEPSER\r",
+        "party_id": "                                                            NMKJD3F49",
+        "address": "HERENLAAN48,HELMOND5708ZSNETHERLANDS",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Straxx Holding Limited\r",
+        "party_id": "                                                            113816",
+        "address": "Suite7,HadfieldHouseLibraryStreetGibraltarGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILHELMUS KEPSER\r",
+        "party_id": "                                                            NMKJD3F49",
+        "address": "HERENLAAN48,HELMOND5708ZSNETHERLANDS",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WILHELMUS KEPSER\r",
+        "party_id": "                                                            NMKJD3F49",
+        "address": "HERENLAAN48,HELMOND5708ZSNETHERLANDS",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLGA FINKEL\r",
+        "party_id": "                                                            51392M",
+        "address": "7A,THEPODIUM,ST.MARKSTREET,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "SUITE3,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

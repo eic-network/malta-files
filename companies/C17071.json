@@ -1,0 +1,59 @@
+{
+  "name": "AQUATICA LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALFIO DELORENZI",
+        "nationality": "ITALIAN",
+        "party_id": "",
+        "address": "VIAMASSAGONO18RUVIGLIANA6977SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EBRADOR S.A.",
+        "nationality": "",
+        "party_id": "",
+        "address": "EDIFICIOMARIVALNOAPARTADO8357CALLE52BELLAVISTAPANAMACITYPANAMA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "KONDA ASSETS S.A.",
+        "nationality": "",
+        "party_id": "",
+        "address": "EDIFICIOMARIVALNO3APTD.8357CALLE52BELLAVISTAPANAMACITYPANAMA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "19, SIR LUIGI PREZIOSI SQUARE,",
+  "company_id": "C 17071",
+  "registration_date": "Nov 18, 1994",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 500
+}

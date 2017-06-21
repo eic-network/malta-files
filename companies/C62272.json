@@ -1,0 +1,101 @@
+{
+  "name": "BEENDER LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARMELO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            471258M",
+        "address": "REDENTUR,6,ST.EDWARDSTREET,VITTORIOSAMALTA"
+      },
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CZ64254",
+        "address": "18,RUEJEANSENEBIER,GENEVE1205SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMELO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            471258M",
+        "address": "REDENTUR,6,ST.EDWARDSTREET,VITTORIOSAMALTA"
+      },
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CZ64254",
+        "address": "18,RUEJEANSENEBIER,GENEVE1205SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMELO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            471258M",
+        "address": "REDENTUR,6,ST.EDWARDSTREET,VITTORIOSAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMELO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            471258M",
+        "address": "REDENTUR,6,ST.EDWARDSTREET,VITTORIOSAMALTA"
+      },
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CZ64254",
+        "address": "18,RUEJEANSENEBIER,GENEVE1205SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INDUSTRIAL AND FINANCIAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58476",
+        "address": "4,ST.MICHAEL,TRIQGUZEGALEA,QORMIQRM2107MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CZ64254",
+        "address": "18,RUEJEANSENEBIER,GENEVE1205SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "4 'ST. MICHAEL' GUZE GALEA STREET",
+  "company_id": "C 62272",
+  "registration_date": "Oct 16, 2013",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2000
+}

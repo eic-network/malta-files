@@ -1,0 +1,73 @@
+{
+  "name": "ATLANTIC MEDITERRANEAN MARKETING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ASHTIWI SALEM BEN OMAR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            900217",
+        "address": "113,MESRANSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "MOHAMMED BENOMAR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            404915",
+        "address": "SUKGIUMA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMMED BENOMAR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            404915",
+        "address": "SUKGIUMA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASHTIWI SALEM BEN OMAR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            900217",
+        "address": "113,MESRANSTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MOHAMMED BENOMAR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            404915",
+        "address": "SUKGIUMA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18 DRIVE 14, TUMAS GALEA STREET, TA' PARIS,",
+  "company_id": "C 27606",
+  "registration_date": "Jan 22, 2001",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

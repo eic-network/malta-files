@@ -1,0 +1,115 @@
+{
+  "name": "BE BIRGU LIMITED",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 15000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDDY MATHIEU R. SCHOEBBEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-4287713-27",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDDY MATHIEU R. SCHOEBBEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-4287713-27",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      },
+      {
+        "name": "GEERT LOUIS J. SCIOT\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-3032498-89",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDDY MATHIEU R. SCHOEBBEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-4287713-27",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      },
+      {
+        "name": "GEERT LOUIS J. SCIOT\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-3032498-89",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            05186",
+        "address": "26,VILLATHIERRY,TRIQG.DESPOTT,KAPPARASANGWANNSGN4135MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDDY MATHIEU R. SCHOEBBEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-4287713-27",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      },
+      {
+        "name": "GEERT LOUIS J. SCIOT\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-3032498-89",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDDY MATHIEU R. SCHOEBBEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-4287713-27",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "GEERT LOUIS J. SCIOT\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-3032498-89",
+        "address": "43,TRIQHILDATABONE,BIRGUVITTORIOSABRG1256MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 15000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "43, TRIQ HILDA TABONE,",
+  "company_id": "C 57923",
+  "registration_date": "Oct 19, 2012",
+  "shares_currency": "EUR",
+  "locality": "VITTORIOSA",
+  "status": "",
+  "total_authorised_shares": 30000
+}

@@ -1,0 +1,92 @@
+{
+  "name": "A' MANCATA' LIMITED",
+  "total_issued_shares_value": 4500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCA FERRERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS4682252",
+        "address": "VIAALCIDEDEGASPERI113,COMISORAGUSA97013ITALY"
+      },
+      {
+        "name": "GIOVANNI BATTISTA GENNUSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0109295",
+        "address": "VIAEVANGELISTARIZZA353VITTORIARAGUSA97019ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCA FERRERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS4682252",
+        "address": "VIAALCIDEDEGASPERI113,COMISORAGUSA97013ITALY"
+      },
+      {
+        "name": "GIOVANNI BATTISTA GENNUSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0109295",
+        "address": "VIAEVANGELISTARIZZA353VITTORIARAGUSA97019ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCA FERRERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS4682252",
+        "address": "VIAALCIDEDEGASPERI113,COMISORAGUSA97013ITALY"
+      },
+      {
+        "name": "GIOVANNI BATTISTA GENNUSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0109295",
+        "address": "VIAEVANGELISTARIZZA353VITTORIARAGUSA97019ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CATERING CUISINE ITALY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1813130",
+        "address": "P.O.BOX3321,DRAKECHAMBERS,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4500,
+  "address": "CENTRAL BUSINESS CENTRE GROUNDFLOOR LEVEL, MDINA ROAD,",
+  "company_id": "C 64388",
+  "registration_date": "Mar 25, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 4500
+}

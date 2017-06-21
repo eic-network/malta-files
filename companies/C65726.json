@@ -1,0 +1,101 @@
+{
+  "name": "ARIZUN FINANCIAL EUROPE LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 0.1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN LESTER MC DANIEL JR.\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            446045718",
+        "address": "ANCUANMOYNALVEY,SUMMERHILLCOMEATHIRELAND"
+      },
+      {
+        "name": "RAYMOND MURPHY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PE3259011",
+        "address": "25,BROOKVALEDOWNS,RATHFARNHAM,DUBLIN14IRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN LESTER MC DANIEL JR.\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            446045718",
+        "address": "ANCUANMOYNALVEY,SUMMERHILLCOMEATHIRELAND"
+      },
+      {
+        "name": "RAYMOND MURPHY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PE3259011",
+        "address": "25,BROOKVALEDOWNS,RATHFARNHAM,DUBLIN14IRELAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN LESTER MC DANIEL JR.\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            446045718",
+        "address": "ANCUANMOYNALVEY,SUMMERHILLCOMEATHIRELAND"
+      },
+      {
+        "name": "RAYMOND MURPHY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PE3259011",
+        "address": "25,BROOKVALEDOWNS,RATHFARNHAM,DUBLIN14IRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 14000
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "75, ROOM 1, ST. JOHN STREET,",
+  "company_id": "C 65726",
+  "registration_date": "Jun 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

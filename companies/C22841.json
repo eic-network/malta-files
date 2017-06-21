@@ -1,0 +1,78 @@
+{
+  "total_issued_shares_value": 1164.68,
+  "registration_date": "Apr 24, 1998",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BUBA LIMITED",
+  "total_issued_shares": 500,
+  "address": "SEABREEZE G. CALI' STREET,",
+  "company_id": "C 22841",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "VIAALDOMORO181FAVARAITALY",
+        "party_id": "                                                            1234908",
+        "name": "DOMENICO PALUMBO PICCIONELLO\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "VIAIMEM,151,AGRIGENTOITALY",
+        "party_id": "                                                            772561K",
+        "name": "ALESSANDRO VOLTA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 167,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "VIAALDOMORO181FAVARAITALY",
+        "party_id": "                                                            1234908",
+        "name": "DOMENICO PALUMBO PICCIONELLO\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 167,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "VIAIMEM151AGRIGENTOITALY",
+        "party_id": "                                                            1234888",
+        "name": "HEIRS OF CALOGERO PULLARA\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 166,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "VIAIMEM,151,AGRIGENTOITALY",
+        "party_id": "                                                            772561K",
+        "name": "ALESSANDRO VOLTA\r",
+        "nationality": "ITALIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "shares_currency": "EUR"
+}

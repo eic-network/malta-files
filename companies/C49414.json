@@ -1,0 +1,125 @@
+{
+  "name": "BIDRIVALS GROUP PLC",
+  "total_issued_shares_value": 416712.5,
+  "total_authorised_shares_value": 883425,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 36671250,
+      "type": "Preference",
+      "authorised_share_capital": 78342500,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHAN MAGNUS ALBINSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81354134",
+        "address": "THEHIVE,FL6,PACESTREET,SLIEMASLM3070MALTA"
+      },
+      {
+        "name": "JONAS NORDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PALAISDELAPLAGUE,37,AVEPRINCESSEGRACE,MONACO98000MONACO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHAN MAGNUS ALBINSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81354134",
+        "address": "THEHIVE,FL6,PACESTREET,SLIEMASLM3070MALTA"
+      },
+      {
+        "name": "JONAS NORDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PALAISDELAPLAGUE,37,AVEPRINCESSEGRACE,MONACO98000MONACO"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHAN MAGNUS ALBINSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81354134",
+        "address": "THEHIVE,FL6,PACESTREET,SLIEMASLM3070MALTA"
+      },
+      {
+        "name": "JONAS NORDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PALAISDELAPLAGUE,37,AVEPRINCESSEGRACE,MONACO98000MONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DIGITAL IMAGE SA\r",
+        "nationality": "",
+        "party_id": "                                                            B90068",
+        "address": "2,RUECARLOHEMMER,LUXEMBOURGL-1734LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1741500
+        }
+      },
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1587000
+        }
+      },
+      {
+        "name": "KEVIN BROWN\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M1898516",
+        "address": "50MACQUARIEAVENUE,PADBURY,WESTERNAUSTRALIAPERTH6025AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 89500
+        }
+      },
+      {
+        "name": "JONAS NORDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80205513",
+        "address": "PALAISDELAPLAGUE,37,AVEPRINCESSEGRACE,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1582000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 41671250,
+  "address": "FLAT NO. 5, THE FIRS, GORG BORG OLIVIER STREET,",
+  "company_id": "C 49414",
+  "registration_date": "Apr 19, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 88342500
+}

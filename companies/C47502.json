@@ -1,0 +1,99 @@
+{
+  "name": "ARCHIDATA EUROPE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            92255M",
+        "address": "36/2,MANOLMANSION,DEPAULEAVENUE,BALZANBZN9022MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAIRE VALLETTA GIORDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408979M",
+        "address": "57,ST.CHRISTOPHERSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHEL CLIVAZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F0463065",
+        "address": "MP533/SUEN,ST.MARTINCH-1969SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHEL CLIVAZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F0463065",
+        "address": "MP533/SUEN,ST.MARTINCH-1969SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "IL-KENN,TRIQIL-BAHARL-ISWED,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHEL CLIVAZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F0463065",
+        "address": "MP533/SUEN,ST.MARTINCH-1969SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIE-JOSEE SEIDLER CLIVAZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F2150325",
+        "address": "MP533/SUEN,ST.MARTINCH-1969SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 588
+        }
+      },
+      {
+        "name": "MICHEL CLIVAZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F0463065",
+        "address": "MP533/SUEN,ST.MARTINCH-1969SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 612
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 47502",
+  "registration_date": "Aug 07, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

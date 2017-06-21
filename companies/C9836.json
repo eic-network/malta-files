@@ -1,0 +1,104 @@
+{
+  "name": "BAXAN COMPANY LTD",
+  "total_issued_shares_value": 34940.6,
+  "total_authorised_shares_value": 49988.34,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "Ordinary",
+      "authorised_share_capital": 21460,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4758G",
+        "address": "8,MCADAMSTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4758G",
+        "address": "8,MCADAMSTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4758G",
+        "address": "8,MCADAMSTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02986",
+        "address": "EXEDRA,SACREDHEARTSTREET,FONTANA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4758G",
+        "address": "8,MCADAMSTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20863G",
+        "address": "8,GEORGEMCADAMSSTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30
+        }
+      },
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4758G",
+        "address": "8,MCADAMSTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 14950
+        }
+      },
+      {
+        "name": "THERESE ATTARD",
+        "nationality": "",
+        "party_id": "",
+        "address": "8,GEORGEMCADAMSSTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "8, GEORGE MCADAMS STREET,",
+  "company_id": "C 9836",
+  "registration_date": "Aug 01, 1988",
+  "shares_currency": "EUR",
+  "locality": "XAGHRA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 21460
+}

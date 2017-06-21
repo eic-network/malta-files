@@ -1,0 +1,91 @@
+{
+  "company_id": "C 63270",
+  "address": "CORAL, 243/1, CONSTITUTION STREET,",
+  "name": "BPOINT LIMITED",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Dec 23, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHAL ANDRZEJ BRZOSTOWSKI\r",
+        "party_id": "                                                            EF6986365",
+        "address": "STREFOWA6A,KANIE,OTREBUSY05-805POLAND",
+        "nationality": "POLISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B C M S LIMITED\r",
+        "party_id": "                                                            C 23414",
+        "address": "243/1,CONSTITUTIONSTREET,MOSTAMST03MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MICHAL ANDRZEJ BRZOSTOWSKI\r",
+        "party_id": "                                                            EF6986365",
+        "address": "STREFOWA6A,KANIE,OTREBUSY05-805POLAND",
+        "nationality": "POLISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAL ANDRZEJ BRZOSTOWSKI\r",
+        "party_id": "                                                            EF6986365",
+        "address": "STREFOWA6A,KANIE,OTREBUSY05-805POLAND",
+        "nationality": "POLISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAL ANDRZEJ BRZOSTOWSKI\r",
+        "party_id": "                                                            EF6986365",
+        "address": "STREFOWA6A,KANIE,OTREBUSY05-805POLAND",
+        "nationality": "POLISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAL ANDRZEJ BRZOSTOWSKI\r",
+        "party_id": "                                                            EF6986365",
+        "address": "STREFOWA6A,KANIE,OTREBUSY05-805POLAND",
+        "nationality": "POLISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

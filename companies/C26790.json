@@ -1,0 +1,97 @@
+{
+  "name": "BARROS LTD.",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALFRED MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287643M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374672M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287643M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA"
+      },
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374672M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374672M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287643M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374672M",
+        "address": "173,MYREST,ISOURDSTR.,MARSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "173, MY REST, ISOURD STR.,",
+  "company_id": "C 26790",
+  "registration_date": "Aug 04, 2000",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

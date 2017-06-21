@@ -1,0 +1,109 @@
+{
+  "name": "BAZ INTERNATIONAL LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MOHD DABUB ELBAGHDADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            994307",
+        "address": "IT-TUNNARA,TRIQV.MENVILLESWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAAD ALI SAAD ALWGLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            118620",
+        "address": "15,AIRPORTROAD,BENGHAZISTATEOFLIBYA"
+      },
+      {
+        "name": "MOHD DABUB ELBAGHDADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            994307",
+        "address": "IT-TUNNARA,TRIQV.MENVILLESWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAAD ALI SAAD ALWGLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            118620",
+        "address": "15,AIRPORTROAD,BENGHAZISTATEOFLIBYA"
+      },
+      {
+        "name": "MOHD DABUB ELBAGHDADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            994307",
+        "address": "IT-TUNNARA,TRIQV.MENVILLESWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SAAD ALI SAAD ALWGLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            118620",
+        "address": "15,AIRPORTROAD,BENGHAZISTATEOFLIBYA"
+      },
+      {
+        "name": "MOHD DABUB ELBAGHDADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            994307",
+        "address": "IT-TUNNARA,TRIQV.MENVILLESWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAAD ALI SAAD ALWGLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            118620",
+        "address": "15,AIRPORTROAD,BENGHAZISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MOHD DABUB ELBAGHDADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            994307",
+        "address": "IT-TUNNARA,TRIQV.MENVILLESWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "15, GROGNET STREET,",
+  "company_id": "C 60573",
+  "registration_date": "May 24, 2013",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

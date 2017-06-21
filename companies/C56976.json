@@ -1,0 +1,75 @@
+{
+  "name": "APO INVEST MALTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PATRICK JEAN MICHEL GAILLARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AK61928",
+        "address": "674,CHEMINDESFOURCHES,LETHOLONET13100FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRICK JEAN MICHEL GAILLARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AK61928",
+        "address": "674,CHEMINDESFOURCHES,LETHOLONET13100FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRICK JEAN MICHEL GAILLARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AK61928",
+        "address": "674,CHEMINDESFOURCHES,LETHOLONET13100FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARINE CHARLOTTE GAILLARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AK12792",
+        "address": "CHEMINDEPIERREGROSSE,TRETS13530FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480
+        }
+      },
+      {
+        "name": "PATRICK JEAN MICHEL GAILLARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AK61928",
+        "address": "674,CHEMINDESFOURCHES,LETHOLONET13100FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 720
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "40, FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 56976",
+  "registration_date": "Jul 17, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

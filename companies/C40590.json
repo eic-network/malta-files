@@ -1,0 +1,75 @@
+{
+  "name": "BLACK EAGLE MARINE CO. LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ERKAM YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-T191803",
+        "address": "FAHRETTINKERIMGOKAYCD,OKULSKALTUNIZADESITESI,CBLKD:4,USKUDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ERKAM YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-T191803",
+        "address": "FAHRETTINKERIMGOKAYCD,OKULSKALTUNIZADESITESI,CBLKD:4,USKUDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERKAM YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-T191803",
+        "address": "FAHRETTINKERIMGOKAYCD,OKULSKALTUNIZADESITESI,CBLKD:4,USKUDAR,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BULENT YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N737472",
+        "address": "FAHRETTINKERIMGOKAYCD,OKULSKALTUNIZADESITESI,CBLKD4,USKUDAR,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ERKAM YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-T191803",
+        "address": "FAHRETTINKERIMGOKAYCD,OKULSKALTUNIZADESITESI,CBLKD:4,USKUDAR,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 40590",
+  "registration_date": "Jan 09, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

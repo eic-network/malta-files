@@ -1,0 +1,96 @@
+{
+  "name": "AVIET LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARISTOTELIS PANTAZOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0893637",
+        "address": "SPYROUPAPASPYROU24,PEANIAATTIKISGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARISTOTELIS PANTAZOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0893637",
+        "address": "SPYROUPAPASPYROU24,PEANIAATTIKISGREECE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EVANGELOS KOPANAKIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AK2381068",
+        "address": "8,KARAISKAKISTR,KALLITHEAATHENS,17675GREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARISTOTELIS PANTAZOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0893637",
+        "address": "SPYROUPAPASPYROU24,PEANIAATTIKISGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EVANGELOS KOPANAKIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AK2381068",
+        "address": "8,KARAISKAKISTR,KALLITHEAATHENS,17675GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "GEORGIOS PANAGIOTIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN1627262",
+        "address": "3RDELEFSINIONSTR,IRAKLIOATTIKIS,14122GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "ARISTOTELIS PANTAZOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0893637",
+        "address": "SPYROUPAPASPYROU24,PEANIAATTIKISGREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE,  TOWER STREET, SWATAR",
+  "company_id": "C 75940",
+  "registration_date": "Jun 06, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

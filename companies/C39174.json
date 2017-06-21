@@ -1,0 +1,107 @@
+{
+  "total_issued_shares_value": 2000,
+  "registration_date": "Jul 20, 2006",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BSF BALTIC PROPERTY LIMITED",
+  "total_issued_shares": 2000,
+  "address": "30, CRESTA FLATS 9, IMRADD STREET,",
+  "company_id": "C 39174",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "15,CHAPELSTREET,LONDONSWE1X7BYUNITEDKINGDOM",
+        "party_id": "                                                            500301172",
+        "name": "FREDERICH WILLIAM AUGUSTUS\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "194,FERRYROAD,EDINBURGHEA64NWUNITEDKINGDOM",
+        "party_id": "                                                            400076521",
+        "name": "DAVID GARRIE KIPLING\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "15,CHAPELSTREET,LONDONSWE1X7BYUNITEDKINGDOM",
+        "party_id": "                                                            500301172",
+        "name": "FREDERICH WILLIAM AUGUSTUS\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "194,FERRYROAD,EDINBURGHEA64NWUNITEDKINGDOM",
+        "party_id": "                                                            400076521",
+        "name": "DAVID GARRIE KIPLING\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "194,FERRYROAD,EDINBURGHEA64NWUNITEDKINGDOM",
+        "party_id": "                                                            400076521",
+        "name": "DAVID GARRIE KIPLING\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "15,CHAPELSTREET,LONDONSWE1X7BYUNITEDKINGDOM",
+        "party_id": "                                                            500301172",
+        "name": "FREDERICH WILLIAM AUGUSTUS\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "194,FERRYROAD,EDINBURGHEA64NWUNITEDKINGDOM",
+        "party_id": "                                                            400076521",
+        "name": "DAVID GARRIE KIPLING\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 500,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "15,CHAPELSTREET,LONDONSWE1X7BYUNITEDKINGDOM",
+        "party_id": "                                                            500301172",
+        "name": "FREDERICH WILLIAM AUGUSTUS\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 500,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "194,FERRYROAD,EDINBURGHEA64NWUNITEDKINGDOM",
+        "party_id": "                                                            400076521",
+        "name": "DAVID GARRIE KIPLING\r",
+        "nationality": "BRITISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000,
+      "authorised_share_capital": 3999000,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000,
+      "authorised_share_capital": 1000,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 4000000,
+  "total_authorised_shares_value": 4000000,
+  "shares_currency": "EUR"
+}

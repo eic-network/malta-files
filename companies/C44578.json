@@ -1,0 +1,111 @@
+{
+  "name": "ALMYROS ENERGY SOLUTION MALTA LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MATTHEW ZAMPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132683M",
+        "address": "12,FLAT3,RAMIROBARBAROSTREET,LIJALJA1451MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA FORMOSA BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323781M",
+        "address": "T8B2,PRETICOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREW MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132457M",
+        "address": "200,MAINSTREET,ST.JULIANSSTJ1019MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO RIELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2621689",
+        "address": "HORLOGE1,BUCHILLON1164SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO RIELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2621689",
+        "address": "HORLOGE1,BUCHILLON1164SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO RIELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2621689",
+        "address": "HORLOGE1,BUCHILLON1164SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SUNPOWER MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 41441",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "SUNPOWER SYSTEMS SARL\r",
+        "nationality": "",
+        "party_id": "                                                            CH-270-3013559-7",
+        "address": "AVENUEDEFRONTENEX8,GENEVE1207SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 44578",
+  "registration_date": "Jun 26, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,83 @@
+{
+  "company_id": "C 44351",
+  "address": "18/2, SOUTH STREET",
+  "name": "BRILLIANT MARITIME LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 29, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "AIKATERINI ZIKOU\r",
+        "party_id": "                                                            AI753700",
+        "address": "47,PANDORASSTREET,GLYFADA,ATTIKIGREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NIKOLAOS SARROS\r",
+        "party_id": "                                                            AN3028805",
+        "address": "1,ETHNIKISANTISTASEOS,GLYFADA,ATHENS16675GREECE",
+        "nationality": "GREEK",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PANAGIOTOS ZIKOS\r",
+        "party_id": "                                                            AZ212270",
+        "address": "69,MAIZONOSSTREET,PATRA26221GREECE",
+        "nationality": "GREEK",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AIKATERINI ZIKOU\r",
+        "party_id": "                                                            AI753700",
+        "address": "47,PANDORASSTREET,GLYFADA,ATTIKIGREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AIKATERINI ZIKOU\r",
+        "party_id": "                                                            AI753700",
+        "address": "47,PANDORASSTREET,GLYFADA,ATTIKIGREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHEL A. DINGLI\r",
+        "party_id": "                                                            287362M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT11MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

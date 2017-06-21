@@ -1,0 +1,126 @@
+{
+  "name": "ANTONELLA LIMITED",
+  "total_issued_shares_value": 2100,
+  "total_authorised_shares_value": 2100,
+  "authorised_shares": [
+    {
+      "issued_shares": 700,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 700,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 700,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 700,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 700,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 700,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "ADRIAN SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11067M",
+        "address": "2,WIEDQANNOTTA,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "ADRIAN SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11067M",
+        "address": "2,WIEDQANNOTTA,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11067M",
+        "address": "2,WIEDQANNOTTA,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA"
+      },
+      {
+        "name": "ADRIAN SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11067M",
+        "address": "2,WIEDQANNOTTA,BURMARRADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAL PROJECTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22028",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 700
+        }
+      },
+      {
+        "name": "POLIDANO GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8885",
+        "address": "''POLIDANOGROUP'',HAL-FARRUGROAD,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 233
+        }
+      },
+      {
+        "name": "ANTHONY POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194757M",
+        "address": "SILVERWEB,VALLETTAROAD,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 467
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2100,
+  "address": "\"POLIDANO GROUP\" HAL FARRUG ROAD",
+  "company_id": "C 47313",
+  "registration_date": "Jul 15, 2009",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 2100
+}

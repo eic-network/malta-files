@@ -1,0 +1,91 @@
+{
+  "name": "ARETO SYSTEMS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARMEL JOSEPH FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            174052M",
+        "address": "115/3,ST.VINCENTSTREET,SLIEMASLM07MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUSTIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5783M",
+        "address": "12,JELSOVCE95143SLOVAKIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JUSTIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5783M",
+        "address": "12,JELSOVCE95143SLOVAKIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JUSTIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5783M",
+        "address": "12,JELSOVCE95143SLOVAKIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEL JOSEPH FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            174052M",
+        "address": "115/3,ST.VINCENTSTREET,SLIEMASLM07MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JUSTIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5783M",
+        "address": "12,JELSOVCE95143SLOVAKIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ABACUS BUSINESS CENTRE, LEVEL 1, TRIQ DUN KARM, B'KARA BYPASS,",
+  "company_id": "C 54457",
+  "registration_date": "Nov 22, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

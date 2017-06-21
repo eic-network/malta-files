@@ -1,0 +1,91 @@
+{
+  "name": "BLUE MOUNT LIMITED",
+  "total_issued_shares_value": 1190,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1190,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOHN TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532961M",
+        "address": "46,VILLATRAPANI,TRIQL-GHARBIEL,SWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ARTHUR DOUGLAS TURNER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49665M",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARTHUR DOUGLAS TURNER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49665M",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARTHUR DOUGLAS TURNER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49665M",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARTHUR DOUGLAS TURNER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49665M",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 595
+        }
+      },
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 595
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1190,
+  "address": "13, CURATE FENECH STREET,",
+  "company_id": "C 38047",
+  "registration_date": "Feb 22, 2006",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

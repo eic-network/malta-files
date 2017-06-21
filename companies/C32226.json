@@ -1,0 +1,97 @@
+{
+  "name": "4 BEES LIMITED",
+  "total_issued_shares_value": 20964.36,
+  "total_authorised_shares_value": 20964.36,
+  "authorised_shares": [
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4500
+        }
+      },
+      {
+        "name": "GILBERT BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            399588M",
+        "address": "MORNINGDEWSANTAKATERINARABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 9000,
+  "address": "BILOM, NEW STREET IN MDINA ROAD,",
+  "company_id": "C 32226",
+  "registration_date": "Oct 10, 2003",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 9000
+}

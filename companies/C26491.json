@@ -1,0 +1,83 @@
+{
+  "name": "BLUE ROOM CASUAL DINING LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GLEN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277478M",
+        "address": "67,ST.RITASTREET,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YONG QIAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11579A",
+        "address": "FLAT4,VILLACOSTADELSOL,TRIQL-ILQUGH,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCIRIHA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01486",
+        "address": "AWRIKARJA,TRIQL-IMNARJA,BUSKETT,DINGLIDGL2104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YONG QIAN",
+        "nationality": "CHINESE",
+        "party_id": "",
+        "address": "FLAT4,VILLACOSTADELSOLTRIQIL-QLUGHSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BLUE ROOM CATERING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22651",
+        "address": "59,REPUBLICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "59, REPUBLIC STREET,",
+  "company_id": "C 26491",
+  "registration_date": "Jun 05, 2000",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

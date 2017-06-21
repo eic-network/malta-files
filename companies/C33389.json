@@ -1,0 +1,88 @@
+{
+  "name": "BLUE APPLE COMPANY LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "LIFETIME,ST.RITA'SSTEPS,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "LIFETIME,ST.RITA'SSTEPS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "PETER PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15667G",
+        "address": "MGPFARM,HABELZWEJRA,NAXXARNXR08MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HUGO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104487M",
+        "address": "LIFETIME,ST.RITA'SSTEPS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "PETER PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15667G",
+        "address": "MGPFARM,HABELZWEJRA,NAXXARNXR08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "F.O.D. LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30371",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPECALISTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "'BLUE APPLE', ST RITA STREET,",
+  "company_id": "C 33389",
+  "registration_date": "Mar 09, 2004",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1000
+}

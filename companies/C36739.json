@@ -1,0 +1,83 @@
+{
+  "name": "BASEL INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Octave Corporate Services Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58466",
+        "address": "TheHub,SuiteW301TriqSant'AndrijaSANGWANNSGN1612MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Octave Corporate Services Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58466",
+        "address": "TheHub,SuiteW301TriqSant'AndrijaSANGWANNSGN1612MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286960M",
+        "address": "T9B13PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Octave Corporate Services Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58466",
+        "address": "TheHub,SuiteW301TriqSant'AndrijaSANGWANNSGN1612MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VALLETTA TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48916",
+        "address": "20/1REPUBLICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "VALLETTA TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48916",
+        "address": "20/1REPUBLICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "THE HUB - SUITE W301, TRIQ SAN ANDRIJA,",
+  "company_id": "C 36739",
+  "registration_date": "Aug 03, 2005",
+  "shares_currency": "GBP",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1000
+}

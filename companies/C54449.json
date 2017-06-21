@@ -1,0 +1,151 @@
+{
+  "name": "88 LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LAUREN CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388294M",
+        "address": "JOANNHOUSE,TRIQL-IMDAWRA,ZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADEL AHMED MILAD ASHOUR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000770",
+        "address": "43,ST.ANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "43/1,SAINTANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CLINTON JOHN BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79585M",
+        "address": "60,PARIS,TRIQIL-FALKUNIER,FGURAMALTA"
+      },
+      {
+        "name": "ELIOT JON FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257188M",
+        "address": "63,ST.PAULSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADEL AHMED MILAD ASHOUR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000770",
+        "address": "43,ST.ANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "43/1,SAINTANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CLINTON JOHN BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79585M",
+        "address": "60,PARIS,TRIQIL-FALKUNIER,FGURAMALTA"
+      },
+      {
+        "name": "ELIOT JON FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257188M",
+        "address": "63,ST.PAULSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADEL AHMED MILAD ASHOUR\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000770",
+        "address": "43,ST.ANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "43/1,SAINTANTHONYSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CLINTON JOHN BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79585M",
+        "address": "60,PARIS,TRIQIL-FALKUNIER,FGURAMALTA"
+      },
+      {
+        "name": "ELIOT JON FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257188M",
+        "address": "63,ST.PAULSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BH GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51995",
+        "address": "NO.4,LEVEL-5,THEQUAY,PORTOMASOMARINA,PORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "SIX LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 57487",
+        "address": "BAYSIDE,TRIQCENSUXERRI,SLIEMASLM3061MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "BAYSIDE, TRIQ CENSU XERRI,",
+  "company_id": "C 54449",
+  "registration_date": "Nov 18, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

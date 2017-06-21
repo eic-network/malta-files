@@ -1,0 +1,105 @@
+{
+  "company_id": "C 10286",
+  "address": "'BREWMASTER' ST ANDREWS ROAD,",
+  "name": "BREWMASTER COMPANY LIMITED",
+  "locality": "SWIEQI",
+  "status": "In Dissolution",
+  "registration_date": "Feb 01, 1989",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 23293.73,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 23293.73,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANNA CAUCHI\r",
+        "party_id": "                                                            141560M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "EDWIN CAUCHI\r",
+        "party_id": "                                                            767360M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNA CAUCHI\r",
+        "party_id": "                                                            141560M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "EDWIN CAUCHI\r",
+        "party_id": "                                                            767360M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNA CAUCHI\r",
+        "party_id": "                                                            141560M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNA CAUCHI\r",
+        "party_id": "                                                            141560M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWIN CAUCHI\r",
+        "party_id": "                                                            767360M",
+        "address": "\"FAIRFIELD\"TRIQG.LEBRUN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "ANDREA MICALLEF\r",
+        "party_id": "                                                            204278M",
+        "address": "30/9,CRESTAFLATS,TRIQL-IMRADD,TA'XBIEXMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO MICALLEF\r",
+        "party_id": "                                                            10237",
+        "address": "1,TRIQGHERIEXEM,SQAQNRU.1RABATMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

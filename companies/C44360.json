@@ -1,0 +1,123 @@
+{
+  "name": "Attunga Power & Enviro Master Trading Ltd",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryManagement",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1999000,
+      "type": "RedeemablePreferenceParticipating",
+      "authorised_share_capital": 1999000,
+      "nominal_value_per_share": 0.001
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD CARBONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287142M",
+        "address": "3,CARLTONHOUSE,31,G.HOWARDSTREET,SLIEMASLM1750MALTA"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Attunga Power & Enviro Master Fund\r",
+        "nationality": "",
+        "party_id": "                                                            OG-205927",
+        "address": "c/oOgierFiduciaryServices(Cayman)LimitedQueensgateHouse,SouthChurchStreet,POBox1234GrandCaymanKY1-1108CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "Participating",
+          "issued_shares": 1999000
+        }
+      },
+      {
+        "name": "Ogier Fiduciary Services (Cayman) Limited\r",
+        "nationality": "",
+        "party_id": "                                                            CR - 56354",
+        "address": "QueensgateHouseSouthChurchStreet,POBox1234GrandCaymanCAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "Management",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1999001,
+  "address": "Regent House, 52 Fifth Floor, Bisazza Street,",
+  "company_id": "C 44360",
+  "registration_date": "May 30, 2008",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1999001
+}

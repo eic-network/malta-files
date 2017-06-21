@@ -1,0 +1,51 @@
+{
+  "name": "ARIADNE CAPITAL ECO2 VC LIMITED PARTNERSHIP",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Founder",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ARIADNE CAPITAL MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49720",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "JULIE MEYER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            545589296",
+        "address": "FLAT10,26-28,COURTFIELDGARDENS,LONDONSW5OPHUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL",
+  "company_id": "P COMM 203",
+  "registration_date": "Mar 13, 2017",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000000000
+}

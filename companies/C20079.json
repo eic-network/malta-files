@@ -1,0 +1,91 @@
+{
+  "name": "AQUICO LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10657M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MARY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10657M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "3, MRABAT STREET,",
+  "company_id": "C 20079",
+  "registration_date": "May 03, 1996",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

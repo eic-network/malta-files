@@ -1,0 +1,115 @@
+{
+  "name": "BLYE ENGINEERING CO. LTD.",
+  "total_issued_shares_value": 116468.65,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 49999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49999,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNSGN07MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            421371M",
+        "address": "27,VICTORYSTREET,QORMIMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNSGN07MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            421371M",
+        "address": "27,VICTORYSTREET,QORMIMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNSGN07MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            421371M",
+        "address": "27,VICTORYSTREET,QORMIMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNSGN07MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNSGN07MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 49999
+        }
+      },
+      {
+        "name": "PAULINE CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554460M",
+        "address": "21/9,TIGNESEAFRONT,SLIEMASLM15MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "'BLYE', NAXXAR ROAD,",
+  "company_id": "C 8256",
+  "registration_date": "Aug 20, 1986",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 50000
+}

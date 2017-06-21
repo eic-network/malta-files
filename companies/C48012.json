@@ -1,0 +1,91 @@
+{
+  "name": "BODYWATCH HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 0.012
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAMONA PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201178M",
+        "address": "Q1-02,TIGNEPOINT,SLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN DESIRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10633",
+        "address": "DBS,TRIQL-AKWEDOTT,FLEUR-DE-LYS,BIRKIRKARABKR1976MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8ZURICH8004SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 0.012,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 98022
+        }
+      },
+      {
+        "name": "RAMONA PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201178M",
+        "address": "Q1-02,TIGNEPOINT,SLIEMATP01MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.012,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1978
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "51,  TA' XBIEX SEAFRONT,",
+  "company_id": "C 48012",
+  "registration_date": "Oct 23, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 100000
+}

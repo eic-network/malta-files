@@ -1,0 +1,89 @@
+{
+  "name": "A.G. Inc International Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1140,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1140,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 60,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 60,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIUSEPPE ASCOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5963222",
+        "address": "VIAMANTELLA,29P.T.,CESSANITI(VV)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIUSEPPE ASCOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5963222",
+        "address": "VIAMANTELLA,29P.T.,CESSANITI(VV)ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Paul Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            0047031A",
+        "address": "Edera,38TriqTaMasrijaMELLIEHAMLH1637MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIUSEPPE ASCOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5963222",
+        "address": "VIAMANTELLA,29P.T.,CESSANITI(VV)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDERA S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            20912 IBC 2012",
+        "address": "CEDARHILLCRESTP.O.BOX1825VILLASAINTVINCENTANDTHEGRENADINES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1140
+        }
+      },
+      {
+        "name": "SHELFIND LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59079",
+        "address": "THEPENTHOUSESUITE,TERRACESNO.1,TRIQIL-KANNIZZATA,BALZANBZN1701MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SEA SCAPE BLOCK B FLAT 7, TRIQ L-IMREJKBA, QAWRA,",
+  "company_id": "C 62922",
+  "registration_date": "Dec 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

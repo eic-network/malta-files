@@ -1,0 +1,75 @@
+{
+  "name": "ARIA CHARTERING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "SUITE 2, INTERNATIONAL HOUSE, NAXXAR ROAD,",
+  "company_id": "C 46707",
+  "registration_date": "Apr 27, 2009",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

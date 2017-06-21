@@ -1,0 +1,38 @@
+{
+  "name": "BILLING GATES LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5800,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5800,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "VENTURE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25224",
+        "address": "61,FIRSTFLOOR,MSIDACOURTMSIDASEAFRONTMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "61, FIRST FLOOR, MSIDA COURT, MSIDA SEAFRONT,",
+  "company_id": "C 34242",
+  "registration_date": "Jun 16, 2004",
+  "shares_currency": "USD",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5800
+}

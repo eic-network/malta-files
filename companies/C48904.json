@@ -1,0 +1,96 @@
+{
+  "company_id": "C 48904",
+  "address": "VILLA SEMINIA, 8, SIR TEMI ZAMMIT AVENUE,",
+  "name": "Broadway Gaming Ltd",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Feb 17, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 140000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 140000
+    }
+  ],
+  "total_authorised_shares": 140000,
+  "total_authorised_shares_value": 140000,
+  "total_issued_shares": 140000,
+  "total_issued_shares_value": 140000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BROADWAY HOLDINGS LTD\r",
+        "party_id": "                                                            C 78132",
+        "address": "8,VILLASEMINIA,SIRTEMIZAMMITAVENUE,TA'XBIEXXBX1011MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 140000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER ATTARD\r",
+        "party_id": "                                                            10054",
+        "address": "10,SANTARITA,TRIQIL-VENEWWA,FGURAFGR1860MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

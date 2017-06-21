@@ -1,0 +1,83 @@
+{
+  "name": "ANISTON TRADING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52TRIQIN-NOFSIN-NHARVALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52TRIQIN-NOFSIN-NHARVALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "REBECCA WHITE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            519481170",
+        "address": "145,SWANLANEWICKFORDSS117DG,UNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1028300",
+        "address": "52TRIQIN-NOFSIN-NHARVALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Abbeydean Limited\r",
+        "nationality": "",
+        "party_id": "                                                            04957037",
+        "address": "SecondFloorDeBurghHouse,MarketRoad,WickfordEssex,SS120FDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "Fritwell Limited\r",
+        "nationality": "",
+        "party_id": "                                                            8931226",
+        "address": "SecondFloorDeBurghHouse,MarketRoad,WickfordEssex,SS120FDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 69553",
+  "registration_date": "Mar 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

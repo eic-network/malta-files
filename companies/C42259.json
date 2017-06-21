@@ -1,0 +1,123 @@
+{
+  "name": "ARCO TOWERS MALTA LIMITED",
+  "total_issued_shares_value": 10617209,
+  "total_authorised_shares_value": 35000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10617208,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 34999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTHONY VALVO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            737555M",
+        "address": "27,SEAVIEW,SQAQQACCAWIET,XGHAJRAXJR1230MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            466944966",
+        "address": "29,DORADOBEACHEAST,DORADOPR00646PUERTORICO"
+      },
+      {
+        "name": "JORGE RUBEN RODRIGUEZ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            208825628",
+        "address": "URB.ESTANCIASDELRIO,30TALLABOA,AGUASBUENAS,PUERTORICO00703-9624UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            466944966",
+        "address": "29,DORADOBEACHEAST,DORADOPR00646PUERTORICO"
+      },
+      {
+        "name": "JORGE RUBEN RODRIGUEZ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            208825628",
+        "address": "URB.ESTANCIASDELRIO,30TALLABOA,AGUASBUENAS,PUERTORICO00703-9624UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            466944966",
+        "address": "29,DORADOBEACHEAST,DORADOPR00646PUERTORICO"
+      },
+      {
+        "name": "JORGE RUBEN RODRIGUEZ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            208825628",
+        "address": "URB.ESTANCIASDELRIO,30TALLABOA,AGUASBUENAS,PUERTORICO00703-9624UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ACC CONQUISTADOR HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            WK-204561",
+        "address": "CLIFTONHOUSE,75FORTSTREETPOBOX1350GRANDCAYMANKY1-1108CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10617208
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10617209,
+  "address": "B2, INDUSTRY STREET",
+  "company_id": "C 42259",
+  "registration_date": "Aug 31, 2007",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 35000000
+}

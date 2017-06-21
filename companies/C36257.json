@@ -1,0 +1,177 @@
+{
+  "company_id": "C 36257",
+  "address": "MELITA, TRIQ IL-MEJJIESA, MANIKATA",
+  "name": "Borg Water Sports Limited",
+  "locality": "MGARR",
+  "status": "",
+  "registration_date": "May 20, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    },
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    },
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryC",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    },
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryD",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 2329.37,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 2329.37,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PETER BORG\r",
+        "party_id": "                                                            87947M",
+        "address": "MELITA,TRIQIL-MEJJIESA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BRIAN GALEA\r",
+        "party_id": "                                                            640382M",
+        "address": "HEAVENTRIQDUNMANWELGRIMA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CARMEL GALEA\r",
+        "party_id": "                                                            637450M",
+        "address": "WHISTLINGWIND,TAL-FJURIST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "GODWIN PACE\r",
+        "party_id": "                                                            445168M",
+        "address": "SPRINGFIELD,TRIQIL-FDALPUNIKU,MGARRMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER BORG\r",
+        "party_id": "                                                            87947M",
+        "address": "MELITA,TRIQIL-MEJJIESA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "CARMEL GALEA\r",
+        "party_id": "                                                            637450M",
+        "address": "WHISTLINGWIND,TAL-FJURIST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "GODWIN PACE\r",
+        "party_id": "                                                            445168M",
+        "address": "SPRINGFIELD,TRIQIL-FDALPUNIKU,MGARRMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "BRIAN GALEA\r",
+        "party_id": "                                                            640382M",
+        "address": "HEAVENTRIQDUNMANWELGRIMA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER BORG\r",
+        "party_id": "                                                            87947M",
+        "address": "MELITA,TRIQIL-MEJJIESA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "GODWIN PACE\r",
+        "party_id": "                                                            445168M",
+        "address": "SPRINGFIELD,TRIQIL-FDALPUNIKU,MGARRMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER BORG\r",
+        "party_id": "                                                            87947M",
+        "address": "MELITA,TRIQIL-MEJJIESA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BRIAN GALEA\r",
+        "party_id": "                                                            640382M",
+        "address": "HEAVENTRIQDUNMANWELGRIMA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CARMEL GALEA\r",
+        "party_id": "                                                            637450M",
+        "address": "WHISTLINGWIND,TAL-FJURIST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "GODWIN PACE\r",
+        "party_id": "                                                            445168M",
+        "address": "SPRINGFIELD,TRIQIL-FDALPUNIKU,MGARRMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER BORG\r",
+        "party_id": "                                                            87947M",
+        "address": "MELITA,TRIQIL-MEJJIESA,MANIKATAMGARRMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

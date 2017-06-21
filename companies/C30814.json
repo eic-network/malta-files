@@ -1,0 +1,83 @@
+{
+  "name": "BALKAN TRANSPORT AND TRADE COMPANY LTD",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 3.2
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "31,MDINAROAD,NAXXARNXR1903MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 3.2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 3.2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 30814",
+  "registration_date": "Jan 15, 2003",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

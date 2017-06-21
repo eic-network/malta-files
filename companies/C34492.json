@@ -1,0 +1,91 @@
+{
+  "company_id": "C 34492",
+  "address": "15,  TRIQ IC-CIMITERJU,",
+  "name": "BRIAN CONSTRUCTIONS LIMITED",
+  "locality": "ZABBAR",
+  "status": "",
+  "registration_date": "Aug 23, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 350000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 350000
+    }
+  ],
+  "total_authorised_shares": 350000,
+  "total_authorised_shares_value": 350000,
+  "total_issued_shares": 350000,
+  "total_issued_shares_value": 350000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRIAN LIA\r",
+        "party_id": "                                                            258676M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN LIA\r",
+        "party_id": "                                                            258676M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 175000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RACHEL LIA\r",
+        "party_id": "                                                            211894M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 175000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN LIA\r",
+        "party_id": "                                                            258676M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN LIA\r",
+        "party_id": "                                                            258676M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRIAN LIA\r",
+        "party_id": "                                                            258676M",
+        "address": "15,TRIQIC-CIMITERJU,ZABBARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FABIAN CARDONA\r",
+        "party_id": "                                                            10057",
+        "address": "MARIAPOSADESUENO,TRIQPATRIWISTINBORN,MARSASCALAMSK3526MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

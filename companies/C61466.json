@@ -1,0 +1,91 @@
+{
+  "name": "BLUE SKY HOLDING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 15
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KRISTIANNE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            551188M",
+        "address": "45,SARAJANE,VALLETTAROAD,ATTARDATD9052MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INETA ZINGERE\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0655839",
+        "address": "CHALETROSAT26,ROUTEDESCHENOLETTES30CHATEAU-D'OEX1660SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INETA ZINGERE\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0655839",
+        "address": "CHALETROSAT26,ROUTEDESCHENOLETTES30CHATEAU-D'OEX1660SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "INETA ZINGERE\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0655839",
+        "address": "CHALETROSAT26,ROUTEDESCHENOLETTES30CHATEAU-D'OEX1660SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN FITCH-PEYTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            801501709",
+        "address": "26CHALETROSATROUTEDESCHENOLETTES30CHATEAUD'OEX1660SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "INETA ZINGERE\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0655839",
+        "address": "CHALETROSAT26,ROUTEDESCHENOLETTES30CHATEAU-D'OEX1660SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "REGENT HOUSE, 52, FIFTH FLOOR BISAZZA STREET",
+  "company_id": "C 61466",
+  "registration_date": "Aug 07, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 100
+}

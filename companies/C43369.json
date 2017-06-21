@@ -1,0 +1,97 @@
+{
+  "name": "BELGRADE PIONEER MALTA LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 124999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 124999,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLIVE STANDISH-WHITE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0088086",
+        "address": "NO.6,BELMONTGARDENS,LESCROUTES,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLIVE STANDISH-WHITE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0088086",
+        "address": "NO.6,BELMONTGARDENS,LESCROUTES,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLIVE STANDISH-WHITE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0088086",
+        "address": "NO.6,BELMONTGARDENS,LESCROUTES,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BELGRADE PIONEER FUND LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            47885",
+        "address": "BORDEAUXCOURT,LESECHELONS,ST.PETERPORTGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 124999
+        }
+      },
+      {
+        "name": "GORDON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 125000,
+  "address": "OFFICE 21, REGENT HOUSE, BISAZZA STREET,",
+  "company_id": "C 43369",
+  "registration_date": "Jan 18, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 125000
+}

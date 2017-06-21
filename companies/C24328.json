@@ -1,0 +1,99 @@
+{
+  "name": "BOOK LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136985M",
+        "address": "DIAMONDCRT,FLT8,TRIQGANNIFAURETARXIENTXN2422MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEVILLE TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11118",
+        "address": "53,NEVANN,TRIQIL-BATTERIJA,ZONQOR,MARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 24328",
+  "registration_date": "Mar 30, 1999",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

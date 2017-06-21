@@ -1,0 +1,83 @@
+{
+  "name": "AVEREPIUCLIENTI LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ORAZIO SALVINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS6701773",
+        "address": "60,VIACORSOCAVALLOTTI,ALESSANDRIAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ORAZIO SALVINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS6701773",
+        "address": "60,VIACORSOCAVALLOTTI,ALESSANDRIAITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ORAZIO SALVINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS6701773",
+        "address": "60,VIACORSOCAVALLOTTI,ALESSANDRIAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ORAZIO SALVINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS6701773",
+        "address": "60,VIACORSOCAVALLOTTI,ALESSANDRIAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIANFRANCO GRASSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS9004164",
+        "address": "133,VIANAZ.PERCT.,ACIREALEITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 108
+        }
+      },
+      {
+        "name": "ORAZIO SALVINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS6701773",
+        "address": "60,VIACORSOCAVALLOTTI,ALESSANDRIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1092
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "PEARL'S COURT, SHOP NO. 4, ST. PAUL'S STREET,",
+  "company_id": "C 76540",
+  "registration_date": "Jul 21, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

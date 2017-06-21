@@ -1,0 +1,109 @@
+{
+  "name": "AMAZON LIMITED",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARMEL BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            513653M",
+        "address": "'CASACENTO',PLOT100,TRIQIR-RIGNU,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            513653M",
+        "address": "'CASACENTO',PLOT100,TRIQIR-RIGNU,QORMIMALTA"
+      },
+      {
+        "name": "JOHN BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32356M",
+        "address": "389,MDINAROAD,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            513653M",
+        "address": "'CASACENTO',PLOT100,TRIQIR-RIGNU,QORMIMALTA"
+      },
+      {
+        "name": "JOHN BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32356M",
+        "address": "389,MDINAROAD,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            513653M",
+        "address": "'CASACENTO',PLOT100,TRIQIR-RIGNU,QORMIMALTA"
+      },
+      {
+        "name": "JOHN BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32356M",
+        "address": "389,MDINAROAD,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEL BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            513653M",
+        "address": "'CASACENTO',PLOT100,TRIQIR-RIGNU,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "JOHN BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32356M",
+        "address": "389,MDINAROAD,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "\"AMAZON GARAGE\" ST EDWARD STREET,",
+  "company_id": "C 13414",
+  "registration_date": "Dec 30, 1991",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 20000
+}

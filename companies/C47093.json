@@ -1,0 +1,96 @@
+{
+  "company_id": "C 47093",
+  "address": "127, TWO GATE STREET,",
+  "name": "BPBB SERVICES LIMITED",
+  "locality": "SENGLEA",
+  "status": "",
+  "registration_date": "Jun 18, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TONIO FENECH\r",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BRUNO CARLOS PINTO BASTO BOBONE\r",
+        "party_id": "                                                            J188261",
+        "address": "RUADAIMPRENSEAESTRELA,NO.9-3ESQ.,LISBON1200-478PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BPBB INTERNATIONAL SERVICES LIMITED\r",
+        "party_id": "                                                            C 47090",
+        "address": "127,TWOGATESTREET,SENGLEAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TONIO FENECH\r",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BRUNO CARLOS PINTO BASTO BOBONE\r",
+        "party_id": "                                                            J188261",
+        "address": "RUADAIMPRENSEAESTRELA,NO.9-3ESQ.,LISBON1200-478PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TONIO FENECH\r",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BRUNO CARLOS PINTO BASTO BOBONE\r",
+        "party_id": "                                                            J188261",
+        "address": "RUADAIMPRENSEAESTRELA,NO.9-3ESQ.,LISBON1200-478PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FEDERICO DE ALMEIDA E NORONHA FALCAO GOARMON\r",
+        "party_id": "                                                            J371076",
+        "address": "RUAJOAOINFANTELOTE6,4-ACONDOMINIOALTODASFLORES,CASCAIS2750PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT EBEJER\r",
+        "party_id": "                                                            10101",
+        "address": "IL-MUFTIEH,TRIQSANPATRIZJU,ZABBARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

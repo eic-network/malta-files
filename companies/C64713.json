@@ -1,0 +1,673 @@
+{
+  "name": "BetIt Securities Ltd",
+  "total_issued_shares_value": 1804.75,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 180475,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            452263M",
+        "address": "IL-MEHRIEZ,FLAT2,TRIQNAZJUELLUL,GZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MIKAEL SVEN TARALD HARSTAD\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89062296",
+        "address": "NO.112C,AVENIDAGENERALIFE,VILLALEON,NUEVAANDALUCIA29660SPAIN"
+      },
+      {
+        "name": "ANDRE LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            31984080",
+        "address": "CALLEOSAMENOR18,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87011223",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MIKAEL SVEN TARALD HARSTAD\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89062296",
+        "address": "NO.112C,AVENIDAGENERALIFE,VILLALEON,NUEVAANDALUCIA29660SPAIN"
+      },
+      {
+        "name": "ANDRE LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            31984080",
+        "address": "CALLEOSAMENOR18,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87011223",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MIKAEL SVEN TARALD HARSTAD\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89062296",
+        "address": "NO.112C,AVENIDAGENERALIFE,VILLALEON,NUEVAANDALUCIA29660SPAIN"
+      },
+      {
+        "name": "ANDRE LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            31984080",
+        "address": "CALLEOSAMENOR18,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87011223",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,MARBELLA29660SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AGROCARE I GOTEBORG AKTIEBOLAG\r",
+        "nationality": "",
+        "party_id": "                                                            556427-6581",
+        "address": "ALVAKER6189,KUNGSBACKA43496SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 354
+        }
+      },
+      {
+        "name": "ALFAZOE AB\r",
+        "nationality": "",
+        "party_id": "                                                            556890-6506",
+        "address": "KRONOBORGSVAGEN5,MALMO21742SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 283
+        }
+      },
+      {
+        "name": "AVENY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109304",
+        "address": "SUITE4,4,GIRO'SPASSAGE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8778
+        }
+      },
+      {
+        "name": "BOJP HOLDING AB\r",
+        "nationality": "",
+        "party_id": "                                                            556897-2771",
+        "address": "LINDMATAREGATAN13,BUNKEFLOSTRAND21838SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 354
+        }
+      },
+      {
+        "name": "CORPUS VILE AB\r",
+        "nationality": "",
+        "party_id": "                                                            556712-6643",
+        "address": "C/OSTELLAADVISORSAB,BIBLIOTEKSGATAN8,STOCKHOLM11146SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 849
+        }
+      },
+      {
+        "name": "G.F. INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            986897666",
+        "address": "NOKKEN30,TROMSO9016NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 17795
+        }
+      },
+      {
+        "name": "GASTRANOR AS\r",
+        "nationality": "",
+        "party_id": "                                                            911902990",
+        "address": "C/OJONARENORDBREKKEN,HANEBORGALLE63,FJELLHAMAR,LORENSKOG1472NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1625
+        }
+      },
+      {
+        "name": "GREEN SKY BV\r",
+        "nationality": "",
+        "party_id": "                                                            20077834",
+        "address": "DEVELDOVEN4C,HENDRIKIDOAMBACHT3342GRNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2123
+        }
+      },
+      {
+        "name": "HMH INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            988757969",
+        "address": "C/OHANSEN,TIDEMANDSGATE30,TRONDHEIM7030NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8124
+        }
+      },
+      {
+        "name": "LAVOLD INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            989091441",
+        "address": "HJALMARJOHANSENSGATE106,TROMSO9007NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8124
+        }
+      },
+      {
+        "name": "MAXFRED INVEST AB\r",
+        "nationality": "",
+        "party_id": "                                                            559044-9368",
+        "address": "C/ONORDICPARTNERS,BIRGERJARLSGATEN,18A,3TR,STOCKHOLM11432SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 812
+        }
+      },
+      {
+        "name": "MAXIFY INVESTMENT SWEDEN AB\r",
+        "nationality": "",
+        "party_id": "                                                            5569231649",
+        "address": "HAGENSVAGEN47,SAXTORP26193SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 356
+        }
+      },
+      {
+        "name": "MEDIASTRATEGERNA KO-MO AB\r",
+        "nationality": "",
+        "party_id": "                                                            556522-4093",
+        "address": "MARENVAGEN23,SALTSJOBADEN,STOCKHOLM13337SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3249
+        }
+      },
+      {
+        "name": "MEXON HOLDING AB\r",
+        "nationality": "",
+        "party_id": "                                                            556983-1091",
+        "address": "AMINOGATAN32D,MOLNDAL43153SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2832
+        }
+      },
+      {
+        "name": "OPTIMIZER INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55978",
+        "address": "LEVEL5,THEHEDGEBUSINESSCENTRE,TRIQIR-RAMPATA'SANGILJAN,ST.JULIANSSTJ1602MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 79600
+        }
+      },
+      {
+        "name": "ORAKEL ODDSCONSULT AS\r",
+        "nationality": "",
+        "party_id": "                                                            989242776",
+        "address": "C/OBJARTHEWESTERHEIM,KROKTJODNEVEGEN40,STORD5414NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5729
+        }
+      },
+      {
+        "name": "PDE INVEST AB\r",
+        "nationality": "",
+        "party_id": "                                                            556886-2576",
+        "address": "C/ODELBANCO,CORFITZBECK-FRIISVAG10,HOLLVIKEN23642SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 708
+        }
+      },
+      {
+        "name": "PIXEL WIZARD LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109289",
+        "address": "SUITE4,4,GIRO'SPASSAGE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8778
+        }
+      },
+      {
+        "name": "R3 HOLDING AS\r",
+        "nationality": "",
+        "party_id": "                                                            990056803",
+        "address": "KVELDROVEGEN18A,TROMSO9007NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1625
+        }
+      },
+      {
+        "name": "RAMBO INVEST AB\r",
+        "nationality": "",
+        "party_id": "                                                            556887-4837",
+        "address": "STARRANGSRINGEN105FLOOR,STOCKHOLM11550SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 849
+        }
+      },
+      {
+        "name": "RAMFJELL INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            990306087",
+        "address": "BJORNDALSVEIEN87,RASTA,LORENSKOG1476NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 812
+        }
+      },
+      {
+        "name": "REBAC INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            990056846",
+        "address": "BALSFJORDVINDEN10,9006TROMSO,TROMSO1920NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3249
+        }
+      },
+      {
+        "name": "ROSENSSONS CONSULTING AB\r",
+        "nationality": "",
+        "party_id": "                                                            556899-2019",
+        "address": "STIGHSBYAVAG18,TRELLEBORG23167SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 708
+        }
+      },
+      {
+        "name": "SOLTUNNELN INVESTMENT AB\r",
+        "nationality": "",
+        "party_id": "                                                            559007-2285",
+        "address": "BOX69,SUNDSVALL85102SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 354
+        }
+      },
+      {
+        "name": "SPARTACUS INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            996909360",
+        "address": "TSSVENSKEVEIEN3,ROROS7374NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 812
+        }
+      },
+      {
+        "name": "SUPERINVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60113",
+        "address": "CENTRALBUSINESSCENTRE-ROOM1-LEVEL1-SUITE2MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2256
+        }
+      },
+      {
+        "name": "T10 INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            997321103",
+        "address": "FRNANSENSPLASS11,TROMSO9008NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 968
+        }
+      },
+      {
+        "name": "ANDERS BERTIL INGEMAR ANDERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86755290",
+        "address": "GUADALMINAALTA,CAMINOCORTES,URB.RIBERADELGUADALMINAAPT.4312,SANPEDRODELALCANTARA29670SPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 354
+        }
+      },
+      {
+        "name": "HENRIC ANDERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84982679",
+        "address": "VILLA1,THEMEWS,ANTONIOSCHEMBRISTREET,KAPPARA,SANGWANNSGN4232MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 747
+        }
+      },
+      {
+        "name": "KIM ANDRE BAROSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27605220",
+        "address": "OPALVEIEN15,KROKELVDALEN9022NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2437
+        }
+      },
+      {
+        "name": "GEIR MAGNE SKOGHEIM GJERSVOLL\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28798690",
+        "address": "DRIVAVEGEN49A,SUNNDALSORA6600NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1625
+        }
+      },
+      {
+        "name": "AKE OLOF GUSTAFSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            91936655",
+        "address": "OSKARSPARKEN21,OREBRO70212SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 708
+        }
+      },
+      {
+        "name": "PER SIMON JERNSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            83080456",
+        "address": "TURINGEVAGEN57,ALVSJO12543SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 325
+        }
+      },
+      {
+        "name": "KARL GREGER LARSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87244693",
+        "address": "8,SWANWALK,LONDONSW34JJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 849
+        }
+      },
+      {
+        "name": "FRIDTJOV RUNE LODERUP\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            29470348",
+        "address": "DOKTORSVAGEN8,SALTSJO-BOO,STOCKHOLM13246SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 354
+        }
+      },
+      {
+        "name": "ULF FREDRICK MALMBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85845312",
+        "address": "7,CRONDACEROAD,LONDONSW64BAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 849
+        }
+      },
+      {
+        "name": "MARTIN ANDRE NORDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82891585",
+        "address": "REGEMENTSGATAN21,MALMO21753SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 352
+        }
+      },
+      {
+        "name": "JONATHAN MARK RONALD NORMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            801387864",
+        "address": "GUILDENHURSTMANOR,LORDINGSROAD,BILLINGSHURST,WESTSUSSEXRH149JBUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 849
+        }
+      },
+      {
+        "name": "NEVILLE PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171781M",
+        "address": "VASSALLOBUILDINGS,5/2,GWANNMAMOSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3559
+        }
+      },
+      {
+        "name": "ALI SEAN ALEXANDER SHIRAZI\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81564947",
+        "address": "AMBULTSGATAN29,TYGELSJO21871SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 371
+        }
+      },
+      {
+        "name": "BJORN SVANTE HARALD STRANDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90059616",
+        "address": "URBCOSTANAGUELES1,PORTAL4BAJO,MARBELLA29602SPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2123
+        }
+      },
+      {
+        "name": "JONAS TORRANG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85482675",
+        "address": "BLOCKB,APARTMENT5,BALLUTATERRACE,IR-RAMPATA'SANGILJAN,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 95
+        }
+      },
+      {
+        "name": "BJARTHE WESTERHEIM\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28241844",
+        "address": "KROKTJODNEVEGEN40,STORD5412NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1432
+        }
+      },
+      {
+        "name": "KENNETH WESTERHEIM\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28866926",
+        "address": "HAGA3A,STORD5414NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1340
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 180475,
+  "address": "THE HEDGE BUSINESS CENTRE, LEVEL 5, TRIQ IR-RAMPA TA' SAN GILJAN,",
+  "company_id": "C 64713",
+  "registration_date": "Apr 16, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 200000
+}

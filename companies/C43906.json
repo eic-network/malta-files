@@ -1,0 +1,110 @@
+{
+  "name": "BBSL MALTA FINANCE COMPANY LIMITED",
+  "total_issued_shares_value": 2000000,
+  "total_authorised_shares_value": 10000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "PAUL MC KENNA\r",
+        "nationality": "",
+        "party_id": "                                                            15931A",
+        "address": "119,MAPLECOURT,BALLUTAMANSIONS,OLDCOLLEGESTREET,SLIEMASLM1376MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALIDA MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            560362M",
+        "address": "21,OURLADYOFSACREDHEARTSTR.,SLIEMASLM1040MALTA"
+      },
+      {
+        "name": "MICHAEL RUST\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            114568A",
+        "address": "64,ROGER,FLAT7,TRIQNAZJUELLUL,GZIRAGZR1624MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "MICHAEL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            200045M",
+        "address": "16,SQAQL-ISPTAR,MQABBAMQB1100MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "MICHAEL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            200045M",
+        "address": "16,SQAQL-ISPTAR,MQABBAMQB1100MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "MICHAEL SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            200045M",
+        "address": "16,SQAQL-ISPTAR,MQABBAMQB1100MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MSS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18365",
+        "address": "REGENTHOUSE,52,FIFTHFLOOR,BISAZZASTREETSLIEMASLM1640MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000000,
+  "address": "The Plaza Commercial Centre, Level 5, Suite 2b Bisazza Street",
+  "company_id": "C 43906",
+  "registration_date": "Apr 01, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 10000000
+}

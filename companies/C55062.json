@@ -1,0 +1,99 @@
+{
+  "name": "ANANN SERVICES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "LAURO FAVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395089M",
+        "address": "44/3,AMERYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DENISE MARIE FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            63986M",
+        "address": "80,REDENTUR,TRIQIL-FALKUNIERFGURAFGR1935MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AEQUITAS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33098",
+        "address": "FLOOR4,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AEQUITAS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33098",
+        "address": "FLOOR4,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAILEY AUDIT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/105",
+        "address": "SUITE3,1STFLOOR,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAVLT1103MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AEQUITAS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33098",
+        "address": "FLOOR4,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AEQUITAS TRUST & FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59564",
+        "address": "VALLETTABUILDINGS,FOURTHFLOOR,SUITE20,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ANANN MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53798",
+        "address": "'VALLETTABUILDINGS',4THFLOOR,SUITE20,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VALLETTA BUILDINGS, 4TH FLOOR, 20, SOUTH STREET,",
+  "company_id": "C 55062",
+  "registration_date": "Jan 20, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,59 @@
+{
+  "name": "BEMA LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "VAULT 14, LEVEL  2 VALLETTA WATERFRONT",
+  "company_id": "C 44273",
+  "registration_date": "May 20, 2008",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

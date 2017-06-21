@@ -1,0 +1,107 @@
+{
+  "name": "A.P.H LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KEITH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379372M",
+        "address": "SETTEMBRINA,TRIQIL-QASBA,IBRAG,SWIEQIMALTA"
+      },
+      {
+        "name": "STEPHEN ROSSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319948M",
+        "address": "40,FLAT4,NATHALIEPOUTIATINTABONESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEITH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379372M",
+        "address": "SETTEMBRINA,TRIQIL-QASBA,IBRAG,SWIEQIMALTA"
+      },
+      {
+        "name": "STEPHEN ROSSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319948M",
+        "address": "40,FLAT4,NATHALIEPOUTIATINTABONESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEITH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379372M",
+        "address": "SETTEMBRINA,TRIQIL-QASBA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEITH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379372M",
+        "address": "SETTEMBRINA,TRIQIL-QASBA,IBRAG,SWIEQIMALTA"
+      },
+      {
+        "name": "STEPHEN ROSSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319948M",
+        "address": "40,FLAT4,NATHALIEPOUTIATINTABONESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEITH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379372M",
+        "address": "SETTEMBRINA,TRIQIL-QASBA,IBRAG,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "STEPHEN ROSSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319948M",
+        "address": "40,FLAT4,NATHALIEPOUTIATINTABONESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "REGENT BUILDING, RACE COURSE STREET,",
+  "company_id": "C 72130",
+  "registration_date": "Sep 03, 2015",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

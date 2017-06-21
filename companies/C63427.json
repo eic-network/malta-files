@@ -1,0 +1,78 @@
+{
+  "name": "BLUEPRINT SOLUTIONS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARC VELLA BONANNO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            341883M",
+        "address": "7,MEDITERRANEA,TRIQIL-KEJLA,L-IBRAG,SWIEQISWQ2356MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER LYNDLEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            507210762",
+        "address": "7,SELMUNROADMELLIEHAMLH2442MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER LYNDLEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            507210762",
+        "address": "7,SELMUNROADMELLIEHAMLH2442MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER LYNDLEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            507210762",
+        "address": "7,SELMUNROADMELLIEHAMLH2442MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTEGRATIVE HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1802146",
+        "address": "COMMONWEALTHTRUSTLIMITEDPOBOX3321,DRAKECHAMBERS,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "CENTRAL BUSINESS CENTRE, LEVEL 0, SUITE 1, MDINA ROAD,",
+  "company_id": "C 63427",
+  "registration_date": "Jan 09, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1500
+}

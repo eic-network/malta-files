@@ -1,0 +1,83 @@
+{
+  "name": "American Marketing Alliance Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Jacob A Huggard\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            057346913",
+        "address": "1221W1500NPleasantGroveUtahUtahUT84062UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Jacob A Huggard\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            057346913",
+        "address": "1221W1500NPleasantGroveUtahUtahUT84062UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Geraldine Spiteri\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309477M",
+        "address": "ThaliaTa'L-IbragRoadSWIEQISWQ2033MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Jacob A Huggard\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            057346913",
+        "address": "1221W1500NPleasantGroveUtahUtahUT84062UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Christopher A Clark\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            426481569",
+        "address": "133S200E,LindonUtahUtahUT84042UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "Jacob A Huggard\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            057346913",
+        "address": "1221W1500NPleasantGroveUtahUtahUT84062UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Thalia Ta' L-Ibrag Road",
+  "company_id": "C 51664",
+  "registration_date": "Jan 21, 2011",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1200
+}

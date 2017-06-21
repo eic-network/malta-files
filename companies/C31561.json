@@ -1,0 +1,75 @@
+{
+  "name": "BONITO SHIPPING LTD",
+  "total_issued_shares_value": 1281.16,
+  "total_authorised_shares_value": 1281.16,
+  "authorised_shares": [
+    {
+      "issued_shares": 550,
+      "type": "Ordinary",
+      "authorised_share_capital": 550,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 549
+        }
+      },
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 550,
+  "address": "25/16 VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 31561",
+  "registration_date": "May 19, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 550
+}

@@ -1,0 +1,109 @@
+{
+  "company_id": "C 68467",
+  "address": "149, TRIQ ZABBAR,",
+  "name": "BRIAN&BRANDO LTD",
+  "locality": "PAOLA",
+  "status": "",
+  "registration_date": "Jan 07, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CATIA AGOSTINI\r",
+        "party_id": "                                                            125457A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAOLO TOGNON\r",
+        "party_id": "                                                            125452A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EVEN PENNYLESS LTD\r",
+        "party_id": "                                                            148882",
+        "address": "11/2MILESNORTHERNHIGHWAYBELIZECITYBELIZE",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ANNALISE MICALLEF\r",
+        "party_id": "                                                            60485M",
+        "address": "149,ZABBARROAD,PAOLAPLA1016MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATIA AGOSTINI\r",
+        "party_id": "                                                            125457A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAOLO TOGNON\r",
+        "party_id": "                                                            125452A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CATIA AGOSTINI\r",
+        "party_id": "                                                            125457A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAOLO TOGNON\r",
+        "party_id": "                                                            125452A",
+        "address": "39,TRIQSANTAKATERINA,XEWKIJA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNALISE MICALLEF\r",
+        "party_id": "                                                            60485M",
+        "address": "149,ZABBARROAD,PAOLAPLA1016MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

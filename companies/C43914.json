@@ -1,0 +1,83 @@
+{
+  "name": "ATON MALTA LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ATON PHARMA, INC.\r",
+        "nationality": "",
+        "party_id": "                                                            3229107",
+        "address": "THECORPORATIONTRUSTCOMPANY,1209ORANGESTREET-CORPORATIONTRUSTCENTER,NEWCASTLECOUNTY,WILMINGTON,DELAWARE19801UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ATON PHARMA, INC.\r",
+        "nationality": "",
+        "party_id": "                                                            3229107",
+        "address": "THECORPORATIONTRUSTCOMPANY,1209ORANGESTREET-CORPORATIONTRUSTCENTER,NEWCASTLECOUNTY,WILMINGTON,DELAWARE19801UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRICK BRISCOE WHITE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            214296M",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ATON PHARMA, INC.\r",
+        "nationality": "",
+        "party_id": "                                                            3229107",
+        "address": "THECORPORATIONTRUSTCOMPANY,1209ORANGESTREET-CORPORATIONTRUSTCENTER,NEWCASTLECOUNTY,WILMINGTON,DELAWARE19801UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATON PHARMA, INC.\r",
+        "nationality": "",
+        "party_id": "                                                            3229107",
+        "address": "THECORPORATIONTRUSTCOMPANY,1209ORANGESTREET-CORPORATIONTRUSTCENTER,NEWCASTLECOUNTY,WILMINGTON,DELAWARE19801UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "PRINCETON PHARMA HOLDINGS, LLC\r",
+        "nationality": "",
+        "party_id": "                                                            4197207",
+        "address": "3150,BRUNSWICKPIKE,SUITE130,LAWRENCEVILLE,NJ08648UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 43914",
+  "registration_date": "Apr 02, 2008",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

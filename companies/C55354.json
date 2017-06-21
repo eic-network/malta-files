@@ -1,0 +1,91 @@
+{
+  "name": "ALLTRADE LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183165M",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BASTILLE MALTA TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25994",
+        "address": "THEPENTHOUSE,CAROLINACOURT,TRIQGUZEPPICALI,TA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BASTILLE MALTA TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25994",
+        "address": "THEPENTHOUSE,CAROLINACOURT,TRIQGUZEPPICALI,TA'XBIEXMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BASTILLE MALTA TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25994",
+        "address": "THEPENTHOUSE,CAROLINACOURT,TRIQGUZEPPICALI,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BASTILLE MALTA TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25994",
+        "address": "THEPENTHOUSE,CAROLINACOURT,TRIQGUZEPPICALI,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BASTILLE MALTA TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25994",
+        "address": "THEPENTHOUSE,CAROLINACOURT,TRIQGUZEPPICALI,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PENTHOUSE, CAROLINA COURT, TRIQ GUZEPPI CALI,",
+  "company_id": "C 55354",
+  "registration_date": "Feb 17, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

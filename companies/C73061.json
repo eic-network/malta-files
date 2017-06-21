@@ -1,0 +1,107 @@
+{
+  "name": "ALPHA STRATCOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CHARLES PHILIPPE MARIE LOUIS D'ORLEANS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CV50253",
+        "address": "RUAAUGUSTOFILIPESIMOESPALACIOCADAVALEVORA7000-845EVORAPORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CHARLES PHILIPPE MARIE LOUIS D'ORLEANS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CV50253",
+        "address": "RUAAUGUSTOFILIPESIMOESPALACIOCADAVALEVORA7000-845EVORAPORTUGAL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CHARLES PHILIPPE MARIE LOUIS D'ORLEANS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CV50253",
+        "address": "RUAAUGUSTOFILIPESIMOESPALACIOCADAVALEVORA7000-845EVORAPORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARLES PHILIPPE MARIE LOUIS D'ORLEANS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CV50253",
+        "address": "RUAAUGUSTOFILIPESIMOESPALACIOCADAVALEVORA7000-845EVORAPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ALTER DOMUS TRUSTEE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63887",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VISION EXCHANGE BUILDING TERRITORIALS STREET, MRIEHEL",
+  "company_id": "C 73061",
+  "registration_date": "Nov 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,97 @@
+{
+  "name": "APIA CAPITAL CO. LTD",
+  "total_issued_shares_value": 8292279,
+  "total_authorised_shares_value": 40000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 8292278,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 39999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SILVIO CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428077M",
+        "address": "APARTMENT4,BLOCKA,AMBJENTCOMPLEX,XEMXIJAHILL,ST.PAUL'SBAYSPB9021MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ITPS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51521",
+        "address": "SUSANCOURT,B1,TRIQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ITPS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51521",
+        "address": "SUSANCOURT,B1,TRIQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11199",
+        "address": "CCPSMALTA,ALBEAHOUSE,TESTAFERRATASTREET,MSIDAMSD1401MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ITPS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51521",
+        "address": "SUSANCOURT,B1,TRIQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARADO INVEST S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B100828",
+        "address": "43,BOULEVARDDUPRINCEHENRI,LUXEMBOURGL-1724LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8292278
+        }
+      },
+      {
+        "name": "JOSE MARIA CASTANE ORTEGA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAD378003",
+        "address": "CALLENUNEZDEBALBOA83,MADRID28006SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 8292279,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA",
+  "company_id": "C 41587",
+  "registration_date": "Jun 11, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 40000000
+}

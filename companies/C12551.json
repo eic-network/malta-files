@@ -1,0 +1,97 @@
+{
+  "name": "BABY WORLD LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GERALD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380069M",
+        "address": "46,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GERALD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380069M",
+        "address": "46,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8939M",
+        "address": "46,THESTRAND,SLIEMAMALTA"
+      },
+      {
+        "name": "GERALD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380069M",
+        "address": "46,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GERALD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380069M",
+        "address": "46,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8939M",
+        "address": "46,THESTRAND,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "GERALD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380069M",
+        "address": "46,THESTRAND,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2850
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "BABYWORLD PRINCESS MARGARET STREET",
+  "company_id": "C 12551",
+  "registration_date": "Apr 10, 1991",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

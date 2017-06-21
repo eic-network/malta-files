@@ -1,0 +1,78 @@
+{
+  "name": "BARBERO INVESTCO LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "THERESE SIVE TERRY ATTARD MONTALDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            710752M",
+        "address": "2OAKHILLAPARTMENTS,TRIQSCICLUNA,ST.JULIANSSTJ1034MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HUGH ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150350M",
+        "address": "OAKHILLAPARTMENTS,FLAT2,TRIQSCICLUNA,ST.JULIANSSTJ1034MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HUGH ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150350M",
+        "address": "OAKHILLAPARTMENTS,FLAT2,TRIQSCICLUNA,ST.JULIANSSTJ1034MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HORWATH MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/27",
+        "address": "LAPROVVIDA,KARMZERAFASTREET,BIRKIRKARABKR1713MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HUGH ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150350M",
+        "address": "OAKHILLAPARTMENTS,FLAT2,TRIQSCICLUNA,ST.JULIANSSTJ1034MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STLAURENT HOLDCO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 61737",
+        "address": "'LAPROVVIDA',KARMZERAFASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "LA PROVVIDA,  KARM ZERAFA STREET,",
+  "company_id": "C 61739",
+  "registration_date": "Sep 02, 2013",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

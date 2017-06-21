@@ -1,0 +1,101 @@
+{
+  "name": "BFF LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTOINE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77478M",
+        "address": "FLATNO.1,\"ST.ANHONYCOURT\",TRIQL-GHAKRUX,ST.PETER,ZABBARZBR2116MALTA"
+      },
+      {
+        "name": "GEOFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385281M",
+        "address": "240,\"CHENEF\",TRIQIL-QALIET,MARSASCALAMSK3313MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTOINE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77478M",
+        "address": "FLATNO.1,\"ST.ANHONYCOURT\",TRIQL-GHAKRUX,ST.PETER,ZABBARZBR2116MALTA"
+      },
+      {
+        "name": "GEOFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385281M",
+        "address": "240,\"CHENEF\",TRIQIL-QALIET,MARSASCALAMSK3313MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEOFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385281M",
+        "address": "240,\"CHENEF\",TRIQIL-QALIET,MARSASCALAMSK3313MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTOINE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77478M",
+        "address": "FLATNO.1,\"ST.ANHONYCOURT\",TRIQL-GHAKRUX,ST.PETER,ZABBARZBR2116MALTA"
+      },
+      {
+        "name": "GEOFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385281M",
+        "address": "240,\"CHENEF\",TRIQIL-QALIET,MARSASCALAMSK3313MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTOINE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77478M",
+        "address": "FLATNO.1,\"ST.ANHONYCOURT\",TRIQL-GHAKRUX,ST.PETER,ZABBARZBR2116MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "GEOFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385281M",
+        "address": "240,\"CHENEF\",TRIQIL-QALIET,MARSASCALAMSK3313MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "UBT 3, INDUSTRIAL ESTATE,",
+  "company_id": "C 78343",
+  "registration_date": "Nov 28, 2016",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

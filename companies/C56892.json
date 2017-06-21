@@ -1,0 +1,97 @@
+{
+  "company_id": "C 56892",
+  "address": "60/2, MELITA STREET,",
+  "name": "BOSTON RED CAPITAL LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jul 06, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1249,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1.3656,
+      "issued_shares": 1249
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1.3656,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1707,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1707,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "YNV HOLDINGS LTD\r",
+        "party_id": "                                                            HE295770",
+        "address": "AGIASELENIS,25THFLOOR,FLAT/OFFICE501NICOSIA1060CYPRUS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1.3656
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1.3656
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DUCA\r",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

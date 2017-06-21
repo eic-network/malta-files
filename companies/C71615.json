@@ -1,0 +1,70 @@
+{
+  "company_id": "C 71615",
+  "address": "171, OLD BAKERY STREET,",
+  "name": "BRAVOS HOLDING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jul 27, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEKSANDAR PESOVIC\r",
+        "party_id": "                                                            X3704824",
+        "address": "MUHLESTRASSE32,RUSCHLIKON8803SWITZERLAND",
+        "nationality": "SWISS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEKSANDAR PESOVIC\r",
+        "party_id": "                                                            X3704824",
+        "address": "MUHLESTRASSE32,RUSCHLIKON8803SWITZERLAND",
+        "nationality": "SWISS",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEKSANDAR PESOVIC\r",
+        "party_id": "                                                            X3704824",
+        "address": "MUHLESTRASSE32,RUSCHLIKON8803SWITZERLAND",
+        "nationality": "SWISS"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEKSANDAR PESOVIC\r",
+        "party_id": "                                                            X3704824",
+        "address": "MUHLESTRASSE32,RUSCHLIKON8803SWITZERLAND",
+        "nationality": "SWISS"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRICK BRISCOE WHITE\r",
+        "party_id": "                                                            214296M",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

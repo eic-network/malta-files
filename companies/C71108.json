@@ -1,0 +1,101 @@
+{
+  "name": "Alraqi Medical Supply Company Ltd",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JALAL ESSID ESSID EDALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            RPP68NYK",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      },
+      {
+        "name": "KHALIFA TAHER M. ELBAKKUSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            K032ZJPH",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JALAL ESSID ESSID EDALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            RPP68NYK",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      },
+      {
+        "name": "KHALIFA TAHER M. ELBAKKUSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            K032ZJPH",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KHALIFA TAHER M. ELBAKKUSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            K032ZJPH",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JALAL ESSID ESSID EDALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            RPP68NYK",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      },
+      {
+        "name": "KHALIFA TAHER M. ELBAKKUSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            K032ZJPH",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JALAL ESSID ESSID EDALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            RPP68NYK",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "KHALIFA TAHER M. ELBAKKUSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            K032ZJPH",
+        "address": "24SOLITUDETRIQIL-QASABSANGWANNSGN1718MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "24 Solitude  Triq il-Qasab",
+  "company_id": "C 71108",
+  "registration_date": "Jun 19, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 200000
+}

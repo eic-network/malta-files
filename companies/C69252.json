@@ -1,0 +1,96 @@
+{
+  "name": "3M TRADE LTD",
+  "total_issued_shares_value": 300000,
+  "total_authorised_shares_value": 300000,
+  "authorised_shares": [
+    {
+      "issued_shares": 300000,
+      "type": "Ordinary",
+      "authorised_share_capital": 300000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Tarek S A Albriki \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000003",
+        "address": "BenAshoorTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Tarek S A Albriki \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000003",
+        "address": "BenAshoorTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Tarek S A Albriki \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000003",
+        "address": "BenAshoorTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Tarek S A Albriki \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000003",
+        "address": "BenAshoorTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Tarek S A Albriki \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000003",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Saleh Elbreki  Enoman \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685212",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Emhmed Alarbi  Yakoubi \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            960883",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 300000,
+  "address": "15, Grognet street",
+  "company_id": "C 69252",
+  "registration_date": "Apr 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 300000
+}

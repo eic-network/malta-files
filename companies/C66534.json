@@ -1,0 +1,86 @@
+{
+  "name": "ASEEL INTERNATIONAL LTD.",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MARIO VICTOR GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            523365M",
+        "address": "154,FLEURDELYSROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MOHAMED MASAOUD AM ZURGHI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            609333",
+        "address": "SAWIASTREET,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MOHAMED MASAOUD AM ZURGHI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            609333",
+        "address": "SAWIASTREET,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MOHAMED MASAOUD AM ZURGHI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            609333",
+        "address": "SAWIASTREET,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMED MASAOUD AM ZURGHI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            609333",
+        "address": "SAWIASTREET,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOHAMED MASAOUD AM ZURGHI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            609333",
+        "address": "SAWIASTREET,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "14, BRARED STREET,",
+  "company_id": "C 66534",
+  "registration_date": "Aug 29, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100000
+}

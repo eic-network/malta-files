@@ -1,0 +1,90 @@
+{
+  "name": "BORG BROS.",
+  "total_issued_shares_value": 2100,
+  "total_authorised_shares_value": 2100,
+  "authorised_shares": [
+    {
+      "issued_shares": 2100,
+      "type": "",
+      "authorised_share_capital": 2100,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "EMANUEL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            354257M",
+        "address": "SACREDHEART,TRIQID-DEMNUQSIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "MARIO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126762M",
+        "address": ",ARCPM.LORENZOGAFASTREET,SIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "NICOLA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396659M",
+        "address": "RONDINE,SIGGIEWIBY-PASSSIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "PAUL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            559360M",
+        "address": "HONEYSUCKLE,LORENZOGAFASTREETSIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "VICTOR BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433564M",
+        "address": "BARBICAN,TRIQID-DEMNUQSIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 420
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2100,
+  "address": "\"BORG BROS GARAGE\" TRIQ ID-DEMNUQ",
+  "company_id": "P 442",
+  "registration_date": "Dec 29, 1997",
+  "shares_currency": "EUR",
+  "locality": "SIGGIEWI",
+  "status": "",
+  "total_authorised_shares": 2100
+}

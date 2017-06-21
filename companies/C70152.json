@@ -1,0 +1,101 @@
+{
+  "company_id": "C 70152",
+  "address": "ABACUS BUSINESS CENTRE, LEVEL 1, TRIQ DUN KARM, BIIRKIRKARA BYPASS,",
+  "name": "BRIGHT ARROW COMPANY LTD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "May 07, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 200000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 200000
+    }
+  ],
+  "total_authorised_shares": 200000,
+  "total_authorised_shares_value": 200000,
+  "total_issued_shares": 200000,
+  "total_issued_shares_value": 200000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Naser Abdulrhman FITOURI\r",
+        "party_id": "                                                            100029",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Ibrahim Muftah A MAHGUB\r",
+        "party_id": "                                                            G6GZJCYY",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Naser Abdulrhman FITOURI\r",
+        "party_id": "                                                            100029",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Ibrahim Muftah A MAHGUB\r",
+        "party_id": "                                                            G6GZJCYY",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Naser Abdulrhman FITOURI\r",
+        "party_id": "                                                            100029",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Ibrahim Muftah A MAHGUB\r",
+        "party_id": "                                                            G6GZJCYY",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Naser Abdulrhman FITOURI\r",
+        "party_id": "                                                            100029",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Ibrahim Muftah A MAHGUB\r",
+        "party_id": "                                                            G6GZJCYY",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Naser Abdulrhman FITOURI\r",
+        "party_id": "                                                            100029",
+        "address": "OmarAlMukhtarTripoliLibyaSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

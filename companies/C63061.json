@@ -1,0 +1,83 @@
+{
+  "name": "ATN HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ABDULLAH SEZGIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05833900",
+        "address": "HUELSBERGSTRASSE68,BOCHUM44797GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABDULLAH SEZGIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05833900",
+        "address": "HUELSBERGSTRASSE68,BOCHUM44797GERMANY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ABDULLAH SEZGIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05833900",
+        "address": "HUELSBERGSTRASSE68,BOCHUM44797GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABDULLAH SEZGIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05833900",
+        "address": "HUELSBERGSTRASSE68,BOCHUM44797GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NECAT CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02948171",
+        "address": "WILHELMINENSTR.40,HERTEN45701GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 288
+        }
+      },
+      {
+        "name": "ABDULLAH SEZGIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U05833900",
+        "address": "HUELSBERGSTRASSE68,BOCHUM44797GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 912
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "A3 Towers, Block A3, Level 12 Triq L-Arkata",
+  "company_id": "C 63061",
+  "registration_date": "Jan 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

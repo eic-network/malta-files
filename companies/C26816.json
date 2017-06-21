@@ -1,0 +1,95 @@
+{
+  "name": "BARMIF COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JAN-KARL FARRUGIA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "15/10,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEITH BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170967M",
+        "address": "NID'AMOURGUNGLIELSTREET,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEITH BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170967M",
+        "address": "NID'AMOURGUNGLIELSTREET,QORMIMALTA"
+      },
+      {
+        "name": "ANDREW MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438267M",
+        "address": "27/3,ST.IGNATIUSJUNCTION,SLIEMASLM05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KEITH BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170967M",
+        "address": "NID'AMOURGUNGLIELSTREET,QORMIMALTA"
+      },
+      {
+        "name": "ANDREW MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438267M",
+        "address": "27/3,ST.IGNATIUSJUNCTION,SLIEMASLM05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEITH BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170967M",
+        "address": "NID'AMOURGUNGLIELSTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ANDREW MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438267M",
+        "address": "27/3,ST.IGNATIUSJUNCTION,SLIEMASLM05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18A, DEPIRO STREET,",
+  "company_id": "C 26816",
+  "registration_date": "Aug 10, 2000",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

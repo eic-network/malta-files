@@ -1,0 +1,78 @@
+{
+  "name": "ANBA INTERNATIONAL LTD.",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "OMER MOHAMED ABO ANBA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            250199",
+        "address": "FLAT7,35,SPRETTU,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OMER MOHAMED ABO ANBA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            250199",
+        "address": "FLAT7,35,SPRETTU,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OMER MOHAMED ABO ANBA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            250199",
+        "address": "FLAT7,35,SPRETTU,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OMER MOHAMED ABO ANBA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            250199",
+        "address": "FLAT7,35,SPRETTU,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OMER MOHAMED ABO ANBA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            250199",
+        "address": "FLAT7,35,SPRETTU,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "15, GROGNET STREET,",
+  "company_id": "C 67079",
+  "registration_date": "Oct 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,110 @@
+{
+  "name": "BLUE STAR LIMITED",
+  "total_issued_shares_value": 500000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 250
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ELENA BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67372M",
+        "address": "66,SETTEMBRINA,ST.PAUL'SSTREETNAXXARNXR4019MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENRI E J HERBOTS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            592-0371871-54",
+        "address": "ALEXANDERFLEMINGLAAN4,WEMMEL1780BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ELENA BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67372M",
+        "address": "66,SETTEMBRINA,ST.PAUL'SSTREETNAXXARNXR4019MALTA"
+      },
+      {
+        "name": "HENRI E J HERBOTS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            592-0371871-54",
+        "address": "ALEXANDERFLEMINGLAAN4,WEMMEL1780BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HENRI E J HERBOTS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            592-0371871-54",
+        "address": "ALEXANDERFLEMINGLAAN4,WEMMEL1780BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3-D FINANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23637",
+        "address": "66,SETTEMBRINAST.PAUL'SSTREETNAXXARNXR4019MALTA",
+        "shares": {
+          "nominal_value_per_share": 250,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "TRISTAR HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 42133",
+        "address": "66,SETTEMBRINA,ST.PAUL'SSTREET,NAXXARNXR4019MALTA",
+        "shares": {
+          "nominal_value_per_share": 250,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1050
+        }
+      },
+      {
+        "name": "KRISTOF PIRIJNS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            592-1700634-14",
+        "address": "VALKENLAAN8SCHOTEN2900BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 250,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "66, SETTEMBRINA ST. PAUL'S STREET",
+  "company_id": "C 42425",
+  "registration_date": "Sep 24, 2007",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,83 @@
+{
+  "company_id": "C 47737",
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA,",
+  "name": "BRAYFIELD LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Sep 15, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EUGENIO MARTINEZ JIMENEZ\r",
+        "party_id": "                                                            AA230191",
+        "address": "C/VELAZQUEZ,137,3,MADRIDC28006SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EUGENIO MARTINEZ JIMENEZ\r",
+        "party_id": "                                                            AA230191",
+        "address": "C/VELAZQUEZ,137,3,MADRIDC28006SPAIN",
+        "nationality": "SPANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ANA MARIA MASQUERA GODOY\r",
+        "party_id": "                                                            BC566342",
+        "address": "C/VELAZQUEZ,137,3,MADRIDC28006SPAIN",
+        "nationality": "SPANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EUGENIO MARTINEZ JIMENEZ\r",
+        "party_id": "                                                            AA230191",
+        "address": "C/VELAZQUEZ,137,3,MADRIDC28006SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EUGENIO MARTINEZ JIMENEZ\r",
+        "party_id": "                                                            AA230191",
+        "address": "C/VELAZQUEZ,137,3,MADRIDC28006SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "party_id": "                                                            AB26/84/70",
+        "address": "221/2,TRIQIL-WIED,BIRKIRKARABKR9014MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

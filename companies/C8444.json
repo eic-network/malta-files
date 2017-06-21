@@ -1,0 +1,129 @@
+{
+  "name": "A.K.C. LIMITED",
+  "total_issued_shares_value": 2445.84,
+  "total_authorised_shares_value": 2445.84,
+  "authorised_shares": [
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 490,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 490,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 550,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 550,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KARL CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621458M",
+        "address": "3TRIQIZ-ZEBBUG,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621458M",
+        "address": "3TRIQIZ-ZEBBUG,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KARL CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621458M",
+        "address": "3TRIQIZ-ZEBBUG,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROLAN MICALLEF ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            002289",
+        "address": "ME'AGHEMMIERI,LIMITITAR-RABAT,RABATRBT4112MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KARL CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621458M",
+        "address": "3TRIQIZ-ZEBBUG,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DOROTHY CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            427836M",
+        "address": "Apt.1ATheFerriesApts.BisazzaStreet,SLIEMASLM1643MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 6
+        }
+      },
+      {
+        "name": "KARL CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            621458M",
+        "address": "3TRIQIZ-ZEBBUG,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "INGRID GRUPETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530060M",
+        "address": "6,IL-FERRIESAPARTMENTS,BISAZZASTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "CALLEJA GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23890",
+        "address": "38/1,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 550
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1050,
+  "address": "38/1, SOUTH STREET,",
+  "company_id": "C 8444",
+  "registration_date": "Nov 26, 1986",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1050
+}

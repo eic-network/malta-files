@@ -1,0 +1,99 @@
+{
+  "name": "AURA SHIPPING ENTERPRISE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SHAHRYAR SASANIAN\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            L15170032",
+        "address": "NO.113,JONOBI,12AVEGHARBI,PHASE2,RAJAEESHAHR,KARAJIRAN,ISLAMICREPUBLICOF"
+      },
+      {
+        "name": "MOHAMMAD SOURI\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            H18987699",
+        "address": "NO.8,DEADENDNADER,SAYEHSTREET,OPPOSITEMELATPARK,VALIASRAVE.,TEHRANIRAN,ISLAMICREPUBLICOF"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SHAHRYAR SASANIAN\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            L15170032",
+        "address": "NO.113,JONOBI,12AVEGHARBI,PHASE2,RAJAEESHAHR,KARAJIRAN,ISLAMICREPUBLICOF"
+      },
+      {
+        "name": "MOHAMMAD SOURI\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            H18987699",
+        "address": "NO.8,DEADENDNADER,SAYEHSTREET,OPPOSITEMELATPARK,VALIASRAVE.,TEHRANIRAN,ISLAMICREPUBLICOF"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SHAHRYAR SASANIAN\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            L15170032",
+        "address": "NO.113,JONOBI,12AVEGHARBI,PHASE2,RAJAEESHAHR,KARAJIRAN,ISLAMICREPUBLICOF"
+      },
+      {
+        "name": "MOHAMMAD SOURI\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            H18987699",
+        "address": "NO.8,DEADENDNADER,SAYEHSTREET,OPPOSITEMELATPARK,VALIASRAVE.,TEHRANIRAN,ISLAMICREPUBLICOF"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Alp Shipping Enterprise Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45652",
+        "address": "85STJOHNSTREETVALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MOHAMMAD SOURI\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            H18987699",
+        "address": "NO.8,DEADENDNADER,SAYEHSTREET,OPPOSITEMELATPARK,VALIASRAVE.,TEHRANIRAN,ISLAMICREPUBLICOF",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "85, ST. JOHN STREET",
+  "company_id": "C 45655",
+  "registration_date": "Nov 24, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

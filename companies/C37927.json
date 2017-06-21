@@ -1,0 +1,153 @@
+{
+  "name": "AQUARIUS RENT-A-CAR LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 86,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 86,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 99914,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 99914,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249049M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            547850M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249049M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            547850M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249049M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA"
+      },
+      {
+        "name": "MATTHEW AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430076M",
+        "address": "11,JUBILEEFLATS,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA"
+      },
+      {
+        "name": "CHARMAINE DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            144572M",
+        "address": "21,TRIQHALQIC-CAWL,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            547850M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249049M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            547850M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 43
+        }
+      },
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249049M",
+        "address": "AQUARIUS,419,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 43
+        }
+      },
+      {
+        "name": "MATTHEW AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430076M",
+        "address": "11,JUBILEEFLATS,SAINTPAUL'SSTREET,ST.PAUL'SBAYSPB3413MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 49957
+        }
+      },
+      {
+        "name": "CHARMAINE DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            144572M",
+        "address": "21,TRIQHALQIC-CAWL,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 49957
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "188,  SAINT PAUL'S STREET,",
+  "company_id": "C 37927",
+  "registration_date": "Feb 03, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 100000
+}

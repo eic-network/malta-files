@@ -1,0 +1,133 @@
+{
+  "name": "AMATECH LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLOTTE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25171M",
+        "address": "NARCISA18,TRIQC.TROISI,IBRAGGSWIEQISWQ2230MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "IGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "IGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN ALBERT NAUDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19720",
+        "address": "5,STONEHAVEN,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARNXR2318MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "IGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "IGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9000
+        }
+      },
+      {
+        "name": "GALENICA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8728",
+        "address": "MANGIONBUILDING,NEWSTREETOFFVALLETTAROAD,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "'MANGION BUILDING',  NEW STREET OFF VALLETTA ROAD,",
+  "company_id": "C 22766",
+  "registration_date": "Apr 09, 1998",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

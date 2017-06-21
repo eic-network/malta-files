@@ -1,0 +1,121 @@
+{
+  "name": "ARTIO TRUSTEES LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 7500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 7500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 7500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 7500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTISATTARDATD1470MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTISATTARDATD1470MALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTISATTARDATD1470MALTA"
+      },
+      {
+        "name": "BERTA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            343274M",
+        "address": "128TRIQSANTALUCIJANAXXARMALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WDM INTERNATIONAL\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTISATTARDATD1470MALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTISATTARDATD1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "SUITE 4, LEVEL 2, PARKLANE BUSINESS CENTRE MOUNTBATTEN STREET",
+  "company_id": "C 58395",
+  "registration_date": "Nov 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 15000
+}

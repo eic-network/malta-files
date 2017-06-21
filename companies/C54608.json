@@ -1,0 +1,86 @@
+{
+  "name": "Avez Holding Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            556884M",
+        "address": "FLAT2,ROSECOURT,TRIQIL-KOKKA,KAPPARASANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "VINCENTIBUILDINGS,14/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDERS AUGUST LJUNG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81292853",
+        "address": "ARLAVAGEN9,FALSTERBO23942SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDERS AUGUST LJUNG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81292853",
+        "address": "ARLAVAGEN9,FALSTERBO23942SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDERS AUGUST LJUNG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81292853",
+        "address": "ARLAVAGEN9,FALSTERBO23942SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PENG LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE 203089",
+        "address": "THEKLASLYSIOTI,35,EAGLESTARHOUSE,6THFLOOR,LIMASSOLP.C.3030CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE 1075) STRAIT STREET,",
+  "company_id": "C 54608",
+  "registration_date": "Dec 02, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,144 @@
+{
+  "name": "ARC WIFI LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1400,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460066M",
+        "address": "22,PEBBLES,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARNXR5040MALTA"
+      },
+      {
+        "name": "CHRISTIAN GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136275M",
+        "address": "119,TOWN'SSQUARE,QUI-SI-SANASLIEMASLM3112MALTA"
+      },
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMASLM1853MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460066M",
+        "address": "22,PEBBLES,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARNXR5040MALTA"
+      },
+      {
+        "name": "CHRISTIAN GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136275M",
+        "address": "119,TOWN'SSQUARE,QUI-SI-SANASLIEMASLM3112MALTA"
+      },
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMASLM1853MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136275M",
+        "address": "119,TOWN'SSQUARE,QUI-SI-SANASLIEMASLM3112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460066M",
+        "address": "22,PEBBLES,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARNXR5040MALTA"
+      },
+      {
+        "name": "CHRISTIAN GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136275M",
+        "address": "119,TOWN'SSQUARE,QUI-SI-SANASLIEMASLM3112MALTA"
+      },
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMASLM1853MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRU LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35816",
+        "address": "FLAT2,ARCLIGHT,62,TRIQL-GHARBIEL,SWIEQISWQ3251MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "DMG LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 29861",
+        "address": "FLAT2662,BLK26,VJALPORTOMASO,ST.JULIANSSTJ4016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "AZNUR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 61263",
+        "address": "HELIOPOLIS,313FLAT18,ST.PAUL'SROAD,ST.PAUL'SBAYSPB3411MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "FLAT 2, ARCLIGHT 62, TRIQ L-GHARBIEL",
+  "company_id": "C 61339",
+  "registration_date": "Jul 26, 2013",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 4000
+}

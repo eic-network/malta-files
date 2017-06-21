@@ -1,0 +1,109 @@
+{
+  "name": "71 STRAITSTREET LIMITED",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "1A,TRIQWIEDGHOMORST.JULIANSSTJ2041MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "1A,TRIQWIEDGHOMORST.JULIANSSTJ2041MALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,PENTHOUSE,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "1A,TRIQWIEDGHOMORST.JULIANSSTJ2041MALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,PENTHOUSE,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "RSMMALTAMDINAROADZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "1A,TRIQWIEDGHOMORST.JULIANSSTJ2041MALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,PENTHOUSE,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "1A,TRIQWIEDGHOMORST.JULIANSSTJ2041MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,PENTHOUSE,TRIQL-IMRADEN,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "1A, TRIQ WIED GHOMOR,",
+  "company_id": "C 65372",
+  "registration_date": "Jun 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 200000
+}

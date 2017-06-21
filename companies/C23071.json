@@ -1,0 +1,97 @@
+{
+  "name": "ANNOT COMPANY LIMITED",
+  "total_issued_shares_value": 46600,
+  "total_authorised_shares_value": 46600,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARCUS TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280468M",
+        "address": "31/1,SIRADRIANDINGLISTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCUS TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208468M",
+        "address": "FLAT6,165TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCUS TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208468M",
+        "address": "FLAT6,165TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN REFALO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113874M",
+        "address": "54,CHRISTOPHERSTREET,VALLETTAVLT1462MALTA"
+      },
+      {
+        "name": "MARCUS TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208468M",
+        "address": "FLAT6,165TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY P FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468259M",
+        "address": "12/13,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARCUS TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208468M",
+        "address": "FLAT6,165TRIQIT-TORRISLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "31/5, SIR ADRIAN DINGLI STREET,",
+  "company_id": "C 23071",
+  "registration_date": "Jun 12, 1998",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

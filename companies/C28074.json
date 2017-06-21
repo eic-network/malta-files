@@ -1,0 +1,153 @@
+{
+  "name": "ASSIKURA INSURANCE BROKERS LTD",
+  "total_issued_shares_value": 98975.06,
+  "total_authorised_shares_value": 98975.06,
+  "authorised_shares": [
+    {
+      "issued_shares": 11538,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 11538,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 6978,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 6978,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 6978,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 6978,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 16996,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 16996,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186673M",
+        "address": "THEGRUMPIES,TRIQE.BRADFORD,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186673M",
+        "address": "THEGRUMPIES,TRIQE.BRADFORD,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186673M",
+        "address": "THEGRUMPIES,TRIQE.BRADFORD,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186673M",
+        "address": "THEGRUMPIES,TRIQE.BRADFORD,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186673M",
+        "address": "THEGRUMPIES,TRIQE.BRADFORD,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 11538
+        }
+      },
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            779959M",
+        "address": "CASALIVIA,TRIQSIRARTHURBORTON,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 6978
+        }
+      },
+      {
+        "name": "ANTHONY MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            526365M",
+        "address": "TONINE,TRIQIL-LINJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 6978
+        }
+      },
+      {
+        "name": "ATLAS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23431",
+        "address": "47-50,TA'XBIEXSEAFRONTTA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 16996
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 42490,
+  "address": "ASSIKURA OLD RAILWAY TRACK,",
+  "company_id": "C 28074",
+  "registration_date": "Apr 20, 2001",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 42490
+}

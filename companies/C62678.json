@@ -1,0 +1,103 @@
+{
+  "name": "BOBBYS (PROPERTY HOLDINGS) LIMITED",
+  "total_issued_shares_value": 977.2,
+  "total_authorised_shares_value": 977.2,
+  "authorised_shares": [
+    {
+      "issued_shares": 1163,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1163,
+      "nominal_value_per_share": 0.8388
+    },
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 0.8388
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "WAYNE PISANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386878M",
+        "address": "TORRITA'CINCLI,BIDNIJA,MOSTAMST5112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      },
+      {
+        "name": "CLIVE BAKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            516271396",
+        "address": "MEARSELODGE,DEANSFORDLANEHARVINGTONWORCESTERSHIREDY104NBUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INDUSTRIA PROPERTIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            10304083",
+        "address": "NORTHSIDEHOUSE,69,TWEEDYROAD,BROMLEY,KENTBR13WAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.8388,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1163
+        }
+      },
+      {
+        "name": "ROBERT ISAAC\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            112155455",
+        "address": "OAKHOUSE,ODDINGLEYLANE,CROWLE,WORCESTERSHIREWR74ADUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.8388,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "SUITE 3, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 62678",
+  "registration_date": "Nov 18, 2013",
+  "shares_currency": "GBP",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

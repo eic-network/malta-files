@@ -1,0 +1,101 @@
+{
+  "company_id": "C 48536",
+  "address": "APARTMENT 9, TROPEA COURT, NAZZARENU STREET,",
+  "name": "BRANDING SOLUTIONS LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Dec 28, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHANNA GRECH\r",
+        "party_id": "                                                            210467M",
+        "address": "APARTMENT9,TROPEACOURT,NAZZARENOSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "VICTOR GRECH\r",
+        "party_id": "                                                            661761M",
+        "address": "'ID-DWEJRA',JEANDELAVALLETTESTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL GRECH\r",
+        "party_id": "                                                            384488M",
+        "address": "'ID-DWEJRA',JEANDELAVALETTESTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PHILIP GRECH\r",
+        "party_id": "                                                            541465M",
+        "address": "APARTMENT9,TROPEACOURT,NAZZARENUSTREET,SLIEMASLM2071MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANNA GRECH\r",
+        "party_id": "                                                            210467M",
+        "address": "APARTMENT9,TROPEACOURT,NAZZARENOSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "VICTOR GRECH\r",
+        "party_id": "                                                            661761M",
+        "address": "'ID-DWEJRA',JEANDELAVALLETTESTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHANNA GRECH\r",
+        "party_id": "                                                            210467M",
+        "address": "APARTMENT9,TROPEACOURT,NAZZARENOSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "VICTOR GRECH\r",
+        "party_id": "                                                            661761M",
+        "address": "'ID-DWEJRA',JEANDELAVALLETTESTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH SAVIOUR BORG\r",
+        "party_id": "                                                            158950M",
+        "address": "95,FLAT4,MARINASTREET,PIETA'MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

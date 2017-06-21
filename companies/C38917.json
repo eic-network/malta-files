@@ -1,0 +1,91 @@
+{
+  "name": "AM to PM Company Limited",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARY GRACE MAGRI GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117360M",
+        "address": "42,THEEIGHTIES,G.DESPOTTSTREET,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY GRACE MAGRI GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117360M",
+        "address": "42,THEEIGHTIES,G.DESPOTTSTREET,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY GRACE MAGRI GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117360M",
+        "address": "42,THEEIGHTIES,G.DESPOTTSTREET,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARY GRACE MAGRI GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117360M",
+        "address": "42,THEEIGHTIES,G.DESPOTTSTREET,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARY GRACE MAGRI GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            117360M",
+        "address": "42,THEEIGHTIES,G.DESPOTTSTREET,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "STEPHEN MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            409560M",
+        "address": "42,THEEIGHTIES,GDESPOTTSTREET,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "42, THE EIGHTIES, G. DESPOTT STREET, KAPPARA",
+  "company_id": "C 38917",
+  "registration_date": "Jun 15, 2006",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "AT.BASH LIMITED",
+  "total_issued_shares_value": 25000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERTO ARTEMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F993499",
+        "address": "VIASAVONAROLA4,MILANO20149ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERTO ARTEMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F993499",
+        "address": "VIASAVONAROLA4,MILANO20149ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERTO ARTEMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F993499",
+        "address": "VIASAVONAROLA4,MILANO20149ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HLB FALZON & FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/14",
+        "address": "12,CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAFRN1060MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERTO ARTEMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F993499",
+        "address": "VIASAVONAROLA4,MILANO20149ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIOVANNI ARRIVABENE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E166445",
+        "address": "SC/FAB.PT,VIASANTALUCIA,2,CASCINAPI56021ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      },
+      {
+        "name": "ROBERTO ARTEMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F993499",
+        "address": "VIASAVONAROLA4,MILANO20149ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "CASA FLORIANI, PIETRO FLORIANI STREET,",
+  "company_id": "C 46736",
+  "registration_date": "Apr 30, 2009",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

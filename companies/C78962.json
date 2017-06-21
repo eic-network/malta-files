@@ -1,0 +1,101 @@
+{
+  "name": "BOOKIEDOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIANFRANCO ALLOCCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126922A",
+        "address": "SUMMERFIELDBLKC,P/H18,TRIQMASSIMILIANOKOLBE,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "EDOARDO NARDUZZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6857716",
+        "address": "VIABARANABATORTOLINI13,ROME(RM)00197ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIANFRANCO ALLOCCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126922A",
+        "address": "SUMMERFIELDBLKC,P/H18,TRIQMASSIMILIANOKOLBE,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "EDOARDO NARDUZZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6857716",
+        "address": "VIABARANABATORTOLINI13,ROME(RM)00197ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GIANFRANCO ALLOCCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126922A",
+        "address": "SUMMERFIELDBLKC,P/H18,TRIQMASSIMILIANOKOLBE,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIANFRANCO ALLOCCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126922A",
+        "address": "SUMMERFIELDBLKC,P/H18,TRIQMASSIMILIANOKOLBE,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "EDOARDO NARDUZZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6857716",
+        "address": "VIABARANABATORTOLINI13,ROME(RM)00197ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIANFRANCO ALLOCCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126922A",
+        "address": "SUMMERFIELDBLKC,P/H18,TRIQMASSIMILIANOKOLBE,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "EDOARDO NARDUZZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6857716",
+        "address": "VIABARANABATORTOLINI13,ROME(RM)00197ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'IL PIAZZETTA' A, SUITE 21, TOWER ROAD,",
+  "company_id": "C 78962",
+  "registration_date": "Jan 03, 2017",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

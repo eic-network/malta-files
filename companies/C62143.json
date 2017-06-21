@@ -1,0 +1,97 @@
+{
+  "name": "Bluefoot Holdings Ltd",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLAIRE SARAH JEAN DEVEREUX MOORE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            465335733",
+        "address": "WESTERLY,MARKWAY,GODALMING,SURREYGU72BDENGLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A. HUBER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194163M",
+        "address": "77/3,TRIQSIRARTUROMERCIECA,SLIEMASLM1863MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A. HUBER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194163M",
+        "address": "77/3,TRIQSIRARTUROMERCIECA,SLIEMASLM1863MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CCPS AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/16/07",
+        "address": "ALBEAHOUSETESTAFERRATASTREET,MSIDAMSD1401MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A. HUBER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194163M",
+        "address": "77/3,TRIQSIRARTUROMERCIECA,SLIEMASLM1863MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRANSAFRICA LOGISTICS VENTURES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1834343",
+        "address": "AKARABUILDING,24DECASTROSTREET,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "JAMES REDDING RAMSEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099066856",
+        "address": "APT.D9,DRAKERESIDENCE,BLUEHARBOUR,IX-XATT,TA'XBIEXTBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "ALBEA HOUSE, TESTAFERRATA STREET,",
+  "company_id": "C 62143",
+  "registration_date": "Oct 08, 2013",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

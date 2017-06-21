@@ -1,0 +1,91 @@
+{
+  "name": "Angio Commission Agents Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIOVANNI BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12369M",
+        "address": "10,TRIQSANMARKVALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12369M",
+        "address": "10,TRIQSANMARKVALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12369M",
+        "address": "10,TRIQSANMARKVALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR k/as SILVIO BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10235",
+        "address": "4,COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGA,NAXXARNXR2232MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12369M",
+        "address": "10,TRIQSANMARKVALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BUSUTTIL FIDUCIARY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41069",
+        "address": "COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGANAXXARNXR2232MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "GIOVANNI BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12369M",
+        "address": "10,TRIQSANMARKVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3, Pioneer Court Pioneer Road",
+  "company_id": "C 58059",
+  "registration_date": "Oct 31, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

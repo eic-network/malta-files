@@ -1,0 +1,70 @@
+{
+  "total_issued_shares_value": 46587.46,
+  "registration_date": "Jun 13, 2000",
+  "status": "",
+  "locality": "SAN GWANN",
+  "name": "BUGIBBA INVESTMENTS LIMITED",
+  "total_issued_shares": 20000,
+  "address": "10/2, MENSIJA ROAD,",
+  "company_id": "C 26531",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "13,GHARBARKAROAD,RABATMALTA",
+        "party_id": "                                                            603260M",
+        "name": "MARYANNE MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "13,GHARBARKAROAD,RABATMALTA",
+        "party_id": "                                                            603260M",
+        "name": "MARYANNE MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "13,GHARBARKAROAD,RABATMALTA",
+        "party_id": "                                                            603260M",
+        "name": "MARYANNE MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "13,GHARBARKAROAD,RABATMALTA",
+        "party_id": "                                                            603260M",
+        "name": "MARYANNE MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 20000,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "13,GHARBARKAROAD,RABATMALTA",
+        "party_id": "                                                            612459M",
+        "name": "PAUL MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 20000,
+      "authorised_share_capital": 20000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 20000,
+  "total_authorised_shares_value": 46587.46,
+  "shares_currency": "EUR"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "APOLLO CASINO LIMITED",
+  "total_issued_shares_value": 3500,
+  "total_authorised_shares_value": 3500,
+  "authorised_shares": [
+    {
+      "issued_shares": 3499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JIRI CERVINKA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200223190",
+        "address": "KOURIMSKA2347/24PRAHAVINOHRADYPRAHACZECHREPUBLIC"
+      },
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JIRI CERVINKA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200223190",
+        "address": "KOURIMSKA2347/24PRAHAVINOHRADYPRAHACZECHREPUBLIC"
+      },
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JINDRISKA MORAVCOVA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            113905852",
+        "address": "VRATKOV2,CESKYBROD28201CZECHREPUBLIC"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JIRI CERVINKA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200223190",
+        "address": "KOURIMSKA2347/24PRAHAVINOHRADYPRAHACZECHREPUBLIC"
+      },
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APOLLO GAMES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 75765",
+        "address": "84,ST.FRANCISSTREET,BALZANBZN1424MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3499
+        }
+      },
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3500,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 75767",
+  "registration_date": "May 25, 2016",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 3500
+}

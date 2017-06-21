@@ -1,0 +1,91 @@
+{
+  "name": "AZZO TRADING & SUPPLIES MALTA LTD",
+  "total_issued_shares_value": 25000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RENALD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95472M",
+        "address": "BOULEVARDOFROSES,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RENALD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95472M",
+        "address": "BOULEVARDOFROSES,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RENALD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95472M",
+        "address": "BOULEVARDOFROSES,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KRESTON MC MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/37",
+        "address": "SUITE1,141,BALZANVALLEYBALZANBZN1404MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RENALD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95472M",
+        "address": "BOULEVARDOFROSES,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RENALD AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95472M",
+        "address": "BOULEVARDOFROSES,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24999
+        }
+      },
+      {
+        "name": "BRUCE GENOVESE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            43075M",
+        "address": "104,ENIGMA,FLAT3,TRIQK.GALEA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "2, TRIQ L-ISPRTU S-SANTU,",
+  "company_id": "C 64259",
+  "registration_date": "Mar 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 50000
+}

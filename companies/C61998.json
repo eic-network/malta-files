@@ -1,0 +1,151 @@
+{
+  "company_id": "C 61998",
+  "address": "ARAGON HOUSE - BUSINESS CENTRE DRAGONARA ROAD",
+  "name": "BPG PROPERTIES LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Sep 24, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 165000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 85000
+    },
+    {
+      "authorised_share_capital": 85000,
+      "type": "RedeemablePreference",
+      "nominal_value_per_share": 1,
+      "issued_shares": 85000
+    }
+  ],
+  "total_authorised_shares": 250000,
+  "total_authorised_shares_value": 250000,
+  "total_issued_shares": 170000,
+  "total_issued_shares_value": 170000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LOUIS TABONE\r",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL STEPHEN TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            541365M",
+        "address": "'VILLAVIANI',3,J.HOWARDSTREET,SANPAWLTAT-TARGANAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PETER PAUL TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            562660M",
+        "address": "CASATESTAFERRATA,9,TRIQJ.HOWARD,SANPAWLTAT-TARGA,NAXXARNXR4422MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CAROLINE ZAMMIT TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            515258M",
+        "address": "CASAZAMMIT,TRIQMGR.A.MIFSUDTA'XBIEXXBX1060MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELEMEL LIMITED\r",
+        "party_id": "                                                            C 4469",
+        "address": "\"LECIEL\"19E,ST.GEORGE'SROADST.JULIANSMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MERCURY P.L.C.\r",
+        "party_id": "                                                            C 27497",
+        "address": "ARAGONHOUSE-BUSINESSCENTRE,DRAGONARAROAD,ST.JULIANSSTJ3140MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LOUIS TABONE\r",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL STEPHEN TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            541365M",
+        "address": "'VILLAVIANI',3,J.HOWARDSTREET,SANPAWLTAT-TARGANAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PETER PAUL TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            562660M",
+        "address": "CASATESTAFERRATA,9,TRIQJ.HOWARD,SANPAWLTAT-TARGA,NAXXARNXR4422MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CAROLINE ZAMMIT TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            515258M",
+        "address": "CASAZAMMIT,TRIQMGR.A.MIFSUDTA'XBIEXXBX1060MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LOUIS TABONE\r",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL STEPHEN TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            541365M",
+        "address": "'VILLAVIANI',3,J.HOWARDSTREET,SANPAWLTAT-TARGANAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PETER PAUL TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            562660M",
+        "address": "CASATESTAFERRATA,9,TRIQJ.HOWARD,SANPAWLTAT-TARGA,NAXXARNXR4422MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CAROLINE ZAMMIT TESTAFERRATA MORONI VIANI\r",
+        "party_id": "                                                            515258M",
+        "address": "CASAZAMMIT,TRIQMGR.A.MIFSUDTA'XBIEXXBX1060MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NORBERT TABONE\r",
+        "party_id": "                                                            575079M",
+        "address": "JEANOR,TRIQNERIKXERRI,KIRKOPMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

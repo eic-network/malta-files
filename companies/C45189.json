@@ -1,0 +1,101 @@
+{
+  "name": "AZURE MALTA LTD.",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182871M",
+        "address": "T9BAPT7,PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      },
+      {
+        "name": "MARTIN WARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27862A",
+        "address": "DIONCOURT,APT.7BIRKIRKARAROADST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182871M",
+        "address": "T9BAPT7,PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      },
+      {
+        "name": "MARTIN WARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27862A",
+        "address": "DIONCOURT,APT.7BIRKIRKARAROADST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182871M",
+        "address": "T9BAPT7,PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182871M",
+        "address": "T9BAPT7,PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      },
+      {
+        "name": "MARTIN WARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27862A",
+        "address": "DIONCOURT,APT.7BIRKIRKARAROADST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182871M",
+        "address": "T9BAPT7,PRETICOURTTIGNEPOINTSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "MARTIN WARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27862A",
+        "address": "DIONCOURT,APT.7BIRKIRKARAROADST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "DION COURT, APARTMENT 7, BIRKIRKARA ROAD",
+  "company_id": "C 45189",
+  "registration_date": "Sep 23, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10000
+}

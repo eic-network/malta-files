@@ -1,0 +1,83 @@
+{
+  "name": "ATLAS TECHNOLOGY GROUP HOLDINGS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BYRAN SOMERVELL PATRICK MARRA\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            N722835",
+        "address": "4/226,ORIENTALPARADE,WELLINGTONNEWZEALAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BYRAN SOMERVELL PATRICK MARRA\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            N722835",
+        "address": "4/226,ORIENTALPARADE,WELLINGTONNEWZEALAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER JACOBSON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            075520466",
+        "address": "511,36THSTREET,NEWPORTBEACH,CALIFORNIA92063UNITEDSTATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BYRAN SOMERVELL PATRICK MARRA\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            N722835",
+        "address": "4/226,ORIENTALPARADE,WELLINGTONNEWZEALAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRIBEWORKS INC.\r",
+        "nationality": "",
+        "party_id": "                                                            3143589",
+        "address": "243,FRONTSTREET,SANFRANCISCOCA94111UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "PETER JACOBSON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            075520466",
+        "address": "511,36THSTREET,NEWPORTBEACH,CALIFORNIA92063UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "192,  OLD BAKERY STREET,",
+  "company_id": "C 34540",
+  "registration_date": "Sep 07, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

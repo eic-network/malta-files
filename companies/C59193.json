@@ -1,0 +1,127 @@
+{
+  "name": "4Kings Limited",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GORAN ALEKSIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009151868",
+        "address": "5,DOLINSKASTREET,NOVISADSERBIA"
+      },
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      },
+      {
+        "name": "RADOMIR DELIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            007155449",
+        "address": "3ABIHACKASTREET,NOVISADSERBIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GORAN ALEKSIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009151868",
+        "address": "5,DOLINSKASTREET,NOVISADSERBIA"
+      },
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      },
+      {
+        "name": "RADOMIR DELIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            007155449",
+        "address": "3ABIHACKASTREET,NOVISADSERBIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GORAN ALEKSIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009151868",
+        "address": "5,DOLINSKASTREET,NOVISADSERBIA"
+      },
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      },
+      {
+        "name": "RADOMIR DELIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            007155449",
+        "address": "3ABIHACKASTREET,NOVISADSERBIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GORAN ALEKSIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009151868",
+        "address": "5,DOLINSKASTREET,NOVISADSERBIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20000
+        }
+      },
+      {
+        "name": "RADOMIR DELIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            007155449",
+        "address": "3ABIHACKASTREET,NOVISADSERBIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 59193",
+  "registration_date": "Feb 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

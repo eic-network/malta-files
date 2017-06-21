@@ -1,0 +1,51 @@
+{
+  "name": "A. MEDICAL",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CHARLTON CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154188M",
+        "address": "BRIFFA,FL4,TRIQLYDDA,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SEAN MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534886M",
+        "address": "51,SILPHYL,TRIQFELICIAABELA,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "BRIFFA, FL 4, TRIQ LYDDA,",
+  "company_id": "P 1506",
+  "registration_date": "Mar 04, 2014",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1200
+}

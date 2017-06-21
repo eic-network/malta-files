@@ -1,0 +1,105 @@
+{
+  "name": "ARIEL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "WALTER XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            740648M",
+        "address": "52,FIFTHFLOOR,REGENTHOUSE,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARLO FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            47260M",
+        "address": "GHABEX,H.MEGISERSTREET,NAXXARNXR4250MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL ALEXANDER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            100866M",
+        "address": "18,SIRUGOMIFSUDSTREET,LIJALJA1051MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL ALEXANDER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            100866M",
+        "address": "18,SIRUGOMIFSUDSTREET,LIJALJA1051MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL ALEXANDER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            100866M",
+        "address": "18,SIRUGOMIFSUDSTREET,LIJALJA1051MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RALPH DOMMERMUTH IMMOBILIEN GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB6741",
+        "address": "BAHNHOFSPLATZ1-3,MONTABAUR56410GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "52, FIFTH FLOOR, REGENT HOUSE, BISAZZA STREET,",
+  "company_id": "C 60523",
+  "registration_date": "May 22, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

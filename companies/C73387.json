@@ -1,0 +1,96 @@
+{
+  "name": "AMI3 LTD",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "Ordinary",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190773M",
+        "address": "217B,FLAT5,TRIQMANWELMAGRIS.J.,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190773M",
+        "address": "217B,FLAT5,TRIQMANWELMAGRIS.J.,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190773M",
+        "address": "217B,FLAT5,TRIQMANWELMAGRIS.J.,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190773M",
+        "address": "217B,FLAT5,TRIQMANWELMAGRIS.J.,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PROVVIDENZA LA MACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3956226",
+        "address": "VIAPIETROROVELLINO.46BERGAMOBG24125ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      },
+      {
+        "name": "RANIERO MARTUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3953981",
+        "address": "TERRANEONO.6TORINOTO10151ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      },
+      {
+        "name": "GRAZIA PARISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV6513285",
+        "address": "VIAETNEANO.409PATERNOCATANIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 18000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "135, NOUV MT, 'KYLE BUILDINGS' TRIQ IL-MEDITERRAN",
+  "company_id": "C 73387",
+  "registration_date": "Dec 04, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 30000
+}

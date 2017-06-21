@@ -1,0 +1,109 @@
+{
+  "name": "BELBER LTD",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "Ordinary",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AMBER MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423489M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMBER MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423489M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ANNABELLA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423589M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMBER MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423489M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ANNABELLA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423589M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "71,CARMELSTREET,SLIEMASLM1157MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AMBER MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423489M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ANNABELLA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423589M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMBER MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423489M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "ANNABELLA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423589M",
+        "address": "'CARMEN',TRIQIL-MAHLUT,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "'DEMEF' MDINA ROAD",
+  "company_id": "C 50734",
+  "registration_date": "Sep 28, 2010",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 15000
+}

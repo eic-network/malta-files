@@ -1,0 +1,91 @@
+{
+  "name": "BISTRA LIMITED",
+  "total_issued_shares_value": 91869,
+  "total_authorised_shares_value": 96000,
+  "authorised_shares": [
+    {
+      "issued_shares": 91869,
+      "type": "Ordinary",
+      "authorised_share_capital": 96000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NATHALIE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2066M",
+        "address": "'BISTRA'VJALMILLBRAEMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257858M",
+        "address": "BISTRA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257858M",
+        "address": "BISTRA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HLB FALZON & FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/14",
+        "address": "12,CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAFRN1060MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257858M",
+        "address": "BISTRA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257858M",
+        "address": "'BISTRA'VJALMILLBRAE,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 61874
+        }
+      },
+      {
+        "name": "NATHALIE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2066M",
+        "address": "'BISTRA'VJALMILLBRAEMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 29995
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 91869,
+  "address": "'BISTRA', VJAL MILLBRAE",
+  "company_id": "C 13025",
+  "registration_date": "Aug 26, 1991",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 96000
+}

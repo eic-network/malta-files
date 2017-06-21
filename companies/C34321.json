@@ -1,0 +1,78 @@
+{
+  "company_id": "C 34321",
+  "address": "6, TRIQ IL-KNISJA,",
+  "name": "BOURNVILLE ESTATES LTD",
+  "locality": "DINGLI",
+  "status": "",
+  "registration_date": "Jul 20, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXIA GIOVANNA ABELA\r",
+        "party_id": "                                                            341379M",
+        "address": "6,FLAT5.OLIVESTREETST.JULIANSSTJ1951MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXIA GIOVANNA ABELA\r",
+        "party_id": "                                                            341379M",
+        "address": "6,FLAT5.OLIVESTREETST.JULIANSSTJ1951MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXIA GIOVANNA ABELA\r",
+        "party_id": "                                                            341379M",
+        "address": "6,FLAT5.OLIVESTREETST.JULIANSSTJ1951MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXIA GIOVANNA ABELA\r",
+        "party_id": "                                                            341379M",
+        "address": "6,FLAT5.OLIVESTREETST.JULIANSSTJ1951MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXIA GIOVANNA ABELA\r",
+        "party_id": "                                                            341379M",
+        "address": "6,FLAT5.OLIVESTREETST.JULIANSSTJ1951MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAID\r",
+        "party_id": "                                                            19008",
+        "address": "33,OLDRAILWAYROAD,BIRKIRKARABKR1617MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

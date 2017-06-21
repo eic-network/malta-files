@@ -1,0 +1,110 @@
+{
+  "name": "BALOO LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MONICA FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490157M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARMANIN CAUCHI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/78",
+        "address": "75,VJALKOTTONER,FGURAFGR1386MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MONICA FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490157M",
+        "address": "LACACHETTE,TRIQIL-SIEQJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JANA FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            413283M",
+        "address": "LACACHETTE,TRIQIS-SIEQJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "CENTRAL BUSINESS CENTRE, ROOM 1, LEVEL 1, SUITE 2, MDINA ROAD,",
+  "company_id": "C 26897",
+  "registration_date": "Sep 04, 2000",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 5000
+}

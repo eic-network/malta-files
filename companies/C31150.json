@@ -1,0 +1,117 @@
+{
+  "company_id": "C 31150",
+  "address": "KEIMAR BUILDING LEVEL 4, TRIQ GIOVANNI MAMO",
+  "name": "BRANDED STOCKS LTD",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "registration_date": "Mar 20, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1166
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 1166,
+  "total_issued_shares_value": 1166,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARIELLA AZZOPARDI\r",
+        "party_id": "                                                            476963M",
+        "address": "'UNITE'TRIQWIEDL-GHOLLIEQASANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TERESA CEFAI\r",
+        "party_id": "                                                            467562M",
+        "address": "77,TRIQWIEDGHOLLIEQA,SANGWANNSGN08MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIELLA AZZOPARDI\r",
+        "party_id": "                                                            476963M",
+        "address": "'UNITE'TRIQWIEDL-GHOLLIEQASANGWANNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 583,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "TERESA CEFAI\r",
+        "party_id": "                                                            467562M",
+        "address": "77,TRIQWIEDGHOLLIEQA,SANGWANNSGN08MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 583,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIELLA AZZOPARDI\r",
+        "party_id": "                                                            476963M",
+        "address": "'UNITE'TRIQWIEDL-GHOLLIEQASANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TERESA CEFAI\r",
+        "party_id": "                                                            467562M",
+        "address": "77,TRIQWIEDGHOLLIEQA,SANGWANNSGN08MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIELLA AZZOPARDI\r",
+        "party_id": "                                                            476963M",
+        "address": "'UNITE'TRIQWIEDL-GHOLLIEQASANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TERESA CEFAI\r",
+        "party_id": "                                                            467562M",
+        "address": "77,TRIQWIEDGHOLLIEQA,SANGWANNSGN08MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIELLA AZZOPARDI\r",
+        "party_id": "                                                            476963M",
+        "address": "'UNITE'TRIQWIEDL-GHOLLIEQASANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "PAMELA MIFSUD\r",
+        "party_id": "                                                            417181M",
+        "address": "35/1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WDM INTERNATIONAL\r",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

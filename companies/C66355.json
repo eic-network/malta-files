@@ -1,0 +1,128 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Aug 13, 2014",
+  "status": "",
+  "locality": "ST. PAUL'S BAY",
+  "name": "BUDDIES DIVE COVE LTD",
+  "total_issued_shares": 1200,
+  "address": "24/2, PIONEER ROAD, BUGIBBA,",
+  "company_id": "C 66355",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "55,\"WINDMERE,KATERINAVITALESTREET,ST.PAUL'SBAYSPB4260MALTA",
+        "party_id": "                                                            39358A",
+        "name": "MARTIN STANHOPE\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "55,\"WINDMERE,KATERINAVITALESTREET,ST.PAUL'SBAYSPB4260MALTA",
+        "party_id": "                                                            39358A",
+        "name": "MARTIN STANHOPE\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "address": "55,\"WINDMERE,KATERINAVITALESTREET,ST.PAUL'SBAYSPB4260MALTA",
+        "party_id": "                                                            39358A",
+        "name": "MARTIN STANHOPE\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "52,D1,\"BONELLOMANSIONS\",TRIQMISRAHIL-BARRIERI,SANTAVENERASVR1753MALTA",
+        "party_id": "                                                            11389",
+        "name": "NICOLAI BALZAN\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "55,\"WINDMERE,KATERINAVITALESTREET,ST.PAUL'SBAYSPB4260MALTA",
+        "party_id": "                                                            39358A",
+        "name": "MARTIN STANHOPE\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 1198,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "\"AUCHAN\",TRIQIL-QORTIN,MELLIEHAMLH2504MALTA",
+        "party_id": "                                                            39357A",
+        "name": "KAREN BARNES OBO EMILY STANHOPE\r",
+        "nationality": "BRITISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2,
+      "authorised_share_capital": 2,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1198,
+      "authorised_share_capital": 1198,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

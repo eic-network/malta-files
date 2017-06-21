@@ -1,0 +1,89 @@
+{
+  "name": "BERK'S AUTO-DEALERS COMPANY LIMITED",
+  "total_issued_shares_value": 124000,
+  "total_authorised_shares_value": 124000,
+  "authorised_shares": [
+    {
+      "issued_shares": 62000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 62000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 62000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 62000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            97055M",
+        "address": "166,FLAT3,TOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            97055M",
+        "address": "166,FLAT3,TOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RODERICK K. GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19639",
+        "address": "243/1,CORAL,CONSTITUTIONSTREET,MOSTAMST9051MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            97055M",
+        "address": "166,FLAT3,TOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            97055M",
+        "address": "166,FLAT3,TOWERROADSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 62000
+        }
+      },
+      {
+        "name": "CHRISTIAN AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34181M",
+        "address": "VILLAGREENACRES,TRIQIL-FRANCIS,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 62000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 124000,
+  "address": "BERK'S AUTO-DEALERS,  TESTAFERRATA STREET",
+  "company_id": "C 31457",
+  "registration_date": "May 22, 2003",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 124000
+}

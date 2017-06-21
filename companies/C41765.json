@@ -1,0 +1,64 @@
+{
+  "name": "APPLE LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DARKO MARINAC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            002844375",
+        "address": "VIDOVCICA,10,ZAGREB,10000CROATIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8000
+        }
+      },
+      {
+        "name": "SASA ROMAC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            003030409",
+        "address": "BANJAVCICEVA,15,ZAGREB10000CROATIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8000
+        }
+      },
+      {
+        "name": "ZDRAVKO SESTAK\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            000366537",
+        "address": "ANTUNAGUSTAVAMATOSA,25,KOPRIVNICA48000CROATIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "171, Old Bakery Street,",
+  "company_id": "C 41765",
+  "registration_date": "Jun 28, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

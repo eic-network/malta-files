@@ -1,0 +1,38 @@
+{
+  "name": "AYAKS LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DFK MALTA CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25011",
+        "address": "36/2,MANOLMANSION,DEPAULEAVENUE,BALZANBZN9022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "2, MANOL MANSION, DE PAULE AVENUE,",
+  "company_id": "C 27911",
+  "registration_date": "Mar 20, 2001",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 4000
+}

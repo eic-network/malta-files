@@ -1,0 +1,75 @@
+{
+  "company_id": "C 21551",
+  "address": "'JIREH', TRIQ IL-BIES,",
+  "name": "BOSWELL & PEARSON LIMITED",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "registration_date": "Jun 19, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RICHARD GALEA DEBONO\r",
+        "party_id": "                                                            233355M",
+        "address": "'KHESANH',TRIQIS-SIRK,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CRV INTERNATIONAL LIMITED\r",
+        "party_id": "                                                            C 18970",
+        "address": "NO.152,OFFICENO.9,NAXXARROAD,SANGWANNSGN9030MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CRV INTERNATIONAL LIMITED\r",
+        "party_id": "                                                            C 18970",
+        "address": "NO.152,OFFICENO.9,NAXXARROAD,SANGWANNSGN9030MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTINE ANN MERCIECA\r",
+        "party_id": "                                                            254171M",
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN07MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "VINCENT MERCIECA\r",
+        "party_id": "                                                            286747M",
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN07MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

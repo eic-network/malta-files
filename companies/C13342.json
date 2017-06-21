@@ -1,0 +1,75 @@
+{
+  "total_issued_shares_value": 1164.68,
+  "registration_date": "Dec 03, 1991",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BUFFALO SHIPPING LINES LTD",
+  "total_issued_shares": 500,
+  "address": "18/2 SOUTH STREET,",
+  "company_id": "C 13342",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "BISONSPOOR4003BMAARSSEN3600L.V.NETHERLANDS",
+        "party_id": "",
+        "name": "WILLEM AUEE",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "BISONSPOOR4003BMAARSSEN3600L.V.NETHERLANDS",
+        "party_id": "",
+        "name": "WILLEM AUEE",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "BISONSPOOR4003BMAARSSEN3600L.V.NETHERLANDS",
+        "party_id": "",
+        "name": "WILLEM AUEE",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "80,BROADSTREET,CITYOFMONROVIACOUNTYOFMONTSERRADOLIBERIA",
+        "party_id": "                                                            C-1688",
+        "name": "CHEMICAL TANKERS INCORPORATED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "57/63,LONGWALLROAD,POBOX199,GIBRALTAR",
+        "party_id": "",
+        "name": "FAYME HOLDINGS LTD.",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "shares_currency": "EUR"
+}

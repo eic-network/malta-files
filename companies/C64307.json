@@ -1,0 +1,83 @@
+{
+  "name": "BLUE LIFE CONSULTING LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALFONSO MARIA CHIEFFO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1793324",
+        "address": "CONTRADAFEDERICI,MANOCALZATI,AVELLIONO83030ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFONSO MARIA CHIEFFO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1793324",
+        "address": "CONTRADAFEDERICI,MANOCALZATI,AVELLIONO83030ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FILOMENA TROISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E291808",
+        "address": "VIAAPPIAVIITAVERSA,ALTRIPALDA,AVELLINO83042ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFONSO MARIA CHIEFFO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1793324",
+        "address": "CONTRADAFEDERICI,MANOCALZATI,AVELLIONO83030ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFONSO MARIA CHIEFFO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1793324",
+        "address": "CONTRADAFEDERICI,MANOCALZATI,AVELLIONO83030ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3500
+        }
+      },
+      {
+        "name": "FILOMENA TROISI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E291808",
+        "address": "VIAAPPIAVIITAVERSA,ALTRIPALDA,AVELLINO83042ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "\"PEARL COURT\", NO.1, TRIQ L-SPIERA,",
+  "company_id": "C 64307",
+  "registration_date": "Mar 20, 2014",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 10000
+}

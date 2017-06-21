@@ -1,0 +1,70 @@
+{
+  "company_id": "C 73588",
+  "address": "GROUND FLOOR, PALACE COURT CHURCH STREET",
+  "name": "BRAND TRADING LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Dec 17, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VAIDAS RIMKUS\r",
+        "party_id": "                                                            13809009",
+        "address": "STATYBININKUG-48-28ALYTUS12141LITHUANIA",
+        "nationality": "LITHUANIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VAIDAS RIMKUS\r",
+        "party_id": "                                                            13809009",
+        "address": "STATYBININKUG-48-28ALYTUS12141LITHUANIA",
+        "nationality": "LITHUANIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VAIDAS RIMKUS\r",
+        "party_id": "                                                            13809009",
+        "address": "STATYBININKUG-48-28ALYTUS12141LITHUANIA",
+        "nationality": "LITHUANIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VAIDAS RIMKUS\r",
+        "party_id": "                                                            13809009",
+        "address": "STATYBININKUG-48-28ALYTUS12141LITHUANIA",
+        "nationality": "LITHUANIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FL12TRIQIL-WARD,MADLIENASWIEQISWQ1120MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

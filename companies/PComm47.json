@@ -1,0 +1,51 @@
+{
+  "name": "BAXTER (MALTA) HOLDING",
+  "total_issued_shares_value": 109651,
+  "total_authorised_shares_value": 109651,
+  "authorised_shares": [
+    {
+      "issued_shares": 109651,
+      "type": "Ordinary",
+      "authorised_share_capital": 109651,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "BAXTER HEALTHCARE S.A.\r",
+        "nationality": "",
+        "party_id": "                                                             CH - 170.023.618-3",
+        "address": "HERTISTRASSE2,WALLISELLEN8304SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 109649
+        }
+      },
+      {
+        "name": "ANDREW BORG CARDONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            818655M",
+        "address": "171,MAINSTREET,LIJALJA1509MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 109651,
+  "address": "A47, INDUSTRIAL ESTATE,",
+  "company_id": "P COMM 47",
+  "registration_date": "Mar 17, 2000",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 109651
+}

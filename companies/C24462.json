@@ -1,0 +1,133 @@
+{
+  "name": "AMARILLO INVESTMENT SOLUTIONS LTD",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 498,
+      "type": "Ordinary",
+      "authorised_share_capital": 498,
+      "nominal_value_per_share": 100
+    },
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryDEFERRED",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363984M",
+        "address": "IR-RAZZETT,FLAT2,SQAQIL-GURGIER,BIRZEBBUGIAMALTA"
+      },
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLABIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHANN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363984M",
+        "address": "IR-RAZZETT,FLAT2,SQAQIL-GURGIER,BIRZEBBUGIAMALTA"
+      },
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLABIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHANN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363984M",
+        "address": "IR-RAZZETT,FLAT2,SQAQIL-GURGIER,BIRZEBBUGIAMALTA"
+      },
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLABIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMARILLO INVESTMENT SOLUTIONS GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN 289662 z",
+        "address": "SIEBERGASSE2,VIENNA1010AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 498
+        }
+      },
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "DEFERRED",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "23 REGENT HOUSE BISAZZA STREET",
+  "company_id": "C 24462",
+  "registration_date": "Apr 26, 1999",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

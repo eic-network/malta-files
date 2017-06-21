@@ -1,0 +1,89 @@
+{
+  "company_id": "C 80614",
+  "address": "24, WINDSOR STREET,",
+  "name": "BOWSPRIT LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Apr 25, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "eMoore Malta Limited\r",
+        "party_id": "                                                            C 77585",
+        "address": "24,WINDSORSTREET,SLIEMASLM1853MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABUDANTIA B.V.\r",
+        "party_id": "                                                            126608",
+        "address": "E-COMMERCEPARKVREDENBRGCURACAOCURACAO",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MAPLEHAVEN N.V.\r",
+        "party_id": "                                                            68154",
+        "address": "SCHOTTEGATWEGOOST29DCURACAOCURACAO",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "eMoore Malta Limited\r",
+        "party_id": "                                                            C 77585",
+        "address": "24,WINDSORSTREET,SLIEMASLM1853MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "eMoore Malta Limited\r",
+        "party_id": "                                                            C 77585",
+        "address": "24,WINDSORSTREET,SLIEMASLM1853MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SARAH MARIE PALMIER\r",
+        "party_id": "                                                            377988M",
+        "address": "APARTMENT4,CAVENDISHRESIDENCE,BLUEHARBOUR,Ta'XbiexSeafrontTA'XBIEXXBX1027MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOHANNES STEFAN DANNY SLUIJTER\r",
+        "party_id": "                                                            NR7972KL8",
+        "address": "102,SANDRAFLATS,FLAT2,WINDSORSTREET,SLIEMAMALTA",
+        "nationality": "DUTCH"
+      }
+    ]
+  }
+}

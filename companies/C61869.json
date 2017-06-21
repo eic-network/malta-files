@@ -1,0 +1,151 @@
+{
+  "name": "BAJDEM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUCA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32783G",
+        "address": "177,BIRBALSTREET,BALZANBZN9011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CAROLINE BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281072M",
+        "address": "ST.RITATAL-BAQQARIZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "MARK BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188571M",
+        "address": "ST.RITA,TAL-BAQQARI,ZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAROLINE BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281072M",
+        "address": "ST.RITATAL-BAQQARIZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "MARK BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188571M",
+        "address": "ST.RITA,TAL-BAQQARI,ZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JENNIFER PICCININO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19611",
+        "address": "161,MAINSTREET,MOSTAMST1012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CAROLINE BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281072M",
+        "address": "ST.RITATAL-BAQQARIZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "MARK BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188571M",
+        "address": "ST.RITA,TAL-BAQQARI,ZURRIEQZRQ2680MALTA"
+      },
+      {
+        "name": "DAVID RAPHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593578M",
+        "address": "54,WESTSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "PIER LUCA DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578465M",
+        "address": "'THELODGE',TRIQIL-GARRA,IBRAG,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "M. DEMAJO (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2517",
+        "address": "'DEMAJOHOUSE',103,ARCHBISHOPSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "BAJADA INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52536",
+        "address": "42B,MARSAINDUSTRIALESTATEMARSAMRS3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DEMAJO HOUSE, 103 ARCHBISHOP STREET,",
+  "company_id": "C 61869",
+  "registration_date": "Sep 12, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

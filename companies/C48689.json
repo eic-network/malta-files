@@ -1,0 +1,139 @@
+{
+  "name": "Atwood Malta Holding Company Limited",
+  "total_issued_shares_value": 25001,
+  "total_authorised_shares_value": 50001,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "WALTER ANDREW BAKER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            506375123",
+        "address": "3924MARLOWEST.,HOUSTON,TEXAS77094UNITEDSTATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WALTER ANDREW BAKER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            506375123",
+        "address": "3924MARLOWEST.,HOUSTON,TEXAS77094UNITEDSTATES"
+      },
+      {
+        "name": "HIEW YOKE LAN\r",
+        "nationality": "MALAYSIAN",
+        "party_id": "                                                            A19061433",
+        "address": "60,TAMANCITY,JALANKUCHING,KUALALUMPUR51200MALAYSIA"
+      },
+      {
+        "name": "ELIZABETH MARIE REZA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            499206147",
+        "address": "2237NAOMI,HOUSTONTEXAS77054UNITEDSTATES"
+      },
+      {
+        "name": "MARK WILLIAM STEWART\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4006828",
+        "address": "UNIT65,LINGKUNGANDUTAMAS,DUTA,TROPIKA,OFFJALONDUTAMAS1,KUALALUMPUR50480MALAYSIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WALTER ANDREW BAKER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            506375123",
+        "address": "3924MARLOWEST.,HOUSTON,TEXAS77094UNITEDSTATES"
+      },
+      {
+        "name": "HIEW YOKE LAN\r",
+        "nationality": "MALAYSIAN",
+        "party_id": "                                                            A19061433",
+        "address": "60,TAMANCITY,JALANKUCHING,KUALALUMPUR51200MALAYSIA"
+      },
+      {
+        "name": "MARK WILLIAM STEWART\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4006828",
+        "address": "UNIT65,LINGKUNGANDUTAMAS,DUTA,TROPIKA,OFFJALONDUTAMAS1,KUALALUMPUR50480MALAYSIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WALTER ANDREW BAKER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            506375123",
+        "address": "3924MARLOWEST.,HOUSTON,TEXAS77094UNITEDSTATES"
+      },
+      {
+        "name": "HIEW YOKE LAN\r",
+        "nationality": "MALAYSIAN",
+        "party_id": "                                                            A19061433",
+        "address": "60,TAMANCITY,JALANKUCHING,KUALALUMPUR51200MALAYSIA"
+      },
+      {
+        "name": "MARK WILLIAM STEWART\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4006828",
+        "address": "UNIT65,LINGKUNGANDUTAMAS,DUTA,TROPIKA,OFFJALONDUTAMAS1,KUALALUMPUR50480MALAYSIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATWOOD OFFSHORE WORLDWIDE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            MC-251424",
+        "address": "POBOX309,UGLANDHOUSE,SOUTHCHURCHSTREET,GEORGETOWN,GRANDCAYMANKY1-1104CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "ALPHA OFFSHORE DRILLING SERVICES COMPANY\r",
+        "nationality": "",
+        "party_id": "                                                            MC-64309",
+        "address": "POBOX309,UGLANDHOUSESOUTHCHURCHSTREETGRANDCAYMANKY1-1104CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25001,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE NO. 1273) STRAIT STREET,",
+  "company_id": "C 48689",
+  "registration_date": "Jan 19, 2010",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50001
+}

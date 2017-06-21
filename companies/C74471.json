@@ -1,0 +1,125 @@
+{
+  "name": "ARAMIS CAPITAL (EUROPE) LTD",
+  "total_issued_shares_value": 150000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 149999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 149999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK J AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24883M",
+        "address": "G4,SWIEQIRESIDENTIALCOMPLEX,TRIQIL-QATTA,SWIEQISWQ3064MALTA"
+      },
+      {
+        "name": "MATTHEW J. GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69584M",
+        "address": "74,HEWWARK,VICTORVASSALLOSTREET,ATTARDATD1904MALTA"
+      },
+      {
+        "name": "CHARLES HUBERT MARIE JACQUES MICHON DU MARAIS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CP54183",
+        "address": "RUEDESBEAUX-ART12,NEUCHATEL2000SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK J AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24883M",
+        "address": "G4,SWIEQIRESIDENTIALCOMPLEX,TRIQIL-QATTA,SWIEQISWQ3064MALTA"
+      },
+      {
+        "name": "MATTHEW J. GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69584M",
+        "address": "74,HEWWARK,VICTORVASSALLOSTREET,ATTARDATD1904MALTA"
+      },
+      {
+        "name": "CHARLES HUBERT MARIE JACQUES MICHON DU MARAIS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CP54183",
+        "address": "RUEDESBEAUX-ART12,NEUCHATEL2000SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MATTHEW J. GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69584M",
+        "address": "74,HEWWARK,VICTORVASSALLOSTREET,ATTARDATD1904MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK J AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24883M",
+        "address": "G4,SWIEQIRESIDENTIALCOMPLEX,TRIQIL-QATTA,SWIEQISWQ3064MALTA"
+      },
+      {
+        "name": "MATTHEW J. GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69584M",
+        "address": "74,HEWWARK,VICTORVASSALLOSTREET,ATTARDATD1904MALTA"
+      },
+      {
+        "name": "CHARLES HUBERT MARIE JACQUES MICHON DU MARAIS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CP54183",
+        "address": "RUEDESBEAUX-ART12,NEUCHATEL2000SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARAMIS HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 74164",
+        "address": "43/2ASAINTPAUL'SBUILDINGS,WESTSTREET,VALLETTAVLT1532MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 149999
+        }
+      },
+      {
+        "name": "SWISSINDEPENDENT (MALTA) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 54516",
+        "address": "SWISSURBANFACTORY,THETRUSTOFFICESUITE5,SAINTFREDERICKSTREET,VALLETTAVLT1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "43/2A SAINT PAUL'S BUILDINGS, WEST STREET,",
+  "company_id": "C 74471",
+  "registration_date": "Feb 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 150000
+}

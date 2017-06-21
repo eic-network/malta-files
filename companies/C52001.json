@@ -1,0 +1,88 @@
+{
+  "company_id": "C 52001",
+  "address": "SUITE 3, 1st FLOOR, VALLETTA BUILDINGS, SOUTH STREET,",
+  "name": "BOSS YACHTING LIMITED",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Feb 14, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KEATS LIMITED\r",
+        "party_id": "                                                            21677",
+        "address": "POBOX179,2ndFLOOR,UPLANDBUSINESSCENTRE,UPLANDROAD,ST.PETERPORT,GY14HHGUERNSEY",
+        "nationality": ""
+      },
+      {
+        "name": "GRACE MARY HOULSTON\r",
+        "party_id": "                                                            M00112981",
+        "address": "LESIMONA,54BOULEVARDDEJARDINEXOTIQUE,MONACO98000MONACO",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRACE MARY HOULSTON\r",
+        "party_id": "                                                            M00112981",
+        "address": "LESIMONA,54BOULEVARDDEJARDINEXOTIQUE,MONACO98000MONACO",
+        "nationality": "SOUTH AFRICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEATS LIMITED\r",
+        "party_id": "                                                            21677",
+        "address": "POBOX179,2ndFLOOR,UPLANDBUSINESSCENTRE,UPLANDROAD,ST.PETERPORT,GY14HHGUERNSEY",
+        "nationality": ""
+      },
+      {
+        "name": "GRACE MARY HOULSTON\r",
+        "party_id": "                                                            M00112981",
+        "address": "LESIMONA,54BOULEVARDDEJARDINEXOTIQUE,MONACO98000MONACO",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KEATS LIMITED\r",
+        "party_id": "                                                            21677",
+        "address": "POBOX179,2ndFLOOR,UPLANDBUSINESSCENTRE,UPLANDROAD,ST.PETERPORT,GY14HHGUERNSEY",
+        "nationality": ""
+      },
+      {
+        "name": "GRACE MARY HOULSTON\r",
+        "party_id": "                                                            M00112981",
+        "address": "LESIMONA,54BOULEVARDDEJARDINEXOTIQUE,MONACO98000MONACO",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "KARL TANTI\r",
+        "party_id": "                                                            121990M",
+        "address": "10,ST.MARYSTREET,MOSTAMST4131MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

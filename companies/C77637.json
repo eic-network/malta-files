@@ -1,0 +1,101 @@
+{
+  "name": "BIRRA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "REUBEN DEMICOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122172M",
+        "address": "97,DRZAMMITSTREET,BALZANMALTA"
+      },
+      {
+        "name": "JULIAN SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            427558M",
+        "address": "60,TRIQTAL-GRAZZJA,ZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "REUBEN DEMICOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122172M",
+        "address": "97,DRZAMMITSTREET,BALZANMALTA"
+      },
+      {
+        "name": "JULIAN SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            427558M",
+        "address": "60,TRIQTAL-GRAZZJA,ZEBBUGMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "AUDREY KOMRIJ JONES\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353279M",
+        "address": "58,HALGSTREET,TA'XBIEXXBX1322MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "REUBEN DEMICOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122172M",
+        "address": "97,DRZAMMITSTREET,BALZANMALTA"
+      },
+      {
+        "name": "JULIAN SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            427558M",
+        "address": "60,TRIQTAL-GRAZZJA,ZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALF. MIZZI & SONS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 203",
+        "address": "ZACHARYHOUSE,MARSAINDUSTRIALESTATE,MARSAMRS3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Kitchen Concepts Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43813",
+        "address": "36VICTORYSTREETQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "36, VICTORY STREET,",
+  "company_id": "C 77637",
+  "registration_date": "Oct 13, 2016",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

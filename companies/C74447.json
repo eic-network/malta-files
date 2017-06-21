@@ -1,0 +1,89 @@
+{
+  "name": "BOLUDA FOS HOLDING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 300000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 299999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4PEARLCOURT,TRIQL-ISPIERASWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOLUDA FOS CORPORACION S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B-35414416",
+        "address": "PLAZAWOERMANNEDIF2,LASPALMASDEGRANCANARIASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 74447",
+  "registration_date": "Feb 19, 2016",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 300000
+}

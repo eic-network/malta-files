@@ -1,0 +1,78 @@
+{
+  "name": "BIONORDA LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            819055M",
+        "address": "30,KENILWORTHFLAT3,SIRAUGUSTUSBARTOLOSTREET,QORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NATHAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            107102L",
+        "address": "78,CHATEAUDESLOIRSG'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NATHAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            107102L",
+        "address": "78,CHATEAUDESLOIRSG'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NATHAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            107102L",
+        "address": "78,CHATEAUDESLOIRSG'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NATHAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            107102L",
+        "address": "78,CHATEAUDESLOIRSG'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NATHAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            107102L",
+        "address": "78,CHATEAUDESLOIRSG'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "30 KENILWORTH FLAT 3 SIR AUGUSTUS BARTOLO STREET",
+  "company_id": "C 74197",
+  "registration_date": "Feb 02, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

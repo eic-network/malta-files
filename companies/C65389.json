@@ -1,0 +1,109 @@
+{
+  "name": "Border & Co. Ltd",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504763M",
+        "address": "26,MANIKATAMANS,FL12,TRIQMEJJIESA(IL-MANIKATA),MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPHER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504763M",
+        "address": "26,MANIKATAMANS,FL12,TRIQMEJJIESA(IL-MANIKATA),MELLIEHAMALTA"
+      },
+      {
+        "name": "ALAN PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236974M",
+        "address": "OCEANVIEWFL5TREJQETIR-RANDMARSASCALAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPHER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504763M",
+        "address": "26,MANIKATAMANS,FL12,TRIQMEJJIESA(IL-MANIKATA),MELLIEHAMALTA"
+      },
+      {
+        "name": "ALAN PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236974M",
+        "address": "OCEANVIEWFL5TREJQETIR-RANDMARSASCALAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPHER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            504763M",
+        "address": "26,MANIKATAMANS,FL12,TRIQMEJJIESA(IL-MANIKATA),MELLIEHAMALTA"
+      },
+      {
+        "name": "ALAN PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236974M",
+        "address": "OCEANVIEWFL5TREJQETIR-RANDMARSASCALAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CUSTOMS BROKERS AGENCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15439",
+        "address": "89,LEVEL0WINEPRESSERSWHARFMARSAMRS1912MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "KAP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51120",
+        "address": "KAPSERVICES,TAMAGGIINDUSTRIALPARKTRIQSANLEONARDXGHAJRAXJR2306MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "89, Level 0 Wine Pressers Wharf",
+  "company_id": "C 65389",
+  "registration_date": "May 30, 2014",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,91 @@
+{
+  "name": "ASLAN CATERING LTD",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FLORIA ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            60274M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IMDAT ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495395M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IMDAT ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495395M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IMDAT ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495395M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLORIA ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            60274M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "IMDAT ASLAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495395M",
+        "address": "SOUTHFIELD,TRIQL-IMGHAZEL,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4990
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SOUTHFIELD, TRIQ L-IMGHAZEL,",
+  "company_id": "C 31855",
+  "registration_date": "Jul 30, 2003",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BOLD LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "DARIL-HENA,SQAQNADUR,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "DARIL-HENA,SQAQNADUR,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "DARIL-HENA,SQAQNADUR,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAPHAEL FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532361M",
+        "address": "305,MAINSTREET,MOSTAMST1016MALTA"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339960M",
+        "address": "DARIL-HENA,SQAQNADUR,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "57,HIGH STREET,",
+  "company_id": "C 29393",
+  "registration_date": "Mar 01, 2002",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

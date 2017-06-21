@@ -1,0 +1,70 @@
+{
+  "company_id": "C 28314",
+  "address": "47/4, SOUTH STREET,",
+  "name": "BRAR LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jun 13, 2001",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 3000
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IBRAHIM FRAG MILAD\r",
+        "party_id": "                                                            H109843.99",
+        "address": "DAMASCUSAREA,HABBAAL-KHADRA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IBRAHIM FRAG MILAD\r",
+        "party_id": "                                                            H109843.99",
+        "address": "DAMASCUSAREA,HABBAAL-KHADRA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IBRAHIM FRAG MILAD\r",
+        "party_id": "                                                            H109843.99",
+        "address": "DAMASCUSAREA,HABBAAL-KHADRA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IBRAHIM FRAG MILAD\r",
+        "party_id": "                                                            H109843.99",
+        "address": "DAMASCUSAREA,HABBAAL-KHADRA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IBRAHIM FRAG MILAD\r",
+        "party_id": "                                                            H109843.99",
+        "address": "DAMASCUSAREA,HABBAAL-KHADRA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "total_issued_shares_value": 1165,
+  "registration_date": "Aug 10, 2016",
+  "status": "",
+  "locality": "SLIEMA",
+  "name": "BUC GREEN ECO SOLUTIONS LIMITED",
+  "total_issued_shares": 1165,
+  "address": "7A Sir Luigi Camilleri Street",
+  "company_id": "C 76804",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "3,ELICOHENSTREET,TEL-AVIV-YAFO,ISRAELISRAEL",
+        "party_id": "                                                            21839798",
+        "name": "LILIA REZNIK\r",
+        "nationality": "ISRAELI"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "3,ELICOHENSTREET,TEL-AVIV-YAFO,ISRAELISRAEL",
+        "party_id": "                                                            21839798",
+        "name": "LILIA REZNIK\r",
+        "nationality": "ISRAELI"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "61,BABUXKA,ANTHONYSCHEMBRISTREET,ATTARDSTD1420MALTA",
+        "party_id": "                                                            458686M",
+        "name": "FRANCESCO SULTANA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "3,ELICOHENSTREET,TEL-AVIV-YAFO,ISRAELISRAEL",
+        "party_id": "                                                            21839798",
+        "name": "LILIA REZNIK\r",
+        "nationality": "ISRAELI"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1164,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "3,ELICOHENSTREET,TEL-AVIV-YAFO,ISRAELISRAEL",
+        "party_id": "                                                            21839798",
+        "name": "LILIA REZNIK\r",
+        "nationality": "ISRAELI"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "party_id": "                                                            C 57804",
+        "name": "LEVANTES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1164,
+      "authorised_share_capital": 1164,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "shares_currency": "EUR"
+}

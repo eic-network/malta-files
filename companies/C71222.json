@@ -1,0 +1,91 @@
+{
+  "name": "ATLAM REAL ESTATE LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENASWIEQISWQ1413MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ONE SEASON LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 71218",
+        "address": "CMSHOUSE,GROUNDFLOORST.PETER'SSTREETSANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "CMS HOUSE, GROUND FLOOR, ST. PETER'S STREET",
+  "company_id": "C 71222",
+  "registration_date": "Jun 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

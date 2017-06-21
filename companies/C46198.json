@@ -1,0 +1,115 @@
+{
+  "name": "ATLANTIC SCAFFOLDING LIMITED",
+  "total_issued_shares_value": 1166,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 583,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 583,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 583,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 583,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RACHID LACHHEB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367800L",
+        "address": "52TRIQORLANDOZABBARXGHAJRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RACHID LACHHEB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367800L",
+        "address": "52TRIQORLANDOZABBARXGHAJRAMALTA"
+      },
+      {
+        "name": "MIGUEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503379M",
+        "address": "BLOCK11,FLAT2,TRIQPIETROROSSEL,PEMBROKEPBK1560MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RACHID LACHHEB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367800L",
+        "address": "52TRIQORLANDOZABBARXGHAJRAMALTA"
+      },
+      {
+        "name": "MIGUEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503379M",
+        "address": "BLOCK11,FLAT2,TRIQPIETROROSSEL,PEMBROKEPBK1560MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10040",
+        "address": "19,BETTINA,TRIQTA'GAWHAR,SAFISFI1510MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RACHID LACHHEB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367800L",
+        "address": "52TRIQORLANDOZABBARXGHAJRAMALTA"
+      },
+      {
+        "name": "MIGUEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503379M",
+        "address": "BLOCK11,FLAT2,TRIQPIETROROSSEL,PEMBROKEPBK1560MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MIGUEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503379M",
+        "address": "BLOCK11,FLAT2,TRIQPIETROROSSEL,PEMBROKEPBK1560MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 583
+        }
+      },
+      {
+        "name": "RACHID LACHHEB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367800L",
+        "address": "52TRIQORLANDOZABBARXGHAJRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 583
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1166,
+  "address": "52 ORLANDO STREET XGHAJRA",
+  "company_id": "C 46198",
+  "registration_date": "Feb 09, 2009",
+  "shares_currency": "EUR",
+  "locality": "ZABBAR",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BERNARDETTE CO LTD",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO TUFIGNO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            410274M",
+        "address": "65/66,MELITASTREET,VALLETTAVLT12MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SAVIOUR DESIRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619858M",
+        "address": "23,MADONNATA'PINU,TRIQIL-PARILJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ODETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490968M",
+        "address": "223,HIGHSTREET,HAMRUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ODETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490968M",
+        "address": "223,HIGHSTREET,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ODETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490968M",
+        "address": "223,HIGHSTREET,HAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ODETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490968M",
+        "address": "223,HIGHSTREET,HAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "223, HIGH STREET,",
+  "company_id": "C 17497",
+  "registration_date": "Jan 11, 1995",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

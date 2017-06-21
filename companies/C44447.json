@@ -1,0 +1,70 @@
+{
+  "name": "AWC Yachts Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SHIRLEY SUSAN COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            206685653",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AWC HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44445",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'C', IVY MANSIONS TRIQ IL-QASAM",
+  "company_id": "C 44447",
+  "registration_date": "Jun 12, 2008",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "In Process of Merging",
+  "total_authorised_shares": 4000
+}

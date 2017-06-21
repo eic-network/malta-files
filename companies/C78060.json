@@ -1,0 +1,89 @@
+{
+  "name": "BCC CORPORATE LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SALVATORE CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS2590471",
+        "address": "VIAMALTA5,CARINI(PA)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALVATORE CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS2590471",
+        "address": "VIAMALTA5,CARINI(PA)ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DOMENICA CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR9952018",
+        "address": "VIACONTRADADUETORRISNCALTAVILLAMILICIA(PA)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALVATORE CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS2590471",
+        "address": "VIAMALTA5,CARINI(PA)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROSANNA CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU5293749",
+        "address": "VIALIEGI,8,(PA)CARINIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "DOMENICA CITTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR9952018",
+        "address": "VIACONTRADADUETORRISNCALTAVILLAMILICIA(PA)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "115 B, SUITE 3, OLD MINT STREET",
+  "company_id": "C 78060",
+  "registration_date": "Nov 11, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

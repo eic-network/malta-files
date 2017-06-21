@@ -1,0 +1,107 @@
+{
+  "name": "BIB HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NICO SVEN JANSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5HMPGJL3",
+        "address": "UNTERBIBERGERSTRASSE19,NEUBIBERG85579GERMANY"
+      },
+      {
+        "name": "OLIVER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360280M",
+        "address": "13,FONZUGAUCISTREETZURRIEQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICO SVEN JANSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5HMPGJL3",
+        "address": "UNTERBIBERGERSTRASSE19,NEUBIBERG85579GERMANY"
+      },
+      {
+        "name": "OLIVER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360280M",
+        "address": "13,FONZUGAUCISTREETZURRIEQMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLIVER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360280M",
+        "address": "13,FONZUGAUCISTREETZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICO SVEN JANSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5HMPGJL3",
+        "address": "UNTERBIBERGERSTRASSE19,NEUBIBERG85579GERMANY"
+      },
+      {
+        "name": "OLIVER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360280M",
+        "address": "13,FONZUGAUCISTREETZURRIEQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET IT BEST GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 206041",
+        "address": "MAXIMILIANSTRASSE13,MUNICH80539GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "NICO SVEN JANSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5HMPGJL3",
+        "address": "UNTERBIBERGERSTRASSE19,NEUBIBERG85579GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PENTHOUSE, SUITE 2, OFFICE 2, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "company_id": "C 75652",
+  "registration_date": "May 17, 2016",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

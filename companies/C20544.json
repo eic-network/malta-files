@@ -1,0 +1,51 @@
+{
+  "name": "BICCA SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "FABULOUS SHIPPING INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "PAMRODENA SHIPPING INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 20544",
+  "registration_date": "Sep 11, 1996",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

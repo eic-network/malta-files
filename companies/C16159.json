@@ -1,0 +1,97 @@
+{
+  "name": "A.C. MARINE COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITA KA GRETA CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            57561G",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485382M",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485382M",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA"
+      },
+      {
+        "name": "RITA KA GRETA CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            57561G",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793852M",
+        "address": "NO.1,TALPROVIDENZAMANSION,MAINSTREET,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485382M",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485382M",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "RITA KA GRETA CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            57561G",
+        "address": "PRESWYLFATRIQID-DIELJAATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "PRESWYLFA TRIQ ID-DIELJA",
+  "company_id": "C 16159",
+  "registration_date": "Apr 20, 1994",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 500
+}

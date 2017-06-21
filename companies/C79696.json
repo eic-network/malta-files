@@ -1,0 +1,75 @@
+{
+  "name": "AQUA LIBRA 131 LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 79696",
+  "registration_date": "Feb 23, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

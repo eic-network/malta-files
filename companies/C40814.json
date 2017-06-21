@@ -1,0 +1,83 @@
+{
+  "name": "AMBATO SERVICES LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EDUARDO AGAMI ALTAMIRANO\r",
+        "nationality": "",
+        "party_id": "                                                            170440179-1",
+        "address": "ZONAFRANCASARETBUILDINGA-8ALAJUELACOSTARICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDUARDO AGAMI ALTAMIRANO\r",
+        "nationality": "",
+        "party_id": "                                                            170440179-1",
+        "address": "ZONAFRANCASARETBUILDINGA-8ALAJUELACOSTARICA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JORGE ARTURO GUARDIA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            710203242",
+        "address": "CONDOMINIUMPASADENA4ESCAZUSANJOSECOSTARICA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDUARDO AGAMI ALTAMIRANO\r",
+        "nationality": "",
+        "party_id": "                                                            170440179-1",
+        "address": "ZONAFRANCASARETBUILDINGA-8ALAJUELACOSTARICA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GUAYAMI HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40804",
+        "address": "VAULT14,LEVEL2,VALLETTAWATERFRONT,FLORIANAFRN1913MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "EDUARDO AGAMI ALTAMIRANO\r",
+        "nationality": "",
+        "party_id": "                                                            170440179-1",
+        "address": "ZONAFRANCASARETBUILDINGA-8ALAJUELACOSTARICA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 40814",
+  "registration_date": "Feb 16, 2007",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

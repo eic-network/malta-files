@@ -1,0 +1,57 @@
+{
+  "name": "AMBROSIA LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "GRAYCLIFF LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58307",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 58312",
+  "registration_date": "Nov 22, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

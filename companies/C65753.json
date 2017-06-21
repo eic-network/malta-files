@@ -1,0 +1,83 @@
+{
+  "company_id": "C 65753",
+  "address": "BORN IN SICILY TRIQ PONSONBY",
+  "name": "BORN IN SICILY LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Jun 24, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EMMANUELE GENNARO\r",
+        "party_id": "                                                            AU2217497",
+        "address": "VIACONTRADAZACCHITA/SNCROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIUSEPPE ADAMO\r",
+        "party_id": "                                                            AU2243953",
+        "address": "VIANOTO30,ROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EMMANUELE GENNARO\r",
+        "party_id": "                                                            AU2217497",
+        "address": "VIACONTRADAZACCHITA/SNCROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMMANUELE GENNARO\r",
+        "party_id": "                                                            AU2217497",
+        "address": "VIACONTRADAZACCHITA/SNCROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMMANUELE GENNARO\r",
+        "party_id": "                                                            AU2217497",
+        "address": "VIACONTRADAZACCHITA/SNCROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EMMANUELE GENNARO\r",
+        "party_id": "                                                            AU2217497",
+        "address": "VIACONTRADAZACCHITA/SNCROSOLINISYRACUSEITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

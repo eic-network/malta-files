@@ -1,0 +1,83 @@
+{
+  "name": "ART HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GATT GALEA & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/31",
+        "address": "VILLALAPALMA,1,ST.ANTHONYSTREET,MOSTAMST3100MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "192,   OLD BAKERY STREET,",
+  "company_id": "C 40274",
+  "registration_date": "Dec 15, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

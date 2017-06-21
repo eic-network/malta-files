@@ -1,0 +1,115 @@
+{
+  "name": "Ashanti Property Development Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARK A VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2366M",
+        "address": "4,Sqaqil-KuncizzjoniLIJALJA1290MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW M CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558385M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURNXR08MALTA"
+      },
+      {
+        "name": "Alec Mizzi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0511256M",
+        "address": "1TriqSant'AngluST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW M CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558385M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURNXR08MALTA"
+      },
+      {
+        "name": "Alec Mizzi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0511256M",
+        "address": "1TriqSant'AngluST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW M CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558385M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURNXR08MALTA"
+      },
+      {
+        "name": "Alec Mizzi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0511256M",
+        "address": "1TriqSant'AngluST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTAIR CONSULTING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20853",
+        "address": "14,LASCARISBUILDINGS,LASCARISWHARF,VALLETTAVLT01MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ANDREW M CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558385M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURNXR08MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "14, LASCARIS BUILDINGS, LASCARIS WHARF,",
+  "company_id": "C 46124",
+  "registration_date": "Jan 29, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Alpina Finance Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALON BULL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            307011902",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "DAVID ALEXANDER HILL SCOTT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            094333353",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "ANGUS FREDERICK ROSE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540344530",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALON BULL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            307011902",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "DAVID ALEXANDER HILL SCOTT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            094333353",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "ANGUS FREDERICK ROSE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540344530",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUCIENNE CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19837",
+        "address": "ILVISCHIO,TRIQEWGENJUBORG,ZEBBUGZBG2392MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALON BULL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            307011902",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "DAVID ALEXANDER HILL SCOTT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            094333353",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      },
+      {
+        "name": "ANGUS FREDERICK ROSE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540344530",
+        "address": "10,FINSBURYSQUARE,LONDONEC2A1ADUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER DAVID SECURITIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            6015379",
+        "address": "NO40,THEGROVE,EALING,LONDONW55LHUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "30 KENILWORTH/1 SIR AUGUSTUS BARTOLO STREET",
+  "company_id": "C 48286",
+  "registration_date": "Nov 27, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

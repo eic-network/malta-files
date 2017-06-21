@@ -1,0 +1,97 @@
+{
+  "name": "ARM STRONG COMPANY LIMITED",
+  "total_issued_shares_value": 1677.15,
+  "total_authorised_shares_value": 1677.15,
+  "authorised_shares": [
+    {
+      "issued_shares": 705,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 705,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 15,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 15,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RAYMOND ALFRED VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            16959M",
+        "address": "RUBYCOURT,APARTMENT6,ANDREADEBONOSTREET,BIRGUMA,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IAN CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191278M",
+        "address": "346,TRIQIN-NIXXIEGHA,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENT CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            620549M",
+        "address": "345,FARMLANE,SANTAMARIAESTATE,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENT CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            620549M",
+        "address": "345,FARMLANE,SANTAMARIAESTATE,MELLIEHAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            620549M",
+        "address": "345,FARMLANE,SANTAMARIAESTATE,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMES TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395566M",
+        "address": "238,MAINSTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "CO-OP TRADING COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11111",
+        "address": "345/6FARMLANEMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 655
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 720,
+  "address": "346, TRIQ IN-NIXXIEGHA,",
+  "company_id": "C 17755",
+  "registration_date": "Feb 09, 1995",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 720
+}

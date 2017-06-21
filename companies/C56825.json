@@ -1,0 +1,109 @@
+{
+  "name": "BAKITA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRIZIA GIUGNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356085",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALVATORE FINOCCHIARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356084",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      },
+      {
+        "name": "PATRIZIA GIUGNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356085",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALVATORE FINOCCHIARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356084",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      },
+      {
+        "name": "PATRIZIA GIUGNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356085",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10530",
+        "address": "RAMSEY,FLAT1,TRIQFRAFERDMATTEI,ZEBBUGZBG1130MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SALVATORE FINOCCHIARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356084",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      },
+      {
+        "name": "PATRIZIA GIUGNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356085",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SALVATORE FINOCCHIARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356084",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PATRIZIA GIUGNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1356085",
+        "address": "VIADECURTIS,11,SANGIOVANNILAPUNTACTITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 3, 64/1, AGITON BUILDINGS, ST. ANTHONY STREET,",
+  "company_id": "C 56825",
+  "registration_date": "Jun 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

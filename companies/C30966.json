@@ -1,0 +1,75 @@
+{
+  "name": "ANDA NAVIGATION LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER KOVALEV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530328854",
+        "address": "KROHNSKAMP35F,HAMBURG22301GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER KOVALEV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530328854",
+        "address": "KROHNSKAMP35F,HAMBURG22301GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER KOVALEV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530328854",
+        "address": "KROHNSKAMP35F,HAMBURG22301GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PREGEL CHARTERING GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB4006NO",
+        "address": "P.O.BOX7364,NORDERSTEDT22832GERMANY",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 30966",
+  "registration_date": "Feb 12, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

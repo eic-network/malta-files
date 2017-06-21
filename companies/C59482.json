@@ -1,0 +1,97 @@
+{
+  "name": "BLU OIL MALTA LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RUEBEN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389169M",
+        "address": "MERCIDIEUHOUSE,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI CICCIARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2231967",
+        "address": "VIAA.MANZONIN.109,ISPICA97014ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI CICCIARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2231967",
+        "address": "VIAA.MANZONIN.109,ISPICA97014ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "OSCAR A. DELIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00A35",
+        "address": "129,AUTUMNLEAVES,TRIQKANANEAATTARDBZN04MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI CICCIARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2231967",
+        "address": "VIAA.MANZONIN.109,ISPICA97014ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIOVANNI CICCIARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2231967",
+        "address": "VIAA.MANZONIN.109,ISPICA97014ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4750
+        }
+      },
+      {
+        "name": "RUEBEN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389169M",
+        "address": "MERCIDIEUHOUSE,TRIQTAX-XEMXUL-QAMAR,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "THE YARD, VALLETTA ROAD,",
+  "company_id": "C 59482",
+  "registration_date": "Feb 27, 2013",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

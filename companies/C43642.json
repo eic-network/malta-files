@@ -1,0 +1,75 @@
+{
+  "name": "ANGUS W. LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK HORRELT\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA115848",
+        "address": "5,WALTONDRIVE,HALIFAXNSB3N1X6CANADA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK HORRELT\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA115848",
+        "address": "5,WALTONDRIVE,HALIFAXNSB3N1X6CANADA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK HORRELT\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA115848",
+        "address": "5,WALTONDRIVE,HALIFAXNSB3N1X6CANADA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A. W. STRATEGIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43643",
+        "address": "5/1MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 43642",
+  "registration_date": "Feb 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

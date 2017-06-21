@@ -1,0 +1,141 @@
+{
+  "name": "A AND A HOLDINGS LTD",
+  "total_issued_shares_value": 4192.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 8,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1792,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCIS PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558147M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSURSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANGELA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266903L",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,HIGHRIDGE,STANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558147M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSURSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANGELA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266903L",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,HIGHRIDGE,STANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558147M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSURSWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANGELA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266903L",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,HIGHRIDGE,STANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558147M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSURSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266903L",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,HIGHRIDGE,STANDREWSSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4
+        }
+      },
+      {
+        "name": "FRANCIS PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558147M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSURSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4
+        }
+      },
+      {
+        "name": "AMANDA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            538076M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 896
+        }
+      },
+      {
+        "name": "ANNABELLE PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339279M",
+        "address": "IL-KAMPNAR,TRIQIL-PREKURSUR,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 896
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1800,
+  "address": "PRELUNA HOTEL, TOWER ROAD,",
+  "company_id": "C 10142",
+  "registration_date": "Dec 07, 1988",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

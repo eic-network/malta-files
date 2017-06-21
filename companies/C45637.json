@@ -1,0 +1,104 @@
+{
+  "name": "ARDOS LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "PENDERGARDENS,1241,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSSTJ1900MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AD INVESTMENT S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B163175",
+        "address": "44,ESP.DELAMOSELLEWASSERBILLIGL-6637LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AD INVESTMENT S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B163175",
+        "address": "44,ESP.DELAMOSELLEWASSERBILLIGL-6637LUXEMBOURG"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Victor Schranz & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/56",
+        "address": "TheOrchard',LourdesLane,St.George's,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AD INVESTMENT S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B163175",
+        "address": "44,ESP.DELAMOSELLEWASSERBILLIGL-6637LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AD INVESTMENT S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B163175",
+        "address": "44,ESP.DELAMOSELLEWASSERBILLIGL-6637LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4998
+        }
+      },
+      {
+        "name": "ARJUN CHENNE GOWDA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            G3469763",
+        "address": "MARKT60B2MOL2400BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "DOMINIEK MARIA JOZEF SWINKELS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EH011376",
+        "address": "SCHUURWEG6SCHERPENHEUVELZICHEM3272BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "THE ORCHARD LOURDES LANE",
+  "company_id": "C 45637",
+  "registration_date": "Nov 20, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,111 @@
+{
+  "name": "APS CONSULT LIMITED",
+  "total_issued_shares_value": 650000,
+  "total_authorised_shares_value": 650000,
+  "authorised_shares": [
+    {
+      "issued_shares": 260000,
+      "type": "Ordinary",
+      "authorised_share_capital": 260000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANDREW GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            288967M",
+        "address": "REGENTHOUSE,52,FIFITHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            426458M",
+        "address": "9,BASTIONSQUARE,MDINAMDN1150MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMMANUEL PAUL DELIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118545M",
+        "address": "35,ASTERISK,LORENZOGAFASTREET,SIGGIEWISGW1843MALTA"
+      },
+      {
+        "name": "FREDRICK MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            486357M",
+        "address": "26,CARIBIA,TRIQIN-NIGRETBIRGUMANAXXARNXR4232MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMMANUEL PAUL DELIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118545M",
+        "address": "35,ASTERISK,LORENZOGAFASTREET,SIGGIEWISGW1843MALTA"
+      },
+      {
+        "name": "FREDRICK MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            486357M",
+        "address": "26,CARIBIA,TRIQIN-NIGRETBIRGUMANAXXARNXR4232MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMMANUEL PAUL DELIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118545M",
+        "address": "35,ASTERISK,LORENZOGAFASTREET,SIGGIEWISGW1843MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABBEY HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8102",
+        "address": "6,LIONSTREET,FLORIANAFRN1514MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "APS BANK LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2192",
+        "address": "APSCENTRETOWERSTREET,BIRKIRKARABKR4012MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 259999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 260000,
+  "address": "APS HOUSE, 20, ST. ANNE SQUARE,",
+  "company_id": "C 38857",
+  "registration_date": "Jun 02, 2006",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 260000
+}

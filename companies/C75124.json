@@ -1,0 +1,144 @@
+{
+  "name": "BEN HOTELS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38683G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARIA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1992G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARK AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            7888G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38683G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARIA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1992G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARK AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            7888G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            7888G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38683G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARIA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1992G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "MARK AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            7888G",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Jogius Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 56393",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "Margius Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 56400",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "MAGIUS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56395",
+        "address": "72,MATTIAPRETISTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "72, MATTIA PRETI STREET,",
+  "company_id": "C 75124",
+  "registration_date": "Apr 06, 2016",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "BLV HOLDING LTD",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUKE FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            832961",
+        "address": "34,CHURCHSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIETRO COSTANTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0828949",
+        "address": "PIAZZAALESSANDROBONSANTINO.2,FLORENCEITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIETRO COSTANTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0828949",
+        "address": "PIAZZAALESSANDROBONSANTINO.2,FLORENCEITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIETRO COSTANTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0828949",
+        "address": "PIAZZAALESSANDROBONSANTINO.2,FLORENCEITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FABIO MARIETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5665477",
+        "address": "S.P.262DIR.N4MOSCIANOS.ANGELO(TE)64023ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "VALERIO PROTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5541150",
+        "address": "28VIASANGIOVANNIGRAGNANO(NA)80054ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "41 ST CHRISTOPHER STREET",
+  "company_id": "C 63803",
+  "registration_date": "Feb 07, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 150000
+}

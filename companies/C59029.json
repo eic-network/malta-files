@@ -1,0 +1,74 @@
+{
+  "name": "A.A. FOODS IMPORTS LTD.",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA CONCETTA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1059148M",
+        "address": "102,IDRAPOZZATRIQGUZEPPICALLUSMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CRAIG JOHN AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0241789M",
+        "address": "OURDREAM,VJALIL-QALBIENAMOSTIN,MOSTAMALTA"
+      },
+      {
+        "name": "ANNABELLE AGIUS AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0227876M",
+        "address": "OURDREAM,VJALIL-QALBIENAMOSTIN,MOSTAMALTA"
+      },
+      {
+        "name": "MARIA CONCETTA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1059148M",
+        "address": "102,IDRAPOZZATRIQGUZEPPICALLUSMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA CONCETTA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1059148M",
+        "address": "102,IDRAPOZZATRIQGUZEPPICALLUSMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "A.A. FOODS IMPORTS LTD. ST. ROCCO STR.",
+  "company_id": "C 59029",
+  "registration_date": "Jan 25, 2013",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 10000
+}

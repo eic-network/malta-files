@@ -1,0 +1,64 @@
+{
+  "name": "ASTRA GROUP",
+  "total_issued_shares_value": 100,
+  "total_authorised_shares_value": 100,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ASTORIA FINANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            19278",
+        "address": "3RDFI,C&HTOWERS,COERNEROFGREATMALBOROUGH&GREATGEORGESTR,ROSEAU00152DOMINICA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 98
+        }
+      },
+      {
+        "name": "P.R.O. MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            26592",
+        "address": "35BARRACKRD,BELIZECITY26592BELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "OLEKSII SYNKEVYCH\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            FB844410",
+        "address": "20/6NARODNOHOOPOLCHENNIASTR.,KYIVUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "ROOM 4, OFFICE 18, BLOCK 19, VINCENTI BLD., STRAIT STREET,",
+  "company_id": "P COMM 186",
+  "registration_date": "Sep 14, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 100
+}

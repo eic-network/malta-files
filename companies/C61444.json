@@ -1,0 +1,120 @@
+{
+  "name": "A+S Entertainment Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDRE KLAPSCHINSKI\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252533845",
+        "address": "NEUDECKERWEG105BERLIN12355GERMANY"
+      },
+      {
+        "name": "SASCHA SCHONBECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            283540943",
+        "address": "BAHNOFSPLATZ4DAHLEWITZ15827GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDRE KLAPSCHINSKI\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252533845",
+        "address": "NEUDECKERWEG105BERLIN12355GERMANY"
+      },
+      {
+        "name": "SASCHA SCHONBECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            283540943",
+        "address": "BAHNOFSPLATZ4DAHLEWITZ15827GERMANY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SASCHA SCHONBECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            283540943",
+        "address": "BAHNOFSPLATZ4DAHLEWITZ15827GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDRE KLAPSCHINSKI\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252533845",
+        "address": "NEUDECKERWEG105BERLIN12355GERMANY"
+      },
+      {
+        "name": "SASCHA SCHONBECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            283540943",
+        "address": "BAHNOFSPLATZ4DAHLEWITZ15827GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDRE KLAPSCHINSKI\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252533845",
+        "address": "NEUDECKERWEG105BERLIN12355GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 306
+        }
+      },
+      {
+        "name": "SASCHA SCHONBECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            283540943",
+        "address": "BAHNOFSPLATZ4DAHLEWITZ15827GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 294
+        }
+      },
+      {
+        "name": "SANDRA GULTNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L1FW32YT2",
+        "address": "DOLZIGERSTREET33BERLIN10247GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DSLR, SUITE 738, FTIEH STREET BIRKIRKARA BYPASS",
+  "company_id": "C 61444",
+  "registration_date": "Aug 05, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,127 @@
+{
+  "company_id": "C 22311",
+  "address": "\"BROCKLAND\" TRIQ IT-TAMAL",
+  "name": "BROCKLAND HOLDINGS LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Dec 23, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 600,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 600
+    },
+    {
+      "authorised_share_capital": 400,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 400
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 2329.37,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ELIZABETH VON BROCKDORFF\r",
+        "party_id": "                                                            576247M",
+        "address": "FLAT3,TRAFFORDCOURT,MARSALFORNROAD,XAGHRA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENASWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ROBERT VON BROCKDORFF\r",
+        "party_id": "                                                            697244M",
+        "address": "'BROCKLAND',TRIQIT-TAMALST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 226,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENASWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 374,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHELLE LUNDQUIST\r",
+        "party_id": "                                                            117368M",
+        "address": "TAMARINDTRIQIL-BIESSANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "party_id": "                                                            447969M",
+        "address": "NO7,TRIQIL-LBIC,MADLIENASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

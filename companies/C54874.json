@@ -1,0 +1,89 @@
+{
+  "name": "B and A Consulting Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARLENE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            377371M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,'MALAHIDE',TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALLIANCE STRATEGIES B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            54244099",
+        "address": "PAULUSVANLOOLAAN13,NAARDEN1411JMNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "NAMARI OVERSEAS CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            2055231",
+        "address": "2NDFLOOR,MMGTOWER,EAST53RDSTREET,MARBELLA,PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "114, THE STRAND,",
+  "company_id": "C 54874",
+  "registration_date": "Dec 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

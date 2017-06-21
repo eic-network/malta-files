@@ -1,0 +1,91 @@
+{
+  "name": "BOHIMIA LIMITED",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IVAN CAMENZULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            39476M",
+        "address": "25,TAGOKBATRIQILBARRIERIMOSTAMST3253MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SARAH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203382M",
+        "address": "TYNEDALETALWEJROAD,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTINA XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183879M",
+        "address": "TAFERISU,TRIQIT-TARGAL/O,NAXXARNXR6616MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTINA XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183879M",
+        "address": "TAFERISU,TRIQIT-TARGAL/O,NAXXARNXR6616MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTINA XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183879M",
+        "address": "TAFERISU,TRIQIT-TARGAL/O,NAXXARNXR6616MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SARAH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203382M",
+        "address": "TYNEDALETALWEJROAD,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "CHRISTINA XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183879M",
+        "address": "TAFERISU,TRIQIT-TARGAL/O,NAXXARNXR6616MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1599
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1600,
+  "address": "TYNEDALE, TAL-WEJ ROAD,",
+  "company_id": "C 61947",
+  "registration_date": "Sep 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1600
+}

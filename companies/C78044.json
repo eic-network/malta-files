@@ -1,0 +1,96 @@
+{
+  "name": "ALTRAZ LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT",
+  "company_id": "C 78044",
+  "registration_date": "Nov 10, 2016",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

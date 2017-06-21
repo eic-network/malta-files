@@ -1,0 +1,111 @@
+{
+  "name": "Allied Capital Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Hedili Galbi\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03IC09220",
+        "address": "17ParcdeDianeJouyenJosas78350FRANCE"
+      },
+      {
+        "name": "MONIQUE MARIE JUGIE EP LADAGNOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AX234344",
+        "address": "CHRISTOPHELADAGNOUS50,RUEBOULBONNETOULOUSE31000FRANCE"
+      },
+      {
+        "name": "ANDRE' SECHEYRON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PH93199",
+        "address": "6IMPASSELASBRUGUES,TOULOUSE31100FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Hedili Galbi\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03IC09220",
+        "address": "17ParcdeDianeJouyenJosas78350FRANCE"
+      },
+      {
+        "name": "MONIQUE MARIE JUGIE EP LADAGNOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AX234344",
+        "address": "CHRISTOPHELADAGNOUS50,RUEBOULBONNETOULOUSE31000FRANCE"
+      },
+      {
+        "name": "ANDRE' SECHEYRON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PH93199",
+        "address": "6IMPASSELASBRUGUES,TOULOUSE31100FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Hedili Galbi\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03IC09220",
+        "address": "17ParcdeDianeJouyenJosas78350FRANCE"
+      },
+      {
+        "name": "MONIQUE MARIE JUGIE EP LADAGNOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AX234344",
+        "address": "CHRISTOPHELADAGNOUS50,RUEBOULBONNETOULOUSE31000FRANCE"
+      },
+      {
+        "name": "ANDRE' SECHEYRON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PH93199",
+        "address": "6IMPASSELASBRUGUES,TOULOUSE31100FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Hedili Galbi\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03IC09220",
+        "address": "17ParcdeDianeJouyenJosas78350FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MONIQUE MARIE JUGIE EP LADAGNOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AX234344",
+        "address": "CHRISTOPHELADAGNOUS50,RUEBOULBONNETOULOUSE31000FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "72, The Strand",
+  "company_id": "C 45920",
+  "registration_date": "Dec 29, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

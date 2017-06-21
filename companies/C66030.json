@@ -1,0 +1,83 @@
+{
+  "name": "AWM INTERNATIONAL MALTA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARKADIUSZ TOMALA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AK6951564",
+        "address": "BOZYDAR49,DWIKOZY27-620POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SLAWOMIR TOMALA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AK9851160",
+        "address": "ALFREDOWKA184,NOWADEBA39-460POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 66030",
+  "registration_date": "Jul 16, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

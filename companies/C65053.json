@@ -1,0 +1,97 @@
+{
+  "name": "54NRJ Ltd",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DOREEN TURNER BILOCCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            342069M",
+        "address": "13,CURATEFENECHSTREET,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03287",
+        "address": "46,VILLATRAPANI,TRIQL-GHARBIEL,SWIEQISWQ3252MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "13, CURATE FENECH STREET",
+  "company_id": "C 65053",
+  "registration_date": "May 16, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

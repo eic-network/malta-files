@@ -1,0 +1,91 @@
+{
+  "name": "BETTING INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TATIANA GARCIA BARRENECHEA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            109760919",
+        "address": "459RUED'ARGENSGZIRAGZR1360MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEFFREY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            419286M",
+        "address": "TOUJOURS,PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEFFREY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            419286M",
+        "address": "TOUJOURS,PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEFFREY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            419286M",
+        "address": "TOUJOURS,PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMPORIUM ROMANUM LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49520",
+        "address": "54,SIRLUIGICAMILLERISTREET,SLIEMASLM1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "EMRO HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49511",
+        "address": "54,SIRLUIGICAMILLERISTREET,SLIEMASLM1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "54 SIR LUIGI CAMILLERI STREET",
+  "company_id": "C 36743",
+  "registration_date": "Aug 04, 2005",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

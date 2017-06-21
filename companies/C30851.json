@@ -1,0 +1,83 @@
+{
+  "name": "AVIAN INTERNATIONAL LTD.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FOUZI ALI ALGHADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            517073",
+        "address": "MOJANNEANOURELKHAFAMI,FLAT3,FLOOR5,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FOUZI ALI ALGHADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            517073",
+        "address": "MOJANNEANOURELKHAFAMI,FLAT3,FLOOR5,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ABDUL NASER BASHIR BEN NAFAA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            082255",
+        "address": "16,BENASHOURSTREET,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FOUZI ALI ALGHADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            517073",
+        "address": "MOJANNEANOURELKHAFAMI,FLAT3,FLOOR5,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FOUZI ALI ALGHADI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            517073",
+        "address": "MOJANNEANOURELKHAFAMI,FLAT3,FLOOR5,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "ABDUL NASER BASHIR BEN NAFAA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            082255",
+        "address": "16,BENASHOURSTREET,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200,
+  "address": "5, ROSA MARINA APTS., 216, MARINA SEAFRONT,",
+  "company_id": "C 30851",
+  "registration_date": "Jan 17, 2003",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 10000
+}

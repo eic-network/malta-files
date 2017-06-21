@@ -1,0 +1,81 @@
+{
+  "name": "ALTERNATE CATERING LTD",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505754M",
+        "address": "11MANDEVILLE,TRIQIZ-ZUGRAGA,FLEURDELYS,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505754M",
+        "address": "11MANDEVILLE,TRIQIZ-ZUGRAGA,FLEURDELYS,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505754M",
+        "address": "11MANDEVILLE,TRIQIZ-ZUGRAGA,FLEURDELYS,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557363M",
+        "address": "WISTERIALODGE,BIRGUMAROAD,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "JIMMY VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135678M",
+        "address": "VICTORIA,TRIQCASTROSQAQNO1NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "VICTORIA HOUSE , ALLEY 1, CASTRO STREET,",
+  "company_id": "C 25762",
+  "registration_date": "Jan 20, 2000",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,54 @@
+{
+  "company_id": "P COMM 173",
+  "address": "99, DINGLI STREET",
+  "name": "3G Investments L.P.V.C",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Apr 07, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1,
+      "type": "",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1,
+  "total_authorised_shares_value": 1,
+  "total_issued_shares": 1,
+  "total_issued_shares_value": 1,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "THOR INVESTMENT LTD\r",
+        "party_id": "                                                            C 74881",
+        "address": "99,DINGLISTREET,SLIEMAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THOR INVESTMENT LTD\r",
+        "party_id": "                                                            C 74881",
+        "address": "99,DINGLISTREET,SLIEMAMALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "THOR INVESTMENT LTD\r",
+        "party_id": "                                                            C 74881",
+        "address": "99,DINGLISTREET,SLIEMAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

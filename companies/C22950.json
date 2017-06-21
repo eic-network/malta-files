@@ -1,0 +1,203 @@
+{
+  "name": "AQUABIOTECH LIMITED",
+  "total_issued_shares_value": 95000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3800,
+      "nominal_value_per_share": 5
+    },
+    {
+      "issued_shares": 3800,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3800,
+      "nominal_value_per_share": 5
+    },
+    {
+      "issued_shares": 3800,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 3800,
+      "nominal_value_per_share": 5
+    },
+    {
+      "issued_shares": 3800,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 3800,
+      "nominal_value_per_share": 5
+    },
+    {
+      "issued_shares": 3800,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 3800,
+      "nominal_value_per_share": 5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETRUS A.J. OTTO\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            A02942143",
+        "address": "FLAT2STMARYTRIQIZ-ZERNIEQ,SWATARBIRKIRKARABKR4243MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SIMEON DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            304270M",
+        "address": "18,TRIQSANBARTOLOMEW,QORMIQRM2183MALTA"
+      },
+      {
+        "name": "LISA C. HUNTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402170M",
+        "address": "29,TRIQIL-PERSJANISQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      },
+      {
+        "name": "SHANE A. HUNTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            18339A",
+        "address": "29,IL-PERSJANI,SQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SIMEON DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            304270M",
+        "address": "18,TRIQSANBARTOLOMEW,QORMIQRM2183MALTA"
+      },
+      {
+        "name": "LISA C. HUNTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402170M",
+        "address": "29,TRIQIL-PERSJANISQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      },
+      {
+        "name": "SHANE A. HUNTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            18339A",
+        "address": "29,IL-PERSJANI,SQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SIMEON DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            304270M",
+        "address": "18,TRIQSANBARTOLOMEW,QORMIQRM2183MALTA"
+      },
+      {
+        "name": "LISA C. HUNTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402170M",
+        "address": "29,TRIQIL-PERSJANISQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      },
+      {
+        "name": "SHANE A. HUNTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            18339A",
+        "address": "29,IL-PERSJANI,SQAQCHARLOTTEGHARGHURGHR1462MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHANE A. HUNTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            18339A",
+        "address": "29,IL-PERSJANI,SQAQCHARLOTTEGHARGHURGHR1462MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3800
+        }
+      },
+      {
+        "name": "LISA C. HUNTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402170M",
+        "address": "29,TRIQIL-PERSJANISQAQCHARLOTTEGHARGHURGHR1462MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1900
+        }
+      },
+      {
+        "name": "ALEXIS J. CONIDES\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB3299883",
+        "address": "CENTRALCOMPLEXNAGGARSTREET,TARGAGAPMOSTAMST1761MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 950
+        }
+      },
+      {
+        "name": "SIMEON DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            304270M",
+        "address": "18,TRIQSANBARTOLOMEW,QORMIQRM2183MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 1900
+        }
+      },
+      {
+        "name": "STEPHEN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21577M",
+        "address": "49,TRIQSANANARDTARXIENTRX9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 1900
+        }
+      },
+      {
+        "name": "ROLAND J WADGE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20173M",
+        "address": "36,TRIQIT-TEMPJINEOLITICI,TARXIENTXN1065MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 1900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 19000,
+  "address": "AQUABIOTECH GROUP, CENTRAL COMPLEX, TRIQ IN-NAGGAR, TARGA GAP",
+  "company_id": "C 22950",
+  "registration_date": "May 20, 1998",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

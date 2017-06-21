@@ -1,0 +1,70 @@
+{
+  "name": "BLUEBERRY HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIANLUCA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            29893A",
+        "address": "49,TRIQKARMENUCAMILLERI,QORMIQRM4631MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIANLUCA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            29893A",
+        "address": "49,TRIQKARMENUCAMILLERI,QORMIQRM4631MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIANLUCA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            29893A",
+        "address": "49,TRIQKARMENUCAMILLERI,QORMIQRM4631MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIANLUCA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            29893A",
+        "address": "49,TRIQKARMENUCAMILLERI,QORMIQRM4631MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "49, TRIQ KARMENU CAMILLERI,",
+  "company_id": "C 53983",
+  "registration_date": "Sep 29, 2011",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1200
+}

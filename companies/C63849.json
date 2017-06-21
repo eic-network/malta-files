@@ -1,0 +1,97 @@
+{
+  "name": "AVANTI HOLDING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREY ZYKOV\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            109768178",
+        "address": "6LOWSWOODCLOSE,NORTHWOOD,MIDDLESEXHA62XEUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IMPERA SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76473",
+        "address": "19/14,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IMPERA SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76473",
+        "address": "19/14,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IMPERA SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76473",
+        "address": "19/14,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELDEN DEVELOPMENT CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            1916599",
+        "address": "OMCCHAMBERS,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "AVANTI INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1410887",
+        "address": "OMCCHAMBERS,P.O.BOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "19/14, VINCENTI BUILDING, STRAIT STREET,",
+  "company_id": "C 63849",
+  "registration_date": "Feb 13, 2014",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

@@ -1,0 +1,123 @@
+{
+  "name": "BALZAN DEVELOPMENTS LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129082M",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENT CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133273M",
+        "address": "7,MARPAUL,TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENT CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133273M",
+        "address": "7,MARPAUL,TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JEREMY GAMBIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01286",
+        "address": "3,BARAKEE,TRIQIL-HAWT,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133273M",
+        "address": "7,MARPAUL,TRIQIL-MAHLUT,LIJAMALTA"
+      },
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "VINCENT CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133273M",
+        "address": "7,MARPAUL,TRIQIL-MAHLUT,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "HELEN FLATS, 2, NAXXAR ROAD ,",
+  "company_id": "C 35477",
+  "registration_date": "Jan 14, 2005",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

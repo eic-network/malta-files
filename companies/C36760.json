@@ -1,0 +1,91 @@
+{
+  "company_id": "C 36760",
+  "address": "93, Mill Street,",
+  "name": "Briaba Limited",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Aug 08, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 200000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 200000
+    }
+  ],
+  "total_authorised_shares": 200000,
+  "total_authorised_shares_value": 200000,
+  "total_issued_shares": 200000,
+  "total_issued_shares_value": 200000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 199999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN ALBERT NAUDI\r",
+        "party_id": "                                                            19720",
+        "address": "5,STONEHAVEN,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARNXR2318MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

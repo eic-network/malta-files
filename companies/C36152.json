@@ -1,0 +1,83 @@
+{
+  "name": "AMARCORD LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OMAR GRANATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            44203L",
+        "address": "VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OMAR GRANATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            44203L",
+        "address": "VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN GRANATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            101301L",
+        "address": "13,VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OMAR GRANATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            44203L",
+        "address": "VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COSIMO GRANATA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            8778A",
+        "address": "VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "OMAR GRANATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            44203L",
+        "address": "VILLARIMINI,TRIQID-DIRSA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 350
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "VILLA RIMINI,  TRIQ ID-DIRSA,",
+  "company_id": "C 36152",
+  "registration_date": "May 04, 2005",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 500
+}

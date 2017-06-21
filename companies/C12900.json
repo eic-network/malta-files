@@ -1,0 +1,132 @@
+{
+  "name": "A.D.M. COMPANY LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 167,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 167,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 167,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 167,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 166,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 166,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1083647M",
+        "address": "CHRISTADON,TRIQIL-FIES,MISRAHKOLAATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMMANUEL GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485333M",
+        "address": "IL-BARUMBARA,TRIQIL-KITBA,FGURAMALTA"
+      },
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            639450M",
+        "address": "GAUCIHOUSE,PAWLUBALZANSTREET,ZEBBUGMALTA"
+      },
+      {
+        "name": "PHILIP GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1083647M",
+        "address": "CHRISTADON,TRIQIL-FIES,MISRAHKOLAATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR FERRITO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00A47",
+        "address": "40,EDELWEISS,TRIQIS-SIENJA,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMMANUEL GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485333M",
+        "address": "IL-BARUMBARA,TRIQIL-KITBA,FGURAMALTA"
+      },
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            639450M",
+        "address": "GAUCIHOUSE,PAWLUBALZANSTREET,ZEBBUGMALTA"
+      },
+      {
+        "name": "PHILIP GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1083647M",
+        "address": "CHRISTADON,TRIQIL-FIES,MISRAHKOLAATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILIP GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1083647M",
+        "address": "CHRISTADON,TRIQIL-FIES,MISRAHKOLAATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "EMMANUEL GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            485333M",
+        "address": "IL-BARUMBARA,TRIQIL-KITBA,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            639450M",
+        "address": "GAUCIHOUSE,PAWLUBALZANSTREET,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 166
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "GAUCI HOUSE PAWLU BALZAN STREET",
+  "company_id": "C 12900",
+  "registration_date": "Jul 16, 1991",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 500
+}

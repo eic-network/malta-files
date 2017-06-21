@@ -1,0 +1,143 @@
+{
+  "name": "A&A BRICOLAGE LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296280M",
+        "address": "BELFIORE,TRIQIL-BICCERIN,MOSTAMALTA"
+      },
+      {
+        "name": "RODERICK ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            141678M",
+        "address": "27,CA'D'ORO,TRIQZMIENIL-BRONZ,SANTAMARGERITA,MOSTAMALTA"
+      },
+      {
+        "name": "CARL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            038487M",
+        "address": "604,VILLEMICHEL,TRIQWIEDTAR-ROMAN,MELLIEHAMALTA"
+      },
+      {
+        "name": "NOEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509691M",
+        "address": "ST.ANNE,TRIQNICOLOISOUARDMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296280M",
+        "address": "BELFIORE,TRIQIL-BICCERIN,MOSTAMALTA"
+      },
+      {
+        "name": "RODERICK ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            141678M",
+        "address": "27,CA'D'ORO,TRIQZMIENIL-BRONZ,SANTAMARGERITA,MOSTAMALTA"
+      },
+      {
+        "name": "CARL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            038487M",
+        "address": "604,VILLEMICHEL,TRIQWIEDTAR-ROMAN,MELLIEHAMALTA"
+      },
+      {
+        "name": "NOEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509691M",
+        "address": "ST.ANNE,TRIQNICOLOISOUARDMOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHEN THAKE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            650258M",
+        "address": "68/69,MELITASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296280M",
+        "address": "BELFIORE,TRIQIL-BICCERIN,MOSTAMALTA"
+      },
+      {
+        "name": "RODERICK ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            141678M",
+        "address": "27,CA'D'ORO,TRIQZMIENIL-BRONZ,SANTAMARGERITA,MOSTAMALTA"
+      },
+      {
+        "name": "CARL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            038487M",
+        "address": "604,VILLEMICHEL,TRIQWIEDTAR-ROMAN,MELLIEHAMALTA"
+      },
+      {
+        "name": "NOEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509691M",
+        "address": "ST.ANNE,TRIQNICOLOISOUARDMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATTARD BROS CO. LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 3599",
+        "address": "MIKESAND,INDUSTRIALZONE,ATTARDRBT13MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50000
+        }
+      },
+      {
+        "name": "JOSABEL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 13179",
+        "address": "\"BELFIORE\"TRIQIL-BICCERIN,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "'MIKESAND', INDUSTRIAL ZONE, TA' QALI",
+  "company_id": "C 76901",
+  "registration_date": "Aug 18, 2016",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 100000
+}

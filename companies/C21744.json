@@ -1,0 +1,75 @@
+{
+  "company_id": "C 21744",
+  "address": "75, VJAL COTTONER,",
+  "name": "BRITISH THORNTON COMMUNICATIONS LIMITED",
+  "locality": "FGURA",
+  "status": "",
+  "registration_date": "Aug 01, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 11646.86,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 11646.86,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JAMES Mc CORMICK\r",
+        "party_id": "                                                            500285004",
+        "address": "YEWTREECOTTAGE,BANNISTERGREEN,FELSTED,ESSEXCM63NJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMES Mc CORMICK\r",
+        "party_id": "                                                            500285004",
+        "address": "YEWTREECOTTAGE,BANNISTERGREEN,FELSTED,ESSEXCM63NJUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4990,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PAULA Mc CORMICK\r",
+        "party_id": "                                                            006535581",
+        "address": "YEWTREECOTTAGE,BANNISTERGREEN,FELSTED,ESSEXCM63NJUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAMES Mc CORMICK\r",
+        "party_id": "                                                            500285004",
+        "address": "YEWTREECOTTAGE,BANNISTERGREEN,FELSTED,ESSEXCM63NJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JAMES Mc CORMICK\r",
+        "party_id": "                                                            500285004",
+        "address": "YEWTREECOTTAGE,BANNISTERGREEN,FELSTED,ESSEXCM63NJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

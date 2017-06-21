@@ -1,0 +1,75 @@
+{
+  "company_id": "C 20218",
+  "address": "1, COL. SAVONA STREET,",
+  "name": "BRADLEY HOLDINGS LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jul 18, 1994",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DEREK H L BUNTAIN\r",
+        "party_id": "                                                            BC209285",
+        "address": "NO.5,PLANTANA,1293WESTBAYROAD,GRANDCAYMANCAYMANISLANDS",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DELOITTE LIMITED\r",
+        "party_id": "                                                            C 16746",
+        "address": "DELOITTEPLACE,MRIEHELBY-PASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ANDREW MANDUCA\r",
+        "party_id": "                                                            221954M",
+        "address": "IT-TRUNCIEN,JULESVERNESTREET,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DEREK H L BUNTAIN\r",
+        "party_id": "                                                            BC209285",
+        "address": "NO.5,PLANTANA,1293WESTBAYROAD,GRANDCAYMANCAYMANISLANDS",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DEREK H L BUNTAIN\r",
+        "party_id": "                                                            BC209285",
+        "address": "NO.5,PLANTANA,1293WESTBAYROAD,GRANDCAYMANCAYMANISLANDS",
+        "nationality": "CANADIAN"
+      }
+    ]
+  }
+}

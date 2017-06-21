@@ -1,0 +1,107 @@
+{
+  "name": "ASTRA FINANCE SCC LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryCOREA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryCOREB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CAROL RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458734",
+        "address": "134,KINGSWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "MALCOLM DAVID RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458735",
+        "address": "134,KINGSWHARF,QUEENSWAY,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAROL RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458734",
+        "address": "134,KINGSWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "MALCOLM DAVID RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458735",
+        "address": "134,KINGSWHARF,QUEENSWAY,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "HUMBERT MOZZI\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            801408407",
+        "address": "THEPENTHOUSESUITE,NO1,THETERRACES,TRIQIL-KANNIZZATA,BALZANBZN1701MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CAROL RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458734",
+        "address": "134,KINGSWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "MALCOLM DAVID RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458735",
+        "address": "134,KINGSWHARF,QUEENSWAY,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTRA CAPITAL PARTNERS LLP\r",
+        "nationality": "",
+        "party_id": "                                                            GILL.00010-47",
+        "address": "46,THESAILSTOWERQUEENSWAYQUAY,GIBRALTARGX111AAGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "CORE A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "MALCOLM DAVID RUFFELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800458735",
+        "address": "134,KINGSWHARF,QUEENSWAY,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "CORE B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "THE PENTHOUSE SUITE, NO. 1, THE TERRACES, TRIQ IL-KANNIZZATA,",
+  "company_id": "C 79958",
+  "registration_date": "Mar 15, 2017",
+  "shares_currency": "GBP",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 10000
+}

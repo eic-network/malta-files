@@ -1,0 +1,78 @@
+{
+  "name": "B&B LEASING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREA UTE MARIA BECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            804721565",
+        "address": "HOLZFELDERWEG20,BURGHAUSEN84489GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANN GEB. SCHMIDBAUER BECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            804739348",
+        "address": "HOLZFELDERWEG20,BURGHAUSEN84489GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHANN GEB. SCHMIDBAUER BECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            804739348",
+        "address": "HOLZFELDERWEG20,BURGHAUSEN84489GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTON CHETCUTI GANADO & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/06",
+        "address": "5/2A,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHANN GEB. SCHMIDBAUER BECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            804739348",
+        "address": "HOLZFELDERWEG20,BURGHAUSEN84489GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREA UTE MARIA BECK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            804721565",
+        "address": "HOLZFELDERWEG20,BURGHAUSEN84489GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/2, MERCHANTS STREET,",
+  "company_id": "C 62965",
+  "registration_date": "Dec 05, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,75 @@
+{
+  "name": "BEACH VIEW HOTEL LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 20
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE MARTIN CATTERALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800335751",
+        "address": "OLDPORTPLETINN,LAROUTEDENOIRMONT,SAINTBRELADE,JERSEYCHANNELISLANDS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE MARTIN CATTERALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800335751",
+        "address": "OLDPORTPLETINN,LAROUTEDENOIRMONT,SAINTBRELADE,JERSEYCHANNELISLANDS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE MARTIN CATTERALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800335751",
+        "address": "OLDPORTPLETINN,LAROUTEDENOIRMONT,SAINTBRELADE,JERSEYCHANNELISLANDS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGE MARTIN CATTERALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800335751",
+        "address": "OLDPORTPLETINN,LAROUTEDENOIRMONT,SAINTBRELADE,JERSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 20,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "JULIE PANARO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            102352700",
+        "address": "OLDPORTPLETINN,LAROUTEDENOIRMONT,SAINTBRELADE,JERSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 20,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 250,
+  "address": "2, MICHELANGELO REFALO STREET, MARSALFORN",
+  "company_id": "C 43826",
+  "registration_date": "Mar 20, 2008",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG (GOZO)",
+  "status": "",
+  "total_authorised_shares": 500
+}

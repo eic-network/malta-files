@@ -1,0 +1,80 @@
+{
+  "name": "ANTIBES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "UTE HELGA DANIEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            112393079",
+        "address": "STARENKAMP61,PINNEBERGGERMANY"
+      },
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "KYLE,APARTMENT4,TRIQIL-MEDITERRAN,ST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "UTE HELGA DANIEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            112393079",
+        "address": "STARENKAMP61,PINNEBERGGERMANY"
+      },
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "KYLE,APARTMENT4,TRIQIL-MEDITERRAN,ST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "UTE HELGA DANIEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            112393079",
+        "address": "STARENKAMP61,PINNEBERGGERMANY"
+      },
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "KYLE,APARTMENT4,TRIQIL-MEDITERRAN,ST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 70880",
+        "address": "59,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 70883",
+  "registration_date": "Jun 02, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

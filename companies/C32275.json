@@ -1,0 +1,59 @@
+{
+  "name": "BARCODE TRADING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NIKOS LAZAROU",
+        "nationality": "",
+        "party_id": "",
+        "address": "6,NISSONSTREET,KRYONERI,ATTICAGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LIBRA MARITIME LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTMARITIMECOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 325
+        }
+      },
+      {
+        "name": "SILVA MANAGEMENT INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 175
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 32275",
+  "registration_date": "Oct 20, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

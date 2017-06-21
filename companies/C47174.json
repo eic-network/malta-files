@@ -1,0 +1,91 @@
+{
+  "name": "AVIACOM LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SVITLANA PARTYTSKA\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            25447A",
+        "address": "HIGHRISEAPTBLKA,FL/9TRIQL-IMRADDTA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAHER MELLOULI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08CV49726",
+        "address": "23,RUEDOCTEURCALMETTE,RESIDENCELESJARDINSSAINTNICOLASBATIMENT,CANNESA06400FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAHER MELLOULI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08CV49726",
+        "address": "23,RUEDOCTEURCALMETTE,RESIDENCELESJARDINSSAINTNICOLASBATIMENT,CANNESA06400FRANCE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAHER MELLOULI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08CV49726",
+        "address": "23,RUEDOCTEURCALMETTE,RESIDENCELESJARDINSSAINTNICOLASBATIMENT,CANNESA06400FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDITERRANEAN OIL TRADERS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 49026",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1049
+        }
+      },
+      {
+        "name": "MAHER MELLOULI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08CV49726",
+        "address": "23,RUEDOCTEURCALMETTE,RESIDENCELESJARDINSSAINTNICOLASBATIMENT,CANNESA06400FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 116
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "27 GROGNET STREET",
+  "company_id": "C 47174",
+  "registration_date": "Jun 30, 2009",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

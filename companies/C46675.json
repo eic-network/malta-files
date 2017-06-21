@@ -1,0 +1,97 @@
+{
+  "name": "ASTORIAN PROPERTY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MELANIE BUTSCHKAT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L3HMV924Z",
+        "address": "THARAUERALLEE6,14055BERLIN14199GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTORIAN HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46669",
+        "address": "4,ST.FRANCISSTREET,RABATRBT1062MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MELANIE BUTSCHKAT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L3HMV924Z",
+        "address": "THARAUERALLEE6,14055BERLIN14199GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "4, ST. FRANCIS STREET,",
+  "company_id": "C 46675",
+  "registration_date": "Apr 21, 2009",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 1200
+}

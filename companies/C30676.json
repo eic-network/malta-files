@@ -1,0 +1,96 @@
+{
+  "company_id": "C 30676",
+  "address": "18, F.W. RYAN STREET, SAN PAWL TAT-TARGA",
+  "name": "BROWN AND RYE CATERING LIMITED",
+  "locality": "NAXXAR",
+  "status": "",
+  "registration_date": "Dec 18, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "NIKOLAI DE GIORGIO\r",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,SANPAWLTAT-TARGA,NAXXARNXR2102MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "SEBASTIAN DE GIORGIO\r",
+        "party_id": "                                                            336083M",
+        "address": "14,VILLADEIVAGANTI,F.W.RYANSTREET,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

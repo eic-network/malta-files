@@ -1,0 +1,105 @@
+{
+  "name": "AUISTA HOLDING LIMITED",
+  "total_issued_shares_value": 9000,
+  "total_authorised_shares_value": 9000,
+  "authorised_shares": [
+    {
+      "issued_shares": 8999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KURT CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55384M",
+        "address": "49,FLAT2,AMERYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PROVELIA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE 241543",
+        "address": "KYRIAKOUMATSI3ROUSSOSLIMASSOLTOWERLIMASSOLPC3040CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8999
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 9000,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 49696",
+  "registration_date": "May 19, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 9000
+}

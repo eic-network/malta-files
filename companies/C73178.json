@@ -1,0 +1,81 @@
+{
+  "name": "BISISILY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3LITH STUDIO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 73115",
+        "address": "30,KENILWORTH/1TRIQSIRAUGUSTUSBARTOLOTA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "QUANTUM CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52810",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "30, KENILWORTH/1, TRIQ SIR AUGUSTUS BARTOLO,",
+  "company_id": "C 73178",
+  "registration_date": "Nov 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

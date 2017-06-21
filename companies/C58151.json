@@ -1,0 +1,109 @@
+{
+  "name": "ATHOL LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JORGE MANUEL DE BRITO PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            07735334",
+        "address": "EDIFICIORODRIGOURIA,RUADUQUEDEPALMELA,23,LISBON1250-097PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JORGE MANUEL DE BRITO PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            07735334",
+        "address": "EDIFICIORODRIGOURIA,RUADUQUEDEPALMELA,23,LISBON1250-097PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JORGE MANUEL DE BRITO PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            07735334",
+        "address": "EDIFICIORODRIGOURIA,RUADUQUEDEPALMELA,23,LISBON1250-097PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LEADING EDGE (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/1/13/03",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "JORGE MANUEL DE BRITO PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            07735334",
+        "address": "EDIFICIORODRIGOURIA,RUADUQUEDEPALMELA,23,LISBON1250-097PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JORGE MANUEL DE BRITO PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            07735334",
+        "address": "EDIFICIORODRIGOURIA,RUADUQUEDEPALMELA,23,LISBON1250-097PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ISABEL JOSE DOS SANTOS\r",
+        "nationality": "ANGOLAN",
+        "party_id": "                                                            N0565130",
+        "address": "CONDOMINIOALPHAEDIFICIO1-PISO2,TALATONA,BELAS,SAMBA,LUANDAANGOLA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "ARAGON HOUSE BUSINESS CENTRE DRAGONARA ROAD,",
+  "company_id": "C 58151",
+  "registration_date": "Nov 08, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

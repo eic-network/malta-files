@@ -1,0 +1,51 @@
+{
+  "name": "APIS CAPITAL",
+  "total_issued_shares_value": 10100,
+  "total_authorised_shares_value": 10100,
+  "authorised_shares": [
+    {
+      "issued_shares": 10100,
+      "type": "",
+      "authorised_share_capital": 10100,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "TOMASZ MATCZUK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EA4334239",
+        "address": "LIMANOWSKIEGO11-66WARSAW02-943POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MICHAL PSZCZOLA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB2057876",
+        "address": "JUHASOW40AWARSAW04-784POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10100,
+  "address": "VILLA MALITAH, MEDITERRANEAN STREET, THE VILLAGE,",
+  "company_id": "P COMM 126",
+  "registration_date": "Nov 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10100
+}

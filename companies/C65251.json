@@ -1,0 +1,78 @@
+{
+  "name": "BATHO Ltd",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPH PHILIPP SCHLIEBMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            906742203",
+        "address": "RANNENBERGRING8,ALZENAU63755GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPH PHILIPP SCHLIEBMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            906742203",
+        "address": "RANNENBERGRING8,ALZENAU63755GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPH PHILIPP SCHLIEBMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            906742203",
+        "address": "RANNENBERGRING8,ALZENAU63755GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPH PHILIPP SCHLIEBMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            906742203",
+        "address": "RANNENBERGRING8,ALZENAU63755GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BATHO HOLDINGS LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 65249",
+        "address": "60/2,MELITASTREET,VALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "60/2, MELITA STREET",
+  "company_id": "C 65251",
+  "registration_date": "May 21, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

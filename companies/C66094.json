@@ -1,0 +1,104 @@
+{
+  "name": "4 PHARMA LTD",
+  "total_issued_shares_value": 2500,
+  "total_authorised_shares_value": 2500,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TIZIANA CECI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            147579M",
+        "address": "98,TRIQST.LUCIA,SQAQNO:8,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TIZIANA CECI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            147579M",
+        "address": "98,TRIQST.LUCIA,SQAQNO:8,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TIZIANA CECI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            147579M",
+        "address": "98,TRIQST.LUCIA,SQAQNO:8,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TIZIANA CECI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            147579M",
+        "address": "98,TRIQST.LUCIA,SQAQNO:8,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GBY GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 19342",
+        "address": "BROWN'SPHARMACIES,TRIQL-INDUSTRIJA,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "TIZIANA CECI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            147579M",
+        "address": "98,TRIQST.LUCIA,SQAQNO:8,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "STEVEN TANVEER SCIRIHA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579988M",
+        "address": "VILLAMANUELA,TRIQTORRIMAMO,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "BROWN'S PHARMACIES, TRIQ L-INDUSTRIJA,",
+  "company_id": "C 66094",
+  "registration_date": "Jul 22, 2014",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2500
+}

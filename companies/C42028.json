@@ -1,0 +1,99 @@
+{
+  "name": "Alpha Emptor (Malta) Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 19999,
+      "nominal_value_per_share": 0.15
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.15
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PHILIP CAMPBELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            050376175",
+        "address": "18,PRIMROSEDRIVE,DITTON,AYLESFORDKENT050376175UNITEDKINGDOM"
+      },
+      {
+        "name": "JOHN HAY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            204639498",
+        "address": "29,SUNRIDGECLOSE,NEWPORTPAGNELL,BUCKSMK16OLTUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILIP CAMPBELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            050376175",
+        "address": "18,PRIMROSEDRIVE,DITTON,AYLESFORDKENT050376175UNITEDKINGDOM"
+      },
+      {
+        "name": "JOHN HAY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            204639498",
+        "address": "29,SUNRIDGECLOSE,NEWPORTPAGNELL,BUCKSMK16OLTUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIP CAMPBELL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            050376175",
+        "address": "18,PRIMROSEDRIVE,DITTON,AYLESFORDKENT050376175UNITEDKINGDOM"
+      },
+      {
+        "name": "JOHN HAY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            204639498",
+        "address": "29,SUNRIDGECLOSE,NEWPORTPAGNELL,BUCKSMK16OLTUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THE CONTINENTAL TRUST COMPANTY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            5265",
+        "address": "P.O.BOX829,FORUMHOUSE,GRENVILLESTREETST.HELIER,JERSEYJE4OUECHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "ALPHA EMPTOR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            6024525",
+        "address": "MIDSUMMERCOURT,314,MIDSUMMERBOULEVARD,MILTONKEYNES,BUJCKINGHAMSHIREMK92UBUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "85, ST. JOHN STREET",
+  "company_id": "C 42028",
+  "registration_date": "Aug 02, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

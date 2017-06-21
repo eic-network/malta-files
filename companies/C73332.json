@@ -1,0 +1,83 @@
+{
+  "company_id": "C 73332",
+  "address": "13, CHARETH, FLOOR 1, TRIQ L-GHERIEN,",
+  "name": "BOXTONS LTD",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Dec 01, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDWARD LLOYD PICKERSGIL\r",
+        "party_id": "                                                            706777878",
+        "address": "13,CHARETH,FLAT1,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELVIRA ANN FELIZIA PERSSON\r",
+        "party_id": "                                                            91578091",
+        "address": "13,CHARETH,FLOOR1,TRIQL-GHERIEN,MELLIEHAMALTA",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EDWARD LLOYD PICKERSGIL\r",
+        "party_id": "                                                            706777878",
+        "address": "13,CHARETH,FLAT1,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 720,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD LLOYD PICKERSGIL\r",
+        "party_id": "                                                            706777878",
+        "address": "13,CHARETH,FLAT1,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD LLOYD PICKERSGIL\r",
+        "party_id": "                                                            706777878",
+        "address": "13,CHARETH,FLAT1,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELVIRA ANN FELIZIA PERSSON\r",
+        "party_id": "                                                            91578091",
+        "address": "13,CHARETH,FLOOR1,TRIQL-GHERIEN,MELLIEHAMALTA",
+        "nationality": "SWEDISH"
+      }
+    ]
+  }
+}

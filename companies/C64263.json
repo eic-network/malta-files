@@ -1,0 +1,97 @@
+{
+  "name": "BELUGA HOLDINGS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART GORDON CRAIG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48102A",
+        "address": "6,FLAT1,TRIQSIRLUIGICAMILLERI,SLIEMASLM1841MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADEL SMAIL SI BOUEKAZ\r",
+        "nationality": "ALGERIAN",
+        "party_id": "                                                            03717443",
+        "address": "CVALENCIA312PO2,BARCELONASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 64263",
+  "registration_date": "Mar 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 3000
+}

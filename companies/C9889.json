@@ -1,0 +1,96 @@
+{
+  "name": "A A C INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 125,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 375,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KURT CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634263M",
+        "address": "4,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KURT CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634263M",
+        "address": "4,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KURT CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634263M",
+        "address": "4,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10921",
+        "address": "SUITE1,LEVEL2,TGCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KURT CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634263M",
+        "address": "4,BIRKIRKARAHILL,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KURT CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634263M",
+        "address": "4,BIRKIRKARAHILL,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "64, TRIQ L-ARTILLIERI,",
+  "company_id": "C 9889",
+  "registration_date": "Aug 22, 1988",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

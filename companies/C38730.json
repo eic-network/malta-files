@@ -1,0 +1,87 @@
+{
+  "name": "BALKAN HOLDING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILIPPE BUTTY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1483056",
+        "address": "BLDDELAFORET55A,PULLYCH-1009SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "PHILIPPE BUTTY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1483056",
+        "address": "BLDDELAFORET55A,PULLYCH-1009SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SWISS GLOBAL (NEW ZEALAND) LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            1502444",
+        "address": "461B,MAILROAD,OREWA,AUCKLANDNEWZEALAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "PHILIPPE BUTTY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1483056",
+        "address": "BLDDELAFORET55A,PULLYCH-1009SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "85, ST. JOHN STREET,",
+  "company_id": "C 38730",
+  "registration_date": "May 30, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

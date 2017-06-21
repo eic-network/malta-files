@@ -1,0 +1,51 @@
+{
+  "name": "AVYLUBE HOLDING LIMITED",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MEDWELL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            90976",
+        "address": "VERENIKIS2EGKOMI,P.C.2413,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "VIMATEX LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            90062",
+        "address": "25AFRODITISSTREET,CONSULCOHOUSE2NDFLOOR,FLAT204,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1600,
+  "address": "189/1 THE STRAND",
+  "company_id": "C 45292",
+  "registration_date": "Oct 08, 2008",
+  "shares_currency": "USD",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1600
+}

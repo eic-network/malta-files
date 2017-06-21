@@ -1,0 +1,88 @@
+{
+  "name": "BBQ CENTRE LIMITED",
+  "total_issued_shares_value": 1048217.85,
+  "total_authorised_shares_value": 1048217.85,
+  "authorised_shares": [
+    {
+      "issued_shares": 450000,
+      "type": "Ordinary",
+      "authorised_share_capital": 450000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OUTWEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 24627",
+        "address": "'SKY',DRAGONARAROAD,PACEVILLE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 290000
+        }
+      },
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80000
+        }
+      },
+      {
+        "name": "JASON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            144571M",
+        "address": "VILLAAURORA,TRIQL-GHONNELLA,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 450000,
+  "address": "SKY, DRAGONARA ROAD, PACEVILLE",
+  "company_id": "C 26532",
+  "registration_date": "Jun 13, 2000",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 450000
+}

@@ -1,0 +1,115 @@
+{
+  "company_id": "SV 88",
+  "address": "TG Complex, Suite 2, Level 3, Brewery Street,",
+  "name": "Bosphorus Umbrella SICAV P.L.C.",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "May 08, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "FounderA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 1000,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 1000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STEPHEN MUSCAT\r",
+        "party_id": "                                                            460561M",
+        "address": "17,'KEVMAN',FLAT1,TRIQID-DENCI,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "Bulent Topbas\r",
+        "party_id": "                                                            TR-921439",
+        "address": "IbrahimagaIsBankasiBlokari,a3blok,D:3,AcibademiSTANBULTURKEY",
+        "nationality": "TURKISH"
+      },
+      {
+        "name": "Omer Z. Topbas\r",
+        "party_id": "                                                            tr-067859",
+        "address": "SedefCaddesi,MercanSitesi,Mercan6D:7,AtasehiIstanbulTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Bulent Topbas\r",
+        "party_id": "                                                            TR-921439",
+        "address": "IbrahimagaIsBankasiBlokari,a3blok,D:3,AcibademiSTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Founder",
+          "class": "A",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Omer Z. Topbas\r",
+        "party_id": "                                                            tr-067859",
+        "address": "SedefCaddesi,MercanSitesi,Mercan6D:7,AtasehiIstanbulTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 0,
+          "paid_up_%": 0,
+          "nominal_value_per_share": 0
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Bulent Topbas\r",
+        "party_id": "                                                            TR-921439",
+        "address": "IbrahimagaIsBankasiBlokari,a3blok,D:3,AcibademiSTANBULTURKEY",
+        "nationality": "TURKISH"
+      },
+      {
+        "name": "Omer Z. Topbas\r",
+        "party_id": "                                                            tr-067859",
+        "address": "SedefCaddesi,MercanSitesi,Mercan6D:7,AtasehiIstanbulTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Bulent Topbas\r",
+        "party_id": "                                                            TR-921439",
+        "address": "IbrahimagaIsBankasiBlokari,a3blok,D:3,AcibademiSTANBULTURKEY",
+        "nationality": "TURKISH"
+      },
+      {
+        "name": "Omer Z. Topbas\r",
+        "party_id": "                                                            tr-067859",
+        "address": "SedefCaddesi,MercanSitesi,Mercan6D:7,AtasehiIstanbulTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BOV FUND SERVICES LIMITED\r",
+        "party_id": "                                                            C 39623",
+        "address": "58,ZACHARYSTREET,VALLETTAVLT1130MALTA",
+        "nationality": ""
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

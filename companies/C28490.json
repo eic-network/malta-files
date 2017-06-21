@@ -1,0 +1,99 @@
+{
+  "name": "BAKELS MALTA LIMITED",
+  "total_issued_shares_value": 116468.65,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KENNETH COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            647660M",
+        "address": "65,MARINASTR.,PIETA'MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL BREUSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            F0839515",
+        "address": "1ATTARDMALTA"
+      },
+      {
+        "name": "KENNETH COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            647660M",
+        "address": "65,MARINASTR.,PIETA'MALTA"
+      },
+      {
+        "name": "KENWARD COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            541562M",
+        "address": "65,MARINASTR.,PIETA'MALTA"
+      },
+      {
+        "name": "PATRICK GLOGGNER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0225460",
+        "address": "1ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KENWARD COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            541562M",
+        "address": "65,MARINASTR.,PIETA'MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMU AG",
+        "nationality": "",
+        "party_id": "",
+        "address": "FAENNRING1,CH-6403,KUESSNACHTA.R.SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "COLE HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 27971",
+        "address": "65,MARINASTR.,PIETA'MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 20000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "65, MARINA STREET,",
+  "company_id": "C 28490",
+  "registration_date": "Jul 20, 2001",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 50000
+}

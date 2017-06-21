@@ -1,0 +1,89 @@
+{
+  "name": "BARTU LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VEDAT ERBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04129027",
+        "address": "13E/12,AKASYAAPT.A2BLOK,BEYAZVADIKONAKLARI,BELEDIYESITESIYOLUSK,NISBETIYEMAH,BESIKTAS,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VEDAT ERBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04129027",
+        "address": "13E/12,AKASYAAPT.A2BLOK,BEYAZVADIKONAKLARI,BELEDIYESITESIYOLUSK,NISBETIYEMAH,BESIKTAS,ISTANBULTURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "7A,THEPODIUM,ST.MARKSTREET,ST.JULIANSSTJ1251MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VEDAT ERBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04129027",
+        "address": "13E/12,AKASYAAPT.A2BLOK,BEYAZVADIKONAKLARI,BELEDIYESITESIYOLUSK,NISBETIYEMAH,BESIKTAS,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VEDAT ERBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04129027",
+        "address": "13E/12,AKASYAAPT.A2BLOK,BEYAZVADIKONAKLARI,BELEDIYESITESIYOLUSK,NISBETIYEMAH,BESIKTAS,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "WH CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55460",
+        "address": "Level5,QuantumHouse,75,AbateRigordStreet,TA'XBIEXXBX1120MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE 1/4316, LEVEL G, QUANTUM HOUSE, 75, ABATE RIGORD STREET,",
+  "company_id": "C 60398",
+  "registration_date": "May 10, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

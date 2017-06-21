@@ -1,0 +1,91 @@
+{
+  "company_id": "C 45049",
+  "address": "VINCENTI BUILDINGS, 28/19, SUITE NO. 994,  STRAIT STREET,",
+  "name": "Brookhaven Limited",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 04, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHN EDWARD MOORE\r",
+        "party_id": "                                                            GL300081",
+        "address": "3933STONEPOINTDR,RR2INVERARY,ONTARIOK0H1X0CANADA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ISTORM INC\r",
+        "party_id": "                                                            377981-5",
+        "address": "1020BAYRIDGEDRIVE,KINGSTON,ONTARIOK7P2S2CANADA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JOHN EDWARD MOORE\r",
+        "party_id": "                                                            GL300081",
+        "address": "3933STONEPOINTDR,RR2INVERARY,ONTARIOK0H1X0CANADA",
+        "nationality": "CANADIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN EDWARD MOORE\r",
+        "party_id": "                                                            GL300081",
+        "address": "3933STONEPOINTDR,RR2INVERARY,ONTARIOK0H1X0CANADA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN EDWARD MOORE\r",
+        "party_id": "                                                            GL300081",
+        "address": "3933STONEPOINTDR,RR2INVERARY,ONTARIOK0H1X0CANADA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL J. ZAMMIT\r",
+        "party_id": "                                                            290474M",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAVLT1432MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

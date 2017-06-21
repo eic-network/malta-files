@@ -1,0 +1,83 @@
+{
+  "name": "AMADRIS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "THEODOROS BAKOLIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB787053",
+        "address": "POSIDONIAS12STREET,KORINTHOS20100GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THEODOROS BAKOLIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB787053",
+        "address": "POSIDONIAS12STREET,KORINTHOS20100GREECE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "10,BAYAPARTMENTS,FLAT6,ST.GEORGE'SROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THEODOROS BAKOLIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB787053",
+        "address": "POSIDONIAS12STREET,KORINTHOS20100GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THEODOROS BAKOLIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB787053",
+        "address": "POSIDONIAS12STREET,KORINTHOS20100GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1820
+        }
+      },
+      {
+        "name": "CHRYSOULA-MARIA REPPA\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AA415626",
+        "address": "POSIDONIAS12STREET,KORINTHOS20100GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 180
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "66, OLD BAKERY STREET,",
+  "company_id": "C 56418",
+  "registration_date": "May 23, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

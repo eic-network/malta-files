@@ -1,0 +1,133 @@
+{
+  "name": "ATLAS HEALTHCARE INSURANCE AGENCY LIMITED",
+  "total_issued_shares_value": 174702.98,
+  "total_authorised_shares_value": 174702.98,
+  "authorised_shares": [
+    {
+      "issued_shares": 74999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 74999,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQIL-LBICMADLIENASWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQIL-LBICMADLIENASWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLA,ST.ANDREWSSWIEQIMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQIL-LBICMADLIENASWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATLAS INSURANCE PCC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5601",
+        "address": "48-50,TA'XBIEXSEAFRONT,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 74999
+        }
+      },
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 75000,
+  "address": "47-50, TA XBIEX SEAFRONT",
+  "company_id": "C 32603",
+  "registration_date": "Dec 31, 2003",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 75000
+}

@@ -1,0 +1,65 @@
+{
+  "name": "ATHENIAN FAITH SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VERA HALKIDI\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T659419",
+        "address": "10-12,KIFISSIASAVE.,15125MAROUSSI,ATHENSGREECE"
+      },
+      {
+        "name": "GEORGE XANTHOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            O177980",
+        "address": "10-12,KIFISSIASAVENUE,MAROUSSI,ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SEASPAN TRADING LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "VERIDIAN NAVIGATION CORP.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 19148",
+  "registration_date": "Oct 02, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

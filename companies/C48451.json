@@ -1,0 +1,78 @@
+{
+  "name": "B6 Holding Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT1102MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTS DANDZBERGS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4564529",
+        "address": "VALDEMARAIELA63,RIGALV1010LATVIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTS DANDZBERGS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4564529",
+        "address": "VALDEMARAIELA63,RIGALV1010LATVIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTS DANDZBERGS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4564529",
+        "address": "VALDEMARAIELA63,RIGALV1010LATVIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IDA DANDZBERGA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3107783",
+        "address": "KAPASBIGAUNCIEMS,LAPMEZCIEMSPARISH,ENGUREREGIONLV3118LATVIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18/2 SOUTH STREET",
+  "company_id": "C 48451",
+  "registration_date": "Dec 15, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

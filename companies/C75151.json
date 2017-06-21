@@ -1,0 +1,98 @@
+{
+  "name": "Betive Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Andre Scicluna Calleja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0180285M",
+        "address": "TheWindgates,BlkB,Apt7,TriqTorrital-Kaptan,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARK FRED BAERWALDT\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            HG009338",
+        "address": "58,Apt2,WindsorStreet,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "SASCHA CARPENTER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            CH1H58N7J",
+        "address": "9,ST.LAWRENCESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "ANTOINE MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531579M",
+        "address": "86FLAT1,TRIQL-GHERIEN,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "DEAN MARTIN SHARPE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            531079296",
+        "address": "FLAT6,70,CHARLESCOURTTIGNE'SLIEMASLM3172MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "Andre Scicluna Calleja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0180285M",
+        "address": "TheWindgates,BlkB,Apt7,TriqTorrital-Kaptan,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 180
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "91 Triq Guze Fava",
+  "company_id": "C 75151",
+  "registration_date": "Apr 18, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

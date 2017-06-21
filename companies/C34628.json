@@ -1,0 +1,83 @@
+{
+  "name": "ALTA MARITIME CO. LTD.",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RICHARD J ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            284453M",
+        "address": "FLAT3,PINE,TAR-RAZZETTCOMPLEX,MILLSTREET,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HIDAYET ERGUN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-O688485",
+        "address": "POYRAZSOKAK,SADIKOGLU1ISMERKEZI,KAT.1NO.21,HASANPASA/KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HIDAYET ERGUN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-O688485",
+        "address": "POYRAZSOKAK,SADIKOGLU1ISMERKEZI,KAT.1NO.21,HASANPASA/KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HIDAYET ERGUN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-O688485",
+        "address": "POYRAZSOKAK,SADIKOGLU1ISMERKEZI,KAT.1NO.21,HASANPASA/KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESER ERGUN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N288306",
+        "address": "CINARMAHALLESI,MANASSOK.NO31ORANAPT,D9KUCUKYALI,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "HIDAYET ERGUN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-O688485",
+        "address": "POYRAZSOKAK,SADIKOGLU1ISMERKEZI,KAT.1NO.21,HASANPASA/KADIKOYISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 475
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 34628",
+  "registration_date": "Sep 20, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

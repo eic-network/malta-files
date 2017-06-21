@@ -1,0 +1,71 @@
+{
+  "name": "BETA MARINE LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NADINE JANE MROCH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627027470",
+        "address": "FLATC,COMMERCEHOUSE,LESBANQUES,ST.PETERPORT,GUERNSEYCHANNELISLANDS"
+      },
+      {
+        "name": "LESLEY RUTH PRESTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627024386",
+        "address": "PETITPRE,RUEDESHOUMETS,CASTEL,GUERNSEYCHANNELISLANDS"
+      },
+      {
+        "name": "DARRYL RALPH SHARMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627008031",
+        "address": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OUTHAUL MARINE LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "LAPLAIDERIE,STPETERPORTGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "TOPAZ INVESTMENTS LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "LAPLAIDERIEHOUSE,STPETERPORTGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198 OLD BAKERY STREET",
+  "company_id": "C 21477",
+  "registration_date": "Jun 02, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

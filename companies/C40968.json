@@ -1,0 +1,101 @@
+{
+  "name": "BISON MARITIME COMPANY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KEITH MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4463M",
+        "address": "171,OLDBAKERYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "THOMAS LUCAS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1651318793",
+        "address": "UHLENGRUND34,SEEVETAL2105GERMANY"
+      },
+      {
+        "name": "SALVADOR TROMPETA\r",
+        "nationality": "PHILIPINO",
+        "party_id": "                                                            ZZ105033",
+        "address": "B33L1-AROSARIOCOMPLEX,SANPEDRO,LAGUNAPHILIPPINES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THOMAS LUCAS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1651318793",
+        "address": "UHLENGRUND34,SEEVETAL2105GERMANY"
+      },
+      {
+        "name": "SALVADOR TROMPETA\r",
+        "nationality": "PHILIPINO",
+        "party_id": "                                                            ZZ105033",
+        "address": "B33L1-AROSARIOCOMPLEX,SANPEDRO,LAGUNAPHILIPPINES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THOMAS LUCAS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1651318793",
+        "address": "UHLENGRUND34,SEEVETAL2105GERMANY"
+      },
+      {
+        "name": "SALVADOR TROMPETA\r",
+        "nationality": "PHILIPINO",
+        "party_id": "                                                            ZZ105033",
+        "address": "B33L1-AROSARIOCOMPLEX,SANPEDRO,LAGUNAPHILIPPINES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THOMAS LUCAS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1651318793",
+        "address": "BERBERITZENWEG26,21220,SEEVETALGERMANY",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SALVADOR TROMPETA\r",
+        "nationality": "PHILIPINO",
+        "party_id": "                                                            ZZ105033",
+        "address": "B33L1-AROSARIOCOMPLEX,SANPEDRO,LAGUNAPHILIPPINES",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171,  OLD BAKERY STREET,",
+  "company_id": "C 40968",
+  "registration_date": "Mar 15, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

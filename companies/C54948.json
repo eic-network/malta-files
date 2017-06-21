@@ -1,0 +1,93 @@
+{
+  "name": "Beproga Limited",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MAURIZIO FORESTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2198034",
+        "address": "VIAVERBANO3,ABBIATEGRASSOMILANITALY"
+      },
+      {
+        "name": "EHUD GOLDSHMIDT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            136392227",
+        "address": "VIADONGIOVANNIBOSCO,14,LECCOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURIZIO FORESTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2198034",
+        "address": "VIAVERBANO3,ABBIATEGRASSOMILANITALY"
+      },
+      {
+        "name": "EHUD GOLDSHMIDT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            136392227",
+        "address": "VIADONGIOVANNIBOSCO,14,LECCOITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURIZIO FORESTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2198034",
+        "address": "VIAVERBANO3,ABBIATEGRASSOMILANITALY"
+      },
+      {
+        "name": "EHUD GOLDSHMIDT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            136392227",
+        "address": "VIADONGIOVANNIBOSCO,14,LECCOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NOAM BARTOV\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            13036886",
+        "address": "94,HANKINST.HOLONISRAEL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      },
+      {
+        "name": "EHUD GOLDSHMIDT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            136392227",
+        "address": "VIADONGIOVANNIBOSCO,14,LECCOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 34000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "VAULTS 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 54948",
+  "registration_date": "Jan 06, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

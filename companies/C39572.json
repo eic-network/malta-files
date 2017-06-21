@@ -1,0 +1,96 @@
+{
+  "name": "ALPHA HOLDINGS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MALTA COMPANY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2109308",
+        "address": "CARIBBEANSUITETHEVALLEYANGUILLATV111PBRITISHINDIANOCEANTERRITORY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALTA COMPANY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2109308",
+        "address": "CARIBBEANSUITETHEVALLEYANGUILLATV111PBRITISHINDIANOCEANTERRITORY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERTO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135070M",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALTA COMPANY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2109308",
+        "address": "CARIBBEANSUITETHEVALLEYANGUILLATV111PBRITISHINDIANOCEANTERRITORY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELSWORTH HOLDINGS INC.\r",
+        "nationality": "",
+        "party_id": "                                                            531997 / 980548",
+        "address": "CALLE50,NR.102,EDIFICIOUNIVERSALPANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2773
+        }
+      },
+      {
+        "name": "TRENCHARD HOLDINGS INC.\r",
+        "nationality": "",
+        "party_id": "                                                            495604 / 803076",
+        "address": "CALLE50,NR.102,EDIFICIOUNIVERSALPANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1344
+        }
+      },
+      {
+        "name": "ULTRA INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2075957",
+        "address": "CARIBBEANSUITETHEVALLEYANGUILLABRITISHINDIANOCEANTERRITORY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5883
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 39572",
+  "registration_date": "Sep 20, 2006",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

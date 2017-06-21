@@ -1,0 +1,83 @@
+{
+  "name": "3SIXTY MANAGEMENT COMPANY LIMITED",
+  "total_issued_shares_value": 2500000,
+  "total_authorised_shares_value": 2500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LUXEMBOURG MARINE SERVICES S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B53040",
+        "address": "20,AVENUEPASTEURLUXEMBOURGL-2310LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUXEMBOURG MARINE SERVICES S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B53040",
+        "address": "20,AVENUEPASTEURLUXEMBOURGL-2310LUXEMBOURG"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NICHOLAS VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3181M",
+        "address": "AURORA,FLAT3,TRIQIT-TEMPESTA,QRENDIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUXEMBOURG MARINE SERVICES S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B53040",
+        "address": "20,AVENUEPASTEURLUXEMBOURGL-2310LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESPEJO BVBA\r",
+        "nationality": "",
+        "party_id": "                                                            0656.535.590",
+        "address": "KONINGINASTRIDLAAN29,BRUGGE8300BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250000
+        }
+      },
+      {
+        "name": "UNIPAR N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            0465.120.641",
+        "address": "OUDEBAAN120,DENDERMONDE9200BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500000,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 80376",
+  "registration_date": "Apr 07, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2500000
+}

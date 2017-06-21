@@ -1,0 +1,91 @@
+{
+  "name": "APA IMPORT & EXPORT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317263M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317263M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317263M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GILBERT MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110121",
+        "address": "62,MAGNOLIA,TRIQIL-MARG,ATTARDATD2382MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317263M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317263M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "PAULINE PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            416665M",
+        "address": "50,EUROMANS,FL14TRIQL-UNIVERSITAMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "APA STORES, MONS. GUZEPPI SCHEMBRI STREET",
+  "company_id": "C 66836",
+  "registration_date": "Sep 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "TARXIEN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

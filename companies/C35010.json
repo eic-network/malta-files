@@ -1,0 +1,83 @@
+{
+  "company_id": "C 35010",
+  "address": "27, GROGNET STREET",
+  "name": "BRIDGE TRADING INTERNATIONAL LTD.",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Nov 15, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MOHAMMED IBRAHIM KAFU\r",
+        "party_id": "                                                            244139",
+        "address": "18,1STSEPTEMBERSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BELGASEM MABRUK Y. BENYOUNES\r",
+        "party_id": "                                                            099496",
+        "address": "SOUKELGUIMA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MOHAMMED IBRAHIM KAFU\r",
+        "party_id": "                                                            244139",
+        "address": "18,1STSEPTEMBERSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MOHAMMED IBRAHIM KAFU\r",
+        "party_id": "                                                            244139",
+        "address": "18,1STSEPTEMBERSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMMED IBRAHIM KAFU\r",
+        "party_id": "                                                            244139",
+        "address": "18,1STSEPTEMBERSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MOHAMMED IBRAHIM KAFU\r",
+        "party_id": "                                                            244139",
+        "address": "18,1STSEPTEMBERSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

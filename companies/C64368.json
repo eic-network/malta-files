@@ -1,0 +1,91 @@
+{
+  "name": "BONAVITA & SONS LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SOFIA ABEL TEIXEIRA DE OLIVEIRA BRAGA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            H410956",
+        "address": "RUADR.BRITOCAMARA,NR20,1STFLOOR,FUNCHAL9000-039PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSHUA CRINS (Minor)\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NUFR1LJ31",
+        "address": "129/4,SAPHLI,CHUMPON86230THAILAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "MILKO THEODORUS JOHANNES CRINS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BD42218H8",
+        "address": "129/4,SAPHLI,CHUMPON86230THAILAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "89, ST. JOHN STREET,",
+  "company_id": "C 64368",
+  "registration_date": "Mar 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

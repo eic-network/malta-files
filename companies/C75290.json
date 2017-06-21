@@ -1,0 +1,187 @@
+{
+  "name": "4 VENTURE LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR JIMMY MARK FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119784M",
+        "address": "9,ST.MARYCRT.,WESGHADUNGUZEPPCARUANA,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARK MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            22674M",
+        "address": "50,EDERA,TRIQTAS-SILG,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "JOSEPH ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202373M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR JIMMY MARK FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119784M",
+        "address": "9,ST.MARYCRT.,WESGHADUNGUZEPPCARUANA,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARK MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            22674M",
+        "address": "50,EDERA,TRIQTAS-SILG,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "JOSEPH ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202373M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VICTOR JIMMY MARK FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119784M",
+        "address": "9,ST.MARYCRT.,WESGHADUNGUZEPPCARUANA,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARK MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            22674M",
+        "address": "50,EDERA,TRIQTAS-SILG,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "JOSEPH ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202373M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR JIMMY MARK FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119784M",
+        "address": "9,ST.MARYCRT.,WESGHADUNGUZEPPCARUANA,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARK MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            22674M",
+        "address": "50,EDERA,TRIQTAS-SILG,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "JOSEPH ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202373M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANK GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            781757M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "JOSEPH ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202373M",
+        "address": "GOEMM,D.SECULUSSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "VICTOR JIMMY MARK FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119784M",
+        "address": "9,ST.MARYCRT.,WESGHADUNGUZEPPCARUANA,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "MARK MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            22674M",
+        "address": "50,EDERA,TRIQTAS-SILG,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PENTHOUSE, CAROLINA COURT, GUZEPPI CALI' STREET,",
+  "company_id": "C 75290",
+  "registration_date": "Apr 19, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,97 @@
+{
+  "name": "Amazonia-Consult Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JIM ROBIN ANDREE AXELSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            70366A",
+        "address": "VALHALLA,STMARYSTREET,ALLEYNO2,BALZANBZN1230MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "VALHALLA,ALLEYNO.2,ST.MARYSTREET,BALZANBZN1230MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "VALHALLA,ALLEYNO.2,ST.MARYSTREET,BALZANBZN1230MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "VALHALLA,ALLEYNO.2,ST.MARYSTREET,BALZANBZN1230MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GERT DUSON\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-2771639-63",
+        "address": "WATERMOLEN7,RETIE2470BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "HUGO DUSON\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-7233827-57",
+        "address": "STEENBERG30,BRAKEL9660BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "29, ST. MARY STREET,",
+  "company_id": "C 70865",
+  "registration_date": "Jun 01, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

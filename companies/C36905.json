@@ -1,0 +1,97 @@
+{
+  "name": "Asca Limited",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN V. CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            819055M",
+        "address": "CHATEAUDESLOIRS,78,G'MANGIAHILL,G'MANGIA,PIETA'PTA1314MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Vincent International Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36227",
+        "address": "MAYFAIRBUSINESSCENTRE,STGEORGE'SBAYST.JULIANSSTJ3311MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Vincent International Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36227",
+        "address": "MAYFAIRBUSINESSCENTRE,STGEORGE'SBAYST.JULIANSSTJ3311MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "SUITE8,TA'MALLIABUILDINGS,TRIQIN-NEGOZJU,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Vincent International Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36227",
+        "address": "MAYFAIRBUSINESSCENTRE,STGEORGE'SBAYST.JULIANSSTJ3311MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTIAN SCHNEIDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            253826999",
+        "address": "WIELANDSTR.912159BERLINGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "ANDERSEN LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36225",
+        "address": "THEMAYFAIRCOMPLEX,ST.GEORGE'SBAY,ST.JULIANSSTJ02MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "THE MAYFAIR COMPLEX ST. GEORGE'S BAY",
+  "company_id": "C 36905",
+  "registration_date": "Sep 06, 2005",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1250
+}

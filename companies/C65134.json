@@ -1,0 +1,104 @@
+{
+  "name": "ARMIER BAY MARITIME SERVICES LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SOFIA ABEL TEIXEIRA DE OLIVEIRA BRAGA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            H410956",
+        "address": "RUADR.BRITOCAMARA,NR20,1STFLOOR,FUNCHAL9000-039PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEWCO Corporate Director Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58294",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAMON EDUARDO FRANCISCO FUENTEALBA CALCAGNO\r",
+        "nationality": "CHILEAN",
+        "party_id": "                                                            4.142.155-K",
+        "address": "AV.PAPALSANJUANBOSCOEDIFICIOCENTROALTAMIRA,PISOCARACAS11-1VENEZUELA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "GEORGES KHAWAM CHAKAR\r",
+        "nationality": "VENEZUELAN",
+        "party_id": "                                                            032835768",
+        "address": "AV.PAPALSANJUANBOSCO,EDIFICIOCENTROALTAMIRA,PISOCARACAS11-1VENEZUELA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "GEORGIOS PAPADIMITRIOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AK2732347",
+        "address": "AV.PAPALSANJUANBOSCO,EDIFICIOCENTROALTAMIRA,PISO,CARACAS11-1VENEZUELA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "89, ST. JOHN STREET",
+  "company_id": "C 65134",
+  "registration_date": "May 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

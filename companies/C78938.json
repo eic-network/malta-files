@@ -1,0 +1,89 @@
+{
+  "name": "AVENTIO HOLDINGS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FUTURE PATH HOLDINGS B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            67396801",
+        "address": "JANVANGOYENKADE8AMSTERDAM1075HPNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "B2 INDUSTRY STREET",
+  "company_id": "C 78938",
+  "registration_date": "Dec 30, 2016",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,123 @@
+{
+  "name": "BIOCHEMICALS INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1281155.15,
+  "total_authorised_shares_value": 1397623.8,
+  "authorised_shares": [
+    {
+      "issued_shares": 250000,
+      "type": "Ordinary",
+      "authorised_share_capital": 300000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300000,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 300000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Victor Zammit\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            783349M",
+        "address": "K2,CorradinoIndustrialEstatePAOLAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            783349M",
+        "address": "'BLUEROSES',SANANTONESTATE,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            783349M",
+        "address": "'BLUEROSES',SANANTONESTATE,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            783349M",
+        "address": "'BLUEROSES',SANANTONESTATE,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAMEL U ZRAR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 13018",
+        "address": "'MARGATE'TRIQIL-KUCCARD,SAFIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "",
+          "issued_shares": 300000
+        }
+      },
+      {
+        "name": "GIOVANNA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27063M",
+        "address": "'SHALOM'TRIQIL-KALESSSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ROSE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            608847M",
+        "address": "'BLUEROSES',SANANTONESTATEATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            783349M",
+        "address": "'BLUEROSES',SANANTONESTATE,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 249998
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 550000,
+  "address": "K2, CORRADINO INDUSTRIAL ESTATE,",
+  "company_id": "C 9068",
+  "registration_date": "Oct 05, 1987",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 600000
+}

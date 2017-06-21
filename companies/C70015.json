@@ -1,0 +1,83 @@
+{
+  "name": "BEACH GARDEN HOTEL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOE DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253570M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOE DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253570M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOE DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253570M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOE DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253570M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROMINA DEGUARA BALBI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321372M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "JOE DEGUARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253570M",
+        "address": "18,DAVINCICOURT,TRIQIL-GARNI,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18 DA VINCI COURT, TRIQ IL-GARNI,",
+  "company_id": "C 70015",
+  "registration_date": "Apr 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

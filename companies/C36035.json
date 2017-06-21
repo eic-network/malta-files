@@ -1,0 +1,133 @@
+{
+  "company_id": "C 36035",
+  "address": "CAMILLERI PREZIOSI, LEVEL 2,  VALLETTA BUILDINGS, SOUTH STREET",
+  "name": "BR EUROPE (MALTA) LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Apr 15, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 435550,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 421370
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "RedeemablePreference",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 435551,
+  "total_authorised_shares_value": 435551,
+  "total_issued_shares": 421371,
+  "total_issued_shares_value": 421371,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DELLOULA AOUINTI\r",
+        "party_id": "                                                            14AF32951",
+        "address": "5,LESMESANGES,57570BOUSTFRANCE",
+        "nationality": "FRENCH"
+      },
+      {
+        "name": "LOUIS DE GABRIELE\r",
+        "party_id": "                                                            136664M",
+        "address": "55,TRIQIL-BARMIL,VICTORIAGARDENS,IBRAGG,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALEXIS GISSELBRECHT\r",
+        "party_id": "                                                            12CY07048",
+        "address": "9LOWERBARNROADPURLEYCR81HYUNITEDKINGDOM",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLACKROCK EUROPE PROPERTY FUND II L.P.\r",
+        "party_id": "                                                            36032",
+        "address": "CLARENDONHOUSE,2CHURCHSTREET,HAMILTONHM11BERMUDA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 421370,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EUROPE GP LTD.\r",
+        "party_id": "                                                            35954",
+        "address": "CLARENDONHOUSE,2CHURCHSTREET,HM11,HAMILTONBERMUDA",
+        "nationality": "",
+        "shares": {
+          "type": "Redeemable Preference",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DELLOULA AOUINTI\r",
+        "party_id": "                                                            14AF32951",
+        "address": "5,LESMESANGES,57570BOUSTFRANCE",
+        "nationality": "FRENCH"
+      },
+      {
+        "name": "LOUIS DE GABRIELE\r",
+        "party_id": "                                                            136664M",
+        "address": "55,TRIQIL-BARMIL,VICTORIAGARDENS,IBRAGG,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALEXIS GISSELBRECHT\r",
+        "party_id": "                                                            12CY07048",
+        "address": "9LOWERBARNROADPURLEYCR81HYUNITEDKINGDOM",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DELLOULA AOUINTI\r",
+        "party_id": "                                                            14AF32951",
+        "address": "5,LESMESANGES,57570BOUSTFRANCE",
+        "nationality": "FRENCH"
+      },
+      {
+        "name": "LOUIS DE GABRIELE\r",
+        "party_id": "                                                            136664M",
+        "address": "55,TRIQIL-BARMIL,VICTORIAGARDENS,IBRAGG,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALEXIS GISSELBRECHT\r",
+        "party_id": "                                                            12CY07048",
+        "address": "9LOWERBARNROADPURLEYCR81HYUNITEDKINGDOM",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DONALD VELLA\r",
+        "party_id": "                                                            579782M",
+        "address": "AMBERCOURT,FLAT5,TRIQIT-TABIBGREGORIOMIFSUD,QRENDIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

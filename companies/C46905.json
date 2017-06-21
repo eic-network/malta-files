@@ -1,0 +1,51 @@
+{
+  "name": "ANDASKA LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 46905",
+  "registration_date": "May 28, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

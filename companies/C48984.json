@@ -1,0 +1,83 @@
+{
+  "name": "BALLTER UNITED GROUP LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50,
+      "type": "Ordinary",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS WIEBE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            535135105",
+        "address": "CH-8577SCHONHOLZERSWILENFELDSTRASSESWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS WIEBE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            535135105",
+        "address": "CH-8577SCHONHOLZERSWILENFELDSTRASSESWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART GORDON CRAIG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48102A",
+        "address": "6,FLAT1,TRIQSIRLUIGICAMILLERI,SLIEMASLM1841MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS WIEBE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            535135105",
+        "address": "CH-8577SCHONHOLZERSWILENFELDSTRASSESWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREAS WIEBE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            535135105",
+        "address": "CH-8577SCHONHOLZERSWILENFELDSTRASSESWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "IRINA WIEBE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5351301792",
+        "address": "CH-8577SCHONHOLZERSWILENFELDSTRASSESWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50,
+  "address": "DOMESTICA BUILDING, FOURTH FLOOR, MSIDA VALLEY ROAD,",
+  "company_id": "C 48984",
+  "registration_date": "Mar 01, 2010",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 50
+}

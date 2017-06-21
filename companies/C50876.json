@@ -1,0 +1,64 @@
+{
+  "name": "B-EXCLUSIVE HOLDING COMPANY LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ANTONIO SERGIO BEATRIZ ROSA ORVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            G775266",
+        "address": "ESTRADADELABRECA,NO.209,ATALAIA,MONTIJOPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "LUIS FILIPE BEATRIZ ROSA ORVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            G776128",
+        "address": "ESTRADADELABRECA,NO.209,ATALAIA,MONTIJOPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ANTONIO ROSA ORVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            J115357",
+        "address": "ESTRADADELABRECA,NO.209,ATALAIA,MONTIJOPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "81-83, ST. PAUL STREET,",
+  "company_id": "C 50876",
+  "registration_date": "Oct 14, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

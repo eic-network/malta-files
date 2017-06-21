@@ -1,0 +1,75 @@
+{
+  "name": "ALTHEA LIMITED",
+  "total_issued_shares_value": 1280,
+  "total_authorised_shares_value": 800000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1280,
+      "type": "Ordinary",
+      "authorised_share_capital": 800000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEX PERICI CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            589762M",
+        "address": "61,FIRSTFLOOR,MSIDACOURT,MSIDASEAFRONT,MSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEX PERICI CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            589762M",
+        "address": "61,FIRSTFLOOR,MSIDACOURT,MSIDASEAFRONT,MSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEX PERICI CALASCIONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            589762M",
+        "address": "61,FIRSTFLOOR,MSIDACOURT,MSIDASEAFRONT,MSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "UNIFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11126",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1279
+        }
+      },
+      {
+        "name": "UNIFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11126",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1280,
+  "address": "PRINCESS COURT NO. 1, ST. JOHN OF THE CROSS STREET,",
+  "company_id": "C 21359",
+  "registration_date": "Apr 28, 1997",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 800000
+}

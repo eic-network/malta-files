@@ -1,0 +1,79 @@
+{
+  "name": "BIZCHORD CONSULTING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHAEL FAINSHTEIN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            6314187",
+        "address": "NEVEYAKOV515/30JERUSALEM97470ISRAEL"
+      },
+      {
+        "name": "EVGENE VOLKOV\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            8459982",
+        "address": "60-1108INVERLOCHYBLVD.,THORNHILL,ONTARIOL3T4T7CANADA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL FAINSHTEIN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            6314187",
+        "address": "NEVEYAKOV515/30JERUSALEM97470ISRAEL"
+      },
+      {
+        "name": "EVGENE VOLKOV\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            8459982",
+        "address": "60-1108INVERLOCHYBLVD.,THORNHILL,ONTARIOL3T4T7CANADA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL FAINSHTEIN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            6314187",
+        "address": "NEVEYAKOV515/30JERUSALEM97470ISRAEL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "EVGENE VOLKOV\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            8459982",
+        "address": "60-1108INVERLOCHYBLVD.,THORNHILL,ONTARIOL3T4T7CANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VINCENTI BUILDINGS, SUITE 258, 14/19 STRAIT STREET,",
+  "company_id": "C 32528",
+  "registration_date": "Nov 24, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

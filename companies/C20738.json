@@ -1,0 +1,67 @@
+{
+  "name": "BODIMAL LIMITED",
+  "total_issued_shares_value": 6000,
+  "total_authorised_shares_value": 6000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "Ordinary",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CLAUDE BOUCHERIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            3000468563",
+        "address": "DRIEAARDENLAAN18,BOECHOUT2530BELGIUM"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDE BOUCHERIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            3000468563",
+        "address": "DRIEAARDENLAAN18,BOECHOUT2530BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FINCO TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 13078",
+        "address": "LEVEL5,THEMALLCOMPLEX,THEMALLFLORIANAFRN1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FINCO TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 13078",
+        "address": "LEVEL5,THEMALLCOMPLEX,THEMALLFLORIANAFRN1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "EUROPA CENTRE, 113, ST. FRANCIS STREET,",
+  "company_id": "C 20738",
+  "registration_date": "Nov 12, 1996",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 6000
+}

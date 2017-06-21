@@ -1,0 +1,89 @@
+{
+  "name": "Alte Limited",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Velag Limited\r",
+        "nationality": "",
+        "party_id": "                                                            115570",
+        "address": "Suites41/42,VictoriaHouse26MainStreetGibraltarGX111AAGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Velag Limited\r",
+        "nationality": "",
+        "party_id": "                                                            115570",
+        "address": "Suites41/42,VictoriaHouse26MainStreetGibraltarGX111AAGIBRALTAR"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "John Bezzina \r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            392581M",
+        "address": "NO.10ST.MARGARETSTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Velag Limited\r",
+        "nationality": "",
+        "party_id": "                                                            115570",
+        "address": "Suites41/42,VictoriaHouse26MainStreetGibraltarGX111AAGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Velag Limited\r",
+        "nationality": "",
+        "party_id": "                                                            115570",
+        "address": "Suites41/42,VictoriaHouse,26MainStreetGibraltarGX111AAGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "John Bezzina \r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            392581M",
+        "address": "NO.10ST.MARGARETSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "St. Julians Accountancy Wied Ghomor Street",
+  "company_id": "C 80693",
+  "registration_date": "May 03, 2017",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1250
+}

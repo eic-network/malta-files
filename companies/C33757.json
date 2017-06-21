@@ -1,0 +1,67 @@
+{
+  "name": "ANCIENT YACHTSMAN LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "BENJAMIN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557248M",
+        "address": "37,SERENA,MOSESGATTSTREET,BIRKIRKARABKR04MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ZETA DATA & CONSULTANCY LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "GLADSTONOS99,LIMASSOL3032CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "1, COL. SAVONA STREET,",
+  "company_id": "C 33757",
+  "registration_date": "Apr 21, 2004",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

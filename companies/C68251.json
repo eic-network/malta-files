@@ -1,0 +1,290 @@
+{
+  "name": "BETBULL LIMITED",
+  "total_issued_shares_value": 1780.12,
+  "total_authorised_shares_value": 1780.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 72600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 72600,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 47400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 47400,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 58012,
+      "type": "PreferenceC",
+      "authorised_share_capital": 58012,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESI,D3/D1,GOKTURK,ISTANBUL34077TURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESI,D3/D1,GOKTURK,ISTANBUL34077TURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESI,D3/D1,GOKTURK,ISTANBUL34077TURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESI,D3/D1,GOKTURK,ISTANBUL34077TURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESI,D3/D1,GOKTURK,ISTANBUL34077TURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 72600
+        }
+      },
+      {
+        "name": "CORNHILL FINANCE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1795445",
+        "address": "TRIDENTCHAMBER,ROADTOWN,TORTOLAP.O.BOX146VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5100
+        }
+      },
+      {
+        "name": "MANFRED BODNER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            01991518",
+        "address": "EUROPORTROAD,EUROTOWER321,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 16800
+        }
+      },
+      {
+        "name": "BARIS ERTUL\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U07972837",
+        "address": "HACIOSMANBAYIRINO.65,SARIYER,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 7200
+        }
+      },
+      {
+        "name": "ANDREA GAUDENZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3745341",
+        "address": "3,RUEDEROSES,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "TOTAL MARKET HOLDING CORP\r",
+        "nationality": "",
+        "party_id": "                                                            1691590",
+        "address": "OMCCHAMBERS,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 12000
+        }
+      },
+      {
+        "name": "VADIM BARSHTAK\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            29003578",
+        "address": "7BLESIUKRAINKIBLVD.APT122,KIEV0113UKRAINE",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5100
+        }
+      },
+      {
+        "name": "BACHURY SERVICES INC.\r",
+        "nationality": "",
+        "party_id": "                                                            1476192",
+        "address": "TRIDENTCHAMBERS,P.O.BOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 4005
+        }
+      },
+      {
+        "name": "PATERN ENTERPRISES INC.\r",
+        "nationality": "",
+        "party_id": "                                                            24,764",
+        "address": "EAST53RDST.MARBELLAMMGBUILDING,2NDFLOOR,PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 4005
+        }
+      },
+      {
+        "name": "RAQUERA TRADE INC.\r",
+        "nationality": "",
+        "party_id": "                                                            29,551",
+        "address": "EAST53RDST.MARBELLAMMGBUILDING,2NDFLOOR,PANAMAPANAMA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 11998
+        }
+      },
+      {
+        "name": "VERITAS INVESTMENTS GROUP AG\r",
+        "nationality": "",
+        "party_id": "                                                            CHE-342.895.451",
+        "address": "c/oSWISSPATHCONSULTINGAGSEEFELDSTRASSEZURICH568008SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 4005
+        }
+      },
+      {
+        "name": "KAMER DIKRAN ALYANAKAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U07911395",
+        "address": "SEYMENSOKAK,KIBARAPT.NO.80/1D.5,34377,KURTULUSISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 11998
+        }
+      },
+      {
+        "name": "BURAK GOZALAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08047853",
+        "address": "HACIMIMIMAH.DIBEKSOK.DIDEKKAREAPT.NO:21/1,GALTA/BEYOGLUISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 1780
+        }
+      },
+      {
+        "name": "SADOK KOHEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08891117",
+        "address": "DOGAMESEPARKSITESID3/D1GOKTURK34077ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 4005
+        }
+      },
+      {
+        "name": "DIEGO OLIVA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XDA471600",
+        "address": "SKANEGATAN57,TR.511637STICKHOLMSWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 4005
+        }
+      },
+      {
+        "name": "ORKUN TEKIN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01229976",
+        "address": "GUVERCINSOKAKNO.24LEVENTISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 2421
+        }
+      },
+      {
+        "name": "AHMET MELIH YAVAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02011899",
+        "address": "GOZTEPEMAH.PETEKSOK.ARKADIAAPT.NO.3D.31,KADIKOY,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "C",
+          "issued_shares": 1780
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 178012,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET,",
+  "company_id": "C 68251",
+  "registration_date": "Dec 22, 2014",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 178012
+}

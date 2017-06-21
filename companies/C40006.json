@@ -1,0 +1,109 @@
+{
+  "company_id": "C 40006",
+  "address": "18/2, SOUTH STREET,",
+  "name": "BRAVOMAR HOLDING LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Nov 20, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 4450,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 4450,
+  "total_authorised_shares_value": 4450,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JEKATERINA KLIMOVSKIH\r",
+        "party_id": "                                                            KB0810385",
+        "address": "192,RUEDEMONTBLANC,CESSY01170FRANCE",
+        "nationality": "ESTONIAN"
+      },
+      {
+        "name": "IGOR KLIMOVSKIHH\r",
+        "party_id": "                                                            KB0481473",
+        "address": "SARAPIKUU13,TALLINN11912ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IGOR KLIMOVSKIHH\r",
+        "party_id": "                                                            KB0481473",
+        "address": "SARAPIKUU13,TALLINN11912ESTONIA",
+        "nationality": "ESTONIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1140,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JEKATERINA KLIMOVSKIH\r",
+        "party_id": "                                                            KB0810385",
+        "address": "192,RUEDEMONTBLANC,CESSY01170FRANCE",
+        "nationality": "ESTONIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEKATERINA KLIMOVSKIH\r",
+        "party_id": "                                                            KB0810385",
+        "address": "192,RUEDEMONTBLANC,CESSY01170FRANCE",
+        "nationality": "ESTONIAN"
+      },
+      {
+        "name": "IGOR KLIMOVSKIHH\r",
+        "party_id": "                                                            KB0481473",
+        "address": "SARAPIKUU13,TALLINN11912ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEKATERINA KLIMOVSKIH\r",
+        "party_id": "                                                            KB0810385",
+        "address": "192,RUEDEMONTBLANC,CESSY01170FRANCE",
+        "nationality": "ESTONIAN"
+      },
+      {
+        "name": "IGOR KLIMOVSKIHH\r",
+        "party_id": "                                                            KB0481473",
+        "address": "SARAPIKUU13,TALLINN11912ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "party_id": "                                                            664359M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT1102MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "party_id": "                                                            183165M",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

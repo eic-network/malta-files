@@ -1,0 +1,70 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Sep 17, 2014",
+  "status": "",
+  "locality": "BIRKIRKARA",
+  "name": "BUILD-UP HOLDING CO. LTD.",
+  "total_issued_shares": 1200,
+  "address": "FLOOR 5, 115A, MSIDA VALLEY ROAD,",
+  "company_id": "C 66770",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "TARJANSZELE6.A2.FLOOR6,SZEGED6723HUNGARY",
+        "party_id": "                                                            BD8264209",
+        "name": "GABOR GYULA HEINTZ\r",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "TARJANSZELE6.A2.FLOOR6,SZEGED6723HUNGARY",
+        "party_id": "                                                            BD8264209",
+        "name": "GABOR GYULA HEINTZ\r",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "18/4,WINDSORTERRACE,SLIEMASLM1855MALTA",
+        "party_id": "                                                            253583M",
+        "name": "DAVID MELI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "TARJANSZELE6.A2.FLOOR6,SZEGED6723HUNGARY",
+        "party_id": "                                                            BD8264209",
+        "name": "GABOR GYULA HEINTZ\r",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "TARJANSZELE6.A2.FLOOR6,SZEGED6723HUNGARY",
+        "party_id": "                                                            BD8264209",
+        "name": "GABOR GYULA HEINTZ\r",
+        "nationality": "HUNGARIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

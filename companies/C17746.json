@@ -1,0 +1,99 @@
+{
+  "name": "AQUALITE LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183165M",
+        "address": "THEPENTHOUSE,CAROLINACOURTGUZEPPICALISTREETTA'XBIEXXBX1425MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            39056G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY DOLORES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            30653G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY DOLORES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            30653G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19131",
+        "address": "5,CORDINA,TRIQL-GHONQA,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARY DOLORES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            30653G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            39056G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "MARY DOLORES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            30653G",
+        "address": "7,TRIQL-UNIVERSITAS,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "7, TRIQ L-UNIVERSITAS,",
+  "company_id": "C 17746",
+  "registration_date": "Feb 08, 1995",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1000
+}

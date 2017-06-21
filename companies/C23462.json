@@ -1,0 +1,62 @@
+{
+  "name": "BELAZ TRADE CORPORATION LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP DONALD BURWELL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            701451",
+        "address": "42,CHELMSFORDROADDUBLIN6IRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE JOSEPH PATRIC OCONNOR\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            012281626",
+        "address": "VALENTINECOTTAGE,BALLINVELLALISMORE,WATERFORDIRELAND"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE JOSEPH PATRIC OCONNOR\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            012281626",
+        "address": "VALENTINECOTTAGE,BALLINVELLALISMORE,WATERFORDIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GANADO TRUSTEES & FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7880",
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 23462",
+  "registration_date": "Sep 22, 1998",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

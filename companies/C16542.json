@@ -1,0 +1,91 @@
+{
+  "company_id": "C 16542",
+  "address": "CMS HOUSE, THIRD FLOOR, ST. PETER'S STREET,",
+  "name": "BRIGHT PRESENT LTD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Jul 26, 1994",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENASWIEQISWQ1413MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BEER HOUSE LIMITED",
+  "total_issued_shares_value": 26500,
+  "total_authorised_shares_value": 26500,
+  "authorised_shares": [
+    {
+      "issued_shares": 26500,
+      "type": "Ordinary",
+      "authorised_share_capital": 26500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NEIL CARTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509078M",
+        "address": "6,TRIQIZ-ZONORNAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEIL CARTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509078M",
+        "address": "6,TRIQIZ-ZONORNAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEIL CARTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509078M",
+        "address": "6,TRIQIZ-ZONORNAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "W&D\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEIL CARTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509078M",
+        "address": "6,TRIQIZ-ZONORNAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEIL CARTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509078M",
+        "address": "6,TRIQIZ-ZONORNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 26500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 26500,
+  "address": "35/1, SALVU PSAILA STREET,",
+  "company_id": "C 49987",
+  "registration_date": "Jun 21, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 26500
+}

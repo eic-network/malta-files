@@ -1,0 +1,117 @@
+{
+  "name": "BESTMAISON LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "DAVID ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            26183M",
+        "address": "239,TRIQIL-KBIRA,BALZANBZN1256MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TIZIANO GIOVAZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4796944",
+        "address": "19,J.KEPLERSTREET,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SERGIO GARAVENTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6549970",
+        "address": "OCEANREEF,MAIS1,TRIQL-ETNA,MELLIEHAMALTA"
+      },
+      {
+        "name": "TIZIANO GIOVAZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4796944",
+        "address": "19,J.KEPLERSTREET,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SERGIO GARAVENTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6549970",
+        "address": "OCEANREEF,MAIS1,TRIQL-ETNA,MELLIEHAMALTA"
+      },
+      {
+        "name": "TIZIANO GIOVAZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4796944",
+        "address": "19,J.KEPLERSTREET,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            607764M",
+        "address": "37,ST.MARYSTREET,NAXXARNXR1406MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SERGIO GARAVENTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6549970",
+        "address": "OCEANREEF,MAIS1,TRIQL-ETNA,MELLIEHAMALTA"
+      },
+      {
+        "name": "TIZIANO GIOVAZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4796944",
+        "address": "19,J.KEPLERSTREET,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SERGIO GARAVENTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6549970",
+        "address": "OCEANREEF,MAIS1,TRIQL-ETNA,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "TIZIANO GIOVAZZINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4796944",
+        "address": "19,J.KEPLERSTREET,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "LEVEL 3, THEUMA HOUSE, 302 ST. PAUL STREET,",
+  "company_id": "C 67925",
+  "registration_date": "Dec 04, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,89 @@
+{
+  "company_id": "C 74075",
+  "address": "89, ST. JOHN STREET,",
+  "name": "BRAIN KNOWLEDGE LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jan 25, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1164,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1164
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRAIN KNOWLEDGE HOLDING LTD\r",
+        "party_id": "                                                            C 74058",
+        "address": "89,STJOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FREDERICO DORIA MONTEIRO DE GOUVEIA E SILVA\r",
+        "party_id": "                                                            L717572",
+        "address": "65,CHRISTCHURCHCOURT,FLAT4,TRIQIN-NAZZARENU,SLIEMAMALTA",
+        "nationality": "PORTUGUESE"
+      }
+    ]
+  }
+}

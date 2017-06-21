@@ -1,0 +1,112 @@
+{
+  "name": "ART CAFE LIMITED",
+  "total_issued_shares_value": 4500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 4500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CONRAD MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0313789M",
+        "address": "52,IVYTRIQIL-GUMMAR,BIRKIRKARABKR4753MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DORIANNE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            200287M",
+        "address": "41,DAVIGOLDP/HSE3,TRIQIL-QAMH,ZEBBUGZBG1752MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HUGH ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73566M",
+        "address": "TORREFAWWARA,TAL-FAWWARA,SIGGIEWIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HUGH ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73566M",
+        "address": "TORREFAWWARA,TAL-FAWWARA,SIGGIEWIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUKE CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113137",
+        "address": "6,BELVEDEREALFREDGERADASTREETIKLINIKL1680MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HUGH ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73566M",
+        "address": "TORREFAWWARA,TAL-FAWWARA,SIGGIEWIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EXPOSURE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10817",
+        "address": "'TA'GNIENSANPAWL',ST.CATHERINESTREET,XWIEKI,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "GREMLIN LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10818",
+        "address": "NETWORKBUILDING,INDUSTRIALZONE,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "R.E.M.S. LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10816",
+        "address": "NETWORKBUILDING',INDUSTRIALZONEBIRKIRKARABKR13000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4500,
+  "address": "41, DAVVVIGOLD, PHSE 3, TRIQ IL-QAMH",
+  "company_id": "C 66141",
+  "registration_date": "Jul 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "In Dissolution",
+  "total_authorised_shares": 4500
+}

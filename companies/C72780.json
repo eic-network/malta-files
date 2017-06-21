@@ -1,0 +1,95 @@
+{
+  "name": "AXIOM LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIOS AVRAAM\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00164535",
+        "address": "18,DIMITRASSTREETAGLANTZIA2101CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIOS AVRAAM\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00164535",
+        "address": "18,DIMITRASSTREETAGLANTZIA2101CYPRUS"
+      },
+      {
+        "name": "SIMON CUSENS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            128583M",
+        "address": "18,THECLYDETRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER CUSENS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            569087M",
+        "address": "18,\"THECLYDE\",TRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIOS AVRAAM\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00164535",
+        "address": "18,DIMITRASSTREETAGLANTZIA2101CYPRUS"
+      },
+      {
+        "name": "SIMON CUSENS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            128583M",
+        "address": "18,THECLYDETRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIOS AVRAAM\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00164535",
+        "address": "18,DIMITRASSTREETAGLANTZIA2101CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "CHRISTOPHER CUSENS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            569087M",
+        "address": "18,\"THECLYDE\",TRIQIS-SEJJIEHSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "46, TIMBER WHARF,",
+  "company_id": "C 72780",
+  "registration_date": "Oct 23, 2015",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

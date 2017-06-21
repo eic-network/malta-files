@@ -1,0 +1,89 @@
+{
+  "name": "BONASTRE LIMITED",
+  "total_issued_shares_value": 1350,
+  "total_authorised_shares_value": 1350,
+  "authorised_shares": [
+    {
+      "issued_shares": 1349,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1349,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALLEYBE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71249",
+        "address": "ATLBUSINESSCENTRE,89,SUITE3,CANNONROAD,SANTAVENERASVR9035MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALLEYBE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71249",
+        "address": "ATLBUSINESSCENTRE,89,SUITE3,CANNONROAD,SANTAVENERASVR9035MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUDOLPH PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0293776M",
+        "address": "4,SQAQSANTAMARGERITA,NRU2,SIGGIEWIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALLEYBE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71249",
+        "address": "ATLBUSINESSCENTRE,89,SUITE3,CANNONROAD,SANTAVENERASVR9035MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BONASTRE HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 80842",
+        "address": "ATLBUSINESSCENTRE89,SUITE3CANNONROADSANTAVENERASVR9035MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1349
+        }
+      },
+      {
+        "name": "ALLEYBE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71249",
+        "address": "ATLBUSINESSCENTRE,89,SUITE3,CANNONROAD,SANTAVENERASVR9035MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1350,
+  "address": "ATL BUSINESS CENTRE, 89, SUITE 3, CANNON ROAD,",
+  "company_id": "C 80844",
+  "registration_date": "May 10, 2017",
+  "shares_currency": "USD",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1350
+}

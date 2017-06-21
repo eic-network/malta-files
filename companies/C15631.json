@@ -1,0 +1,59 @@
+{
+  "company_id": "C 15631",
+  "address": "14, MARINA COURT, ABATE RIGORD STREET,",
+  "name": "BORISEA SHIPPING CO LTD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Mar 12, 1993",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.68,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALFREDO CALASCIBETTA",
+        "party_id": "",
+        "address": "VIALEDELLEAZALEE,NO10,MOGLIANOVENETOITALY",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFREDO CALASCIBETTA",
+        "party_id": "",
+        "address": "VIALEDELLEAZALEE,NO10,MOGLIANOVENETOITALY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "GIACOMO CALASCIBETTA",
+        "party_id": "",
+        "address": "VIACATALANINO5LASPEZIAITALY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

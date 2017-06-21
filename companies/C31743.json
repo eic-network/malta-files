@@ -1,0 +1,91 @@
+{
+  "company_id": "C 31743",
+  "address": "6/5, SIR WILLIAM REID STREET,",
+  "name": "BRETAGNE LTD.",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Jul 10, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 3000
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/1,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/1,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/1,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANN MARIE GRISCTI\r",
+        "party_id": "                                                            0911485",
+        "address": "29,KYOTOC.TRIDENTISTREET,TAL-IBRAGGSWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HWM AUDIT & GOVERNANCE LTD\r",
+        "party_id": "                                                            AB/2/13/05",
+        "address": "189/2,THESTRAND,GZIRAGZR1024MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

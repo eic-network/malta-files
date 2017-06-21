@@ -1,0 +1,113 @@
+{
+  "name": "BCS HOLDINGS LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDMALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            878802",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDMALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            878802",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDMALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            878802",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDMALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            878802",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LINKBEY INVESTMENT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            116669",
+        "address": "FIRSTISLANDHOUSEPETERSTREETSTHELIERJE48SGJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "114, THE STRAND,",
+  "company_id": "C 67317",
+  "registration_date": "Oct 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

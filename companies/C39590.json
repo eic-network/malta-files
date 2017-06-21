@@ -1,0 +1,99 @@
+{
+  "name": "BONA CAPITAL LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "DAVID DEMARCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            805259M",
+        "address": "BRIGHTONFLATS,30/4MILNERSTREET,SLIEMASLM1725MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA CARMELA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            357468M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 39590",
+  "registration_date": "Sep 22, 2006",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

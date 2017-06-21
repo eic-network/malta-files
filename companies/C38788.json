@@ -1,0 +1,84 @@
+{
+  "name": "BMS HOLDING COMPANY LIMITED",
+  "total_issued_shares_value": 1167.02,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 499,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1998,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BRIAN SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371669M",
+        "address": "JOSECARD,FLAT3,TRIQIL-KBIRAMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371669M",
+        "address": "JOSECARD,FLAT3,TRIQIL-KBIRAMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371669M",
+        "address": "JOSECARD,FLAT3,TRIQIL-KBIRAMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371669M",
+        "address": "JOSECARD,FLAT3,TRIQIL-KBIRAMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371669M",
+        "address": "JOSECARD,FLAT3,TRIQIL-KBIRAMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 501,
+  "address": "\"JOSECARD\", FLAT 3A, TRIQ IL-KBIRA,",
+  "company_id": "C 38788",
+  "registration_date": "May 26, 2006",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

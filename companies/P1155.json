@@ -1,0 +1,75 @@
+{
+  "company_id": "P 1155",
+  "address": "OFFICE 5, 292, REPUBLIC STREET,",
+  "name": "BORVIER HOLDINGS & CO.",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 08, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100001,
+      "type": "",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 100001
+    }
+  ],
+  "total_authorised_shares": 100001,
+  "total_authorised_shares_value": 232939.63,
+  "total_issued_shares": 100001,
+  "total_issued_shares_value": 232939.62,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH BORG OLIVIER\r",
+        "party_id": "                                                            1014745M",
+        "address": "BORVIER,NO.17,QORMIROAD,BIRKIRKARABKR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OLIVAIR TRAVEL LIMITED\r",
+        "party_id": "                                                            C 2555",
+        "address": "292/5REPUBLICSTREETVALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "JOSEPH BORG OLIVIER\r",
+        "party_id": "                                                            1014745M",
+        "address": "BORVIER,NO.17,QORMIROAD,BIRKIRKARABKR12MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BORG OLIVIER\r",
+        "party_id": "                                                            1014745M",
+        "address": "BORVIER,NO.17,QORMIROAD,BIRKIRKARABKR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BORG OLIVIER\r",
+        "party_id": "                                                            1014745M",
+        "address": "BORVIER,NO.17,QORMIROAD,BIRKIRKARABKR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

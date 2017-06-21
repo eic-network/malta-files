@@ -1,0 +1,83 @@
+{
+  "name": "Atlantic Management Ltd",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Natalia Patsalidou\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E092953",
+        "address": "Fl101,3GrevenonStrNicosia1055CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Natalia Patsalidou\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E092953",
+        "address": "Fl101,3GrevenonStrNicosia1055CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04488",
+        "address": "31OAKHILLAPTSTRIQSCICLUNASLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Natalia Patsalidou\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E092953",
+        "address": "Fl101,3GrevenonStrNicosia1055CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGIOS PASTELLA\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            C206086",
+        "address": "14,THEANOSLIASIDOUSTR.,KAIMAKLI,NICOSIA1026CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      },
+      {
+        "name": "Natalia Patsalidou\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E092953",
+        "address": "Fl101,3GrevenonStrNicosia1055CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "1/43, ST. FRANCIS STREET,",
+  "company_id": "C 41639",
+  "registration_date": "Jun 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1300
+}

@@ -1,0 +1,97 @@
+{
+  "company_id": "C 71711",
+  "address": "60/2, MELITA STREET,",
+  "name": "BRIGHT HOLDINGS LTD.",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Aug 03, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1249,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1249
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PIERRE YVES LOUIS QUIN\r",
+        "party_id": "                                                            15AL32237",
+        "address": "AVENIDASIDONIOPAIS,103EQ,LISBOA1050-212PORTUGAL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PIERRE YVES LOUIS QUIN\r",
+        "party_id": "                                                            15AL32237",
+        "address": "AVENIDASIDONIOPAIS,103EQ,LISBOA1050-212PORTUGAL",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE YVES LOUIS QUIN\r",
+        "party_id": "                                                            15AL32237",
+        "address": "AVENIDASIDONIOPAIS,103EQ,LISBOA1050-212PORTUGAL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE YVES LOUIS QUIN\r",
+        "party_id": "                                                            15AL32237",
+        "address": "AVENIDASIDONIOPAIS,103EQ,LISBOA1050-212PORTUGAL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE YVES LOUIS QUIN\r",
+        "party_id": "                                                            15AL32237",
+        "address": "AVENIDASIDONIOPAIS,103EQ,LISBOA1050-212PORTUGAL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

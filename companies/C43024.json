@@ -1,0 +1,89 @@
+{
+  "name": "ASAMER MALTA REAL ESTATE LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Christian Deutschbauer\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6794767",
+        "address": "LambacherStrabe204623GunskirchenAustriaAUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Christian Deutschbauer\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6794767",
+        "address": "LambacherStrabe204623GunskirchenAustriaAUSTRIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Angela Abela\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355963M",
+        "address": "10TriqL-IstasijaSWIEQISWQ2112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Christian Deutschbauer\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6794767",
+        "address": "LambacherStrabe204623GunskirchenAustriaAUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOUTH-EAST PROPERTIES MANAGEMENT GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN304962Z",
+        "address": "MADERSPERGERSTR22ALINZLINZ4020AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "Christian Deutschbauer\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6794767",
+        "address": "LambacherStrabe204623GunskirchenAustriaAUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "60 Suite 6 G. Cali Street",
+  "company_id": "C 43024",
+  "registration_date": "Dec 06, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 10000
+}

@@ -1,0 +1,103 @@
+{
+  "name": "ALTER DOMUS (SERVICES) MALTA LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 1000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 80000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 800000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTORIA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321575M",
+        "address": "FLAT5,BLOCKB,TRIQTA'MEZZI,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQGIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RENE BELTJENS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            61.09.17-371.75",
+        "address": "77,CEINTUREUMSCHLASSHESPERANGEL-5880LUXEMBOURG"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQGIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQGIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTER DOMUS (HOLDING) MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62843",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80000
+        }
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL",
+  "company_id": "C 50530",
+  "registration_date": "Aug 30, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1000000
+}

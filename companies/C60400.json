@@ -1,0 +1,78 @@
+{
+  "name": "BEACON SERVICES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557284M",
+        "address": "46,TRIQIL-PARROCCA,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557284M",
+        "address": "46,TRIQIL-PARROCCA,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557284M",
+        "address": "46,TRIQIL-PARROCCA,SANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FACT AUDIT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/15",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557284M",
+        "address": "46,TRIQIL-PARROCCA,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557284M",
+        "address": "46,TRIQIL-PARROCCA,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CORNERLINE, DUN KARM STREET,",
+  "company_id": "C 60400",
+  "registration_date": "May 10, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

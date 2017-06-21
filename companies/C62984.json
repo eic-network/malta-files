@@ -1,0 +1,115 @@
+{
+  "name": "Bastion Private Office Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 601,
+      "type": "OrdinaryClassA",
+      "authorised_share_capital": 601,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 599,
+      "type": "OrdinaryClassB",
+      "authorised_share_capital": 599,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Tracy Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            45757A",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Tracy Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            45757A",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      },
+      {
+        "name": "Paul Thompson\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            513573426",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Tracy Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            45757A",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      },
+      {
+        "name": "Paul Thompson\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            513573426",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Tracy Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            45757A",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      },
+      {
+        "name": "Paul Thompson\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            513573426",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Bartizan Holdings Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            1798004",
+        "address": "CraigmuirChambersTortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "Class A",
+          "issued_shares": 601
+        }
+      },
+      {
+        "name": "MJM EUROPE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44965",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "Class B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Corporate House 10 Oratory Street",
+  "company_id": "C 62984",
+  "registration_date": "Jan 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

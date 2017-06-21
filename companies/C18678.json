@@ -1,0 +1,141 @@
+{
+  "name": "BOGI AUTO LIMITED",
+  "total_issued_shares_value": 11180.99,
+  "total_authorised_shares_value": 27952.48,
+  "authorised_shares": [
+    {
+      "issued_shares": 800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69960G",
+        "address": "ST.JOSEPH,DUNGORGPRECASTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            96874M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534665M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            96874M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534665M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19131",
+        "address": "5,CORDINA,TRIQL-GHONQA,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            96874M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534665M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            69960G",
+        "address": "ST.JOSEPH,DUNGORGPRECASTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "EMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            96874M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534665M",
+        "address": "ST.JOSEPH,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "MARIA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            404267M",
+        "address": "IL-HOLMA,TRIQDUNGORGPRECA,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4800,
+  "address": "J. F. KENNEDY SQUARE,",
+  "company_id": "C 18678",
+  "registration_date": "Jun 21, 1995",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 12000
+}

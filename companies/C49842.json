@@ -1,0 +1,70 @@
+{
+  "name": "ALLXWIN Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI ROSSINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM4529003",
+        "address": "VIASANDROPERTINI15SCICLIRG97018ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI ROSSINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM4529003",
+        "address": "VIASANDROPERTINI15SCICLIRG97018ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNA DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215065M",
+        "address": "75MAINSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI ROSSINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM4529003",
+        "address": "VIASANDROPERTINI15SCICLIRG97018ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COVESICU LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49630",
+        "address": "ANUTRUF,LEVEL3TRIQTAL-HRIEREB,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "\"ANUTRUF\", LEVEL 3, TRIQ TAL-HRIEREB,",
+  "company_id": "C 49842",
+  "registration_date": "Jun 04, 2010",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

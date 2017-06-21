@@ -1,0 +1,157 @@
+{
+  "name": "BABCOCK MALTA FINANCE LIMITED",
+  "total_issued_shares_value": 774011784,
+  "total_authorised_shares_value": 950000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 387005892,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 387005892,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 387005891,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 387005891,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "BENEDICT DAVEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            501837338",
+        "address": "7,STRADBROKEROAD,HIGHBURYLONDONN52PZUNITEDKINGDOM"
+      },
+      {
+        "name": "NIKOLAI DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MARTIN H. SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            195744M",
+        "address": "88/19,WINDSORCOURT,WINDSORTERRACE,SLIEMASLM1856MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "BENEDICT DAVEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            501837338",
+        "address": "7,STRADBROKEROAD,HIGHBURYLONDONN52PZUNITEDKINGDOM"
+      },
+      {
+        "name": "NIKOLAI DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MARTIN H. SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            195744M",
+        "address": "88/19,WINDSORCOURT,WINDSORTERRACE,SLIEMASLM1856MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,'VILLAFLORA',MSIDASTREET,BIRKIRKARABKR04MALTA"
+      },
+      {
+        "name": "BENEDICT DAVEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            501837338",
+        "address": "7,STRADBROKEROAD,HIGHBURYLONDONN52PZUNITEDKINGDOM"
+      },
+      {
+        "name": "NIKOLAI DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MARTIN H. SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            195744M",
+        "address": "88/19,WINDSORCOURT,WINDSORTERRACE,SLIEMASLM1856MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BABCOCK MALTA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 34570",
+        "address": "VERDALABUSINESSCENTRE,LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 387005892
+        }
+      },
+      {
+        "name": "BABCOCK MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            107414",
+        "address": "33,WIGMORESTREET,LONDONW1U1QXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 774011784,
+  "address": "VERDALA BUSINESS CENTRE, LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL,",
+  "company_id": "C 34588",
+  "registration_date": "Sep 13, 2004",
+  "shares_currency": "GBP",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 950000000
+}

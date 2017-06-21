@@ -1,0 +1,107 @@
+{
+  "name": "ANTALA LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 99,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 99,
+      "nominal_value_per_share": 11.65
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 11.65
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ANDREA CONFENTE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0891510",
+        "address": "APARTMENTB13,CHEVALCALICOHOUSE,42BOWLANE,LONDONEC4M9DTUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ANDREA CONFENTE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0891510",
+        "address": "APARTMENTB13,CHEVALCALICOHOUSE,42BOWLANE,LONDONEC4M9DTUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            432675M",
+        "address": "15,TRIQHAS-SAJJIED,ZABBARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ANDREA CONFENTE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0891510",
+        "address": "APARTMENTB13,CHEVALCALICOHOUSE,42BOWLANE,LONDONEC4M9DTUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEVIA HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 69780",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 11.65,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 99
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 11.65,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET,",
+  "company_id": "C 75881",
+  "registration_date": "Jun 01, 2016",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 100
+}

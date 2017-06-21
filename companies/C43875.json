@@ -1,0 +1,104 @@
+{
+  "company_id": "C 43875",
+  "address": "Room 4, Office 18, Block 19 Vincenti Bld, Strait street",
+  "name": "BRIDGE CAPITAL LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 27, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TATYANA CILIA\r",
+        "party_id": "                                                            417800L",
+        "address": "58TriqSantAlfonsuSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 960,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 239,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TATYANA CILIA\r",
+        "party_id": "                                                            417800L",
+        "address": "58TriqSantAlfonsuSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TATYANA CILIA\r",
+        "party_id": "                                                            417800L",
+        "address": "58TriqSantAlfonsuSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNA PRITSKER\r",
+        "party_id": "                                                            41702L",
+        "address": "1/43St.FrancisStrBALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN KARL FORMOSA\r",
+        "party_id": "                                                            113133",
+        "address": "ROOM5,OFFICE18,BLOCK19,VINCENTIBUILDING,STRAITSTREETVALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

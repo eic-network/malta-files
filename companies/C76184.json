@@ -1,0 +1,89 @@
+{
+  "name": "BALKAN ACQUISITIONS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACETHESTRANDSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACETHESTRANDSLIEMAMALTA"
+      },
+      {
+        "name": "PETER WEINZIERL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P7588620",
+        "address": "BAUERNMARKET2VIENNA1010AUSTRIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACETHESTRANDSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACETHESTRANDSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EAST ADVISORS VERMOGENSVERWALTUNG GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN46827",
+        "address": "BAUERNMARKT2VIENNA1010AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1195
+        }
+      },
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACE,THESTRAND,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CREDINVEST HOUSE, 157 ARCHBISHOP STREET",
+  "company_id": "C 76184",
+  "registration_date": "Jun 24, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,109 @@
+{
+  "name": "ALPHA VALUE FUND SICAV PLC",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Founder",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALTARIUS ASSET MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33168",
+        "address": "CORNERSTONECOMPLEX,SUITEA,LEVEL1,16thSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE MALICZAK\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14AZ41389",
+        "address": "596,RUEGUYDEMAUPASSANT,DIVONNELESBAINS01220FRANCE"
+      },
+      {
+        "name": "GARETH IVAN O'CONNELL\r",
+        "nationality": "",
+        "party_id": "                                                            61513A",
+        "address": "FL6A,TRIQSTELLAMARIS,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE MALICZAK\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14AZ41389",
+        "address": "596,RUEGUYDEMAUPASSANT,DIVONNELESBAINS01220FRANCE"
+      },
+      {
+        "name": "GARETH IVAN O'CONNELL\r",
+        "nationality": "",
+        "party_id": "                                                            61513A",
+        "address": "FL6A,TRIQSTELLAMARIS,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE MALICZAK\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14AZ41389",
+        "address": "596,RUEGUYDEMAUPASSANT,DIVONNELESBAINS01220FRANCE"
+      },
+      {
+        "name": "GARETH IVAN O'CONNELL\r",
+        "nationality": "",
+        "party_id": "                                                            61513A",
+        "address": "FL6A,TRIQSTELLAMARIS,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GARETH IVAN O'CONNELL\r",
+        "nationality": "",
+        "party_id": "                                                            61513A",
+        "address": "FL6A,TRIQSTELLAMARIS,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ANTHONY O'DRISCOLL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT4805421",
+        "address": "36,TERESA,DEPIROSTREET,SLIEMASLM2034MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CORNERSTONE COMPLEX, SUITE A, LEVEL 1, 16TH SEPTEMBER SQUARE,",
+  "company_id": "SV 324",
+  "registration_date": "Jul 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

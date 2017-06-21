@@ -1,0 +1,109 @@
+{
+  "name": "BESTBET LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374989M",
+        "address": "UNIT3,223,MANUELDIMECHSTREET,SLIEMASLM1050MALTA"
+      },
+      {
+        "name": "KARL HENRIK MAGNUSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89276265",
+        "address": "ALBERTODECAMPUS10B,22411030RIODEJANEIROBRAZIL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLAUDIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374989M",
+        "address": "UNIT3,223,MANUELDIMECHSTREET,SLIEMASLM1050MALTA"
+      },
+      {
+        "name": "KARL HENRIK MAGNUSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89276265",
+        "address": "ALBERTODECAMPUS10B,22411030RIODEJANEIROBRAZIL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374989M",
+        "address": "UNIT3,223,MANUELDIMECHSTREET,SLIEMASLM1050MALTA"
+      },
+      {
+        "name": "KARL HENRIK MAGNUSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89276265",
+        "address": "ALBERTODECAMPUS10B,22411030RIODEJANEIROBRAZIL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "LIFLAND HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 57507",
+        "address": "263-1,TA'XBIEXSEAFRONT,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "LEVEL 1, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 58101",
+  "registration_date": "Nov 05, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

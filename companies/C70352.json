@@ -1,0 +1,97 @@
+{
+  "name": "BABS HOLDING LIMITED",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 29999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 29999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH SWAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10992",
+        "address": "15,FLAT1,TRIQSANGAKBUXGHAJRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WALID ISMAIL KURDI ZEIN ALSHAREF\r",
+        "nationality": "JORDANIAN",
+        "party_id": "                                                            D008898",
+        "address": "FLAT11,13/16CADOGANPLACE,LONDONSW1X9RZUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 29999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 70352",
+  "registration_date": "Apr 29, 2015",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 30000
+}

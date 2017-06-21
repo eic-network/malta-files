@@ -1,0 +1,126 @@
+{
+  "name": "AURIFODINA LTD",
+  "total_issued_shares_value": 1501,
+  "total_authorised_shares_value": 1501,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "Preference",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ROLF GERHARD HALLIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90689560",
+        "address": "KUNGSHOLMSTROG4,11221STOCKHOLMSE13054SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ROLF GERHARD HALLIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90689560",
+        "address": "KUNGSHOLMSTROG4,11221STOCKHOLMSE13054SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLESIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      },
+      {
+        "name": "ROLF GERHARD HALLIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90689560",
+        "address": "KUNGSHOLMSTROG4,11221STOCKHOLMSE13054SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AURIFODINA HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48115",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "UPPSALA LAKARKONSULT AKTIEBOLAG\r",
+        "nationality": "",
+        "party_id": "                                                            556163-0251",
+        "address": "HALLINKUNGSHOLMSTORG4,STOCKHOLM11221SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1501,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET,",
+  "company_id": "C 48116",
+  "registration_date": "Nov 06, 2009",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1501
+}

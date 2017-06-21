@@ -1,0 +1,70 @@
+{
+  "company_id": "C 65025",
+  "address": "'IL PIAZZETTA' A, SUITE 21, TOWER ROAD,",
+  "name": "BP DEVELOPMENT LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "May 07, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BHAVESH SHANTILAL SHAH\r",
+        "party_id": "                                                            L3075172",
+        "address": "1,32TANJONGRHUROAD,NO06-04PEBBLEBAY436919SINGAPORE",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BABAJI INTERNATIONAL LIMITED\r",
+        "party_id": "                                                            122276",
+        "address": "4THFLOOR,RAFFLESTOWER,19CYBERCITY,EBENEMAURITIUS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BHAVESH SHANTILAL SHAH\r",
+        "party_id": "                                                            L3075172",
+        "address": "1,32TANJONGRHUROAD,NO06-04PEBBLEBAY436919SINGAPORE",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BHAVESH SHANTILAL SHAH\r",
+        "party_id": "                                                            L3075172",
+        "address": "1,32TANJONGRHUROAD,NO06-04PEBBLEBAY436919SINGAPORE",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DARIO KADIEV\r",
+        "party_id": "                                                            099122725",
+        "address": "5THFLOOR85-86,NEWMANSTREET,LONDONW1T3EXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

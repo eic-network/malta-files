@@ -1,0 +1,209 @@
+{
+  "name": "BIFF LIMITED",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GEORGE MARIO HYZLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328756M",
+        "address": "5,VILLEGAIGNONSTREET,MDINAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94851M",
+        "address": "CAPRICORN,TRIQL-AWRIKARJA,HIGHRIDGE,SWIEQIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "78,GUZEHOWARDSTREET,SLIEMASLM1755MALTA"
+      },
+      {
+        "name": "KARMENU ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299849M",
+        "address": "147,JOHN,BIRBALSTREET,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94851M",
+        "address": "CAPRICORN,TRIQL-AWRIKARJA,HIGHRIDGE,SWIEQIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "78,GUZEHOWARDSTREET,SLIEMASLM1755MALTA"
+      },
+      {
+        "name": "KARMENU ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299849M",
+        "address": "147,JOHN,BIRBALSTREET,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94851M",
+        "address": "CAPRICORN,TRIQL-AWRIKARJA,HIGHRIDGE,SWIEQIMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "78,GUZEHOWARDSTREET,SLIEMASLM1755MALTA"
+      },
+      {
+        "name": "KARMENU ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299849M",
+        "address": "147,JOHN,BIRBALSTREET,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FGL Holdings Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 48319",
+        "address": "FORESTALS,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "POLIDANO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15143",
+        "address": "POLIDANOBROS.LTDHALFARRUGROADLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "K.A. Holdings Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 56023",
+        "address": "'PROJECTTECHNIK'CANNONROADQORMIQRM9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1333
+        }
+      },
+      {
+        "name": "KALESS SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18791",
+        "address": "TA'SANTUMAS,BLOKK2,PENT2,TRIQIL-GANDOFLI,MARSASCALAMSK3021MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 333
+        }
+      },
+      {
+        "name": "REFILL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25742",
+        "address": "147,'JOHN',BIRBALSTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 8000
+        }
+      },
+      {
+        "name": "RENALD CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            459679M",
+        "address": "69,TRIQGORGBORG,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 334
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "FORESTALS, MRIEHEL BY PASS, MRIEHEL,",
+  "company_id": "C 25818",
+  "registration_date": "Feb 02, 2000",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

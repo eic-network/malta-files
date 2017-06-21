@@ -1,0 +1,83 @@
+{
+  "name": "ARAGORN HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FLORIO TINDARO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3367175",
+        "address": "90,TRELISKAPARTMENTS,FLAT6,TRIQIL-QARNIT,GHADIRA,MELLIEHAMLH4235MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FLORIO TINDARO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3367175",
+        "address": "90,TRELISKAPARTMENTS,FLAT6,TRIQIL-QARNIT,GHADIRA,MELLIEHAMLH4235MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRICK FUCHS\r",
+        "nationality": "LIECHTENSTEIN",
+        "party_id": "                                                            R23370",
+        "address": "26,RUNKELSSTRASSE,TRIESEN,LI-9495LIECHTENSTEIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FLORIO TINDARO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3367175",
+        "address": "90,TRELISKAPARTMENTS,FLAT6,TRIQIL-QARNIT,GHADIRA,MELLIEHAMLH4235MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTAR FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            FL-0002.489.305-3",
+        "address": "C/OLEGACONTREUHAND,ANSTALT,LANDSTRASSE99,SCHAAN9494LIECHTENSTEIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PETUNIA FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            FL-0002.489.309-0",
+        "address": "C/OLEGACONTREUHAND,ANSTALT,LANDSTRASSE99,SCHAAN9494LIECHTENSTEIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "90, TRELISK APARTMENTS, FLAT 6, TRIQ IL-QARNIT, GHADIRA,",
+  "company_id": "C 67837",
+  "registration_date": "Nov 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

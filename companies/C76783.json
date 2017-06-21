@@ -1,0 +1,89 @@
+{
+  "name": "BETNYX BETTING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JINDRISKA MORAVCOVA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            113905852",
+        "address": "VRATKOV2,CESKYBROD28201CZECHREPUBLIC"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETNYX LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76782",
+        "address": "84,ST.FRANCISSTREET,BALZANBZN1424MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MARTIN CHARVAT\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            200049874",
+        "address": "PRAHA-ZIZKOVHUSITSKA157/80PRAHACZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 76783",
+  "registration_date": "Aug 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

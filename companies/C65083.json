@@ -1,0 +1,78 @@
+{
+  "company_id": "C 65083",
+  "address": "85 ST. JOHN STREET",
+  "name": "Boss Global Europe Ltd.",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 12, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MAURO BOSSETTI\r",
+        "party_id": "                                                            YA5280422",
+        "address": "114,SWEETBAYCIRCLE,JUPITERFL33458UNITEDSTATES",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOSS GLOBAL HOLDING LTD\r",
+        "party_id": "                                                            C 75947",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURO BOSSETTI\r",
+        "party_id": "                                                            YA5280422",
+        "address": "114,SWEETBAYCIRCLE,JUPITERFL33458UNITEDSTATES",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAURO BOSSETTI\r",
+        "party_id": "                                                            YA5280422",
+        "address": "114,SWEETBAYCIRCLE,JUPITERFL33458UNITEDSTATES",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURO BOSSETTI\r",
+        "party_id": "                                                            YA5280422",
+        "address": "114,SWEETBAYCIRCLE,JUPITERFL33458UNITEDSTATES",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

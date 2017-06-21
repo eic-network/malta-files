@@ -1,0 +1,83 @@
+{
+  "name": "BIOTECHOLDING LIMITED",
+  "total_issued_shares_value": 3471000,
+  "total_authorised_shares_value": 3471000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3471000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3471000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAPILIO CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62409",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAPILIO CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62409",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAPILIO CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62409",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANOR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 73759",
+        "address": "168,STCHRISTOPHERSTREET,VALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SCOTTWEALTH HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63306",
+        "address": "FORNICOMPLEX,1E,LEVEL2,PINTOWHARF,VALLETTAWATERFRONT,FLORIANAFRN1913MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3470999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3471000,
+  "address": "168, ST CHRISTOPHER STREET,",
+  "company_id": "C 73761",
+  "registration_date": "Dec 29, 2015",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3471000
+}

@@ -1,0 +1,51 @@
+{
+  "name": "BOHO INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "46/2, SOUTH STREET,",
+  "company_id": "C 30556",
+  "registration_date": "Nov 26, 2002",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

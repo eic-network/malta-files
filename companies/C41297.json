@@ -1,0 +1,91 @@
+{
+  "name": "A.P. Siciliana Ltd",
+  "total_issued_shares_value": 69000,
+  "total_authorised_shares_value": 75000,
+  "authorised_shares": [
+    {
+      "issued_shares": 69000,
+      "type": "Ordinary",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTONINO IMMORMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK1602892",
+        "address": "VIAMUSUMECINR37PI1,CATANIA(CT)SICILYITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONINO IMMORMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK1602892",
+        "address": "VIAMUSUMECINR37PI1,CATANIA(CT)SICILYITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONINO IMMORMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK1602892",
+        "address": "VIAMUSUMECINR37PI1,CATANIA(CT)SICILYITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTONINO IMMORMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK1602892",
+        "address": "VIAMUSUMECINR37PI1,CATANIA(CT)SICILYITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ANTONINO IMMORMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AK1602892",
+        "address": "VIAMUSUMECINR37PI1,CATANIA(CT)SICILYITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 68999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 69000,
+  "address": "28A, NAZZARENU STREET,",
+  "company_id": "C 41297",
+  "registration_date": "May 03, 2007",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 75000
+}

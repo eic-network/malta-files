@@ -1,0 +1,75 @@
+{
+  "name": "BALAM LTD",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MORENO MANZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            694311S",
+        "address": "V.DEIVILLIMISMC,00067MORLUPO,ROMEITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MORENO MANZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            694311S",
+        "address": "V.DEIVILLIMISMC,00067MORLUPO,ROMEITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MORENO MANZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            694311S",
+        "address": "V.DEIVILLIMISMC,00067MORLUPO,ROMEITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDFINCO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 17175",
+        "address": "166,OLDBAKERYSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1274
+        }
+      },
+      {
+        "name": "MEDFINCO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 17175",
+        "address": "166,OLDBAKERYSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 26
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "166, OLD BAKERY STREET,",
+  "company_id": "C 31431",
+  "registration_date": "May 16, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

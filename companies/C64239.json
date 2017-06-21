@@ -1,0 +1,109 @@
+{
+  "name": "BARI CATERING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ERIKA BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            562677M",
+        "address": "92,TRIQIL-KBIRA,QORMIQRM1104MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICOLAI BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414775M",
+        "address": "92,MAINSTREET,QORMIQRM1104MALTA"
+      },
+      {
+        "name": "ANTONIO PETRONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5729217",
+        "address": "VIAGIUSEPPEPARINI,36PALF2,CASAMASSIMA(BA)70010ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICOLAI BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414775M",
+        "address": "92,MAINSTREET,QORMIQRM1104MALTA"
+      },
+      {
+        "name": "ANTONIO PETRONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5729217",
+        "address": "VIAGIUSEPPEPARINI,36PALF2,CASAMASSIMA(BA)70010ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "LaraBuildings,Level1,GuzeppiCallejaStreet,IKLINIKL1262MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICOLAI BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414775M",
+        "address": "92,MAINSTREET,QORMIQRM1104MALTA"
+      },
+      {
+        "name": "ANTONIO PETRONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5729217",
+        "address": "VIAGIUSEPPEPARINI,36PALF2,CASAMASSIMA(BA)70010ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERIKA BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            562677M",
+        "address": "92,TRIQIL-KBIRA,QORMIQRM1104MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ANTONIO PETRONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5729217",
+        "address": "VIAGIUSEPPEPARINI,36PALF2,CASAMASSIMA(BA)70010ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SCM04GR2, SMART CITY,",
+  "company_id": "C 64239",
+  "registration_date": "Mar 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

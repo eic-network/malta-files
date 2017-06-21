@@ -1,0 +1,83 @@
+{
+  "name": "APPLECROSS PROPERTIES LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EDWARD GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19940",
+        "address": "215/1,SWIEQIROADSWIEQISWQ3417MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "93 MILL STREET",
+  "company_id": "C 33050",
+  "registration_date": "Jan 22, 2004",
+  "shares_currency": "GBP",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1000
+}

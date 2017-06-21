@@ -1,0 +1,115 @@
+{
+  "name": "ALTOUR COMPANY LIMITED",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 19950,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 19950,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438850M",
+        "address": "VEDUTAVERDE,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALDO FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379774M",
+        "address": "12,EMERALD,TRIQPATRIGUZEDELIA,MOSTAMALTA"
+      },
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438850M",
+        "address": "VEDUTAVERDE,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALDO FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379774M",
+        "address": "12,EMERALD,TRIQPATRIGUZEDELIA,MOSTAMALTA"
+      },
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438850M",
+        "address": "VEDUTAVERDE,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HORWATH MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/27",
+        "address": "LAPROVVIDA,KARMZERAFASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALDO FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379774M",
+        "address": "12,EMERALD,TRIQPATRIGUZEDELIA,MOSTAMALTA"
+      },
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            438850M",
+        "address": "VEDUTAVERDE,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COLINROSE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8717",
+        "address": "SUNDRIVERENTALS,TRIQIT-TURISTI,QAWRAST.PAUL'SBAYSPB05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 19950
+        }
+      },
+      {
+        "name": "ALDO FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            379774M",
+        "address": "12,EMERALD,TRIQPATRIGUZEDELIA,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "SUNDRIVE RENTALS, TOURISTS STREET, QAWRA,",
+  "company_id": "C 15474",
+  "registration_date": "Oct 11, 1993",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 20000
+}

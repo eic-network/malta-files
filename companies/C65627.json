@@ -1,0 +1,91 @@
+{
+  "name": "AMS Ltd",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CAROLINE CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171762M",
+        "address": "3,ANNUNCIATIONSQUARE,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KENNETH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229957M",
+        "address": "MANYANA,TRIQL-GHARBIEL,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KENNETH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229957M",
+        "address": "MANYANA,TRIQL-GHARBIEL,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KENNETH ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229957M",
+        "address": "MANYANA,TRIQL-GHARBIEL,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDITERRANEAN BUNKER AND BROKERAGE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 15504",
+        "address": "53TANKSSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "LUKAS PHILIPP HOLLIGE\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0880195",
+        "address": "NOVOPOLJECESTAV10,POLJELJUBLJANA1260SLOVENIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "53, TANKS STREET,",
+  "company_id": "C 65627",
+  "registration_date": "Jun 16, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

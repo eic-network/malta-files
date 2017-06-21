@@ -1,0 +1,116 @@
+{
+  "name": "AVCO LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1900,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1900,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICHOLAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243468M",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243468M",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243468M",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTON CHETCUTI GANADO & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/06",
+        "address": "5/2A,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243468M",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NICHOLAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243468M",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "MICHAEL CAMILLERI",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1900
+        }
+      },
+      {
+        "name": "SOPHIE CAMILLERI",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "IL-BITHA,TRIQIL-KATAKOMBI,SALINA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "AVANTECH BUILDING, ST. JULIAN'S ROAD,",
+  "company_id": "C 45558",
+  "registration_date": "Nov 10, 2008",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 4000
+}

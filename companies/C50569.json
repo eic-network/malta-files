@@ -1,0 +1,109 @@
+{
+  "name": "AQS MED LIMITED",
+  "total_issued_shares_value": 5200,
+  "total_authorised_shares_value": 8000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5200,
+      "type": "Ordinary",
+      "authorised_share_capital": 8000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280072M",
+        "address": "5,TRIQIL-GAMAR,ATTARDATD2462MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405871M",
+        "address": "4,ST.MARYSTREET,ATTARDATD1051MALTA"
+      },
+      {
+        "name": "ADRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280072M",
+        "address": "5,TRIQIL-GAMAR,ATTARDATD2462MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405871M",
+        "address": "4,ST.MARYSTREET,ATTARDATD1051MALTA"
+      },
+      {
+        "name": "ADRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280072M",
+        "address": "5,TRIQIL-GAMAR,ATTARDATD2462MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "122,HATFIELD,TRIQSANTUMAS,FGURAFGR1604MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405871M",
+        "address": "4,ST.MARYSTREET,ATTARDATD1051MALTA"
+      },
+      {
+        "name": "ADRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280072M",
+        "address": "5,TRIQIL-GAMAR,ATTARDATD2462MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405871M",
+        "address": "4,ST.MARYSTREET,ATTARDATD1051MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2600
+        }
+      },
+      {
+        "name": "ADRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280072M",
+        "address": "5,TRIQIL-GAMAR,ATTARDATD2462MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5200,
+  "address": "CORAL HOUSE, TRIQ DUN KARM",
+  "company_id": "C 50569",
+  "registration_date": "Sep 03, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 8000
+}

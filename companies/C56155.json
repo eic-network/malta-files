@@ -1,0 +1,78 @@
+{
+  "name": "ALTURI LTD.",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "Ordinary",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MORGAN ANDERS CENNY HALLGREN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87959760",
+        "address": "MASBO124,HUDIKSVALL82494SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MORGAN ANDERS CENNY HALLGREN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87959760",
+        "address": "MASBO124,HUDIKSVALL82494SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MORGAN ANDERS CENNY HALLGREN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87959760",
+        "address": "MASBO124,HUDIKSVALL82494SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MORGAN ANDERS CENNY HALLGREN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87959760",
+        "address": "MASBO124,HUDIKSVALL82494SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 250,
+  "address": "14, BRARED STREET,",
+  "company_id": "C 56155",
+  "registration_date": "May 02, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 250
+}

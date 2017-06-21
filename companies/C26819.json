@@ -1,0 +1,115 @@
+{
+  "name": "AWIAG LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 19999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 19999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IAN J STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMSD12MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTIN MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120956M",
+        "address": "27,MAGAZINESSTREET,MDINAMDN1201MALTA"
+      },
+      {
+        "name": "IAN J STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMSD12MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTIN MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120956M",
+        "address": "27,MAGAZINESSTREET,MDINAMDN1201MALTA"
+      },
+      {
+        "name": "IAN J STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMSD12MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120956M",
+        "address": "27,MAGAZINESSTREET,MDINAMDN1201MALTA"
+      },
+      {
+        "name": "IAN J STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMSD12MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WINTERSHALL HOLDING GmbH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB200519",
+        "address": "FRIEDRICH-EBERT-STR.160,KASSEL34119GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 19999
+        }
+      },
+      {
+        "name": "WINTERSHALL VERMOGENSVERWALTUNGSGESELLSCHAFT mbH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB7226",
+        "address": "FRIEDRICH-EBERT-STR160,KASSEL34119GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL,",
+  "company_id": "C 26819",
+  "registration_date": "Aug 11, 2000",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

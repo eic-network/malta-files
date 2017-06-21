@@ -1,0 +1,78 @@
+{
+  "name": "ANGELPEACE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTHONY VALVO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            737555M",
+        "address": "27,SEAVIEW,SQAQQACCAWIET,XGHAJRAXJR1230MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTOINE SACCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386683M",
+        "address": "12,REDENTUR,TRIQIT-TEMPESTA,QRENDIQRD2405MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARMIN ALFRED LUKAS ENGELFRIED\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7017369638",
+        "address": "OSTHEIMSTRASSE49ALBSTADT72458GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARMIN ALFRED LUKAS ENGELFRIED\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7017369638",
+        "address": "OSTHEIMSTRASSE49ALBSTADT72458GERMANY"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARMIN ALFRED LUKAS ENGELFRIED\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7017369638",
+        "address": "OSTHEIMSTRASSE49ALBSTADT72458GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARMIN ALFRED LUKAS ENGELFRIED\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7017369638",
+        "address": "OSTHEIMSTRASSE49ALBSTADT72458GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1, ST. MATTHEW'S SQUARE,",
+  "company_id": "C 52396",
+  "registration_date": "Mar 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "QRENDI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

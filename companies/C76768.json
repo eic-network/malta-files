@@ -1,0 +1,95 @@
+{
+  "name": "A & L CAUCHI HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170378M",
+        "address": "8,GARDENIA,TRIQIL-BIR,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170378M",
+        "address": "8,GARDENIA,TRIQIL-BIR,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "LARA CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309275M",
+        "address": "GARDENIANO.8,TRIQIL-BIR,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDREW CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170378M",
+        "address": "8,GARDENIA,TRIQIL-BIR,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170378M",
+        "address": "8,GARDENIA,TRIQIL-BIR,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREW CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170378M",
+        "address": "8,GARDENIA,TRIQIL-BIR,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "LARA CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309275M",
+        "address": "GARDENIANO.8,TRIQIL-BIR,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "8, GARDENIA, TRIQ IL-BIR, MADLIENA",
+  "company_id": "C 76768",
+  "registration_date": "Aug 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1200
+}

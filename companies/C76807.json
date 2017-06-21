@@ -1,0 +1,70 @@
+{
+  "name": "ASTORIO INVEST LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "HANINI,TRIQENRICONAUDI,IKLINMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "HANINI,TRIQENRICONAUDI,IKLINMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "HANINI,TRIQENRICONAUDI,IKLINMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAYMOND ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            778952M",
+        "address": "HANINI,TRIQENRICONAUDI,IKLINMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTORIO HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76806",
+        "address": "FLAT5,GARDENIAAPTS,TRIQL-ISQOFFSCARUANA,MSIDAMSD1411MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "FLAT 5, GARDENIA APTS, TRIQ L-ISQOF F S CARUANA,",
+  "company_id": "C 76807",
+  "registration_date": "Aug 10, 2016",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

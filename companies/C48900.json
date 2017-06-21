@@ -1,0 +1,127 @@
+{
+  "company_id": "C 48900",
+  "address": "93, MILL STREET,",
+  "name": "BROADWICK HOLDINGS LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Feb 16, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 4650
+    }
+  ],
+  "total_authorised_shares": 1000000,
+  "total_authorised_shares_value": 1000000,
+  "total_issued_shares": 4650,
+  "total_issued_shares_value": 4650,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "STANLEY PORTELLI\r",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOHN RYAN\r",
+        "party_id": "                                                            R634437",
+        "address": "4THFLOOR,HARMONYCOURTHARMONYROWDUBLINIRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BROADWICK INVESTMENTS LIMITED\r",
+        "party_id": "                                                            C 54764",
+        "address": "93,MILLSTREETQORMIQRM3102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4649,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JOHN RYAN\r",
+        "party_id": "                                                            R634437",
+        "address": "4THFLOOR,HARMONYCOURTHARMONYROWDUBLINIRELAND",
+        "nationality": "IRISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "STANLEY PORTELLI\r",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOHN RYAN\r",
+        "party_id": "                                                            R634437",
+        "address": "4THFLOOR,HARMONYCOURTHARMONYROWDUBLINIRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "STANLEY PORTELLI\r",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOHN RYAN\r",
+        "party_id": "                                                            R634437",
+        "address": "4THFLOOR,HARMONYCOURTHARMONYROWDUBLINIRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

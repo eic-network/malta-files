@@ -1,0 +1,125 @@
+{
+  "name": "AMMC - ACUMUM CORPORATE SERVICES LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARJORIE ALLO\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AY50027",
+        "address": "45,AVENUEDUXSEPTEMBRELUXEMBOURGL-2551LUXEMBOURG"
+      },
+      {
+        "name": "GERALDINE NOEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            61462A",
+        "address": "FERIA,APT.1,TRIQRADDETIR-ROTI,XEMXIJA,ST.PAUL'SBAYSPB4111MALTA"
+      },
+      {
+        "name": "JAMES O'NEAL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CH86543",
+        "address": "45AVENUEDUXSEPTEMBREL-2251LUXEMBOURGLUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARJORIE ALLO\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AY50027",
+        "address": "45,AVENUEDUXSEPTEMBRELUXEMBOURGL-2551LUXEMBOURG"
+      },
+      {
+        "name": "GERALDINE NOEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            61462A",
+        "address": "FERIA,APT.1,TRIQRADDETIR-ROTI,XEMXIJA,ST.PAUL'SBAYSPB4111MALTA"
+      },
+      {
+        "name": "JAMES O'NEAL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CH86543",
+        "address": "45AVENUEDUXSEPTEMBREL-2251LUXEMBOURGLUXEMBOURG"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GERALDINE NOEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            61462A",
+        "address": "FERIA,APT.1,TRIQRADDETIR-ROTI,XEMXIJA,ST.PAUL'SBAYSPB4111MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARJORIE ALLO\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AY50027",
+        "address": "45,AVENUEDUXSEPTEMBRELUXEMBOURGL-2551LUXEMBOURG"
+      },
+      {
+        "name": "GERALDINE NOEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            61462A",
+        "address": "FERIA,APT.1,TRIQRADDETIR-ROTI,XEMXIJA,ST.PAUL'SBAYSPB4111MALTA"
+      },
+      {
+        "name": "JAMES O'NEAL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CH86543",
+        "address": "45AVENUEDUXSEPTEMBREL-2251LUXEMBOURGLUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMMC LAW S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B174.465",
+        "address": "2-4,RUEEUGENERUPPERT-L-2453LUXEMBOURGLUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "ACUMUM SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57125",
+        "address": "260,TRIQSANALBERT,GZIRAGZR1150MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "260, TRIQ SAN ALBERT,",
+  "company_id": "C 73779",
+  "registration_date": "Jun 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

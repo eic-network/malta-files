@@ -1,0 +1,51 @@
+{
+  "company_id": "C 20282",
+  "address": "171, OLD BAKERY STREET,",
+  "name": "BOSS SHIPPING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jun 17, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "BLUE JAY INVESTMENT CORP",
+        "party_id": "",
+        "address": "80BROADSTRMONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MIAH MARINE CORP",
+        "party_id": "",
+        "address": "80BROADSTRMONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

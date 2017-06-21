@@ -1,0 +1,78 @@
+{
+  "name": "BLUE OCEAN GROUPS LTD",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "REYAD A. MARAI EL DAEKI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            241651",
+        "address": "BABBAHARTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "REYAD A. MARAI EL DAEKI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            241651",
+        "address": "BABBAHARTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "REYAD A. MARAI EL DAEKI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            241651",
+        "address": "BABBAHARTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "REYAD A. MARAI EL DAEKI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            241651",
+        "address": "BABBAHARTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "REYAD A. MARAI EL DAEKI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            241651",
+        "address": "BABBAHARTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "FLAT 2, 29 VEGA COURT, HUGHES HALLET STREET,",
+  "company_id": "C 40664",
+  "registration_date": "Jan 25, 2007",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 150000
+}

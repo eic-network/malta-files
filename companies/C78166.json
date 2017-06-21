@@ -1,0 +1,89 @@
+{
+  "name": "BLIX LTD",
+  "total_issued_shares_value": 90000,
+  "total_authorised_shares_value": 400000,
+  "authorised_shares": [
+    {
+      "issued_shares": 8999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8999999,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EDOUARD STERNGOLD\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM114444",
+        "address": "27HAREKEVETSTREET,JERUSALEMISRAEL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDOUARD STERNGOLD\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM114444",
+        "address": "27HAREKEVETSTREET,JERUSALEMISRAEL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EVA SCHWARZ\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM114438",
+        "address": "27HAREKEVETSTREET,JERUSALEMISRAEL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDOUARD STERNGOLD\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM114444",
+        "address": "27HAREKEVETSTREET,JERUSALEMISRAEL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ODBS Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 77141",
+        "address": "PALAZZOPIETROSTIGES,103STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8999999
+        }
+      },
+      {
+        "name": "EDOUARD STERNGOLD\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM114444",
+        "address": "27HAREKEVETSTREET,JERUSALEMISRAEL",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 9000000,
+  "address": "103, PALAZZO PIETRO STIGES STRAIT STREET",
+  "company_id": "C 78166",
+  "registration_date": "Nov 17, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 40000000
+}

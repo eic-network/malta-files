@@ -1,0 +1,75 @@
+{
+  "name": "BOI GROUP LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DESIREE SINGH\r",
+        "nationality": "",
+        "party_id": "                                                            0146020",
+        "address": "1934DRIFTWOODBAY,BELIZECITYBELIZE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DESIREE SINGH\r",
+        "nationality": "",
+        "party_id": "                                                            0146020",
+        "address": "1934DRIFTWOODBAY,BELIZECITYBELIZE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DESIREE SINGH\r",
+        "nationality": "",
+        "party_id": "                                                            0146020",
+        "address": "1934DRIFTWOODBAY,BELIZECITYBELIZE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CSB MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 29439",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "V.O. FINANCIAL, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            21,845",
+        "address": "1934DRIFTWOODBAY,BELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VINCENTI BUILDINGS, SUITE 251, 14/19, STRAIT STREET,",
+  "company_id": "C 32009",
+  "registration_date": "Sep 01, 2003",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

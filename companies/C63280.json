@@ -1,0 +1,78 @@
+{
+  "name": "ARRIFANA LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DESIREE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175178M",
+        "address": "CHAMONIX,KAHWIELASTREET,ZABBARZBR3610MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DESIREE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175178M",
+        "address": "CHAMONIX,KAHWIELASTREET,ZABBARZBR3610MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DESIREE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175178M",
+        "address": "CHAMONIX,KAHWIELASTREET,ZABBARZBR3610MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "23,SOUTHHOUSE,HOMPESCHROAD,FGURAFGR2010MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DESIREE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175178M",
+        "address": "CHAMONIX,KAHWIELASTREET,ZABBARZBR3610MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAMESH PHLIPPE DUSORUTH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099096311",
+        "address": "BOSMANSLEI34,ANTWERP2018BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CHAMONIX, KAHWIELA STREET,",
+  "company_id": "C 63280",
+  "registration_date": "Dec 23, 2013",
+  "shares_currency": "EUR",
+  "locality": "ZABBAR",
+  "status": "",
+  "total_authorised_shares": 2000
+}

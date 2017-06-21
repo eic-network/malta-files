@@ -1,0 +1,51 @@
+{
+  "name": "Bi-Tech Enterprises",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "SALVU BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462279M",
+        "address": "'JOCA',DOCKYARDSTREET,TARXIENPLA04MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JAMES FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            411079M",
+        "address": "34,TIRQIL-KARDINALXIBERRASQORMIQRM04MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "34,  TRIQ IL-KARDINAL XIBERRAS",
+  "company_id": "P 1091",
+  "registration_date": "Jan 22, 2007",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 500
+}

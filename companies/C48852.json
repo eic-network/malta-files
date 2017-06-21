@@ -1,0 +1,105 @@
+{
+  "name": "ALTAVISTA INVESTMENTS LIMITED",
+  "total_issued_shares_value": 20500,
+  "total_authorised_shares_value": 20500,
+  "authorised_shares": [
+    {
+      "issued_shares": 20499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTON TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            369167M",
+        "address": "14,ST.FRANCISSQUARE,VICTORIA(GOZO)VCT103MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIE LOUISE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293079M",
+        "address": "14,LOUISETTE,TRIQIL-KUNCIZZJONI,MARSAXLOKKMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTAVISTA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48851",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20499
+        }
+      },
+      {
+        "name": "168 HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43468",
+        "address": "168ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20500,
+  "address": "168, ST. CHRISTOPHER STREET,",
+  "company_id": "C 48852",
+  "registration_date": "Feb 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 20500
+}

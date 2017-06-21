@@ -1,0 +1,109 @@
+{
+  "name": "Alomran Trading International Ltd.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MOHAMED EL AMIN-B SLIMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            763920",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MOHAMED EL AMIN-B SLIMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            763920",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ALAMEN MOH. BADR. SOLEMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            596644",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MOHAMED EL AMIN-B SLIMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            763920",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ALAMEN MOH. BADR. SOLEMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            596644",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMED EL AMIN-B SLIMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            763920",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ALAMEN MOH. BADR. SOLEMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            596644",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOHAMED EL AMIN-B SLIMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            763920",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ALAMEN MOH. BADR. SOLEMAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            596644",
+        "address": "JOUMIHIRIYASTR,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "27 GROGNET STREET",
+  "company_id": "C 43874",
+  "registration_date": "Mar 27, 2008",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

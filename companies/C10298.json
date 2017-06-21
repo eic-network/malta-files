@@ -1,0 +1,108 @@
+{
+  "name": "ANIS LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JENNIFER ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            164263M",
+        "address": "'ROSINJOL'TRIQIL-KULUVERT,FGURAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517260M",
+        "address": "'ROSINJOL'TRIQIL-KULUVERT,FGURAMALTA"
+      },
+      {
+        "name": "JOSEPH MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67442G",
+        "address": "'CASABELLA'ZABBARROAD,FGURAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517260M",
+        "address": "'ROSINJOL'TRIQIL-KULUVERT,FGURAMALTA"
+      },
+      {
+        "name": "JOSEPH MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67442G",
+        "address": "'CASABELLA'ZABBARROAD,FGURAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JENNIFER ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            164263M",
+        "address": "'ROSINJOL'TRIQIL-KULUVERT,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PAUL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517260M",
+        "address": "'ROSINJOL'TRIQIL-KULUVERT,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2499
+        }
+      },
+      {
+        "name": "JOSEPH MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67442G",
+        "address": "'CASABELLA'ZABBARROAD,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "89, ROSINJOL, TRIQ IL-KULUVERT",
+  "company_id": "C 10298",
+  "registration_date": "Feb 06, 1989",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

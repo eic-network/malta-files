@@ -1,0 +1,122 @@
+{
+  "name": "ATHENEUM BIOTECHNOLOGY LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN A SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487061M",
+        "address": "69,POSIDONIA,TUMASCHETCUTISTREET,ATTARDATD3032MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEX FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77648M",
+        "address": "EDMAR,37G.CARUANASTREETTAL-VIRTU'RABATRBT2672MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEX FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77648M",
+        "address": "EDMAR,37G.CARUANASTREETTAL-VIRTU'RABATRBT2672MALTA"
+      },
+      {
+        "name": "RICHARD MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            584859M",
+        "address": "2,AMBER,MILNERGROVE,MILNERSTREET,SLIEMASLM1725MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "AIDAN LUNGARO-MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10276",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEX FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77648M",
+        "address": "EDMAR,37G.CARUANASTREETTAL-VIRTU'RABATRBT2672MALTA"
+      },
+      {
+        "name": "RICHARD MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            584859M",
+        "address": "2,AMBER,MILNERGROVE,MILNERSTREET,SLIEMASLM1725MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEX FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77648M",
+        "address": "EDMAR,37G.CARUANASTREETTAL-VIRTU'RABATRBT2672MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "RICHARD MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            584859M",
+        "address": "2,AMBER,MILNERGROVE,MILNERSTREET,SLIEMASLM1725MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "CHRISTIAN A SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487061M",
+        "address": "69,POSIDONIA,TUMASCHETCUTISTREET,ATTARDATD3032MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "EDMAR, 37, G CARUANA STREET, TAL-VIRTU,",
+  "company_id": "C 26524",
+  "registration_date": "Jun 09, 2000",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 10000
+}

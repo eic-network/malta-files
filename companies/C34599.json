@@ -1,0 +1,91 @@
+{
+  "company_id": "C 34599",
+  "address": "VINCENTI BUILDINGS, SUITE 279, 28/19, STRAIT STREET,",
+  "name": "BP HOLDING LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 14, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT08MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT08MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SPIL GAMES GROUP B.V.\r",
+        "party_id": "                                                            32081488",
+        "address": "ARENSRAAT13,1223RE,HILVERSUMNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT08MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT08MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "party_id": "                                                            290474M",
+        "address": "203,FLAT2,TRIQIT-TORRI,SLIEMASLM1602MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

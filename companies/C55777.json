@@ -1,0 +1,101 @@
+{
+  "company_id": "C 55777",
+  "address": "REGENT HOUSE 52, FIFTH FLOOR, BISAZZA STREET",
+  "name": "BOSTON (MALTA) LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Mar 27, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 250000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 250000
+    }
+  ],
+  "total_authorised_shares": 250000,
+  "total_authorised_shares_value": 250000,
+  "total_issued_shares": 250000,
+  "total_issued_shares_value": 250000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXANDER JAMES FRAY\r",
+        "party_id": "                                                            707259113",
+        "address": "40,SELBORNEDRIVE,DOUGLASIM23NHISLEOFMAN",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ALEXANDER FLEMING MCNEE\r",
+        "party_id": "                                                            621245648",
+        "address": "STRATHALLANHALLCOTTAGE,STRATHALLANLANE,ONCHAN,IM31NLISLEOFMAN",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOSTON GROUP LIMITED\r",
+        "party_id": "                                                            122191C",
+        "address": "2NDFLOORSTMARY'SCOURT20HILLSTREETDOUGLASIM11EUISLEOFMAN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "BOSTON HOLDINGS LIMITED\r",
+        "party_id": "                                                            124707C",
+        "address": "2NDFLOORSTMARY'SCOURT20HILLSTREETDOUGLASIM11EUISLEOFMAN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 249999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER JAMES FRAY\r",
+        "party_id": "                                                            707259113",
+        "address": "40,SELBORNEDRIVE,DOUGLASIM23NHISLEOFMAN",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ALEXANDER FLEMING MCNEE\r",
+        "party_id": "                                                            621245648",
+        "address": "STRATHALLANHALLCOTTAGE,STRATHALLANLANE,ONCHAN,IM31NLISLEOFMAN",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER JAMES FRAY\r",
+        "party_id": "                                                            707259113",
+        "address": "40,SELBORNEDRIVE,DOUGLASIM23NHISLEOFMAN",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ALEXANDER FLEMING MCNEE\r",
+        "party_id": "                                                            621245648",
+        "address": "STRATHALLANHALLCOTTAGE,STRATHALLANLANE,ONCHAN,IM31NLISLEOFMAN",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALIDA MIZZI\r",
+        "party_id": "                                                            560362M",
+        "address": "21,OURLADYOFSACREDHEARTSTREET,SLIEMASLM1040MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BEurope Limited",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES CASSANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570049M",
+        "address": "264,MAINSTREET,MELLIEHAMLH03MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIELE FANTECHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            36959A",
+        "address": "APT7,88,ST.FRANCISSTREET,FLORIANAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DANIELE FANTECHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            36959A",
+        "address": "APT7,88,ST.FRANCISSTREET,FLORIANAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DANIELE FANTECHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            36959A",
+        "address": "APT7,88,ST.FRANCISSTREET,FLORIANAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DANIELE FANTECHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            36959A",
+        "address": "APT7,88,ST.FRANCISSTREET,FLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "87, ST FRANCIS STREET,",
+  "company_id": "C 40849",
+  "registration_date": "Feb 22, 2007",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

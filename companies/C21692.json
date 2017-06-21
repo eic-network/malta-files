@@ -1,0 +1,109 @@
+{
+  "name": "BLUEWATER INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN A COLLISON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            12686A",
+        "address": "VILLASUNSETBEACH,ETNASTREET,MELLIEHAHEIGHTS,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A COLLISON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            12686A",
+        "address": "VILLASUNSETBEACH,ETNASTREET,MELLIEHAHEIGHTS,MELLIEHAMALTA"
+      },
+      {
+        "name": "HUGO JAN HEEREMA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            054622Z",
+        "address": "75,HAMELAKKERS2930BRASSCHAATBELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A COLLISON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            12686A",
+        "address": "VILLASUNSETBEACH,ETNASTREET,MELLIEHAHEIGHTS,MELLIEHAMALTA"
+      },
+      {
+        "name": "HUGO JAN HEEREMA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            054622Z",
+        "address": "75,HAMELAKKERS2930BRASSCHAATBELGIUM"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A COLLISON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            12686A",
+        "address": "VILLASUNSETBEACH,ETNASTREET,MELLIEHAHEIGHTS,MELLIEHAMALTA"
+      },
+      {
+        "name": "HUGO JAN HEEREMA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            054622Z",
+        "address": "75,HAMELAKKERS2930BRASSCHAATBELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUEWATER ENERGY N.V.",
+        "nationality": "",
+        "party_id": "",
+        "address": "ZEELANDIAOFFICEPARK,KAYAW.F.G(JOMBI)MENSING18,WILMSTEAD,CURACAONETHERLANDSANTILLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "53, ST. DOMINIC STREET,",
+  "company_id": "C 21692",
+  "registration_date": "Jul 23, 1997",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

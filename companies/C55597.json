@@ -1,0 +1,97 @@
+{
+  "name": "ARGENTARIUS ETI MANAGEMENT LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FLAT12TRIQIL-WARD,MADLIENASWIEQISWQ1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS WOLFL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6717546",
+        "address": "19,TRIQGAFAR,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS WOLFL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6717546",
+        "address": "19,TRIQGAFAR,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Victor Schranz & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/56",
+        "address": "TheOrchard',LourdesLane,St.George's,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS WOLFL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6717546",
+        "address": "19,TRIQGAFAR,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARGENTARIUS SECURITISATIONS HOLDING ESTABLISHMENT\r",
+        "nationality": "",
+        "party_id": "                                                            FL-0002.464.557-5",
+        "address": "KIRCHSTRASSE6,VADUZ9490LIECHTENSTEIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "66A, THE STRAND,",
+  "company_id": "C 55597",
+  "registration_date": "Mar 13, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

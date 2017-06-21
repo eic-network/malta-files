@@ -1,0 +1,59 @@
+{
+  "name": "BANA SHIPPING LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443781M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "IBRAHIM KARIM",
+        "nationality": "",
+        "party_id": "",
+        "address": "EPISCOPRADUNO.4,APT.2,SECTOR2,BUCHARESTROMANIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 31154",
+  "registration_date": "Mar 21, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

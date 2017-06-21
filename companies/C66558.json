@@ -1,0 +1,91 @@
+{
+  "name": "ATHENA HOLDINGS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAKUB MATI\r",
+        "nationality": "",
+        "party_id": "                                                            111198A",
+        "address": "48,HONEYBUN,FL.4,TRIQIL-KAPUCCINI,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHAN JOSEPH MICHAEL STRIJBOSCH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385104L",
+        "address": "50A,MEDINAVIEWFLAT1,MTARFAROAD,MTARFAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEPHAN JOSEPH MICHAEL STRIJBOSCH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385104L",
+        "address": "50A,MEDINAVIEWFLAT1,MTARFAROAD,MTARFAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Christienne Spiteri\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10960",
+        "address": "29,Tal-PitturTriqWiedis-SirMOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHAN JOSEPH MICHAEL STRIJBOSCH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385104L",
+        "address": "50A,MEDINAVIEWFLAT1,MTARFAROAD,MTARFAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "217, ARAGON HOUSE BUSINESS CENTRE, DRAGONARA ROAD,",
+  "company_id": "C 66558",
+  "registration_date": "Sep 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,89 @@
+{
+  "name": "BEN ESSERE ROSA LIMITED",
+  "total_issued_shares_value": 151200,
+  "total_authorised_shares_value": 151200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 150000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMO INGARAO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH0021080",
+        "address": "10,VIAD.CIMAROSA,CATANIASICILY95124ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MASSIMO INGARAO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH0021080",
+        "address": "10,VIAD.CIMAROSA,CATANIASICILY95124ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUCIENNE CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19837",
+        "address": "ILVISCHIO,TRIQEWGENJUBORG,ZEBBUGZBG2392MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMO INGARAO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH0021080",
+        "address": "10,VIAD.CIMAROSA,CATANIASICILY95124ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 151200,
+  "address": "22/13, STRAIT STREET,",
+  "company_id": "C 39128",
+  "registration_date": "Jul 13, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 151200
+}

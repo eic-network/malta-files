@@ -1,0 +1,96 @@
+{
+  "company_id": "C 52844",
+  "address": "37, TRIQ GEORGE BORG OLIVIER,",
+  "name": "BROKERSCLUB LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "May 13, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 750000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 730000
+    }
+  ],
+  "total_authorised_shares": 750000,
+  "total_authorised_shares_value": 750000,
+  "total_issued_shares": 730000,
+  "total_issued_shares_value": 730000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RICHARD BERNARD\r",
+        "party_id": "                                                            434093M",
+        "address": "FORTCAMBRIDGE,EAST4-302,TIGNESTREET,SLIEMASLM3175MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK BUSUTTIL\r",
+        "party_id": "                                                            340778M",
+        "address": "75,TRIQIL-BAHARL-ISWEDTHEVILLAGEST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BROKERSCLUB AG\r",
+        "party_id": "                                                            CH-170.3.034.769-8",
+        "address": "GARTENSTRASSE3,POSTFACH4159,ZUG6304SWITZERLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 730000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RICHARD BERNARD\r",
+        "party_id": "                                                            434093M",
+        "address": "FORTCAMBRIDGE,EAST4-302,TIGNESTREET,SLIEMASLM3175MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK BUSUTTIL\r",
+        "party_id": "                                                            340778M",
+        "address": "75,TRIQIL-BAHARL-ISWEDTHEVILLAGEST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RICHARD BERNARD\r",
+        "party_id": "                                                            434093M",
+        "address": "FORTCAMBRIDGE,EAST4-302,TIGNESTREET,SLIEMASLM3175MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK BUSUTTIL\r",
+        "party_id": "                                                            340778M",
+        "address": "75,TRIQIL-BAHARL-ISWEDTHEVILLAGEST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DORAN MAGRI DEMAJO\r",
+        "party_id": "                                                            477874M",
+        "address": "FORTCAMBRIDGE,EAST4-302,TIGNESTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

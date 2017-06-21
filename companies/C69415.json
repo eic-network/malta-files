@@ -1,0 +1,96 @@
+{
+  "name": "BOOKING PHARMA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALBERTO NERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6695044",
+        "address": "VIADELFRANZONI26,STIAVA-MASSAROSA55040ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERTO NERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6695044",
+        "address": "VIADELFRANZONI26,STIAVA-MASSAROSA55040ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534687M",
+        "address": "'CROSSBOWHOUSE',78,COSPICUAROAD,PAOLAPLA1902MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERTO NERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6695044",
+        "address": "VIADELFRANZONI26,STIAVA-MASSAROSA55040ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MASSIMILIANO CANFAROTTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G499006",
+        "address": "VIAANDRESMOSESVINCENTE,25,SARAGOZZA06PESPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 396
+        }
+      },
+      {
+        "name": "ALBERTO NERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6695044",
+        "address": "VIADELFRANZONI26,STIAVA-MASSAROSA55040ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 684
+        }
+      },
+      {
+        "name": "LUCIANO TAMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5337829",
+        "address": "VIAAIMONTID'ORECCHIA,2,GENOVA16148ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "\"CROSSBOW HOUSE\", 78, COSPICUA ROAD,",
+  "company_id": "C 69415",
+  "registration_date": "Mar 05, 2015",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

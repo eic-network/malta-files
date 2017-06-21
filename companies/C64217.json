@@ -1,0 +1,70 @@
+{
+  "company_id": "C 64217",
+  "address": "IDEACASA BUILDING, MSIDA VALLEY ROAD,",
+  "name": "BRAIN'S LOGIC LTD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Mar 13, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FABRIZIO FARINA\r",
+        "party_id": "                                                            YA2727374",
+        "address": "VIATRINITA,4,MILAZZO,MESSINA98057ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRAPES HOLDINGS LTD\r",
+        "party_id": "                                                            C 66518",
+        "address": "IDEACASABUILDING,MSIDAVALLEYROAD,BIRKIRKARABKR9021MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABRIZIO FARINA\r",
+        "party_id": "                                                            YA2727374",
+        "address": "VIATRINITA,4,MILAZZO,MESSINA98057ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABRIZIO FARINA\r",
+        "party_id": "                                                            YA2727374",
+        "address": "VIATRINITA,4,MILAZZO,MESSINA98057ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FABRIZIO FARINA\r",
+        "party_id": "                                                            YA2727374",
+        "address": "VIATRINITA,4,MILAZZO,MESSINA98057ITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

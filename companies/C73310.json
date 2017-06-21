@@ -1,0 +1,91 @@
+{
+  "name": "BALTICA INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "THOR UNO EILERT ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87122426",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNE ELSA MARIA ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90444490",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNE ELSA MARIA ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90444490",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "23,SOUTHHOUSE,HOMPESCHROAD,FGURAFGR2010MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNE ELSA MARIA ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90444490",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE ELSA MARIA ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90444490",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "THOR UNO EILERT ENGSTROM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87122426",
+        "address": "ARROTEIA533E,LUZDETAVIRA8800-102PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "23, 'SOUTH HOUSE', TRIQ HOMPESCH,",
+  "company_id": "C 73310",
+  "registration_date": "Dec 01, 2015",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

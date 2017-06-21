@@ -1,0 +1,112 @@
+{
+  "company_id": "C 41867",
+  "address": "192, OLD BAKERY STREET,",
+  "name": "BOSPHORUS CAPITAL (MALTA) LIMITED",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Jul 13, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARCTIC CAPITAL (MALTA) LIMITED\r",
+        "party_id": "                                                            C 41841",
+        "address": "192,OLDBAKERYSTREET,VALLETTAVALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 648,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CASPIAN FINANCE (MALTA) LIMITED\r",
+        "party_id": "                                                            C 41846",
+        "address": "192,OLDBAKERYSTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PACIFIC CAPITAL (MALTA) LIMITED\r",
+        "party_id": "                                                            C 41840",
+        "address": "192,OLDBAKERYSTREET,VALLETTAVLT08MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 312,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL PSAILA\r",
+        "party_id": "                                                            398480M",
+        "address": "KEJLATRIQWIEDGHOLLIEQA,KAPPARASANGWANNSGN08MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "KEVIN VELLA\r",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID LAWRENCE GRIMA\r",
+        "party_id": "                                                            10413",
+        "address": "78,KOSI-KOTTRIQGUZE'ELLULMERCERQORMIQRM2685MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

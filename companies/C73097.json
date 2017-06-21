@@ -1,0 +1,88 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Nov 17, 2015",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BT PLEASURE YACHTING LIMITED",
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANT STREET,",
+  "company_id": "C 73097",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Directors": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 480,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "15,DIAMANTIDOUSTREETP.PSICHIKOATTIKI15452GREECE",
+        "party_id": "                                                            AI0006869",
+        "name": "VASILEIOS TAMVAKAS\r",
+        "nationality": "GREEK"
+      },
+      {
+        "shares": {
+          "issued_shares": 360,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "19.MIMOZASSTREET,EKALI,ATTIKI14578GREECE",
+        "party_id": "                                                            AI1963451",
+        "name": "ELENI VARELA\r",
+        "nationality": "GREEK"
+      },
+      {
+        "shares": {
+          "issued_shares": 360,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "11,P.MELASTREET,KIFISIAATTIKI14561GREECE",
+        "party_id": "                                                            AI0656345",
+        "name": "NIKOLAOS VARELAS\r",
+        "nationality": "GREEK"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

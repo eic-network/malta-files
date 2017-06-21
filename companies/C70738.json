@@ -1,0 +1,78 @@
+{
+  "name": "A & A Catering Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527161M",
+        "address": "LASPALMAS,TRIQIL-BHAJRA,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527161M",
+        "address": "LASPALMAS,TRIQIL-BHAJRA,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527161M",
+        "address": "LASPALMAS,TRIQIL-BHAJRA,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCIRIHA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01486",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUZEPPICALISTREET,TA'XBIEXXBX1425MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527161M",
+        "address": "LASPALMAS,TRIQIL-BHAJRA,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527161M",
+        "address": "LASPALMAS,TRIQIL-BHAJRA,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "230,  CONCEPTION STREET,",
+  "company_id": "C 70738",
+  "registration_date": "Jul 02, 2015",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

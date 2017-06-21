@@ -1,0 +1,211 @@
+{
+  "name": "ARCHCO LIMITED",
+  "total_issued_shares_value": 5050,
+  "total_authorised_shares_value": 10100,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STANLEY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STANLEY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA"
+      },
+      {
+        "name": "MARK ROBERTSON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            208707350",
+        "address": "22,LAYTONPLACEKEW,RICHMONDSURREYTW93PPUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STANLEY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA"
+      },
+      {
+        "name": "MARK ROBERTSON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            208707350",
+        "address": "22,LAYTONPLACEKEW,RICHMONDSURREYTW93PPUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STANLEY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163472M",
+        "address": "DARIL-BARBAGANN,TRIQSTREJNU,ZEJTUNMALTA"
+      },
+      {
+        "name": "MARK ROBERTSON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            208707350",
+        "address": "22,LAYTONPLACEKEW,RICHMONDSURREYTW93PPUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GF ARCHCO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53806",
+        "address": "VAULT14,LEVEL2,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "NAJER LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109245",
+        "address": "4THFLOOR,STPAUL'SGATE,22-24NEWSTREET,STHELIERJE14TRJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SALROY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109243",
+        "address": "4THFLOOR,STPAUL'SGATE,22-24NEWSTREET,ST.HELIERJE14TRJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "VITALEDGE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE242786",
+        "address": "17,GR.XENOPOULOULIMASSOL3106CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ANDREW COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT5397125",
+        "address": "CARBONEHOUSE,CARBONEHILL,CUFFLEY,HERTFORDSHIREEN64PLUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MARK ROBERTSON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            208707350",
+        "address": "22,LAYTONPLACEKEW,RICHMONDSURREYTW93PPUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "ALASTAIR HUNTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706489855",
+        "address": "SYLVANUS,LONDONROAD,SUNNINGDALE,ASCOTBERKSHIRESL59RYUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 470
+        }
+      },
+      {
+        "name": "PADRAIC O GIOLLAIN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PC0828467",
+        "address": "19,CABINTEELYWAY,DUBLIN18IRELAND",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 90
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "93,  MILL STREET",
+  "company_id": "C 53817",
+  "registration_date": "Sep 13, 2011",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 20000
+}

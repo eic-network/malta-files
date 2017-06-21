@@ -1,0 +1,83 @@
+{
+  "name": "888 PORTUGAL LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "888 HOLDINGS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            90099",
+        "address": "SUITE601/701,EUROPORT,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "888 HOLDINGS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            90099",
+        "address": "SUITE601/701,EUROPORT,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "",
+        "party_id": "                                                            51392M",
+        "address": "7A,THEPODIUMSTMARKSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "888 HOLDINGS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            90099",
+        "address": "SUITE601/701,EUROPORT,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "888 HOLDINGS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            90099",
+        "address": "SUITE601/701,EUROPORT,GIBRALTARGX111AAGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VHL FINANCING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            113116",
+        "address": "57/63,LINEWALLROAD,GIBRALTARGX111AAGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "LEVEL G, (OFFICE 1/2241). QUANTUM HOUSE, 75,  ABATE RIGORD STREET,",
+  "company_id": "C 79655",
+  "registration_date": "Feb 22, 2017",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 50000
+}

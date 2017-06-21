@@ -1,0 +1,88 @@
+{
+  "name": "A-26 LIMITED",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "ARZELLA,FLAT6,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MASSIMO SPEZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3692051",
+        "address": "SILVERENETOWERB2504DUBAI,MARINA,POBOX336346,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "ARZELLA,FLAT6,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MASSIMO SPEZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3692051",
+        "address": "SILVERENETOWERB2504DUBAI,MARINA,POBOX336346,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "ARZELLA,FLAT6,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "ARZELLA,FLAT6,TRIQJ.QUINTINUS,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MASSIMO SPEZI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3692051",
+        "address": "SILVERENETOWERB2504DUBAI,MARINA,POBOX336346,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMOS AHARONI\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            29000693",
+        "address": "20HILLGATEST,LONDONW87SRUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "29/14, VINCENTI BUILDINGS, STRAIT STREET",
+  "company_id": "C 78696",
+  "registration_date": "Dec 16, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

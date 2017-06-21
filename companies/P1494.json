@@ -1,0 +1,93 @@
+{
+  "name": "A & A SERVICES",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244192M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      },
+      {
+        "name": "AMANDA AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66090M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244192M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      },
+      {
+        "name": "AMANDA AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66090M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244192M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      },
+      {
+        "name": "AMANDA AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66090M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244192M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "AMANDA AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66090M",
+        "address": "77,BELLAVISTA,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "108, NEW MILL STREET,",
+  "company_id": "P 1494",
+  "registration_date": "Nov 07, 2013",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

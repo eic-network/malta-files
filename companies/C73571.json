@@ -1,0 +1,107 @@
+{
+  "name": "ATMOST MALTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JUSTIN ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532391M",
+        "address": "2TRIQIL-KONTIR.BARBAROATTARDATD1202MALTA"
+      },
+      {
+        "name": "GRECH PHILIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51689M",
+        "address": "46,WISTERIATRIQIL-KONTIR.BARBAROATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JUSTIN ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532391M",
+        "address": "2TRIQIL-KONTIR.BARBAROATTARDATD1202MALTA"
+      },
+      {
+        "name": "GRECH PHILIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51689M",
+        "address": "46,WISTERIATRIQIL-KONTIR.BARBAROATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GRECH PHILIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51689M",
+        "address": "46,WISTERIATRIQIL-KONTIR.BARBAROATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUSTIN ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532391M",
+        "address": "2TRIQIL-KONTIR.BARBAROATTARDATD1202MALTA"
+      },
+      {
+        "name": "GRECH PHILIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51689M",
+        "address": "46,WISTERIATRIQIL-KONTIR.BARBAROATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRECH PHILIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51689M",
+        "address": "46,WISTERIATRIQIL-KONTIR.BARBAROATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JUSTIN ATTARD MONTALTO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            532391M",
+        "address": "2TRIQIL-KONTIR.BARBAROATTARDATD1202MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "46, WISTERIA, TRIQ IL-KONTI R. BARBARO,",
+  "company_id": "C 73571",
+  "registration_date": "Dec 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1200
+}

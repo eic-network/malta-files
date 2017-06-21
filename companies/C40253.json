@@ -1,0 +1,91 @@
+{
+  "name": "BIRD IMPORTS & EXPORTS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIUSEPPE ROSA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1400352",
+        "address": "VIANAPOLIN.148CAP97016POZZALLO(RG)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RICCARDO RADENZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1401516",
+        "address": "VIARISORGIMENTON.90/3CAP97015,MODICA(RG)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RICCARDO RADENZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1401516",
+        "address": "VIARISORGIMENTON.90/3CAP97015,MODICA(RG)ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RICCARDO RADENZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1401516",
+        "address": "VIARISORGIMENTON.90/3CAP97015,MODICA(RG)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VULTURE HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C31236",
+        "address": "DIXCARTHOUSEP.O.BOX598,CHARLESTOWNNEVISBRITISHINDIANOCEANTERRITORY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "DENNIS GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            387484M",
+        "address": "UTOPIA,ST.AGATHASTREET,ZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VILLA GAUCI MDINA ROAD",
+  "company_id": "C 40253",
+  "registration_date": "Dec 14, 2006",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

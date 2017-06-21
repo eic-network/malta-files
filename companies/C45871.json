@@ -1,0 +1,93 @@
+{
+  "company_id": "C 45871",
+  "address": "137,SPINOLA ROAD,",
+  "name": "BROOM HOLDING LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Dec 18, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LARS MATHIAS NYSTROM\r",
+        "party_id": "                                                            51317775",
+        "address": "LOKKEVEIEN1,OSLO0253NORWAY",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "THOMMY MICHAEL VIKLANDER\r",
+        "party_id": "                                                            53593534",
+        "address": "MOLLERGATA42B,OSLO0179NORWAY",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NYSTROM INVEST LIMITED\r",
+        "party_id": "                                                            6775440",
+        "address": "STRONHOUSE100PALLMALLLONDONSW1Y5EAENGLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "VIKLANDER INVESTMENTS LIMITED\r",
+        "party_id": "                                                            6775530",
+        "address": "STRONHOUSE100PALLMALLLONDONSW1Y5EAENGLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LARS MATHIAS NYSTROM\r",
+        "party_id": "                                                            51317775",
+        "address": "LOKKEVEIEN1,OSLO0253NORWAY",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "THOMMY MICHAEL VIKLANDER\r",
+        "party_id": "                                                            53593534",
+        "address": "MOLLERGATA42B,OSLO0179NORWAY",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LARS MATHIAS NYSTROM\r",
+        "party_id": "                                                            51317775",
+        "address": "LOKKEVEIEN1,OSLO0253NORWAY",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "THOMMY MICHAEL VIKLANDER\r",
+        "party_id": "                                                            53593534",
+        "address": "MOLLERGATA42B,OSLO0179NORWAY",
+        "nationality": "SWEDISH"
+      }
+    ]
+  }
+}

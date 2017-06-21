@@ -1,0 +1,83 @@
+{
+  "company_id": "C 77159",
+  "address": "266, ST. PAUL'S STREET,",
+  "name": "BOUTIQUE DESIGN HOTELS LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 06, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GEORG ALBRECHT HEINE\r",
+        "party_id": "                                                            0155349A",
+        "address": "142,VILLAMARANDELLE,TRIQXINTILL,TARXIENMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PECUNIA EUROPEAN PROPERTIES LIMITED\r",
+        "party_id": "                                                            113685",
+        "address": "SUITE925A,BLOCK8/9EUROPORTGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "WHAT REALLY MATTERS HOLDINGS LIMITED\r",
+        "party_id": "                                                            114365",
+        "address": "SUITE925A,BLOCK8/9EUROPORTGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORG ALBRECHT HEINE\r",
+        "party_id": "                                                            0155349A",
+        "address": "142,VILLAMARANDELLE,TRIQXINTILL,TARXIENMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORG ALBRECHT HEINE\r",
+        "party_id": "                                                            0155349A",
+        "address": "142,VILLAMARANDELLE,TRIQXINTILL,TARXIENMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORG ALBRECHT HEINE\r",
+        "party_id": "                                                            0155349A",
+        "address": "142,VILLAMARANDELLE,TRIQXINTILL,TARXIENMALTA",
+        "nationality": "GERMAN"
+      }
+    ]
+  }
+}

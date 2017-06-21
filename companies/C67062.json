@@ -1,0 +1,101 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Oct 10, 2014",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BUCKLER GROUPE MALTA LIMITED",
+  "total_issued_shares": 1200,
+  "address": "'SUSAN COURT' B1, TRIQ IL-PRINJOLATA,",
+  "company_id": "C 67062",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo24,23BDDUVAUSSEAU,MARSEILLE13009FRANCE",
+        "party_id": "                                                            14AD62859",
+        "name": "CYRIL ASSENTIO\r",
+        "nationality": "FRENCH"
+      },
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo.24,23BDDUVAUSSEAUMMARSEILLE13009FRANCE",
+        "party_id": "                                                            10AK36964",
+        "name": "GUILLAUME ASSENTIO\r",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo24,23BDDUVAUSSEAU,MARSEILLE13009FRANCE",
+        "party_id": "                                                            14AD62859",
+        "name": "CYRIL ASSENTIO\r",
+        "nationality": "FRENCH"
+      },
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo.24,23BDDUVAUSSEAUMMARSEILLE13009FRANCE",
+        "party_id": "                                                            10AK36964",
+        "name": "GUILLAUME ASSENTIO\r",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo.24,23BDDUVAUSSEAUMMARSEILLE13009FRANCE",
+        "party_id": "                                                            10AK36964",
+        "name": "GUILLAUME ASSENTIO\r",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo24,23BDDUVAUSSEAU,MARSEILLE13009FRANCE",
+        "party_id": "                                                            14AD62859",
+        "name": "CYRIL ASSENTIO\r",
+        "nationality": "FRENCH"
+      },
+      {
+        "address": "LESHAUTSDEMAZARGUES,VILLANo.24,23BDDUVAUSSEAUMMARSEILLE13009FRANCE",
+        "party_id": "                                                            10AK36964",
+        "name": "GUILLAUME ASSENTIO\r",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "SUSANCOURT,B1,TIRQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA",
+        "party_id": "                                                            C 66047",
+        "name": "BUCKLER GROUPE MALTA HOLDING LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "LESHAUTSDEMAZARGUES,VILLANo24,23BDDUVAUSSEAU,MARSEILLE13009FRANCE",
+        "party_id": "                                                            14AD62859",
+        "name": "CYRIL ASSENTIO\r",
+        "nationality": "FRENCH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

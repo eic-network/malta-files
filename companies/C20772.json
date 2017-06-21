@@ -1,0 +1,154 @@
+{
+  "company_id": "C 20772",
+  "address": "BPC, JOE GASAN STREET,",
+  "name": "BPC INTERNATIONAL LIMITED",
+  "locality": "HAMRUN",
+  "status": "",
+  "registration_date": "Nov 22, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3210,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 3210
+    },
+    {
+      "authorised_share_capital": 3504,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 3504
+    },
+    {
+      "authorised_share_capital": 2220,
+      "type": "OrdinaryC",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 2220
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 23293.73,
+  "total_issued_shares": 8934,
+  "total_issued_shares_value": 20810.62,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DAVID BROCKDORFF\r",
+        "party_id": "                                                            424662M",
+        "address": "5,NARCIS,TRIQIZ-ZONQOR,SANPAWLTAT-TARGA,NAXXARNXR1361MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "NOELLIE BROCKDORFF\r",
+        "party_id": "                                                            12161M",
+        "address": "30,WILDORCHID,TRIQIL-BIES,SANGWANNSGN1927MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CARMEL JOHN FARRUGIA\r",
+        "party_id": "                                                            745557M",
+        "address": "67,STEFANOTISSTREET,SANTALUCIJASLC1810MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADAM BROCKDORFF\r",
+        "party_id": "                                                            142786M",
+        "address": "6,ST.LEONARDSTREET,ZABBARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1066,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "WOJCIECH BROCKDORFF\r",
+        "party_id": "                                                            191579M",
+        "address": "6,ST.LEONARDSTREET,ZABBARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1066,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "ADRIENNE MERCIECA\r",
+        "party_id": "                                                            11364M",
+        "address": "7,TRIQIL-PINTA,IBRAGG,SWIEQISWQ2810MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1066,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "DAVID BROCKDORFF\r",
+        "party_id": "                                                            424662M",
+        "address": "5,NARCIS,TRIQIZ-ZONQOR,SANPAWLTAT-TARGA,NAXXARNXR1361MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "NOELLIE BROCKDORFF\r",
+        "party_id": "                                                            12161M",
+        "address": "30,WILDORCHID,TRIQIL-BIES,SANGWANNSGN1927MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID BROCKDORFF\r",
+        "party_id": "                                                            424662M",
+        "address": "5,NARCIS,TRIQIZ-ZONQOR,SANPAWLTAT-TARGA,NAXXARNXR1361MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID BROCKDORFF\r",
+        "party_id": "                                                            424662M",
+        "address": "5,NARCIS,TRIQIZ-ZONQOR,SANPAWLTAT-TARGA,NAXXARNXR1361MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NOELLIE BROCKDORFF\r",
+        "party_id": "                                                            12161M",
+        "address": "30,WILDORCHID,TRIQIL-BIES,SANGWANNSGN1927MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

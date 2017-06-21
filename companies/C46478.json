@@ -1,0 +1,97 @@
+{
+  "name": "Bason Aluminium Limited",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "COLIN BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            342083M",
+        "address": "TAURIDA,TRIQANTHONYVALLETTA,BIRKIRKARABKR4232MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DENNIS BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444854M",
+        "address": "TAURIDA,TRIQANTHONYVALLETTA,BIRKIRKARABKR4232MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DENNIS BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444854M",
+        "address": "TAURIDA,TRIQANTHONYVALLETTA,BIRKIRKARABKR4232MALTA"
+      },
+      {
+        "name": "MARY GRACE BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358558M",
+        "address": "66,HIGHRISE,FL11,IX-XATT,SLIEMASLM1022MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JEREMY GAMBIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01286",
+        "address": "3,BARAKEE,TRIQIL-HAWT,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DENNIS BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444854M",
+        "address": "TAURIDA,TRIQANTHONYVALLETTA,BIRKIRKARABKR4232MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DENNIS BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444854M",
+        "address": "TAURIDA,TRIQANTHONYVALLETTA,BIRKIRKARABKR4232MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "MARY GRACE BASON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358558M",
+        "address": "66,HIGHRISE,FL11,IX-XATT,SLIEMASLM1022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "BASON BUILDING,  TRIQ SAN GWAKKIN, MRIEHEL,",
+  "company_id": "C 46478",
+  "registration_date": "Mar 20, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

@@ -1,0 +1,106 @@
+{
+  "name": "BEEBUZZ LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIAN LUCA AMABILI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5683544",
+        "address": "VIALIGURIA72,MARTINSICURO(TE)ITALY"
+      },
+      {
+        "name": "ALESSANDRO RIGHETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0191391",
+        "address": "VIAL.ARIOSTO12,MARTINSICUTO(TE)64014ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIAN LUCA AMABILI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5683544",
+        "address": "VIALIGURIA72,MARTINSICURO(TE)ITALY"
+      },
+      {
+        "name": "ALESSANDRO RIGHETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0191391",
+        "address": "VIAL.ARIOSTO12,MARTINSICUTO(TE)64014ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIAN LUCA AMABILI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5683544",
+        "address": "VIALIGURIA72,MARTINSICURO(TE)ITALY"
+      },
+      {
+        "name": "ALESSANDRO RIGHETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0191391",
+        "address": "VIAL.ARIOSTO12,MARTINSICUTO(TE)64014ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIAN LUCA AMABILI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS5683544",
+        "address": "VIALIGURIA72,MARTINSICURO(TE)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2400
+        }
+      },
+      {
+        "name": "CRISTIAN BERNARDINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            F880255",
+        "address": "VIADELLESCUOLE6,COLONNELLA(TE)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2400
+        }
+      },
+      {
+        "name": "FABIO DI FELICE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM2784892",
+        "address": "VIADEIMILLE,25COLONNELLA(TE)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "GROUND FLOOR, PALACE COURT, CHURCH STREET,",
+  "company_id": "C 69980",
+  "registration_date": "Apr 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 5000
+}

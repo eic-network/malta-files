@@ -1,0 +1,91 @@
+{
+  "name": "ASTRUM LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "63TRIQSANTALUCIJANAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RODNEY LEE BERGER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            38531A",
+        "address": "10/21,VJALPORTOMASO,PACEVILLE,ST.JULIANSSTJ4013MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "INTERNATIONAL TRUST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 19428",
+        "address": "SUITE4,LEVEL2,PARKLANEBUSINESSCENTRE,MOUNTBATTENSTREET,HAMRUNHMR1556MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "192, OLD BAKERY STREET",
+  "company_id": "C 37043",
+  "registration_date": "Oct 03, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

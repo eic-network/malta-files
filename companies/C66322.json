@@ -1,0 +1,91 @@
+{
+  "name": "BEC TRADING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARY CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473156M",
+        "address": "ARZELLA,TRIQIL-VANILJA,MGARRMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEC Holding Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 66318",
+        "address": "VAULT14,LEVEL2,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 66322",
+  "registration_date": "Aug 08, 2014",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

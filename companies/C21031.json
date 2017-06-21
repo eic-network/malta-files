@@ -1,0 +1,51 @@
+{
+  "name": "A & A LIMITED",
+  "total_issued_shares_value": 29117.16,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 12500,
+      "type": "Ordinary",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ALAN DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479074M",
+        "address": "SANANDREAAPARTMENTS,FLAT1,ST.ANDREWSROAD,ST.ANDREWS,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4166
+        }
+      },
+      {
+        "name": "ANTHONY DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            712650M",
+        "address": "6,LEONECOURT,NURSINGSISTERSSTREET,ST.JULIANSSLM13MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8334
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12500,
+  "address": "ABACUS, PSAILA STREET,",
+  "company_id": "C 21031",
+  "registration_date": "Feb 05, 1997",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

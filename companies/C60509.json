@@ -1,0 +1,97 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "May 21, 2013",
+  "status": "",
+  "locality": "ZEBBUG",
+  "name": "BUGEJA & DENISE LIMITED",
+  "total_issued_shares": 1200,
+  "address": "'BILOM GROUP', NEW STREET IN MDINA ROAD,",
+  "company_id": "C 60509",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "MORNINGDEW,TA'SANTAKATERINA,RABATMALTA",
+        "party_id": "                                                            406491M",
+        "name": "LAURA BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "MORNINGDEW,TA'SANTAKATERINA,RABATMALTA",
+        "party_id": "                                                            406491M",
+        "name": "LAURA BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "MORNINGDEW,SANTAKATERINA,RABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "14,'EMERALD'TRIQVICTORSCERRINAXXARMALTA",
+        "party_id": "                                                            464170M",
+        "name": "DENISE MARSTON\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "party_id": "                                                            AB/26/84/61",
+        "name": "NEXIA BT\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 600,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "BILOM,VICTORDENAROSTREET,MSIDAMALTA",
+        "party_id": "                                                            C 54691",
+        "name": "Bugeja Developments Limited\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 600,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "14,'EMERALD'TRIQVICTORSCERRINAXXARMALTA",
+        "party_id": "                                                            464170M",
+        "name": "DENISE MARSTON\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

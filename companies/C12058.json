@@ -1,0 +1,184 @@
+{
+  "name": "BAY STREET HOLDINGS LIMITED",
+  "total_issued_shares_value": 6672368.87,
+  "total_authorised_shares_value": 6672368.87,
+  "authorised_shares": [
+    {
+      "issued_shares": 667067,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 667067,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 667067,
+      "type": "OrdinaryF",
+      "authorised_share_capital": 667067,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 667067,
+      "type": "OrdinaryG",
+      "authorised_share_capital": 667067,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 431624,
+      "type": "OrdinaryH",
+      "authorised_share_capital": 431624,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 100000,
+      "type": "RedeemablePreferenceA",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 150000,
+      "type": "RedeemablePreferenceB",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 755412,
+      "type": "RedeemablePreferenceC",
+      "authorised_share_capital": 755412,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GEORGE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312355M",
+        "address": "MEADOWVALE,HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280457M",
+        "address": "KAMPANELLA,TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "GEORGE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312355M",
+        "address": "MEADOWVALE,HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280457M",
+        "address": "KAMPANELLA,TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "GEORGE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312355M",
+        "address": "MEADOWVALE,HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VINCENT CURMI & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/46",
+        "address": "FINANCEHOUSE,1STFLOOR,P.ELIZABETHSTREET,TA'XBIEXXBX1102MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280457M",
+        "address": "KAMPANELLA,TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "GEORGE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312355M",
+        "address": "MEADOWVALE,HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIORELLA COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7608",
+        "address": "GAPHOLDINGSHEADOFFICECENSUSCERRISTREET,TIGNESLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 333533
+        }
+      },
+      {
+        "name": "MARKETING AND CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8171",
+        "address": "115,THESTRAND,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 630098
+        }
+      },
+      {
+        "name": "MCL INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 66514",
+        "address": "115THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 333534
+        }
+      },
+      {
+        "name": "PAUL CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280457M",
+        "address": "KAMPANELLA,TRIQWIEDID-DIS,MADLIENASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 36969
+        }
+      },
+      {
+        "name": "GEORGE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312355M",
+        "address": "MEADOWVALE,HOPESTREET,MOSTAMST03MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "G",
+          "issued_shares": 36969
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3438237,
+  "address": "BAY STREET HOTEL COMPLEX, BAY STREET MANAGEMENT OFFICES, ST. GEORGE'S BAY,",
+  "company_id": "C 12058",
+  "registration_date": "Nov 08, 1990",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 3438237
+}

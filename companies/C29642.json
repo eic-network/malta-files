@@ -1,0 +1,130 @@
+{
+  "name": "BAYMART LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN CUSCHIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55957M",
+        "address": "\"SUOMIFARM\"OFFXWIEKILANEGHARGHURMALTA"
+      },
+      {
+        "name": "PATRICIA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242856M",
+        "address": "FLAT9,FOURTHFLOOR,SANTAMARIAAPARTMENTS,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            725250M",
+        "address": "RAZZETTSANPAWL,ST.PAUL'SGARDENS,TRIQSANTAKATERINA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN CUSCHIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55957M",
+        "address": "\"SUOMIFARM\"OFFXWIEKILANEGHARGHURMALTA"
+      },
+      {
+        "name": "PATRICIA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242856M",
+        "address": "FLAT9,FOURTHFLOOR,SANTAMARIAAPARTMENTS,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            725250M",
+        "address": "RAZZETTSANPAWL,ST.PAUL'SGARDENS,TRIQSANTAKATERINA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN CUSCHIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55957M",
+        "address": "\"SUOMIFARM\"OFFXWIEKILANEGHARGHURMALTA"
+      },
+      {
+        "name": "PATRICIA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242856M",
+        "address": "FLAT9,FOURTHFLOOR,SANTAMARIAAPARTMENTS,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            725250M",
+        "address": "RAZZETTSANPAWL,ST.PAUL'SGARDENS,TRIQSANTAKATERINA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VINCENT CUSCHIERI LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4162",
+        "address": "\"VINCENTICUSCHIERILIMITED\"NINUCREMONASTREETPAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "PATRICIA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242856M",
+        "address": "FLAT9,FOURTHFLOOR,SANTAMARIAAPARTMENTS,THEGARDENS,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            725250M",
+        "address": "RAZZETTSANPAWL,ST.PAUL'SGARDENS,TRIQSANTAKATERINA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "BAYMART, BEACH STREET, SPINOLA BAY,",
+  "company_id": "C 29642",
+  "registration_date": "May 02, 2002",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 3000
+}

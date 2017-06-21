@@ -1,0 +1,70 @@
+{
+  "company_id": "C 63065",
+  "address": "18/2, SOUTH STREET,",
+  "name": "BOUW DREAM LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 11, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JEAN LUC HAVELANGE\r",
+        "party_id": "                                                            EI992639",
+        "address": "THIERSAIVE51,WARSAGE4608BELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DG Fiduciary Limited\r",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN LUC HAVELANGE\r",
+        "party_id": "                                                            EI992639",
+        "address": "THIERSAIVE51,WARSAGE4608BELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEAN LUC HAVELANGE\r",
+        "party_id": "                                                            EI992639",
+        "address": "THIERSAIVE51,WARSAGE4608BELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

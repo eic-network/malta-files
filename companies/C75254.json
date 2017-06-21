@@ -1,0 +1,83 @@
+{
+  "name": "BEY CAP LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRONTIER INVESTMENT HOLDINGS SA\r",
+        "nationality": "",
+        "party_id": "                                                            162022",
+        "address": "10,MARINAHOUSE,EDENISLAND,MAHE,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRONTIER INVESTMENT HOLDINGS SA\r",
+        "nationality": "",
+        "party_id": "                                                            162022",
+        "address": "10,MARINAHOUSE,EDENISLAND,MAHE,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            256775M",
+        "address": "NO.5,TRIQID-DRIS,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRONTIER INVESTMENT HOLDINGS SA\r",
+        "nationality": "",
+        "party_id": "                                                            162022",
+        "address": "10,MARINAHOUSE,EDENISLAND,MAHE,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAPROCK CAPITAL PRIVATE TRUST COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            133883",
+        "address": "3RDFLOOR,STANDARDCHARTEREDTOWER,CYBERCITY,EBENEMAURITIUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "192,  OLD BAKERY STREET,",
+  "company_id": "C 75254",
+  "registration_date": "Apr 15, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,76 @@
+{
+  "name": "BONPARK LIMITED",
+  "total_issued_shares_value": 2097600.39,
+  "total_authorised_shares_value": 2097600.39,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 900000,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 900000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CAROL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325250M",
+        "address": "ARIES,GOODSHEPHERDAVENUE,BALZANBZN07MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAROL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325250M",
+        "address": "ARIES,GOODSHEPHERDAVENUE,BALZANBZN07MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00989",
+        "address": "67,TRIQIL-GHENBA,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CAROL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325250M",
+        "address": "ARIES,GOODSHEPHERDAVENUE,BALZANBZN07MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAROL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325250M",
+        "address": "ARIES,GOODSHEPHERDAVENUE,BALZANBZN07MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 900500,
+  "address": "'PARKLANE APARTHOTEL', GOZO STREET,",
+  "company_id": "C 26952",
+  "registration_date": "Sep 06, 2000",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 900500
+}

@@ -1,0 +1,101 @@
+{
+  "name": "420DIST LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE"
+      },
+      {
+        "name": "NICOLAS VEYSSIERE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12CF56573",
+        "address": "LOTISSEMENTPUNAVAIMONTAGNELOTN.41,PUNAAUIATAHITIFRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE"
+      },
+      {
+        "name": "NICOLAS VEYSSIERE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12CF56573",
+        "address": "LOTISSEMENTPUNAVAIMONTAGNELOTN.41,PUNAAUIATAHITIFRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DEAN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126586M",
+        "address": "CALMWATERS,FLAT8,ST.MARK'SSTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE"
+      },
+      {
+        "name": "NICOLAS VEYSSIERE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12CF56573",
+        "address": "LOTISSEMENTPUNAVAIMONTAGNELOTN.41,PUNAAUIATAHITIFRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BORREL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 80919",
+        "address": "CANTERBUSINESSCENTRE,P.FELICJANBILOCCASTREET,MARSAMRS1524MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "NICOLAS VEYSSIERE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12CF56573",
+        "address": "LOTISSEMENTPUNAVAIMONTAGNELOTN.41,PUNAAUIATAHITIFRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CANTER BUSINESS CENTRE, P.FELICJA BILOCCA STREET,",
+  "company_id": "C 80920",
+  "registration_date": "May 16, 2017",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

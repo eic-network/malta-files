@@ -1,0 +1,81 @@
+{
+  "name": "AMOS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DENNY FOLLADOR\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3396183",
+        "address": "PIAZZAMADONNINADELGRAPPA7/2,PADERODELGRAPPATV31017ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DENNY FOLLADOR\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3396183",
+        "address": "PIAZZAMADONNINADELGRAPPA7/2,PADERODELGRAPPATV31017ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DENNY FOLLADOR\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3396183",
+        "address": "PIAZZAMADONNINADELGRAPPA7/2,PADERODELGRAPPATV31017ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PLAMENTO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE315860",
+        "address": "PROPYLAION,41,RITACOURT50,4THFLOOR,FLAT/OFFICE401NICOSIA1048CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "DENNY FOLLADOR\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3396183",
+        "address": "PIAZZAMADONNINADELGRAPPA7/2,PADERODELGRAPPATV31017ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "STRAND TOWERS, FLOOR 2 36 THE STRAND",
+  "company_id": "C 58831",
+  "registration_date": "Dec 27, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,101 @@
+{
+  "company_id": "C 64411",
+  "address": "89/1, TIGNE STREET,",
+  "name": "BOUCHONS LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Mar 26, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DAVID MALLIA\r",
+        "party_id": "                                                            416480M",
+        "address": "NO.33,BEATRIX,DORGASTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERTRAND SCIRIHA\r",
+        "party_id": "                                                            123381M",
+        "address": "NO.58,HOSPITALSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TULLYMON FOUNDATION\r",
+        "party_id": "                                                            PFLP-30",
+        "address": "58,HOSPITALSTREETVALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "IAIN BRENDAN CAHILL\r",
+        "party_id": "                                                            PA0779062",
+        "address": "DUNLAIRHOUSEOLDATHLUMNEY,NAVANCO.MEATHIRELAND",
+        "nationality": "IRISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID MALLIA\r",
+        "party_id": "                                                            416480M",
+        "address": "NO.33,BEATRIX,DORGASTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERTRAND SCIRIHA\r",
+        "party_id": "                                                            123381M",
+        "address": "NO.58,HOSPITALSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID MALLIA\r",
+        "party_id": "                                                            416480M",
+        "address": "NO.33,BEATRIX,DORGASTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERTRAND SCIRIHA\r",
+        "party_id": "                                                            123381M",
+        "address": "NO.58,HOSPITALSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID MALLIA\r",
+        "party_id": "                                                            416480M",
+        "address": "NO.33,BEATRIX,DORGASTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "ANDREASEN LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KENNETH MUNCH ANDREASEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            163082A",
+        "address": "VILLAMARNITRIQIR-RUMANI,XLENDIMUNXAR(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KENNETH MUNCH ANDREASEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            163082A",
+        "address": "VILLAMARNITRIQIR-RUMANI,XLENDIMUNXAR(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KENNETH MUNCH ANDREASEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            163082A",
+        "address": "VILLAMARNITRIQIR-RUMANI,XLENDIMUNXAR(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KENNETH MUNCH ANDREASEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            163082A",
+        "address": "VILLAMARNITRIQIR-RUMANI,XLENDIMUNXAR(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KENNETH MUNCH ANDREASEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            163082A",
+        "address": "VILLAMARNITRIQIR-RUMANI,XLENDIMUNXAR(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "VILLA MARNI TRIQ IR-RUMANI, XLENDI",
+  "company_id": "C 80560",
+  "registration_date": "Apr 21, 2017",
+  "shares_currency": "EUR",
+  "locality": "MUNXAR (GOZO)",
+  "status": "",
+  "total_authorised_shares": 600
+}

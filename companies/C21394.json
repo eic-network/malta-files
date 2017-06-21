@@ -1,0 +1,79 @@
+{
+  "name": "ANTHONY MARITIME CO. LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANTHONY C AMPAZIS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            Z6164357",
+        "address": "20,BOULEVARDDESUISSE,LESAINT-ANDRE,MONTECARLOMC9800MONACO"
+      },
+      {
+        "name": "MARCO FIORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            920702J",
+        "address": "20,BOULEVARDDESUISSE,LESAINT-ANDRE,MONTECARLOMC9800MONACO"
+      },
+      {
+        "name": "MASSIMO SCARAMELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            638000A",
+        "address": "20,BOULEVARDDESUISSE,LESAINT-ANDRE,MONTECARLOMC9800MONACO"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198051M",
+        "address": "167,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "D'AMICO INTERNATIONAL SAH",
+        "nationality": "",
+        "party_id": "",
+        "address": "22,AVENUEDELALIBERTE,LUXEMBOURGB29027LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 475
+        }
+      },
+      {
+        "name": "SEAFIN CORPORATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "131, EAST STREET,",
+  "company_id": "C 21394",
+  "registration_date": "May 07, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

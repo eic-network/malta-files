@@ -1,0 +1,91 @@
+{
+  "name": "Blue Dunes Limited",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID LAWRENCE GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10413",
+        "address": "78,KOSI-KOTTRIQGUZE'ELLULMERCERQORMIQRM2685MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FORTEQ LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60094",
+        "address": "LEVEL3,THEFORUM,CONSTITUTIONSTREET,MOSTAMST9051MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "LEVEL 2, THE FORUM CONSTITUTION STREET",
+  "company_id": "C 42664",
+  "registration_date": "Oct 23, 2007",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

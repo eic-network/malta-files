@@ -1,0 +1,91 @@
+{
+  "name": "BG SOFT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALVIN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2478G",
+        "address": "60,OMMTAL-GRAZZJI,PJAZZASANGIRGOR,KERCEM(GOZO)KCM1011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL ANTHONY BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448997M",
+        "address": "MAPLELEAF,TRIQIL-BLAT,SANNAT(GOZO)SNT1102MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL ANTHONY BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448997M",
+        "address": "MAPLELEAF,TRIQIL-BLAT,SANNAT(GOZO)SNT1102MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DANIEL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10901",
+        "address": "OFFICEB,THEDUKEBUSINESSCENTRE,REPUBLICSTREET,VICTORIA(GOZO)VCT1017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL ANTHONY BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448997M",
+        "address": "MAPLELEAF,TRIQIL-BLAT,SANNAT(GOZO)SNT1102MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL ANTHONY BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448997M",
+        "address": "MAPLELEAF,TRIQIL-BLAT,SANNAT(GOZO)SNT1102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ALVIN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2478G",
+        "address": "60,OMMTAL-GRAZZJI,PJAZZASANGIRGOR,KERCEM(GOZO)KCM1011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "60, OMM TAL-GRAZZJI, PJAZZA SAN GIRGOR,",
+  "company_id": "C 53554",
+  "registration_date": "Aug 05, 2011",
+  "shares_currency": "EUR",
+  "locality": "KERCEM (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1500
+}

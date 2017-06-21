@@ -1,0 +1,136 @@
+{
+  "name": "BELMOR LIMITED",
+  "total_issued_shares_value": 12000,
+  "total_authorised_shares_value": 12000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HENDRIK DANNEELS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590772799026",
+        "address": "WEDEKENSDRIESSTRAAT(KRU)5KRUISHOUTEM9770BELGIUM"
+      },
+      {
+        "name": "CARL CAMIEL DECOOPMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590402919535",
+        "address": "DOELSTRAAT153INGELMUNSTERB8770BELGIUM"
+      },
+      {
+        "name": "STEVEN VAN DEN BOSSCHE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590037550544",
+        "address": "FAZANTENLAAN8WAREGEM8790BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HENDRIK DANNEELS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590772799026",
+        "address": "WEDEKENSDRIESSTRAAT(KRU)5KRUISHOUTEM9770BELGIUM"
+      },
+      {
+        "name": "CARL CAMIEL DECOOPMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590402919535",
+        "address": "DOELSTRAAT153INGELMUNSTERB8770BELGIUM"
+      },
+      {
+        "name": "STEVEN VAN DEN BOSSCHE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590037550544",
+        "address": "FAZANTENLAAN8WAREGEM8790BELGIUM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENDRIK DANNEELS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590772799026",
+        "address": "WEDEKENSDRIESSTRAAT(KRU)5KRUISHOUTEM9770BELGIUM"
+      },
+      {
+        "name": "CARL CAMIEL DECOOPMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590402919535",
+        "address": "DOELSTRAAT153INGELMUNSTERB8770BELGIUM"
+      },
+      {
+        "name": "STEVEN VAN DEN BOSSCHE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            590037550544",
+        "address": "FAZANTENLAAN8WAREGEM8790BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BVBA HOLDEKOR\r",
+        "nationality": "",
+        "party_id": "                                                            0458.005.888",
+        "address": "FAZANTENLAN8WAREGEM8790BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "NV AQUILO\r",
+        "nationality": "",
+        "party_id": "                                                            0466.026.404",
+        "address": "DOELSRAAT153INGELMUNSTER8770BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "NV DANRO\r",
+        "nationality": "",
+        "party_id": "                                                            0461.556.682",
+        "address": "HOOGSTRAAT47WEVELGEM8560BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12000,
+  "address": "IL PIAZZETTA, A, SUITE 41, TOWER ROAD",
+  "company_id": "C 44476",
+  "registration_date": "Jun 16, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 12000
+}

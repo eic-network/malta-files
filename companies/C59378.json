@@ -1,0 +1,91 @@
+{
+  "name": "ASAJA TRADING LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GUIDO MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            809353M",
+        "address": "T6B18,FAVRAYCOURT,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASAJA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58706",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "STAFFAN ROOSMARK\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87538000",
+        "address": "RUAABELFIGUEIREDO,L263LAGOS8600-359PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL,",
+  "company_id": "C 59378",
+  "registration_date": "Feb 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

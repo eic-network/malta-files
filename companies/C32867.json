@@ -1,0 +1,62 @@
+{
+  "company_id": "C 32867",
+  "address": "VILLA AURORA, 14-16 PRINCESS ELIZABETH STREET",
+  "name": "BROTHERS FOUR SHIPPING CO. LTD.",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Dec 24, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 3,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CETIN SASMAZ\r",
+        "party_id": "                                                            TR-N250310",
+        "address": "KORUKENTYOLU,BUYUKHANISITESIF,BLKNO.7D4LEVENTISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CETIN SASMAZ\r",
+        "party_id": "                                                            TR-N250310",
+        "address": "KORUKENTYOLU,BUYUKHANLISITESIF,BLOKNO:7D:4,LEVENT,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 3
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CETIN SASMAZ\r",
+        "party_id": "                                                            TR-N250310",
+        "address": "KORUKENTYOLU,BUYUKHANISITESIF,BLKNO.7D4LEVENTISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CETIN SASMAZ\r",
+        "party_id": "                                                            TR-N250310",
+        "address": "KORUKENTYOLU,BUYUKHANISITESIF,BLKNO.7D4LEVENTISTANBULTURKEY",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

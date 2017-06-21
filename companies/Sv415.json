@@ -1,0 +1,127 @@
+{
+  "name": "ARIA SICAV PLC",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Founder",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SGGG FEXSERV FUND SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44835",
+        "address": "ALPINEHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW WILLIAM BRITTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518191070",
+        "address": "VILLA1,STREET12,MEADOWS2,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "PAUL ZAREN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATE,MELLIEHAMLH2745MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW WILLIAM BRITTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518191070",
+        "address": "VILLA1,STREET12,MEADOWS2,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "PAUL ZAREN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATE,MELLIEHAMLH2745MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW WILLIAM BRITTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518191070",
+        "address": "VILLA1,STREET12,MEADOWS2,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "PAUL ZAREN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298593M",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATE,MELLIEHAMLH2745MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABSOLUTE RETURN INVESTMENT ADVISERS (ARIA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            518191070",
+        "address": "4,DUKESTREETRICHMOND,SURREYTW91HPENGLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MATTHEW WILLIAM BRITTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518191070",
+        "address": "VILLA1,STREET12,MEADOWS2,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "ALPINE HOUSE, 34, NAXXAR ROAD,",
+  "company_id": "SV 415",
+  "registration_date": "Jun 22, 2016",
+  "shares_currency": "GBP",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1000
+}

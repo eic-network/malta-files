@@ -1,0 +1,75 @@
+{
+  "name": "ATHLETIC SOFTWARE LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JAMIE FLEMING\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            U71473536",
+        "address": "144ST.MARY'SST.MARY'SANTIGUAANDBARBUDA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAMIE FLEMING\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            U71473536",
+        "address": "144ST.MARY'SST.MARY'SANTIGUAANDBARBUDA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAMIE FLEMING\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            U71473536",
+        "address": "144ST.MARY'SST.MARY'SANTIGUAANDBARBUDA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CSB MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 29439",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JAMIE FLEMING\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            U71473536",
+        "address": "144ST.MARY'SST.MARY'SANTIGUAANDBARBUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SUITE 264, 9/2, TRIQ IL-ILQUGH,",
+  "company_id": "C 33090",
+  "registration_date": "Jan 28, 2004",
+  "shares_currency": "USD",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

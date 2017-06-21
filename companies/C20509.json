@@ -1,0 +1,59 @@
+{
+  "name": "BLUE AND GREEN SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MANDY MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109788M",
+        "address": "126,ATOCIASTREET,HAMRUNHMR12MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "THE ROSE COTTAGE, K. GALEA STREET,",
+  "company_id": "C 20509",
+  "registration_date": "Aug 29, 1996",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

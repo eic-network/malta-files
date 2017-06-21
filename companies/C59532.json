@@ -1,0 +1,105 @@
+{
+  "name": "BENJORO CONSULTANCY LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BENJAMIN MICHAEL CLEMES\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            EB351849",
+        "address": "GRUPOLASGOLONDRINASCASNO.1O,CALLEPICASSONO.14,URBANIZACIONCORTIJOBLANCO,SANPEDRODEALCANTARAMALAGA29670SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BENJAMIN MICHAEL CLEMES\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            EB351849",
+        "address": "GRUPOLASGOLONDRINASCASNO.1O,CALLEPICASSONO.14,URBANIZACIONCORTIJOBLANCO,SANPEDRODEALCANTARAMALAGA29670SPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BENJAMIN MICHAEL CLEMES\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            EB351849",
+        "address": "GRUPOLASGOLONDRINASCASNO.1O,CALLEPICASSONO.14,URBANIZACIONCORTIJOBLANCO,SANPEDRODEALCANTARAMALAGA29670SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BENJAMIN MICHAEL CLEMES\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            EB351849",
+        "address": "GRUPOLASGOLONDRINASCASNO.1O,CALLEPICASSONO.14,URBANIZACIONCORTIJOBLANCO,SANPEDRODEALCANTARAMALAGA29670SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE NO.5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 59532",
+  "registration_date": "Mar 01, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

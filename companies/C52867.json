@@ -1,0 +1,88 @@
+{
+  "company_id": "C 52867",
+  "address": "222, MERCHANTS STREET,",
+  "name": "BRAND IN PROGRESS LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 17, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "3,NADURLANE,BIRZEBBUGIABBG1543MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "3,NADURLANE,BIRZEBBUGIABBG1543MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "3,NADURLANE,BIRZEBBUGIABBG1543MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "3,NADURLANE,BIRZEBBUGIABBG1543MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

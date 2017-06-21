@@ -1,0 +1,107 @@
+{
+  "name": "BABYZAC LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2400,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JEAN PAUL DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            88680M",
+        "address": "FLAT1/6,MARINACOURT,G.CALISTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "MICHELLE DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0939307",
+        "address": "RETORNODELAANAHUACNO.12,LOMASDELASPALMAS,HUIXQUILUCAN,ESTADODEMEXICOMEXICO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEAN PAUL DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            88680M",
+        "address": "FLAT1/6,MARINACOURT,G.CALISTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "MICHELLE DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0939307",
+        "address": "RETORNODELAANAHUACNO.12,LOMASDELASPALMAS,HUIXQUILUCAN,ESTADODEMEXICOMEXICO"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PASCAL A. DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            246648M",
+        "address": "VILLADEMAJO,TA'XBIEXTERRACE,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN PAUL DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            88680M",
+        "address": "FLAT1/6,MARINACOURT,G.CALISTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "MICHELLE DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0939307",
+        "address": "RETORNODELAANAHUACNO.12,LOMASDELASPALMAS,HUIXQUILUCAN,ESTADODEMEXICOMEXICO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHELLE DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0939307",
+        "address": "RETORNODELAANAHUACNO.12,LOMASDELASPALMAS,HUIXQUILUCAN,ESTADODEMEXICOMEXICO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JEAN PAUL DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            88680M",
+        "address": "FLAT1/6,MARINACOURT,G.CALISTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1/3, MARINA COURT, G. CALI STREET,",
+  "company_id": "C 50490",
+  "registration_date": "Aug 24, 2010",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2400
+}

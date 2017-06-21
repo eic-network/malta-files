@@ -1,0 +1,159 @@
+{
+  "name": "BMVP LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 8590,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8590,
+      "nominal_value_per_share": 0.15
+    },
+    {
+      "issued_shares": 1410,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1410,
+      "nominal_value_per_share": 0.15
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL DORSMAN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            15093692",
+        "address": "95,BENGURIONBLVD.,TELAVIVJAFFAISRAEL"
+      },
+      {
+        "name": "YARON KOPEL\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22517104",
+        "address": "279,BNEYEFRAIM,APARTMENT3,TELAVIVISRAEL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL DORSMAN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            15093692",
+        "address": "95,BENGURIONBLVD.,TELAVIVJAFFAISRAEL"
+      },
+      {
+        "name": "YARON KOPEL\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22517104",
+        "address": "279,BNEYEFRAIM,APARTMENT3,TELAVIVISRAEL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "YARON KOPEL\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22517104",
+        "address": "279,BNEYEFRAIM,APARTMENT3,TELAVIVISRAEL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL DORSMAN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            15093692",
+        "address": "95,BENGURIONBLVD.,TELAVIVJAFFAISRAEL"
+      },
+      {
+        "name": "YARON KOPEL\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22517104",
+        "address": "279,BNEYEFRAIM,APARTMENT3,TELAVIVISRAEL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL DORSMAN\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            15093692",
+        "address": "95,BENGURIONBLVD.,TELAVIVJAFFAISRAEL",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4295
+        }
+      },
+      {
+        "name": "YARON KOPEL\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22517104",
+        "address": "279,BNEYEFRAIM,APARTMENT3,TELAVIVISRAEL",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4295
+        }
+      },
+      {
+        "name": "TAL GERSZON\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            22254005",
+        "address": "12,APARTMENT22,HAPARDESST.,KIRYATONOISRAEL",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JOAN LAPORTA ESTRUCH\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            35062738C",
+        "address": "AVENIDADIAGONAL676,9-2BARCELONA08034SPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "EHUD SHOCHATOVITCH\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            29003168",
+        "address": "3,HOGLAST.,NEVE-AMIT,REHOVOTISRAEL",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 330
+        }
+      },
+      {
+        "name": "PINHAS ZAHAVI\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            29004077",
+        "address": "75,CUMULUSHOUSE,TRADEWINDSGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 0.15,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 330
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "THE PENTHOUSE SUITE, TERRACES NO. 1, TRIQ IL-KANNIZZATA,",
+  "company_id": "C 74261",
+  "registration_date": "Feb 08, 2016",
+  "shares_currency": "USD",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 30000
+}

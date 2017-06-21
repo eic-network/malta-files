@@ -1,0 +1,62 @@
+{
+  "company_id": "C 70608",
+  "address": "198, OLD BAKERY STREET",
+  "name": "BRIGHT MAROON SHIPPING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 15, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHN ARTHUR BASSADONE\r",
+        "party_id": "                                                            099142229",
+        "address": "48KINGSWHARF,QUAY27,GIBRALTARPOBOX51GIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDITERRANEAN (SHIPPING) HOLDINGS LLC\r",
+        "party_id": "                                                            5221373",
+        "address": "1201,ORANGESTREET,SUITE600,WILMINGTONDELAWAREDE19801UNITEDSTATES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN ARTHUR BASSADONE\r",
+        "party_id": "                                                            099142229",
+        "address": "48KINGSWHARF,QUAY27,GIBRALTARPOBOX51GIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN ARTHUR BASSADONE\r",
+        "party_id": "                                                            099142229",
+        "address": "48KINGSWHARF,QUAY27,GIBRALTARPOBOX51GIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

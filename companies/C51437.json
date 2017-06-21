@@ -1,0 +1,109 @@
+{
+  "name": "ANIMAL COMPANY (MALTA) LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KAREN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381869M",
+        "address": "LAPLAYA,ST.JOHNSTREET,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            383965M",
+        "address": "LAPLAYA,TRIQIL-WIRTNATURALI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "JOSEPH D. BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            524330M",
+        "address": "VILLACANDIDA,278TARAGIL-HARRUB,SANTAMARIAESTATEMELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            383965M",
+        "address": "LAPLAYA,TRIQIL-WIRTNATURALI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "JOSEPH D. BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            524330M",
+        "address": "VILLACANDIDA,278TARAGIL-HARRUB,SANTAMARIAESTATEMELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "37,ST.MARYSTREETNAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            383965M",
+        "address": "LAPLAYA,TRIQIL-WIRTNATURALI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "JOSEPH D. BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            524330M",
+        "address": "VILLACANDIDA,278TARAGIL-HARRUB,SANTAMARIAESTATEMELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERNARD BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            383965M",
+        "address": "LAPLAYA,TRIQIL-WIRTNATURALI,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "KAREN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381869M",
+        "address": "LAPLAYA,TRIQIL-WIRTNATURALI,BAHARIC-CAGHAQNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "63, SIR ADRIAN DINGLI STREET,",
+  "company_id": "C 51437",
+  "registration_date": "Dec 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

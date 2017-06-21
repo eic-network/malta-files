@@ -1,0 +1,83 @@
+{
+  "name": "AMOR LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249759M",
+        "address": "CHANELLETRIQIL-LINJAATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249759M",
+        "address": "CHANELLETRIQIL-LINJAATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHARLES FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249759M",
+        "address": "CHANELLETRIQIL-LINJAATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249759M",
+        "address": "CHANELLETRIQIL-LINJAATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            645359M",
+        "address": "57,TRIQL-ISTAZZJON,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CHARLES FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249759M",
+        "address": "CHANELLETRIQIL-LINJAATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "38, LEVEL 2, EMMANUEL SCHEMBRI STREET",
+  "company_id": "C 52759",
+  "registration_date": "May 05, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

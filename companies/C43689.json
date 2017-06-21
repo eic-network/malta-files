@@ -1,0 +1,91 @@
+{
+  "name": "Blueberry Games Holding Ltd",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARL MAGNUS HYLTINGO\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84603787",
+        "address": "TAPTOGATAN46TR,STOCKHOLM11526SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER ANDREAS STEVENDAL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89155746",
+        "address": "CENSUXERRISTREET6,FLAT4,TIGNEPOINTRESIDENCE,SLIEMASLM3062MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER ANDREAS STEVENDAL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89155746",
+        "address": "CENSUXERRISTREET6,FLAT4,TIGNEPOINTRESIDENCE,SLIEMASLM3062MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/76",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER ANDREAS STEVENDAL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89155746",
+        "address": "CENSUXERRISTREET6,FLAT4,TIGNEPOINTRESIDENCE,SLIEMASLM3062MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "THE SPACE, LEVEL 2 & 3, ALFRED CRAIG STREET,",
+  "company_id": "C 43689",
+  "registration_date": "Feb 29, 2008",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 10000
+}

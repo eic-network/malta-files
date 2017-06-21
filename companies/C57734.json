@@ -1,0 +1,140 @@
+{
+  "name": "BayBets Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "NO.29,ST.MARYSTREET,BIRKIRKARABKR4684MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSCHKA KUPICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            524532806",
+        "address": "CALLEFLORALTA,NO.2,PLANTA4,PUERTADERECHA,MADRID28004SPAIN"
+      },
+      {
+        "name": "SIMON RIEHM\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1W5L1CCV",
+        "address": "72/73,FLAT6,TRIQGORGBORGOLIVIERST.JULIANSMALTA"
+      },
+      {
+        "name": "OLIVER SCHULZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5KHFZNGO",
+        "address": "FLAT6,200,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSCHKA KUPICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            524532806",
+        "address": "CALLEFLORALTA,NO.2,PLANTA4,PUERTADERECHA,MADRID28004SPAIN"
+      },
+      {
+        "name": "SIMON RIEHM\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1W5L1CCV",
+        "address": "72/73,FLAT6,TRIQGORGBORGOLIVIERST.JULIANSMALTA"
+      },
+      {
+        "name": "OLIVER SCHULZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5KHFZNGO",
+        "address": "FLAT6,200,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CORPORATE AUDITORS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSCHKA KUPICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            524532806",
+        "address": "CALLEFLORALTA,NO.2,PLANTA4,PUERTADERECHA,MADRID28004SPAIN"
+      },
+      {
+        "name": "SIMON RIEHM\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1W5L1CCV",
+        "address": "72/73,FLAT6,TRIQGORGBORGOLIVIERST.JULIANSMALTA"
+      },
+      {
+        "name": "OLIVER SCHULZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5KHFZNGO",
+        "address": "FLAT6,200,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FORTUNA INNOVATIONS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 74538",
+        "address": "3rdFLOOR,NAVIBUILDINGS,PANTARROAD,LIJALJA2021MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "NEXTVENTURES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59491",
+        "address": "MELITACOURT,LEVEL3,GIUSEPPECALISTREET,TA'XBIEXXBX1420MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "SEEDSTAKE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57415",
+        "address": "MELITACOURT,LEVEL3,GIUSEPPECALISTREET,TA'XBIEXXBX1420MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "MELITA COURT, LEVEL 3, GIUSEPPE CALI STREET,",
+  "company_id": "C 57734",
+  "registration_date": "Oct 02, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

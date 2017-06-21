@@ -1,0 +1,80 @@
+{
+  "name": "ATLAS BETTING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      },
+      {
+        "name": "ALEXIA VIKI\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E289900",
+        "address": "IOULIOUTYPALDOU,10P.C.1077NICOSIACYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      },
+      {
+        "name": "ALEXIA VIKI\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E289900",
+        "address": "IOULIOUTYPALDOU,10P.C.1077NICOSIACYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARALAMPOUS PANAGIOTIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E364202",
+        "address": "TAMASOU19,STROVOLOSP.C.2044,NICOSIACYPRUS"
+      },
+      {
+        "name": "ALEXIA VIKI\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E289900",
+        "address": "IOULIOUTYPALDOU,10P.C.1077NICOSIACYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PANAVIK INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48648",
+        "address": "VAULT14LEVEL2VALLETTAWATERFRONTFLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 49118",
+  "registration_date": "Mar 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

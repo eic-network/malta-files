@@ -1,0 +1,78 @@
+{
+  "name": "AM 1951 LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SHARON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536172M",
+        "address": "15,QUERIDA,WIEDHALBALZAN,BUONTEMPOESTATEBALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SHARON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536172M",
+        "address": "15,QUERIDA,WIEDHALBALZAN,BUONTEMPOESTATEBALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SHARON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536172M",
+        "address": "15,QUERIDA,WIEDHALBALZAN,BUONTEMPOESTATEBALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SHARON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536172M",
+        "address": "15,QUERIDA,WIEDHALBALZAN,BUONTEMPOESTATEBALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            800051M",
+        "address": "43,TRIQBIRBALBALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "43, TRIQ BIRBAL,",
+  "company_id": "C 55952",
+  "registration_date": "Apr 12, 2012",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,165 @@
+{
+  "name": "BILOM DEVELOPMENTS LTD",
+  "total_issued_shares_value": 201200,
+  "total_authorised_shares_value": 201200,
+  "authorised_shares": [
+    {
+      "issued_shares": 336,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 336,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 100264,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 100264,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 100600,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 100600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Michael Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0604662M",
+        "address": "Ir-Razzetttal-Palazz,Il-Kalkara(Il-Bahrija),RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Laura Bartolo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406491M",
+        "address": "MorningDewTa'SantaKaterina(Limititar-Rabat)RABATMALTA"
+      },
+      {
+        "name": "Gilbert Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0399588M",
+        "address": "VedutaHeights,Flat5,TriqInguanez,RABATMALTA"
+      },
+      {
+        "name": "Michael Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0604662M",
+        "address": "Ir-Razzetttal-Palazz,Il-Kalkara(Il-Bahrija),RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Laura Bartolo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406491M",
+        "address": "MorningDewTa'SantaKaterina(Limititar-Rabat)RABATMALTA"
+      },
+      {
+        "name": "Gilbert Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0399588M",
+        "address": "VedutaHeights,Flat5,TriqInguanez,RABATMALTA"
+      },
+      {
+        "name": "Michael Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0604662M",
+        "address": "Ir-Razzetttal-Palazz,Il-Kalkara(Il-Bahrija),RABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Laura Bartolo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406491M",
+        "address": "MorningDewTa'SantaKaterina(Limititar-Rabat)RABATMALTA"
+      },
+      {
+        "name": "Gilbert Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0399588M",
+        "address": "VedutaHeights,Flat5,TriqInguanez,RABATMALTA"
+      },
+      {
+        "name": "Michael Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0604662M",
+        "address": "Ir-Razzetttal-Palazz,Il-Kalkara(Il-Bahrija),RABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Michael Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0604662M",
+        "address": "Ir-Razzetttal-Palazz,Il-Kalkara(Il-Bahrija)RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 336
+        }
+      },
+      {
+        "name": "Laura Bartolo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406491M",
+        "address": "MorningDew,Ta'SantaKaterina,l/oRabatRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50132
+        }
+      },
+      {
+        "name": "Gilbert Bugeja\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0399588M",
+        "address": "VedutaHeights,Flat5TriqInguanezRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50132
+        }
+      },
+      {
+        "name": "Nathan Bartolo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0223280M",
+        "address": "MORNINGDEWTA'SANTAKATERINA,LIMITITAR-RABAT,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 25150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 201200,
+  "address": "Bilom,  New Street in Mdina Road,",
+  "company_id": "C 69223",
+  "registration_date": "Feb 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 201200
+}

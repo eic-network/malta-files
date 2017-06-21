@@ -1,0 +1,151 @@
+{
+  "name": "Axeria Re Limited",
+  "total_issued_shares_value": 30000000,
+  "total_authorised_shares_value": 40000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 29999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 29999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIANNE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46188M",
+        "address": "DAWNRIDGE,FL1,TRIQHALKAPRAT,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDRE GABRIEL ARRAGO\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C20TY7T22",
+        "address": "LOTHRINGERSTR,43HANNOVER30559GERMANY"
+      },
+      {
+        "name": "JAHIDE ASSIM RAJPAR\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CK57288",
+        "address": "2,PLACEDU11NOVEMBREMALAKOFF92240FRANCE"
+      },
+      {
+        "name": "BRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433178M",
+        "address": "4SPRINGMELODY,TRIQMADRETEREZA,TALWEJ,MOSTAMST2414MALTA"
+      },
+      {
+        "name": "RAY SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362666M",
+        "address": "33CLAIREE.ENGELSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDRE GABRIEL ARRAGO\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C20TY7T22",
+        "address": "LOTHRINGERSTR,43HANNOVER30559GERMANY"
+      },
+      {
+        "name": "JAHIDE ASSIM RAJPAR\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CK57288",
+        "address": "2,PLACEDU11NOVEMBREMALAKOFF92240FRANCE"
+      },
+      {
+        "name": "BRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433178M",
+        "address": "4SPRINGMELODY,TRIQMADRETEREZA,TALWEJ,MOSTAMST2414MALTA"
+      },
+      {
+        "name": "RAY SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362666M",
+        "address": "33CLAIREE.ENGELSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDRE GABRIEL ARRAGO\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C20TY7T22",
+        "address": "LOTHRINGERSTR,43HANNOVER30559GERMANY"
+      },
+      {
+        "name": "JAHIDE ASSIM RAJPAR\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CK57288",
+        "address": "2,PLACEDU11NOVEMBREMALAKOFF92240FRANCE"
+      },
+      {
+        "name": "BRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433178M",
+        "address": "4SPRINGMELODY,TRIQMADRETEREZA,TALWEJ,MOSTAMST2414MALTA"
+      },
+      {
+        "name": "RAY SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362666M",
+        "address": "33CLAIREE.ENGELSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "April Mediterranean Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 43042",
+        "address": "LEVEL2,PROGETTAHOUSE,TOWERROAD,SWATAR,BIRKIRKARABKR4012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 29999999
+        }
+      },
+      {
+        "name": "APRIL GROUP SA\r",
+        "nationality": "",
+        "party_id": "                                                            377994553RCS LYON",
+        "address": "114,BOULEVARDMARIUSVIVIERMERLE,CEDEX03LYON69439FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000000,
+  "address": "LEVEL 2, PROGETTA HOUSE, TOWER ROAD, SWATAR,",
+  "company_id": "C 43228",
+  "registration_date": "Dec 28, 2007",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 40000000
+}

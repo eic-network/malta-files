@@ -1,0 +1,83 @@
+{
+  "company_id": "C 38159",
+  "address": "VALLETTA BUILDINGS, FOURTH FLOOR, SUITE 20, SOUTH STREET,",
+  "name": "BROUWER FASHION LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 08, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HENRIQUE MIGUEL MACEDO BASTO DE CARVALHO\r",
+        "party_id": "                                                            H658450",
+        "address": "RUABORGESCARNEIRO18C/VLISBON1200-619PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENRIQUE MIGUEL MACEDO BASTO DE CARVALHO\r",
+        "party_id": "                                                            H658450",
+        "address": "RUABORGESCARNEIRO18C/VLISBON1200-619PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HENRIQUE MIGUEL MACEDO BASTO DE CARVALHO\r",
+        "party_id": "                                                            H658450",
+        "address": "RUABORGESCARNEIRO18C/VLISBON1200-619PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

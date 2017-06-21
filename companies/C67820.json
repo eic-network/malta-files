@@ -1,0 +1,51 @@
+{
+  "name": "ASIAGEM INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DOMENICO ENNIO CIOFFI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU0501665",
+        "address": "CORSOUMBERTOINO.5CAVALLINO(LE)73020ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "TOMMASO NICOLETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS7365012",
+        "address": "CONTRADATERRISISTRADASTATALE159PARABITA(LE)75052ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4950
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "83, ST. PAUL STREET,",
+  "company_id": "C 67820",
+  "registration_date": "Nov 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

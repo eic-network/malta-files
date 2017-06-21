@@ -1,0 +1,59 @@
+{
+  "name": "BAVARIAN TECHNOLOGY SYSTEMS",
+  "total_issued_shares_value": 25000,
+  "total_authorised_shares_value": 25000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ERHARD DUMPS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8440036867",
+        "address": "AKAZIENWEG2,D-94133ROEHRNBACHGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERHARD DUMPS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8440036867",
+        "address": "AKAZIENWEG2,D-94133ROEHRNBACHGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24999
+        }
+      },
+      {
+        "name": "MARIO DUMPS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8440032685",
+        "address": "KRANZLWEGSIEDLUNG1,94133ROEHRNBACHGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "F16-F18, TUBINGEN CENTRE, TECHNOPARK",
+  "company_id": "P COMM 64",
+  "registration_date": "Feb 13, 2004",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

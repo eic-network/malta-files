@@ -1,0 +1,78 @@
+{
+  "name": "AXUM TRADING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SALEM SHERIF\r",
+        "nationality": "",
+        "party_id": "                                                            113228",
+        "address": "AL-SAYDISTREET,BLDG.IMMIGRATION,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALEM SHERIF\r",
+        "nationality": "",
+        "party_id": "                                                            113228",
+        "address": "AL-SAYDISTREET,BLDG.IMMIGRATION,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALEM SHERIF\r",
+        "nationality": "",
+        "party_id": "                                                            113228",
+        "address": "AL-SAYDISTREET,BLDG.IMMIGRATION,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SALEM SHERIF\r",
+        "nationality": "",
+        "party_id": "                                                            113228",
+        "address": "AL-SAYDISTREET,BLDG.IMMIGRATION,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SALEM SHERIF\r",
+        "nationality": "",
+        "party_id": "                                                            113228",
+        "address": "AL-SAYDISTREET,BLDG.IMMIGRATION,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "27, GROGNET STREET",
+  "company_id": "C 24761",
+  "registration_date": "Jun 24, 1999",
+  "shares_currency": "USD",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

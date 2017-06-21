@@ -1,0 +1,97 @@
+{
+  "name": "ASSISERVICE LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CONRAD MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0313789M",
+        "address": "52,IVYTriqil-GummarBIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENZO COCOZZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7970335",
+        "address": "VIABELVEDERE,N.25FORIONAPOLIITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENZO COCOZZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7970335",
+        "address": "VIABELVEDERE,N.25FORIONAPOLIITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENZO COCOZZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7970335",
+        "address": "VIABELVEDERE,N.25FORIONAPOLIITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIMONA DE GIOVANNI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU1400603",
+        "address": "VCS.GUIDO1.Sc.UNAPOLI(NA)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "VINCENZO COCOZZA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7970335",
+        "address": "VIABELVEDERE,N.25FORIONAPOLIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 624
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "ABACUS BUSINESS CENTRE, LEVEL 1 TRIQ DUN KARM, B'KARA BYPASS",
+  "company_id": "C 65386",
+  "registration_date": "May 30, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

@@ -1,0 +1,62 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Jun 10, 2009",
+  "status": "In Process of Merging",
+  "locality": "VALLETTA",
+  "name": "BUG-9 SHIPPING LIMITED",
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 47008",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "party_id": "                                                            C 46975",
+        "name": "CORMORANT HOLDING LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "party_id": "                                                            C 46975",
+        "name": "CORMORANT HOLDING LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Directors": [
+      {
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "party_id": "                                                            C 46975",
+        "name": "CORMORANT HOLDING LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 500,
+          "nominal_value_per_share": 2.4,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "party_id": "                                                            C 48033",
+        "name": "DON-3 SHIPPING LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.4,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

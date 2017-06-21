@@ -1,0 +1,75 @@
+{
+  "name": "B&B SAILOR LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RISK MANAGEMENT SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36556",
+        "address": "12,2/1TIGNEPLACE,TIGNESTREET,SLIEMASLM3137MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RISK MANAGEMENT SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36556",
+        "address": "12,2/1TIGNEPLACE,TIGNESTREET,SLIEMASLM3137MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RISK MANAGEMENT SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36556",
+        "address": "12,2/1TIGNEPLACE,TIGNESTREET,SLIEMASLM3137MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PKF FIDUCIARIES INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 24382",
+        "address": "35MANNARINOROADBIRKIRKARABKR9080MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PKF FIDUCIARIES INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 24382",
+        "address": "35MANNARINOROADBIRKIRKARABKR9080MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO. 12, TIGNE PLACE, OFFICE 2/1, TIGNE STREET,",
+  "company_id": "C 73421",
+  "registration_date": "Dec 07, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

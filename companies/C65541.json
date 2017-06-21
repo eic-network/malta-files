@@ -1,0 +1,62 @@
+{
+  "name": "BLUE MOON LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EFTHALIA PARASKEVOPOULOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH3095652",
+        "address": "21,PATRIARCHOUGRIGORIOUSTREET,ATHENS17676GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EFTHALIA PARASKEVOPOULOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH3095652",
+        "address": "21,PATRIARCHOUGRIGORIOUSTREET,ATHENS17676GREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EFTHALIA PARASKEVOPOULOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH3095652",
+        "address": "21,PATRIARCHOUGRIGORIOUSTREET,ATHENS17676GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STAMATIOS MOLARIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH3758772",
+        "address": "16,BOUBOULINASSTREET,VOULA16673GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "49, STRAIT STREET,",
+  "company_id": "C 65541",
+  "registration_date": "Jun 09, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

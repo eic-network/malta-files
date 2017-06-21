@@ -1,0 +1,141 @@
+{
+  "name": "A.G. POLLACCO CO. LIMITED",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4998,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4998,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "198,OLDBAKERYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OMAR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433575M",
+        "address": "AIRDEFLEUR,TRIQWIEDRMIEDI,ATTARDBZN05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCELLO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177273M",
+        "address": "110,VALLEYROAD,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "OMAR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433575M",
+        "address": "AIRDEFLEUR,TRIQWIEDRMIEDI,ATTARDBZN05MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCELLO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177273M",
+        "address": "110,VALLEYROAD,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "OMAR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433575M",
+        "address": "AIRDEFLEUR,TRIQWIEDRMIEDI,ATTARDBZN05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARCELLO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177273M",
+        "address": "110,VALLEYROAD,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "OMAR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433575M",
+        "address": "AIRDEFLEUR,TRIQWIEDRMIEDI,ATTARDBZN05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654047M",
+        "address": "AIRDEFLEUR,WIEDRMIEDISTREET,ATTARDBZN05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "AGNES GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27648M",
+        "address": "AIRDEFLEUR,WIEDRMIEDISTREET,ATTARDBZN05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PHARMASPES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17221",
+        "address": "ST.GEORGEPHARMACY,21,MAINSTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "OMAR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433575M",
+        "address": "AIRDEFLEUR,TRIQWIEDRMIEDI,ATTARDBZN05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "AIR DE FLEUR, TRIQ WIED RMIEDI,",
+  "company_id": "C 29228",
+  "registration_date": "Feb 01, 2002",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

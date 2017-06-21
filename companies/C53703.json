@@ -1,0 +1,99 @@
+{
+  "company_id": "C 53703",
+  "address": "LEVEL 2, REGIONAL BUSINESS CENTRE, UNIVERSITY HEIGHTS,",
+  "name": "BORY INTERNATIONAL LIMITED",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "registration_date": "Aug 29, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EMCSI DIRECTORS LIMITED\r",
+        "party_id": "                                                            C 50341",
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "party_id": "                                                            C 25114",
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "FORESTFORD INVESTMENTS S.A.\r",
+        "party_id": "                                                            736316",
+        "address": "East53rdStreet,MarbellaMMGBuilding2ndFloorPanamaPANAMA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMCSI DIRECTORS LIMITED\r",
+        "party_id": "                                                            C 50341",
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMCSI DIRECTORS LIMITED\r",
+        "party_id": "                                                            C 50341",
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN FARRUGIA\r",
+        "party_id": "                                                            499868M",
+        "address": "15,TRIQIN-NAMUR,IKLINIKL1842MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "CHRIS MERCIECA\r",
+        "party_id": "                                                            372276M",
+        "address": "LAMAS,TRIQIS-SKIET,MARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

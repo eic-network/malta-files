@@ -1,0 +1,152 @@
+{
+  "name": "ALLIANCE YACHTING COMPANY LTD",
+  "total_issued_shares_value": 75000,
+  "total_authorised_shares_value": 75000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 25000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24880M",
+        "address": "50,OLDRAILWAYTRACK,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            303358M",
+        "address": "ELPIDEA,HOPESTREET,MOSTAMALTA"
+      },
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24880M",
+        "address": "50,OLDRAILWAYTRACK,SANTAVENERAMALTA"
+      },
+      {
+        "name": "JOHN SIVE GINO CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664954M",
+        "address": "13,TRIQGORGBORGOLIVIER,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            303358M",
+        "address": "ELPIDEA,HOPESTREET,MOSTAMALTA"
+      },
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24880M",
+        "address": "50,OLDRAILWAYTRACK,SANTAVENERAMALTA"
+      },
+      {
+        "name": "JOHN SIVE GINO CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664954M",
+        "address": "13,TRIQGORGBORGOLIVIER,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            303358M",
+        "address": "ELPIDEA,HOPESTREET,MOSTAMALTA"
+      },
+      {
+        "name": "KENNETH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            24880M",
+        "address": "50,OLDRAILWAYTRACK,SANTAVENERAMALTA"
+      },
+      {
+        "name": "JOHN SIVE GINO CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664954M",
+        "address": "13,TRIQGORGBORGOLIVIER,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMILLERI MARINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26192",
+        "address": "ZIACARLOTTA,GARDENSTREET,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "CUTRICO SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 3517",
+        "address": "CUTRICO,TRIQL-INTORNJATUR,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "UNITED EQUIPMENT COMPANY (UNEC) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 10827",
+        "address": "BONNICIHOUSE,SARDINESTREET,BURMARRAD,ST.PAUL'SBAYSPB6073MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 75000,
+  "address": "'FRASER YACHTS', GARDEN STREET,",
+  "company_id": "C 57224",
+  "registration_date": "Aug 10, 2012",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 75000
+}

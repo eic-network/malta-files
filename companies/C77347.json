@@ -1,0 +1,109 @@
+{
+  "name": "AURAMITIS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EDWARD DALMAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329983M",
+        "address": "33,VICTORDENAROSTREET,MSIDAMSD1613MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUCA AMOROSINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3777283",
+        "address": "43,MATTYGRIMASTREETCOSPICUAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUCA AMOROSINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3777283",
+        "address": "43,MATTYGRIMASTREETCOSPICUAMALTA"
+      },
+      {
+        "name": "VALENTINA MAINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5156163",
+        "address": "VIAMELISENDA8,FIUMICINOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUCA AMOROSINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3777283",
+        "address": "43,MATTYGRIMASTREETCOSPICUAMALTA"
+      },
+      {
+        "name": "VALENTINA MAINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5156163",
+        "address": "VIAMELISENDA8,FIUMICINOITALY"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUCA AMOROSINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3777283",
+        "address": "43,MATTYGRIMASTREETCOSPICUAMALTA"
+      },
+      {
+        "name": "VALENTINA MAINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5156163",
+        "address": "VIAMELISENDA8,FIUMICINOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUCA AMOROSINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3777283",
+        "address": "43,MATTYGRIMASTREETCOSPICUAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CESARE CECCHINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5156088",
+        "address": "VIAORTONOVO31,ROME00168ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1, FLOOR 2, FALZUN STREET C/W NAXXAR ROAD,",
+  "company_id": "C 77347",
+  "registration_date": "Sep 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

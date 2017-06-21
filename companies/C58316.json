@@ -1,0 +1,84 @@
+{
+  "name": "BIODIESEL INVESTMENT CORPORATION LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 8531906,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8531905,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "REUBEN MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10366M",
+        "address": "150,JAMESCOURT,FLAT2,RODOLPHESTREET,SLIEMASLM1274MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAIRE SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146984M",
+        "address": "2,'LORELEY'TRIQIL-MOHRIETATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "15,TRIQIL-LUNZJATA,ZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "15,TRIQIL-LUNZJATA,ZEBBUGMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "15,TRIQIL-LUNZJATA,ZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDRA BROSZOVA ING.\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            P1116298",
+        "address": "PODAGATMI14661/2BRATISLAVA82107SLOVAKIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "90, ST. JOHN STREET,",
+  "company_id": "C 58316",
+  "registration_date": "Nov 22, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 8531906
+}

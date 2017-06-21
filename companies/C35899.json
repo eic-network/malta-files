@@ -1,0 +1,91 @@
+{
+  "name": "Bookport Associates Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARTHESE FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            816556M",
+        "address": "REGIONALCOURT,FLAT2,WESTSTREET,MSIDAMSD04MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461847M",
+        "address": "24,TRIQINDRICALLEJA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461847M",
+        "address": "24,TRIQINDRICALLEJA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "23,'LGHABEX',TRIQIS-SLIEMMARSASCALAMSK3381MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461847M",
+        "address": "24,TRIQINDRICALLEJA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DG Fiduciary Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "DG Fiduciary Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 36875",
+        "address": "WESTENDBUILDINGS,18/2SOUTHSTREET,VALLETTAVLT1102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "24, TRIQ INDRI CALLEJA,",
+  "company_id": "C 35899",
+  "registration_date": "Mar 24, 2005",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,115 @@
+{
+  "name": "BDS Events Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BONSIGNORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6661530",
+        "address": "VIABRUNOMONSIGNOREFRANCESCO15/B,is.372-98124(ME)MESSINAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO BONSIGNORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6661530",
+        "address": "VIABRUNOMONSIGNOREFRANCESCO15/B,is.372-98124(ME)MESSINAITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURIZIO SMIROLDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3313094",
+        "address": "SCALAB,PIANO4INTERNVIASEMINARIOESTIVOALTO29/AMESSINA98121ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BONSIGNORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6661530",
+        "address": "VIABRUNOMONSIGNOREFRANCESCO15/B,is.372-98124(ME)MESSINAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AQUATEC SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64196",
+        "address": "OFFICE137,TRIQA.CALIGARI,ZABBARZBR2089MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "EDOARDO BONSIGNORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8958706",
+        "address": "VIABRUNOMONSIGNORFRANCESCO15/B,is.372MESSINAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 210
+        }
+      },
+      {
+        "name": "FEDERICA BONSIGNORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS3552922",
+        "address": "VIABRUNOMONSIGNORFRANCESCO15/B,is.372MESSINAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 210
+        }
+      },
+      {
+        "name": "MAURIZIO SMIROLDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3313094",
+        "address": "SCALAB,PIANO4INTERNVIASEMINARIOESTIVOALTO29/AMESSINA98121ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 180
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Il Piazzetta A, Suite 21, Tower Road,",
+  "company_id": "C 67411",
+  "registration_date": "Oct 31, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,97 @@
+{
+  "name": "5M SHIPPING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            684648M",
+        "address": "45,THEETTES,THEPENTHOUSE,TRIQL-GHAMAD,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            684648M",
+        "address": "45,THEETTES,THEPENTHOUSE,TRIQL-GHAMAD,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            684648M",
+        "address": "45,THEETTES,THEPENTHOUSE,TRIQL-GHAMAD,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "2M SHIPPING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52622",
+        "address": "B2,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 53411",
+  "registration_date": "Jul 19, 2011",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 3000
+}

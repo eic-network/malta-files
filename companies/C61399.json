@@ -1,0 +1,91 @@
+{
+  "name": "BESS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEAN MARIUS SLABBERT\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            451477291",
+        "address": "12,HAMPSHIRECOURT,PLANTATIONROAD,DEVILSPEAK,CAPETOWN8001SOUTHAFRICA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SARA FREDERIKA VAN DER SANDE\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            A02147382",
+        "address": "434,SAFFERONLANE,LOVEMOREPARK,PORTELIZABETHSOUTHAFRICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SARA FREDERIKA VAN DER SANDE\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            A02147382",
+        "address": "434,SAFFERONLANE,LOVEMOREPARK,PORTELIZABETHSOUTHAFRICA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SARA FREDERIKA VAN DER SANDE\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            A02147382",
+        "address": "434,SAFFERONLANE,LOVEMOREPARK,PORTELIZABETHSOUTHAFRICA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROCKWOOD HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE322518",
+        "address": "249STROVOLOU,1STFLOOR,STROVOLOS,NICOSIA2048CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "JEAN MARIUS SLABBERT\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            451477291",
+        "address": "12,HAMPSHIRECOURT,PLANTATIONROAD,DEVILSPEAK,CAPETOWN8001SOUTHAFRICA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PENTHOUSE, CAROLINA COURT, TRIQ GUZEPPI CALI,",
+  "company_id": "C 61399",
+  "registration_date": "Aug 01, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

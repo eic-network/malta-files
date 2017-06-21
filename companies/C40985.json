@@ -1,0 +1,91 @@
+{
+  "company_id": "C 40985",
+  "address": "114, THE STRAND,",
+  "name": "BROADHEY HOLDINGS LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Mar 16, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 1000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JORDAN MANAGEMENT LIMITED\r",
+        "party_id": "                                                            045426",
+        "address": "SUITE3,1STFLOOR,TRINITYHOUSE,POBOX41MAHEREPUBLICOFSEYCHELLES",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JORDAN MANAGEMENT LIMITED\r",
+        "party_id": "                                                            045426",
+        "address": "SUITE3,1STFLOOR,TRINITYHOUSE,POBOX41MAHEREPUBLICOFSEYCHELLES",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JORDAN MANAGEMENT LIMITED\r",
+        "party_id": "                                                            045426",
+        "address": "SUITE3,1STFLOOR,TRINITYHOUSE,POBOX41MAHEREPUBLICOFSEYCHELLES",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA CARMELA BORG\r",
+        "party_id": "                                                            357468M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

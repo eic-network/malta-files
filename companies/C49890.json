@@ -1,0 +1,105 @@
+{
+  "name": "AS INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            849453M",
+        "address": "9,LAVISTA,SIRHARRYLUKESTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            849453M",
+        "address": "9,LAVISTA,SIRHARRYLUKESTREET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            849453M",
+        "address": "9,LAVISTA,SIRHARRYLUKESTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAKER TILLY SANT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/28",
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            849453M",
+        "address": "9,LAVISTA,SIRHARRYLUKESTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "UNILINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23139",
+        "address": "4,TIMBERWHARF,MARSAMRS1443MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "SAMI RAMADAN EL BAKOUSH BEN SAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            987987",
+        "address": "67,FLAT2,ST.GEORGE'SROAD,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "4, TIMBER WHARF,",
+  "company_id": "C 49890",
+  "registration_date": "Jun 11, 2010",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 20000
+}

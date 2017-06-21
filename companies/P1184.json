@@ -1,0 +1,75 @@
+{
+  "company_id": "P 1184",
+  "address": "GOLDEN WINGS, FLAT 4, TRIQ BORG OLIVIER,",
+  "name": "BRAVO",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jan 14, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 23294,
+      "type": "",
+      "nominal_value_per_share": 1,
+      "issued_shares": 23294
+    }
+  ],
+  "total_authorised_shares": 23294,
+  "total_authorised_shares_value": 23294,
+  "total_issued_shares": 23294,
+  "total_issued_shares_value": 23294,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANCIS CACHIA CARUANA\r",
+        "party_id": "                                                            278471M",
+        "address": "GOLDENWINGS,FLAT4,TRIQBORGOLIVIER,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCIS CACHIA CARUANA\r",
+        "party_id": "                                                            278471M",
+        "address": "GOLDENWINGS,FLAT4,TRIQBORGOLIVIER,SLIEMAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 23291,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MALCOLM CACHIA CARUANA\r",
+        "party_id": "                                                            505986M",
+        "address": "GOLDENWINGS,FLAT4,TRIQBORGOLIVIER,SLIEMAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 3,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCIS CACHIA CARUANA\r",
+        "party_id": "                                                            278471M",
+        "address": "GOLDENWINGS,FLAT4,TRIQBORGOLIVIER,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCIS CACHIA CARUANA\r",
+        "party_id": "                                                            278471M",
+        "address": "GOLDENWINGS,FLAT4,TRIQBORGOLIVIER,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

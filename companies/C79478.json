@@ -1,0 +1,70 @@
+{
+  "company_id": "C 79478",
+  "address": "36/3, MANOL MANSION, DE PAULE AVENUE,",
+  "name": "BRIZO MARINE GROUP LTD",
+  "locality": "BALZAN",
+  "status": "",
+  "registration_date": "Feb 08, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100,
+      "type": "Ordinary",
+      "nominal_value_per_share": 12,
+      "issued_shares": 100
+    }
+  ],
+  "total_authorised_shares": 100,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 100,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADRIAAN RUST\r",
+        "party_id": "                                                            A04111486",
+        "address": "ALBATROSSTREET,35,HOCLANDPARK,WINDHOEKNAMIBIA",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAAN RUST\r",
+        "party_id": "                                                            A04111486",
+        "address": "ALBATROSSTREET,35,HOCLANDPARK,WINDHOEKNAMIBIA",
+        "nationality": "SOUTH AFRICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 12
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAAN RUST\r",
+        "party_id": "                                                            A04111486",
+        "address": "ALBATROSSTREET,35,HOCLANDPARK,WINDHOEKNAMIBIA",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAAN RUST\r",
+        "party_id": "                                                            A04111486",
+        "address": "ALBATROSSTREET,35,HOCLANDPARK,WINDHOEKNAMIBIA",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SIGRID MOORS\r",
+        "party_id": "                                                            EN051932",
+        "address": "GEERSTRAAT4,LUMMEN3560BELGIUM",
+        "nationality": "BELGIAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "BEACON CONSULTANCY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ATEF EL KADI\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ042463",
+        "address": "123,ALRABWAVILLAGE,BLOCKB,SHEIKHZAYEDCITYALGIZAEGYPT"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ATEF EL KADI\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ042463",
+        "address": "123,ALRABWAVILLAGE,BLOCKB,SHEIKHZAYEDCITYALGIZAEGYPT"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FL12,TRIQIL-WARD,MADLIENA,SWIEQISWQ1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ATEF EL KADI\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ042463",
+        "address": "123,ALRABWAVILLAGE,BLOCKB,SHEIKHZAYEDCITYALGIZAEGYPT"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GLOBAL INFORMATION CONSULTING GROUP HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 64629",
+        "address": "GROUNDFLOOR,PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 2, ANGELICA COURT,  GIUSEPPE CALI STREET,",
+  "company_id": "C 72522",
+  "registration_date": "Oct 06, 2015",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

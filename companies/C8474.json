@@ -1,0 +1,152 @@
+{
+  "name": "BABU LIMITED",
+  "total_issued_shares_value": 12816.21,
+  "total_authorised_shares_value": 13976.24,
+  "authorised_shares": [
+    {
+      "issued_shares": 1497,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1497,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 3,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4002,
+      "type": "RedeemablePreferenceA",
+      "authorised_share_capital": 4002,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLARA TESTAFERRATA MORONI VIANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218568M",
+        "address": "3J.HOWARDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERTINA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            189366M",
+        "address": "18,SQAQIL-WARDA,GHARGHURMALTA"
+      },
+      {
+        "name": "MARTHA CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11164M",
+        "address": "'WILDROSES',ST.GEORGE'SROAD,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "CLARA TESTAFERRATA MORONI VIANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218568M",
+        "address": "3J.HOWARDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERTINA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            189366M",
+        "address": "18,SQAQIL-WARDA,GHARGHURMALTA"
+      },
+      {
+        "name": "MARTHA CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11164M",
+        "address": "'WILDROSES',ST.GEORGE'SROAD,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "CLARA TESTAFERRATA MORONI VIANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218568M",
+        "address": "3J.HOWARDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERTINA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            189366M",
+        "address": "18,SQAQIL-WARDA,GHARGHURMALTA"
+      },
+      {
+        "name": "MARTHA CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11164M",
+        "address": "'WILDROSES',ST.GEORGE'SROAD,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "CLARA TESTAFERRATA MORONI VIANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218568M",
+        "address": "3J.HOWARDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERTINA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            189366M",
+        "address": "18,SQAQIL-WARDA,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MARTHA CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11164M",
+        "address": "'WILDROSES',ST.GEORGE'SROAD,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "CLARA TESTAFERRATA MORONI VIANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218568M",
+        "address": "3,J.HOWARDSTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5502,
+  "address": "14, IVO MUSCAT AZZOPARDI STREET,",
+  "company_id": "C 8474",
+  "registration_date": "Dec 16, 1986",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 6000
+}

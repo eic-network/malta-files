@@ -1,0 +1,70 @@
+{
+  "name": "BETENT GROUP LTD",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "193,URSULINESISTERSSTREET,GUARDAMANGIA,PIETA'PTA1222MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LANG HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 62354",
+        "address": "APARTMENT21,CHARLESCOURT(SUITE160),ST.LUKE'SROAD,PIETA'PTA1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "APARTMENT 21, CHARLES COURT (SUITE 99), ST. LUKE'S ROAD",
+  "company_id": "C 59160",
+  "registration_date": "Jan 30, 2013",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,108 @@
+{
+  "name": "BORCOR LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 30,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 30,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 540,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1800,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NAZZARENO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            964845M",
+        "address": "BORKA,FLAT2,TRIQSANGORG,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NAZZARENO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            964845M",
+        "address": "BORKA,FLAT2,TRIQSANGORG,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NAZZARENO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            964845M",
+        "address": "BORKA,FLAT2,TRIQSANGORG,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NAZZARENO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            964845M",
+        "address": "BORKA,FLAT2,TRIQSANGORG,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NAZZARENO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            964845M",
+        "address": "BORKA,FLAT2,TRIQSANGORG,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 30
+        }
+      },
+      {
+        "name": "MARIA GRAZZJA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            920148M",
+        "address": "GRACEMONS.A.BUHAGIARSTREETRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 30
+        }
+      },
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332274M",
+        "address": "GRACE,MONS.A.BUHAGIARSTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 540
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "\"GRACE\" MONS. A. BUHAGIAR STREET",
+  "company_id": "C 14751",
+  "registration_date": "Feb 23, 1993",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 2000
+}

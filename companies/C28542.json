@@ -1,0 +1,101 @@
+{
+  "name": "ANDRASTE CO LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 2250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIANNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605657605",
+        "address": "FLAT6,BLOCK5,SIRLUIGICAMILLERISTR.SLIEMAMALTA"
+      },
+      {
+        "name": "LIUDMILA MICHAILOVNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            603508057",
+        "address": "FLAT9,BLOCK6,TRIQSIRLUIGICAMILLERISLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIANNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605657605",
+        "address": "FLAT6,BLOCK5,SIRLUIGICAMILLERISTR.SLIEMAMALTA"
+      },
+      {
+        "name": "LIUDMILA MICHAILOVNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            603508057",
+        "address": "FLAT9,BLOCK6,TRIQSIRLUIGICAMILLERISLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIANNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605657605",
+        "address": "FLAT6,BLOCK5,SIRLUIGICAMILLERISTR.SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIANNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605657605",
+        "address": "FLAT6,BLOCK5,SIRLUIGICAMILLERISTR.SLIEMAMALTA"
+      },
+      {
+        "name": "LIUDMILA MICHAILOVNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            603508057",
+        "address": "FLAT9,BLOCK6,TRIQSIRLUIGICAMILLERISLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIANNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605657605",
+        "address": "FLAT6,BLOCK5,SIRLUIGICAMILLERISTR.SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "LIUDMILA MICHAILOVNA IVANOVA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            603508057",
+        "address": "FLAT9,BLOCK6,TRIQSIRLUIGICAMILLERISLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "FLAT 1, TULIP FLATS, NAZZARENE STREET,",
+  "company_id": "C 28542",
+  "registration_date": "Aug 01, 2001",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

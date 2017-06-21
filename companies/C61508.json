@@ -1,0 +1,109 @@
+{
+  "name": "AV8 LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JANETTE MARSHALL\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NX4BB8K15",
+        "address": "DORPSTRAAT22,ASSENDELFTAL1566NETHERLANDS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY GRIFFITHS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605041776",
+        "address": "38STONELEIGHDRIVECARTERTON,OXFORDSHIREOX181EDUNITEDKINGDOM"
+      },
+      {
+        "name": "RALPH MARSHALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705509107",
+        "address": "DORPSTRAAT22,ASSENDELFTAL1566NETHERLANDS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY GRIFFITHS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605041776",
+        "address": "38STONELEIGHDRIVECARTERTON,OXFORDSHIREOX181EDUNITEDKINGDOM"
+      },
+      {
+        "name": "RALPH MARSHALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705509107",
+        "address": "DORPSTRAAT22,ASSENDELFTAL1566NETHERLANDS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUENAXXARNXR9021MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY GRIFFITHS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605041776",
+        "address": "38STONELEIGHDRIVECARTERTON,OXFORDSHIREOX181EDUNITEDKINGDOM"
+      },
+      {
+        "name": "RALPH MARSHALL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705509107",
+        "address": "DORPSTRAAT22,ASSENDELFTAL1566NETHERLANDS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARSHALL CONSULTANTS GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1688721",
+        "address": "VANTERPOOLPLAZA,SECONDFLOOR,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 840
+        }
+      },
+      {
+        "name": "ANTHONY GRIFFITHS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605041776",
+        "address": "38STONELEIGHDRIVECARTERTON,OXFORDSHIREOX181EDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 360
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "MARSHALL CONSULTANTS YARD, BLOCK A, MOLL IS-SHIPWRIGHTS",
+  "company_id": "C 61508",
+  "registration_date": "Aug 09, 2013",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

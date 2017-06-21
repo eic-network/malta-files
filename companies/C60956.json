@@ -1,0 +1,75 @@
+{
+  "name": "AZZUL LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PATRIZIA ZANETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2170210",
+        "address": "VIADELCHIASCION.135-06024,GUBBIO,PERUGIA,ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRIZIA ZANETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2170210",
+        "address": "VIADELCHIASCION.135-06024,GUBBIO,PERUGIA,ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRIZIA ZANETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2170210",
+        "address": "VIADELCHIASCION.135-06024,GUBBIO,PERUGIA,ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 60956",
+  "registration_date": "Jun 25, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

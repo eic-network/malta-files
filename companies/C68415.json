@@ -1,0 +1,107 @@
+{
+  "name": "4PEOPLE PROJECTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MEHMET HAKAN ELBIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            S00181285",
+        "address": "GULAPT.NO:21/17SANLIERSOKAKISTANBUL34742TURKEY"
+      },
+      {
+        "name": "KEREM OKUMUS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08018271",
+        "address": "GUNDUZAPT./5,PEMPEGULSOKAKISTANBUL34440TURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MEHMET HAKAN ELBIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            S00181285",
+        "address": "GULAPT.NO:21/17SANLIERSOKAKISTANBUL34742TURKEY"
+      },
+      {
+        "name": "KEREM OKUMUS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08018271",
+        "address": "GUNDUZAPT./5,PEMPEGULSOKAKISTANBUL34440TURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MEHMET HAKAN ELBIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            S00181285",
+        "address": "GULAPT.NO:21/17SANLIERSOKAKISTANBUL34742TURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MEHMET HAKAN ELBIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            S00181285",
+        "address": "GULAPT.NO:21/17SANLIERSOKAKISTANBUL34742TURKEY"
+      },
+      {
+        "name": "KEREM OKUMUS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08018271",
+        "address": "GUNDUZAPT./5,PEMPEGULSOKAKISTANBUL34440TURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KoHe Associates Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 68413",
+        "address": "'ANUTRUF',SUITE3,TRIQTAL-HRIEREB,MSIDASTJ3150MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "KEREM OKUMUS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08018271",
+        "address": "GUNDUZAPT./5,PEMPEGULSOKAKISTANBUL34440TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'ANUTRUF', SUITE 3, TRIQ TAL-HRIEREB,",
+  "company_id": "C 68415",
+  "registration_date": "Dec 31, 2014",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

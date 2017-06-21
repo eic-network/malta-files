@@ -1,0 +1,75 @@
+{
+  "name": "BipBip Development Ltd",
+  "total_issued_shares_value": 400420,
+  "total_authorised_shares_value": 400420,
+  "authorised_shares": [
+    {
+      "issued_shares": 400420,
+      "type": "Ordinary",
+      "authorised_share_capital": 400420,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALLAN KOCH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102040744",
+        "address": "BAKKELEDET9,4600,KOEGEDENMARK"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALLAN KOCH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102040744",
+        "address": "BAKKELEDET9,4600,KOEGEDENMARK"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALLAN KOCH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102040744",
+        "address": "BAKKELEDET9,4600,KOEGEDENMARK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELLITSGAARD LARSEN HOLDING APS\r",
+        "nationality": "",
+        "party_id": "                                                            27277608",
+        "address": "RADHUSPLADSEN16,1550,KOBENHAVNV.DENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400419
+        }
+      },
+      {
+        "name": "ALLAN KOCH\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            102040744",
+        "address": "BAKKELEDET9,4600,KOEGEDENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 400420,
+  "address": "3, MANCHE FLATS, ST. IGNATIUS STREET,",
+  "company_id": "C 38780",
+  "registration_date": "May 25, 2006",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 400420
+}

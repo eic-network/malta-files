@@ -1,0 +1,99 @@
+{
+  "name": "3TECH VENTURES LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "VAULTS13-16,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUTH AGIUS SCICLUNA BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91478M",
+        "address": "12,PRINTEMPS,TRIQID-DARTAL-KLERU,BIRKIRKARABKR1821MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NIKOLA RADAKOVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            002356031",
+        "address": "BILOGORSKA14,OSIJEK31000CROATIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NIKOLA RADAKOVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            002356031",
+        "address": "BILOGORSKA14,OSIJEK31000CROATIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            05186",
+        "address": "26,VILLATHIERRY,TRIQG.DESPOTT,KAPPARASANGWANNSGN4135MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NIKOLA RADAKOVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            002356031",
+        "address": "BILOGORSKA14,OSIJEK31000CROATIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRANKA RADAKOVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            15192155",
+        "address": "BILOGORSKA14,OSIJEK31000CROATIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "NIKOLA RADAKOVIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            002356031",
+        "address": "BILOGORSKA14,OSIJEK31000CROATIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "113B, PAOLA ROAD,",
+  "company_id": "C 44973",
+  "registration_date": "Aug 26, 2008",
+  "shares_currency": "EUR",
+  "locality": "TARXIEN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

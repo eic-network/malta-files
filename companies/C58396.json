@@ -1,0 +1,83 @@
+{
+  "name": "BANTHAM HOLDINGS LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAMSCAY1,P.O.BOX3085,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAMSCAY1,P.O.BOX3085,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAMSCAY1,P.O.BOX3085,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDUCIARY NOMINEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9736",
+        "address": "3,BELLLANEGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FIDUCIARY TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9162",
+        "address": "3,BELLLANE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 58396",
+  "registration_date": "Nov 28, 2012",
+  "shares_currency": "GBP",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

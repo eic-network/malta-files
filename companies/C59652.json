@@ -1,0 +1,78 @@
+{
+  "name": "B-TECH HOLDINGS COMPANY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BERTRAND SCIRIHA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123381M",
+        "address": "NO.58,HOSPITALSTREETVALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARSEN BARSEGHYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            BA0153002",
+        "address": "FLAT91,BLOCK8/3,KAZARMENNIYPEREULOK,MOSCOW,RUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARSEN BARSEGHYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            BA0153002",
+        "address": "FLAT91,BLOCK8/3,KAZARMENNIYPEREULOK,MOSCOW,RUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "16,COLISA,MONS.A.BUHAGIARSTREET,RABATRBT1836MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARSEN BARSEGHYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            BA0153002",
+        "address": "FLAT91,BLOCK8/3,KAZARMENNIYPEREULOK,MOSCOW,RUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARSEN BARSEGHYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            BA0153002",
+        "address": "FLAT91,BLOCK8/3,KAZARMENNIYPEREULOK,MOSCOW,RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "89/1 TIGNE STREET",
+  "company_id": "C 59652",
+  "registration_date": "Mar 14, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

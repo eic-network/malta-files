@@ -1,0 +1,83 @@
+{
+  "name": "ANDRE & CORPORATORS CO LTD.",
+  "total_issued_shares_value": 1798,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1798,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SHABAN YOUSIEF EZREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            823920",
+        "address": "12,BENASHURSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SHABAN YOUSIEF EZREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            823920",
+        "address": "12,BENASHURSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MUSTAFA YOSEF ZARIBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            499150",
+        "address": "HAIELANDULUS,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SHABAN YOUSIEF EZREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            823920",
+        "address": "12,BENASHURSTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHABAN YOUSIEF EZREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            823920",
+        "address": "12,BENASHURSTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 899
+        }
+      },
+      {
+        "name": "MUSTAFA YOSEF ZARIBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            499150",
+        "address": "HAIELANDULUS,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 899
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1798,
+  "address": "27 GROGNET STREET",
+  "company_id": "C 37799",
+  "registration_date": "Jan 09, 2006",
+  "shares_currency": "CHF",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

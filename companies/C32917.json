@@ -1,0 +1,91 @@
+{
+  "company_id": "C 32917",
+  "address": "26, GHAR ID-DUD STREET",
+  "name": "BRIDGEWATER PROPERTIES LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Dec 30, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1100,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1001
+    }
+  ],
+  "total_authorised_shares": 1100,
+  "total_authorised_shares_value": 1100,
+  "total_issued_shares": 1001,
+  "total_issued_shares_value": 1001,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDUCIARY NOMINEES LIMITED\r",
+        "party_id": "                                                            9736",
+        "address": "3,BELLLANEGIBRALTARGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "FIDUCIARY TRUST LIMITED\r",
+        "party_id": "                                                            9162",
+        "address": "3BELLLANEGIBRALTARGIBRALTAR",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH IMOSSI\r",
+        "party_id": "                                                            605134383",
+        "address": "23,SCUDHILL,GIBRALTARGIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

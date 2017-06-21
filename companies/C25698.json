@@ -1,0 +1,75 @@
+{
+  "company_id": "C 25698",
+  "address": "1A, VINUS COURT A, TRIQ IL-BEKKUN, QAWRA,",
+  "name": "BRITISH JET LTD",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "registration_date": "Jan 07, 2000",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 23293.73,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VALENTIN GRUEV GRIGOROV\r",
+        "party_id": "                                                            342712860",
+        "address": "1A,VINUSCOURTA,TRIQIL-BEKKUN,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "BULGARIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRITISH AIR BARGAINS LIMITED\r",
+        "party_id": "                                                            4540548",
+        "address": "APHOUSE,1343LONDONROAD,NORBURY,LONDONUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATMIJA,SALINA,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VALENTIN GRUEV GRIGOROV\r",
+        "party_id": "                                                            342712860",
+        "address": "1A,VINUSCOURTA,TRIQIL-BEKKUN,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "BULGARIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VALENTIN GRUEV GRIGOROV\r",
+        "party_id": "                                                            342712860",
+        "address": "1A,VINUSCOURTA,TRIQIL-BEKKUN,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "BULGARIAN"
+      }
+    ]
+  }
+}

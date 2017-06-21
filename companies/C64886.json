@@ -1,0 +1,78 @@
+{
+  "name": "BB GLOBAL LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "3,BLOCKD,TRIQIL-GIZIMIN,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETR CICHON\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            41088920",
+        "address": "NADSANTOSKOU1911/1,SMICHOV,PRAGUE15000CZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETR CICHON\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            41088920",
+        "address": "NADSANTOSKOU1911/1,SMICHOV,PRAGUE15000CZECHREPUBLIC"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETR CICHON\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            41088920",
+        "address": "NADSANTOSKOU1911/1,SMICHOV,PRAGUE15000CZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETR CICHON\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            41088920",
+        "address": "NADSANTOSKOU1911/1,SMICHOV,PRAGUE15000CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "93, MILL STREET,",
+  "company_id": "C 64886",
+  "registration_date": "Apr 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1165
+}

@@ -1,0 +1,91 @@
+{
+  "name": "ALLOY WHEELS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345586M",
+        "address": "134,TRIQSANTAKATARINA,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345586M",
+        "address": "134,TRIQSANTAKATARINA,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345586M",
+        "address": "134,TRIQSANTAKATARINA,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345586M",
+        "address": "134,TRIQSANTAKATARINA,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ALAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345586M",
+        "address": "134,TRIQSANTAKATARINA,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "134, TRIQ SANTA KATARINA,",
+  "company_id": "C 56300",
+  "registration_date": "May 11, 2012",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 3000
+}

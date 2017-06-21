@@ -1,0 +1,128 @@
+{
+  "name": "ALLIANCE MANAGEMENT SUPPORT LTD",
+  "total_issued_shares_value": 34941,
+  "total_authorised_shares_value": 34941,
+  "authorised_shares": [
+    {
+      "issued_shares": 11647,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 11647,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 11647,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 11647,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 11647,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 11647,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      },
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 30,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 11647
+        }
+      },
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 30,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 11647
+        }
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 30,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 11647
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 34941,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, TOWER STREET, SWATAR,",
+  "company_id": "C 31012",
+  "registration_date": "Feb 21, 2003",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 34941
+}

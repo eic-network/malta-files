@@ -1,0 +1,91 @@
+{
+  "name": "BABBETTO LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN CAMENZULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            39476M",
+        "address": "EUREKACRT.,BLK.C,APT.8,TRIQANTONSCHEMBRIADAMI,MOSTAMST2470MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Flaviano Fogli\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            152568A",
+        "address": "50,Fl7Ix-Xattta'Tigne'SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Flaviano Fogli\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            152568A",
+        "address": "50,Fl7Ix-Xattta'Tigne'SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10893",
+        "address": "'SINJALTA'L-ART',TRIQ23TA'LULJU1942ZURRIEQMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Flaviano Fogli\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            152568A",
+        "address": "50,Fl7Ix-Xattta'Tigne'SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BABBETTO HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55489",
+        "address": "266,Level2Triqix-XattGZIRAGZR1020MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "266, Level 2 Triq ix-Xatt",
+  "company_id": "C 55491",
+  "registration_date": "Feb 29, 2012",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

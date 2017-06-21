@@ -1,0 +1,75 @@
+{
+  "name": "BETTERWIN24 LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KLAUS BLODORN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            2496155631",
+        "address": "SPRINTSTEIG1,13469,BERLINGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KLAUS BLODORN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            2496155631",
+        "address": "SPRINTSTEIG1,13469,BERLINGERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KLAUS BLODORN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            2496155631",
+        "address": "SPRINTSTEIG1,13469,BERLINGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KLAUS BLODORN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            2496155631",
+        "address": "SPRINTSTEIG1,13469,BERLINGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "DIANA DIZDAREVIC\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1307193880",
+        "address": "LOKSTEDTERSTEINDAMM20B,22529,HAMBURGGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 37968",
+  "registration_date": "Feb 09, 2006",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

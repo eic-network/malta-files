@@ -1,0 +1,54 @@
+{
+  "name": "ANTONPIO LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERTA COSTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6704984",
+        "address": "VIAAD'ANFUSO,PALAZZINA32,NO11,MESSINA,SICILY98145ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "'Kyle'TRIQIL-MEDITERRANST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROSARIO RUSSOTTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1828716",
+        "address": "VIAMICHELEAMARI,2TAORMINA98039ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "KYLE, APARTMENT 4, ROOM 2, TRIQ IL-MEDITERRAN,",
+  "company_id": "C 48261",
+  "registration_date": "Nov 25, 2009",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4000
+}

@@ -1,0 +1,78 @@
+{
+  "name": "AMUSION LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RICHARD PERKINS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            712240203",
+        "address": "409N.PCH317,REDONDOBEACH,UNITEDSTATESCA90277UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RICHARD PERKINS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            712240203",
+        "address": "409N.PCH317,REDONDOBEACH,UNITEDSTATESCA90277UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RICHARD PERKINS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            712240203",
+        "address": "409N.PCH317,REDONDOBEACH,UNITEDSTATESCA90277UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RICHARD PERKINS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            712240203",
+        "address": "409N.PCH317,REDONDOBEACH,UNITEDSTATESCA90277UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "VINCENTI BUILDINGS, 28/19, (SUITE 979), STRAIT STREET,",
+  "company_id": "C 52421",
+  "registration_date": "Mar 30, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

@@ -1,0 +1,89 @@
+{
+  "company_id": "C 80195",
+  "address": "FIRST FLOOR, ORANGE POINT, DUN KARM STREET, BIRKIRKARA BY-PASS,",
+  "name": "BOURBON DAVIES LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Mar 28, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PRAXISIFM TRUST LIMITED\r",
+        "party_id": "                                                            C 52944",
+        "address": "FIRSTFLOOR,ORANGEPOINT,DUNKARMSTREET,BIRKIRKARABY-PASS,BIRKIRKARABKR9037MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOURBON DAVIES HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 80184",
+        "address": "FIRSTFLOOR,ORANGEPOINT,DUNKARMSTREET,BIRKIRKARABKR9037MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PRAXISIFM TRUST LIMITED\r",
+        "party_id": "                                                            C 52944",
+        "address": "FIRSTFLOOR,ORANGEPOINT,DUNKARMSTREET,BIRKIRKARABY-PASS,BIRKIRKARABKR9037MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PRAXISIFM TRUST LIMITED\r",
+        "party_id": "                                                            C 52944",
+        "address": "FIRSTFLOOR,ORANGEPOINT,DUNKARMSTREET,BIRKIRKARABY-PASS,BIRKIRKARABKR9037MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PRAXISIFM TRUST LIMITED\r",
+        "party_id": "                                                            C 52944",
+        "address": "FIRSTFLOOR,ORANGEPOINT,DUNKARMSTREET,BIRKIRKARABY-PASS,BIRKIRKARABKR9037MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MIGLE VIRBALAITE\r",
+        "party_id": "                                                            66378A",
+        "address": "TA'PARISCOURT,2,TRIQCENSUCOSTABIRKIRKARAMALTA",
+        "nationality": "LITHUANIAN"
+      }
+    ]
+  }
+}

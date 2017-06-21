@@ -1,0 +1,96 @@
+{
+  "name": "ANTACO LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DOMINIK PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264208592",
+        "address": "14,ZEHENTMEIERSTR.,GRASBRUNN,MUNICH85630GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DOMINIK PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264208592",
+        "address": "14,ZEHENTMEIERSTR.,GRASBRUNN,MUNICH85630GERMANY"
+      },
+      {
+        "name": "LILETTE PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264245997",
+        "address": "14,ZEHENTMEIERSTR.GRASBRUNNMUNICH85630GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DOMINIK PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264208592",
+        "address": "14,ZEHENTMEIERSTR.,GRASBRUNN,MUNICH85630GERMANY"
+      },
+      {
+        "name": "LILETTE PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264245997",
+        "address": "14,ZEHENTMEIERSTR.GRASBRUNNMUNICH85630GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DOMINIK PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264208592",
+        "address": "14,ZEHENTMEIERSTR.,GRASBRUNN,MUNICH85630GERMANY"
+      },
+      {
+        "name": "LILETTE PEUS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8264245997",
+        "address": "14,ZEHENTMEIERSTR.GRASBRUNNMUNICH85630GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTACOR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43166",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN08MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "SUITE 2, INTERNATIONAL HOUSE NAXXAR ROAD",
+  "company_id": "C 43167",
+  "registration_date": "Dec 20, 2007",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

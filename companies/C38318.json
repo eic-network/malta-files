@@ -1,0 +1,127 @@
+{
+  "company_id": "C 38318",
+  "address": "152/9, NAXXAR ROAD,",
+  "name": "BRORACK LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Mar 28, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1006
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 1006,
+  "total_issued_shares_value": 1006,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALBERT CAUCHI\r",
+        "party_id": "                                                            751862M",
+        "address": "32,FLAT1,VJALIL-HADDIEM,RABATRBT1767MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL ANTHONY RACKHAM\r",
+        "party_id": "                                                            303418870",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "SHEILA ANNE RACKHAM\r",
+        "party_id": "                                                            500525735",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL RACKHAM LIMITED\r",
+        "party_id": "                                                            2434505",
+        "address": "MANORFARMBRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1005,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SHEILA ANNE RACKHAM\r",
+        "party_id": "                                                            500525735",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT CAUCHI\r",
+        "party_id": "                                                            751862M",
+        "address": "32,FLAT1,VJALIL-HADDIEM,RABATRBT1767MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL ANTHONY RACKHAM\r",
+        "party_id": "                                                            303418870",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "SHEILA ANNE RACKHAM\r",
+        "party_id": "                                                            500525735",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT CAUCHI\r",
+        "party_id": "                                                            751862M",
+        "address": "32,FLAT1,VJALIL-HADDIEM,RABATRBT1767MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL ANTHONY RACKHAM\r",
+        "party_id": "                                                            303418870",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "SHEILA ANNE RACKHAM\r",
+        "party_id": "                                                            500525735",
+        "address": "MANORFARM,BRIDGHAMNORWICHNORFOLKNR162RXUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALBERT CAUCHI\r",
+        "party_id": "                                                            751862M",
+        "address": "32,FLAT1,VJALIL-HADDIEM,RABATRBT1767MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CIANTAR ASSOCIATES\r",
+        "party_id": "                                                            AB/26/84/59",
+        "address": "152/9,NAXXARROAD,SANGWANNMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

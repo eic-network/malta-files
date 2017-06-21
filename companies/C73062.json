@@ -1,0 +1,115 @@
+{
+  "name": "APAC BRADDAN LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            547660M",
+        "address": "GLENHAVEN,ANDREADEBONOSTREET,BIRGUMAL/ONAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CORPORATE FOCUS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 37920",
+        "address": "SUITEF,BLOCKA,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMALTA"
+      },
+      {
+        "name": "ANDREW JAMES COSTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525609350",
+        "address": "810KEYESHOUSEDOLPHINSQUARELONDONSW1V3NBUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CORPORATE FOCUS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 37920",
+        "address": "SUITEF,BLOCKA,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMALTA"
+      },
+      {
+        "name": "ANDREW JAMES COSTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525609350",
+        "address": "810KEYESHOUSEDOLPHINSQUARELONDONSW1V3NBUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Degiorgio, Brincat & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/16/12",
+        "address": "Anutruf'Suite3Triqtal-HrierebMSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CORPORATE FOCUS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 37920",
+        "address": "SUITEF,BLOCKA,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMALTA"
+      },
+      {
+        "name": "ANDREW JAMES COSTAIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525609350",
+        "address": "810KEYESHOUSEDOLPHINSQUARELONDONSW1V3NBUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SUITE F, BLOCK A, EMBASSY WAY",
+  "company_id": "C 73062",
+  "registration_date": "Nov 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

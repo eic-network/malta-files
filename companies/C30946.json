@@ -1,0 +1,123 @@
+{
+  "name": "AQUILINA AND CARUANA HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JANICE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            376791M",
+        "address": "332,VICTORYSTREET,QORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RONALD AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188172M",
+        "address": "'STARLODGE',FLAT2,TRIQWIEDIL-GHASEL,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RONALD AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188172M",
+        "address": "'STARLODGE',FLAT2,TRIQWIEDIL-GHASEL,MOSTAMALTA"
+      },
+      {
+        "name": "LUDVIC CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91570M",
+        "address": "60,POLVERISTASTREET,COSPICUACSP05MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RONALD AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188172M",
+        "address": "'STARLODGE',FLAT2,TRIQWIEDIL-GHASEL,MOSTAMALTA"
+      },
+      {
+        "name": "LUDVIC CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91570M",
+        "address": "60,POLVERISTASTREET,COSPICUACSP05MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RONALD AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188172M",
+        "address": "'STARLODGE',FLAT2,TRIQWIEDIL-GHASEL,MOSTAMALTA"
+      },
+      {
+        "name": "LUDVIC CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91570M",
+        "address": "60,POLVERISTASTREET,COSPICUACSP05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUDVIC CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91570M",
+        "address": "60,POLVERISTASTREET,COSPICUACSP05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "RONALD AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188172M",
+        "address": "'STARLODGE',FLAT2,TRIQWIEDIL-GHASEL,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "FLAT 24, BLOCK 12, STRAIT STREET,",
+  "company_id": "C 30946",
+  "registration_date": "Feb 06, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

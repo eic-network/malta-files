@@ -1,0 +1,91 @@
+{
+  "name": "BELDANA PROPERTIES LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD AMATO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            720055M",
+        "address": "PALAZZOGUARENA,TRIQBALIGUARENA,QRENDIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CORPORATE DIRECTORS (NO. 1) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            35299",
+        "address": "DOREYCOURT,ADMIRALPARK,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CORPORATE DIRECTORS (NO. 1) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            35299",
+        "address": "DOREYCOURT,ADMIRALPARK,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CORPORATE DIRECTORS (NO. 1) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            35299",
+        "address": "DOREYCOURT,ADMIRALPARK,ST.PETERPORTGUERNSEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PERGOLA INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            40259",
+        "address": "DOREYCOURT,ADMIRALPARK,STPETERPORT,GUERNSEYCHANNELISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 34227",
+  "registration_date": "Jun 30, 2004",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

@@ -1,0 +1,100 @@
+{
+  "name": "4 Seasons Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ATIGIA MUNIR M.\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000087/2009",
+        "address": "FLT6,BLK.C,FALCONHOUSE,HIGHSTREETSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Rajab Ahmed M Backush\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            892582",
+        "address": "15A,PEPYSROAD,LONDONSW208NJUNITEDKINGDOM"
+      },
+      {
+        "name": "ATIGIA MUNIR M.\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000087/2009",
+        "address": "FLT6,BLK.C,FALCONHOUSE,HIGHSTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Rajab Ahmed M Backush\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            892582",
+        "address": "15A,PEPYSROAD,LONDONSW208NJUNITEDKINGDOM"
+      },
+      {
+        "name": "ATIGIA MUNIR M.\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000087/2009",
+        "address": "FLT6,BLK.C,FALCONHOUSE,HIGHSTREETSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Rajab Ahmed M Backush\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            892582",
+        "address": "15A,PEPYSROAD,LONDONSW208NJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "ATIGIA MUNIR M.\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            000087/2009",
+        "address": "FLT6,BLK.C,FALCONHOUSE,HIGHSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "PETER NICHOLAS SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604460M",
+        "address": "17,CAPUAPALACESTREET,SLIEMASLM10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "30B, PALAZZO TRIGONA, VICTOR DENARO STREET,",
+  "company_id": "C 67133",
+  "registration_date": "Oct 15, 2014",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

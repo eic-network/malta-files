@@ -1,0 +1,70 @@
+{
+  "name": "BLUE STONE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JEROME SOLAMITO\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            F102433",
+        "address": "30AVENUEDEGRAND-BRETAGNE,MONACO98000MONACO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEROME SOLAMITO\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            F102433",
+        "address": "30AVENUEDEGRAND-BRETAGNE,MONACO98000MONACO"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "168,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEROME SOLAMITO\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            F102433",
+        "address": "30AVENUEDEGRAND-BRETAGNE,MONACO98000MONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JEROME SOLAMITO\r",
+        "nationality": "MONEGASQUE",
+        "party_id": "                                                            F102433",
+        "address": "30AVENUEDEGRAND-BRETAGNE,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 71346",
+  "registration_date": "Jul 08, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

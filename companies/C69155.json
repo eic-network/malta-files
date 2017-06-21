@@ -1,0 +1,114 @@
+{
+  "company_id": "C 69155",
+  "address": "LEVEL 3, THEUMA HOUSE, 302, ST. PAUL STREET,",
+  "name": "BRAND HOUSE LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 20, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 12000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 0.1,
+      "issued_shares": 12000
+    }
+  ],
+  "total_authorised_shares": 12000,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 12000,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANNA HJOELLUND GAARN-LARSEN\r",
+        "party_id": "                                                            206470672",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "DANIEL LECOULTRE GALLE\r",
+        "party_id": "                                                            206469708",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SENSE INVESTMENT GROUP LIMITED\r",
+        "party_id": "                                                            1624744",
+        "address": "CRAIGMUIRCHAMBERS,P.O.BOX71,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 11998,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      },
+      {
+        "name": "ANNA HJOELLUND GAARN-LARSEN\r",
+        "party_id": "                                                            206470672",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      },
+      {
+        "name": "DANIEL LECOULTRE GALLE\r",
+        "party_id": "                                                            206469708",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNA HJOELLUND GAARN-LARSEN\r",
+        "party_id": "                                                            206470672",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "DANIEL LECOULTRE GALLE\r",
+        "party_id": "                                                            206469708",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNA HJOELLUND GAARN-LARSEN\r",
+        "party_id": "                                                            206470672",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "DANIEL LECOULTRE GALLE\r",
+        "party_id": "                                                            206469708",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNA HJOELLUND GAARN-LARSEN\r",
+        "party_id": "                                                            206470672",
+        "address": "PH4,68TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "nationality": "DANISH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "ARREDITALIA (Malta) LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CRISTINA SIBONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1216924",
+        "address": "15,VIABERTINI,FORLI47122ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CRISTINA SIBONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1216924",
+        "address": "15,VIABERTINI,FORLI47122ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SEAN ELLUL SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441671M",
+        "address": "HUNTINGTONCOURT,FLAT8,NEWSTREETINBAYSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CRISTINA SIBONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1216924",
+        "address": "15,VIABERTINI,FORLI47122ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SEAN ELLUL SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441671M",
+        "address": "HUNTINGTONCOURT,FLAT8,NEWSTREETINBAYSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4800
+        }
+      },
+      {
+        "name": "CRISTINA SIBONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1216924",
+        "address": "15,VIABERTINI,FORLI47122ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "8, HUNTINGTON COURT, TRIQ ALFRED GAUCI,",
+  "company_id": "C 52524",
+  "registration_date": "Apr 07, 2011",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10000
+}

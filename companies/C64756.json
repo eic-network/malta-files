@@ -1,0 +1,78 @@
+{
+  "name": "BALMORE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL FURLONG\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PF2923622",
+        "address": "130,KINGSBURY,MAYNOOTH,CoKILDARE,DUBLINIRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL FURLONG\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PF2923622",
+        "address": "130,KINGSBURY,MAYNOOTH,CoKILDARE,DUBLINIRELAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PKF (MALTA) & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/40",
+        "address": "35,MANNARINOROAD,BIRKIRKARABKR9080MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL FURLONG\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PF2923622",
+        "address": "130,KINGSBURY,MAYNOOTH,CoKILDARE,DUBLINIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TERRY DONOHOE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA6552896",
+        "address": "20,HOLYWELLCRESCENTSOUTH,KINSEALY,CO.DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3, SUITE 3, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 64756",
+  "registration_date": "Apr 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

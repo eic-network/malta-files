@@ -1,0 +1,101 @@
+{
+  "company_id": "C 76045",
+  "address": "6, TRIQ RIHAN,",
+  "name": "BRANDS PLUS HOLDINGS LIMITED",
+  "locality": "FGURA",
+  "status": "",
+  "registration_date": "Jun 14, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1300,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1300
+    }
+  ],
+  "total_authorised_shares": 1300,
+  "total_authorised_shares_value": 1300,
+  "total_issued_shares": 1300,
+  "total_issued_shares_value": 1300,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TAI HUU HUYNH\r",
+        "party_id": "                                                            531173527",
+        "address": "5817DANADR.,NORCROSS,GA30093UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JARED RICHARD STEPHENS\r",
+        "party_id": "                                                            801394224",
+        "address": "8THEOVAL,BANSTEAD,SURREYSM72QYUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TAI HUU HUYNH\r",
+        "party_id": "                                                            531173527",
+        "address": "5817DANADR.,NORCROSS,GA30093UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 663,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JARED RICHARD STEPHENS\r",
+        "party_id": "                                                            801394224",
+        "address": "8THEOVAL,BANSTEAD,SURREYSM72QYUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 637,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TAI HUU HUYNH\r",
+        "party_id": "                                                            531173527",
+        "address": "5817DANADR.,NORCROSS,GA30093UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JARED RICHARD STEPHENS\r",
+        "party_id": "                                                            801394224",
+        "address": "8THEOVAL,BANSTEAD,SURREYSM72QYUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TAI HUU HUYNH\r",
+        "party_id": "                                                            531173527",
+        "address": "5817DANADR.,NORCROSS,GA30093UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JARED RICHARD STEPHENS\r",
+        "party_id": "                                                            801394224",
+        "address": "8THEOVAL,BANSTEAD,SURREYSM72QYUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JARED RICHARD STEPHENS\r",
+        "party_id": "                                                            801394224",
+        "address": "8THEOVAL,BANSTEAD,SURREYSM72QYUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

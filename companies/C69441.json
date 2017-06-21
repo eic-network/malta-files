@@ -1,0 +1,109 @@
+{
+  "name": "ASSETHOLD PARTICIPATIONS LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCISCO COSTA OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            008348383ZZ8",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      },
+      {
+        "name": "MARIA JOAO RODRIGUES BIZARRO SOARES OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            019031130ZY4",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCISCO COSTA OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            008348383ZZ8",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      },
+      {
+        "name": "MARIA JOAO RODRIGUES BIZARRO SOARES OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            019031130ZY4",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID MARINELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48021",
+        "address": "2NDFLOOR,EUROPACENTRE,STANNESTREET,FLORIANAFRN1400MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCISCO COSTA OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            008348383ZZ8",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      },
+      {
+        "name": "MARIA JOAO RODRIGUES BIZARRO SOARES OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            019031130ZY4",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCISCO COSTA OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            008348383ZZ8",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "MARIA JOAO RODRIGUES BIZARRO SOARES OLIVEIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            019031130ZY4",
+        "address": "RUESADEALBERGARIA,NO668,PORTOPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "2ND FLOOR, EUROPA CENTRE, ST. ANNE STREET,",
+  "company_id": "C 69441",
+  "registration_date": "Mar 06, 2015",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

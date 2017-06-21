@@ -1,0 +1,75 @@
+{
+  "company_id": "C 31754",
+  "address": "147/1, ST. LUCIA STREET,",
+  "name": "BRAVE BULK TRANSPORT LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jul 11, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEFA SOBERANO\r",
+        "party_id": "                                                            SS0969974",
+        "address": "SOBOLASINGAN,PANGASINANPHILIPPINES",
+        "nationality": "PHILIPINO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CONCERT SERVICES CO.",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "OPERA INTERNATIONAL INC.",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEFA SOBERANO\r",
+        "party_id": "                                                            SS0969974",
+        "address": "SOBOLASINGAN,PANGASINANPHILIPPINES",
+        "nationality": "PHILIPINO"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEFA SOBERANO\r",
+        "party_id": "                                                            SS0969974",
+        "address": "SOBOLASINGAN,PANGASINANPHILIPPINES",
+        "nationality": "PHILIPINO"
+      }
+    ]
+  }
+}

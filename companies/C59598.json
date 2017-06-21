@@ -1,0 +1,104 @@
+{
+  "name": "ARIES CERTIFICATION BODY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIUSEPPE DE CARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0699880",
+        "address": "4VIARAFFAELESINISCALCHIFISCIANO84084ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRUNO VITALE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR1103129",
+        "address": "34,VIACORSOGUGLIELMOMARCONI,CAVADETIRRENI,SALERNOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRUNO VITALE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR1103129",
+        "address": "34,VIACORSOGUGLIELMOMARCONI,CAVADETIRRENI,SALERNOITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRUNO VITALE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR1103129",
+        "address": "34,VIACORSOGUGLIELMOMARCONI,CAVADETIRRENI,SALERNOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ZODIAC HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 77285",
+        "address": "3RDFLOOR,NAVIBUILDINGSPANTARROADLIJALJA2021MALTA",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "FRANCESCO ANSELMO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0603734",
+        "address": "2VIADEGLIOLMICASTROVILLARI87012ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "GIUSEPPE DE CARO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0699880",
+        "address": "4VIARAFFAELESINISCALCHIFISCIANO84084ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "3RD FLOOR, NAVI BUILDINGS, PANTAR ROAD,",
+  "company_id": "C 59598",
+  "registration_date": "Mar 07, 2013",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 600
+}

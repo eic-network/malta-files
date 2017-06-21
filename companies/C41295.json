@@ -1,0 +1,75 @@
+{
+  "name": "ARMENIA LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARMEN BEGJANYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AB0474743",
+        "address": "1,BELFRYCOURT,FORRESTSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARMEN BEGJANYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AB0474743",
+        "address": "1,BELFRYCOURT,FORRESTSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARMEN BEGJANYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AB0474743",
+        "address": "1,BELFRYCOURT,FORRESTSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARTUR ARAKELYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AG0644567",
+        "address": "72/2VICTORDENAROSTREETMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "VERA BOYAJYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AF0373075",
+        "address": "1481,PORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "72/2, VICTOR DENARO STREET,",
+  "company_id": "C 41295",
+  "registration_date": "May 03, 2007",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 500
+}

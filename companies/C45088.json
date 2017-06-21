@@ -1,0 +1,133 @@
+{
+  "name": "BETTY BINGO SERVICE PARTNER LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 612,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 612,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 588,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 588,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETTY BINGO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43123",
+        "address": "103,GUARDAMANGIAHILL,PIETA'PTA1313MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 612
+        }
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "103 GUARDAMANGIA HILL",
+  "company_id": "C 45088",
+  "registration_date": "Sep 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

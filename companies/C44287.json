@@ -1,0 +1,97 @@
+{
+  "name": "BETA EQUITY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHEL VANSIMPSEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-2502221-14",
+        "address": "283,ROUTED'ARLON,STRASSENL-8011LUXEMBOURG"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/51",
+        "address": "IVYMANSIONSTRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RGG CONSULTANTS INC\r",
+        "nationality": "",
+        "party_id": "                                                            54048",
+        "address": "NO1,MAPPSTREET,BELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ISOLA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            77405",
+        "address": "SUITE205,SECONDFLOOR,CAPITALCITY,INDEPENDENCEAVENUE,POBOX903,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, CASAL NAXARO, LABOUR AVENUE,",
+  "company_id": "C 44287",
+  "registration_date": "May 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 4000
+}

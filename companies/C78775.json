@@ -1,0 +1,89 @@
+{
+  "name": "BINNINGTON CORPORATION LTD",
+  "total_issued_shares_value": 6000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 29999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLINT CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294283M",
+        "address": "WOODPECKER,TRIQGUZEMUSCATAZZOPARDI,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMOR HOLDINGS CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            186323",
+        "address": "TRIDENTCHAMBERS,WICKHAMSCAY1,ROADTOWN,TORTOLAVG1110VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5999
+        }
+      },
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA,",
+  "company_id": "C 78775",
+  "registration_date": "Dec 23, 2016",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 30000
+}

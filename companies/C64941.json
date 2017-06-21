@@ -1,0 +1,91 @@
+{
+  "company_id": "C 64941",
+  "address": "ROOM 1, LEVEL 2, PALAZZO CA' BRUGNERA, VALLEY ROAD,",
+  "name": "BRETONNE INVESTMENT LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Apr 30, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Poboril Dalibor\r",
+        "party_id": "                                                            40856267",
+        "address": "Jankovcova39/96HolesovicePraha17000CZECHREPUBLIC",
+        "nationality": "CZECH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Pavel Kulajta\r",
+        "party_id": "                                                            41104913",
+        "address": "Zasova674Zasova75651CZECHREPUBLIC",
+        "nationality": "CZECH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLIVE FARRUGIA\r",
+        "party_id": "                                                            5179M",
+        "address": "32,FERRINICOURT,FLAT8,TRIQL-UNIVERSITA,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "SUITE3,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

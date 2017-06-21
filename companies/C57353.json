@@ -1,0 +1,109 @@
+{
+  "company_id": "C 57353",
+  "address": "LEVEL 3, 119 SLIEMA ROAD,",
+  "name": "3Bet Gaming Ltd.",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Aug 27, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 40000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 40000
+    }
+  ],
+  "total_authorised_shares": 40000,
+  "total_authorised_shares_value": 40000,
+  "total_issued_shares": 40000,
+  "total_issued_shares_value": 40000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHELE BUONTEMPO\r",
+        "party_id": "                                                            61115A",
+        "address": "PENDERGARDENS,1531,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "MARZIO PANELLI\r",
+        "party_id": "                                                            55731A",
+        "address": "23ANOTREDAME,FLAT6TRIQPATRIMARJANUVELLASLIEMASLM1301MALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ISOLUTIONS ENTERPRISE LIMITED\r",
+        "party_id": "                                                            81865",
+        "address": "OLIAJITRADECENTRE-1STFLOORVICTORIAMAHEREPUBLICOFSEYCHELLES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MICHELE BUONTEMPO\r",
+        "party_id": "                                                            61115A",
+        "address": "PENDERGARDENS,1531,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHELE BUONTEMPO\r",
+        "party_id": "                                                            61115A",
+        "address": "PENDERGARDENS,1531,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "MARZIO PANELLI\r",
+        "party_id": "                                                            55731A",
+        "address": "23ANOTREDAME,FLAT6TRIQPATRIMARJANUVELLASLIEMASLM1301MALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHELE BUONTEMPO\r",
+        "party_id": "                                                            61115A",
+        "address": "PENDERGARDENS,1531,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "MARZIO PANELLI\r",
+        "party_id": "                                                            55731A",
+        "address": "23ANOTREDAME,FLAT6TRIQPATRIMARJANUVELLASLIEMASLM1301MALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHELE BUONTEMPO\r",
+        "party_id": "                                                            61115A",
+        "address": "PENDERGARDENS,1531,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARIO CARUANA\r",
+        "party_id": "                                                            10893",
+        "address": "'SINJALTA'L-ART',TRIQ23TA'LULJU1942ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

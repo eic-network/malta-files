@@ -1,0 +1,83 @@
+{
+  "name": "ANGLO MED CONSULTANTS LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MANUEL DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            539874M",
+        "address": "\"LABELLAROSA\",COUNTR.BARBAROSTREET,ATTARDATD1202MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA THERESA MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1007748M",
+        "address": "IL-KENN,TRIQDUNKARM,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HC Nominees (BVI) Limited\r",
+        "nationality": "",
+        "party_id": "                                                            382837",
+        "address": "AkaraBldg.,24DeCastroStreetWichamsCay1,RoadTownTortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Wildwood Traders Limited\r",
+        "nationality": "",
+        "party_id": "                                                            1600309",
+        "address": "AkaraBldg.,24DeCastroStreetWichamsCay1,RoadTownTortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "VAULT 14, LEVEL 2 VALLETTA WATERFRONT",
+  "company_id": "C 44543",
+  "registration_date": "Jun 24, 2008",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1000
+}

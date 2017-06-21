@@ -1,0 +1,101 @@
+{
+  "company_id": "C 69635",
+  "address": "MAYFLOWER MANSION, FLAT 11, BISAZZA STREET,",
+  "name": "BRAND ADMISSION TRADING LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Mar 18, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DANIEL STIG MAGNUS ANDERSSON\r",
+        "party_id": "                                                            89724170",
+        "address": "MAYFLOWERMANSION,FLAT11,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "LARS-JONAS ANDERSSON\r",
+        "party_id": "                                                            89139899",
+        "address": "VASTERMALMSGATAN13,BORAS50466SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRAND ADMISSION HOLDING LIMITED\r",
+        "party_id": "                                                            C 69629",
+        "address": "MAYFLOWERMANSION,FLAT11,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "LARS-JONAS ANDERSSON\r",
+        "party_id": "                                                            89139899",
+        "address": "VASTERMALMSGATAN13,BORAS50466SWEDEN",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIEL STIG MAGNUS ANDERSSON\r",
+        "party_id": "                                                            89724170",
+        "address": "MAYFLOWERMANSION,FLAT11,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "LARS-JONAS ANDERSSON\r",
+        "party_id": "                                                            89139899",
+        "address": "VASTERMALMSGATAN13,BORAS50466SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DANIEL STIG MAGNUS ANDERSSON\r",
+        "party_id": "                                                            89724170",
+        "address": "MAYFLOWERMANSION,FLAT11,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "LARS-JONAS ANDERSSON\r",
+        "party_id": "                                                            89139899",
+        "address": "VASTERMALMSGATAN13,BORAS50466SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DANIEL STIG MAGNUS ANDERSSON\r",
+        "party_id": "                                                            89724170",
+        "address": "MAYFLOWERMANSION,FLAT11,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "SWEDISH"
+      }
+    ]
+  }
+}

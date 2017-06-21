@@ -1,0 +1,147 @@
+{
+  "name": "BARDOUGLAS LIMITED",
+  "total_issued_shares_value": 6502,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4502,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435316",
+        "address": "BOUTEZENAVANTSOUTHDOUGLASROADCORKIRELAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435316",
+        "address": "BOUTEZENAVANTSOUTHDOUGLASROADCORKIRELAND"
+      },
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435316",
+        "address": "BOUTEZENAVANTSOUTHDOUGLASROADCORKIRELAND"
+      },
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435316",
+        "address": "BOUTEZENAVANTSOUTHDOUGLASROADCORKIRELAND"
+      },
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CATHERINE BERNADETTE BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435329",
+        "address": "BOUTEZENAVANT,HILLCREST,SOUTHDOUGLASROAD,COUNTYCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2251
+        }
+      },
+      {
+        "name": "MICHAEL BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5435316",
+        "address": "BOUTEZENAVANTSOUTHDOUGLASROADCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2251
+        }
+      },
+      {
+        "name": "KATE ELLEN BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PC9466798",
+        "address": "BOUTEZENAVANT74A,SOUTHDOUGLASROADCOUNTYCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "RORY DAVID BARRY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PC9187134",
+        "address": "BOUTEZENAVANT74A,SOUTHDOUGLASROAD,COUNTYCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6502,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL AND BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 50295",
+  "registration_date": "Jul 27, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10000
+}

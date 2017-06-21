@@ -1,0 +1,80 @@
+{
+  "name": "ALTIS NAVIGATION LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DESPOINA ANTONIOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB8330343",
+        "address": "4852,VAS.ATHANASIOUSTREET,PIRAEUSGREECE"
+      },
+      {
+        "name": "IOANNIS KONTOULIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB4319232",
+        "address": "21,MAVROMICHALISTREET,ALIMOS,ATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DESPOINA ANTONIOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB8330343",
+        "address": "4852,VAS.ATHANASIOUSTREET,PIRAEUSGREECE"
+      },
+      {
+        "name": "IOANNIS KONTOULIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB4319232",
+        "address": "21,MAVROMICHALISTREET,ALIMOS,ATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DESPOINA ANTONIOU\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB8330343",
+        "address": "4852,VAS.ATHANASIOUSTREET,PIRAEUSGREECE"
+      },
+      {
+        "name": "IOANNIS KONTOULIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB4319232",
+        "address": "21,MAVROMICHALISTREET,ALIMOS,ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRONOS MARINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            35556",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 47075",
+  "registration_date": "Jun 17, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

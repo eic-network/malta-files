@@ -1,0 +1,65 @@
+{
+  "name": "ATHENIAN HOPE SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CHRISTOS HARBIS",
+        "nationality": "",
+        "party_id": "",
+        "address": "3,IIMERARCHIASSTREETPIRAEUSGREECE"
+      },
+      {
+        "name": "GEORGIOS HARBIS",
+        "nationality": "",
+        "party_id": "",
+        "address": "3,IIMERARCHIASSTREETPIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NAVY PRIDE HOLDING INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "NAVY STAR HOLDING INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "62/1, OLD BAKERY STREET,",
+  "company_id": "C 20754",
+  "registration_date": "Nov 18, 1996",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

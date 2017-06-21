@@ -1,0 +1,91 @@
+{
+  "name": "ALLMAR MANAGEMENT LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALLEGRA MASCISCH\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            JX590028",
+        "address": "37,YITZCHAKBENZVIBOULEVARD,APARTMENT17,JERUSALEM96260ISRAEL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "MARVIN STENGE\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            QA290876",
+        "address": "37,YITZCHAKBENZVIBOULEVARD,APARTMENT17,JERUSALEM96260ISRAEL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3, SUITE 3, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 54290",
+  "registration_date": "Nov 02, 2011",
+  "shares_currency": "CAD",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

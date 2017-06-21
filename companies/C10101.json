@@ -1,0 +1,173 @@
+{
+  "name": "ALPENROSE COMPANY LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 225,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 225,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 225,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 225,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 225,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 225,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 225,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 225,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTORIA MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323269M",
+        "address": "TA'RADDIENA,VINCENTGALEASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH RANDOLPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33744M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTOINETTE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46543M",
+        "address": "\"ALPENROSE\"QORMIROAD,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "JOSEPH RANDOLPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33744M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH RANDOLPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33744M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTOINETTE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46543M",
+        "address": "\"ALPENROSE\"QORMIROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 48
+        }
+      },
+      {
+        "name": "JOSEPH RANDOLPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33744M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 52
+        }
+      },
+      {
+        "name": "VICTORIA MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323269M",
+        "address": "TA'RADDIENA,VINCENTGALEASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "KEVIN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531871M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "MICHELLE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            210373M",
+        "address": "ALPENROSE,QORMIROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "TREVOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            219680M",
+        "address": "\"ALPENROSE\"QORMIROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 225
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "ALPENROSE QORMI ROAD,",
+  "company_id": "C 10101",
+  "registration_date": "Nov 22, 1988",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

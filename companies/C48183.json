@@ -1,0 +1,101 @@
+{
+  "name": "A.L.A. COMPANY LIMITED",
+  "total_issued_shares_value": 1687.5,
+  "total_authorised_shares_value": 2500,
+  "authorised_shares": [
+    {
+      "issued_shares": 675,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258442M",
+        "address": "56,TRIQQSANGWANNVALLETTAMALTA"
+      },
+      {
+        "name": "ANTON BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151372M",
+        "address": "56,TRIQSANGWANNVALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258442M",
+        "address": "56,TRIQQSANGWANNVALLETTAMALTA"
+      },
+      {
+        "name": "ANTON BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151372M",
+        "address": "56,TRIQSANGWANNVALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXANDER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258442M",
+        "address": "56,TRIQQSANGWANNVALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258442M",
+        "address": "56,TRIQQSANGWANNVALLETTAMALTA"
+      },
+      {
+        "name": "ANTON BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151372M",
+        "address": "56,TRIQSANGWANNVALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258442M",
+        "address": "56,TRIQQSANGWANNVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      },
+      {
+        "name": "ANTON BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151372M",
+        "address": "56,TRIQSANGWANNVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 225
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 675,
+  "address": "56 SAINT JOHN'S STREET,",
+  "company_id": "C 48183",
+  "registration_date": "Nov 17, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

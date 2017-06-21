@@ -1,0 +1,93 @@
+{
+  "name": "ALLEY & CO.",
+  "total_issued_shares_value": 6000,
+  "total_authorised_shares_value": 6000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "Ordinary",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10591M",
+        "address": "120,SANTAKATARINA,TRIQGUZEPPIMATTEWCALLUSZURRIEQMALTA"
+      },
+      {
+        "name": "LIONEL GERADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34387M",
+        "address": "33,ADAREG,TRIQIL-MEHRIEZ,ZABBARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10591M",
+        "address": "120,SANTAKATARINA,TRIQGUZEPPIMATTEWCALLUSZURRIEQMALTA"
+      },
+      {
+        "name": "LIONEL GERADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34387M",
+        "address": "33,ADAREG,TRIQIL-MEHRIEZ,ZABBARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10591M",
+        "address": "120,SANTAKATARINA,TRIQGUZEPPIMATTEWCALLUSZURRIEQMALTA"
+      },
+      {
+        "name": "LIONEL GERADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34387M",
+        "address": "33,ADAREG,TRIQIL-MEHRIEZ,ZABBARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10591M",
+        "address": "120,SANTAKATARINA,TRIQGUZEPPIMATTEWCALLUSZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "LIONEL GERADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34387M",
+        "address": "33,ADAREG,TRIQIL-MEHRIEZ,ZABBARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "33, ADAREG, TRIQ IL-MEHRIEZ",
+  "company_id": "P 1508",
+  "registration_date": "Mar 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZABBAR",
+  "status": "",
+  "total_authorised_shares": 6000
+}

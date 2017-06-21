@@ -1,0 +1,59 @@
+{
+  "name": "BLUEWEST SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CONSTANTINOS VAZEOS",
+        "nationality": "",
+        "party_id": "",
+        "address": "27-31,CHATZIKYRIAKOUSTREET,PIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDROMEBA SHIPPING AND TRADING CO SA",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTRMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "KEVIN F DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 19130",
+  "registration_date": "Sep 27, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

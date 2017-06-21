@@ -1,0 +1,89 @@
+{
+  "name": "BettingCloud Limited",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 39999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 39999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROBIN EIRIK REED\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            60726A",
+        "address": "FORTCAMBRIDGE,TOWERWEST3,APARTMENT1702,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBIN EIRIK REED\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            60726A",
+        "address": "FORTCAMBRIDGE,TOWERWEST3,APARTMENT1702,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MATTI HEIKKI METSOLA\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PC8195228",
+        "address": "FLAT7,37GUZEHOWARDSTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBIN EIRIK REED\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            60726A",
+        "address": "FORTCAMBRIDGE,TOWERWEST3,APARTMENT1702,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GAMING INNOVATION GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44319",
+        "address": "GBBUILDINGS,PENTHOUSE,WATARSTREET,TA'XBIEXXBX1301MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 39999
+        }
+      },
+      {
+        "name": "ROBIN EIRIK REED\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            60726A",
+        "address": "FORTCAMBRIDGE,TOWERWEST3,APARTMENT1702,TIGNESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "GB BUILDINGS, PENTHOUSE, WATAR STREET,",
+  "company_id": "C 56845",
+  "registration_date": "Jul 03, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 40000
+}

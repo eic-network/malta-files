@@ -1,0 +1,51 @@
+{
+  "name": "B&D HAULIERS",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "BERNARD DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72376M",
+        "address": "BELVEDERE,FLAT1,TRIQIL-MAQDESMEGALITIKU,ST.PAUL'SBAYSPB4202MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "DAVID GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            13660M",
+        "address": "157,'MARGHERITA'PITKALIROAD,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "89, WINE PRESSERS WHARF,",
+  "company_id": "P 1673",
+  "registration_date": "Sep 20, 2016",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

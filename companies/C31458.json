@@ -1,0 +1,91 @@
+{
+  "name": "ALMARUS INVESTMENTS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ERIKA IZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            406076M",
+        "address": "6,TRIQAMABILESISNER,FGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "23,SOUTHHOUSE,HOMPESCHROAD,FGURAFGR2010MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PERFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62203",
+        "address": "SCM01,SUITE102,TRIQRICASOLI,SMARTCITYMALTA,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "PERFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62203",
+        "address": "SCM01,SUITE102,TRIQRICASOLI,SMARTCITYMALTA,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "SMART CITY MALTA, SCM 01, SUITE 102, TRIQ RICASOLI,",
+  "company_id": "C 31458",
+  "registration_date": "May 22, 2003",
+  "shares_currency": "USD",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

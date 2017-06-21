@@ -1,0 +1,83 @@
+{
+  "name": "BOOKING.COM LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DANIEL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            446969M",
+        "address": "56/58,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DANIEL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            446969M",
+        "address": "56/58,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUTH ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            13552A",
+        "address": "56/58,HOPESTREETMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIEL ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            446969M",
+        "address": "56/58,HOPESTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BUSINESS VENTURES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11627",
+        "address": "217/121SEPTEMBERAVENUENAXXARNXR1013MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "RUTH ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            13552A",
+        "address": "56/58,HOPESTREETMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "217/1, 21 SEPTEMBER AVENUE,",
+  "company_id": "C 29193",
+  "registration_date": "Jan 25, 2002",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 500
+}

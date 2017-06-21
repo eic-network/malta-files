@@ -1,0 +1,91 @@
+{
+  "name": "AMARANTH INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARK ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            432675M",
+        "address": "15,TRIQHAS-SAJJIEDZABBARZBR3648MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH A. MiCALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19608",
+        "address": "1SQAQSANT'AGATARABATMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET,",
+  "company_id": "C 32637",
+  "registration_date": "Dec 09, 2003",
+  "shares_currency": "GBP",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

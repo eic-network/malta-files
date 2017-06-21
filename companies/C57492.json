@@ -1,0 +1,107 @@
+{
+  "name": "ATLAS-T LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "ALESSANDRO NICOLO UGO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2805936",
+        "address": "VIARONCHETTO2,GENTILINO6925SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "ALESSANDRO NICOLO UGO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2805936",
+        "address": "VIARONCHETTO2,GENTILINO6925SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "ALESSANDRO NICOLO UGO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2805936",
+        "address": "VIARONCHETTO2,GENTILINO6925SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 57492",
+  "registration_date": "Sep 10, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

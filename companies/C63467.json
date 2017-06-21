@@ -1,0 +1,75 @@
+{
+  "name": "ATLAX VENTURES LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAOLO IOB\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2254078",
+        "address": "LUSGASSLI7,CH-8880WALENSTADTSWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAOLO IOB\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2254078",
+        "address": "LUSGASSLI7,CH-8880WALENSTADTSWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAOLO IOB\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2254078",
+        "address": "LUSGASSLI7,CH-8880WALENSTADTSWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MONIKA CHRISTA IOB-SCHMUCKI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F1879148",
+        "address": "LUSGASSLI7,CH-8880WALENSTADTSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "PAOLO IOB\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2254078",
+        "address": "LUSGASSLI7,CH-8880WALENSTADTSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "VINCENTI BUILDINGS, 28/19, (SUITE No 1421)  STRAIT STREET",
+  "company_id": "C 63467",
+  "registration_date": "Jan 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

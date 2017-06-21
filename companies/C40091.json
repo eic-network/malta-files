@@ -1,0 +1,109 @@
+{
+  "company_id": "C 40091",
+  "address": "PM BUILDING, MRIEHEL INDUSTRIAL ZONE, BONE STREET, MRIEHEL BY-PASS, MRIEHEL,",
+  "name": "BRITISH AMERICAN TOBACCO (MALTA) LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Nov 30, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 11646.86,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 11646.87,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JUAN JOSE MARCO JURADO\r",
+        "party_id": "                                                            AAA766934",
+        "address": "2,PENTELISSTREET,KIFISSIA,ATHENS14562GREECE",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "CARMEL SALIBA\r",
+        "party_id": "                                                            367265M",
+        "address": "HAILMARYABELASTREETSANTAVENERASVR1041MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRITISH AMERICAN TOBACCO INTERNATIONAL (HOLDINGS) BV\r",
+        "party_id": "                                                            33268088",
+        "address": "HANDELSWEG53A,1181ZAAMSTELVEENNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "BRITISH AMERICAN TOBACCO INTERNATIONAL EUROPE (NEDERLAND) B.V.\r",
+        "party_id": "                                                            33233000",
+        "address": "HANDELSWEG53A,AMSTELVEEN1181ZANETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUAN JOSE MARCO JURADO\r",
+        "party_id": "                                                            AAA766934",
+        "address": "2,PENTELISSTREET,KIFISSIA,ATHENS14562GREECE",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "CARMEL SALIBA\r",
+        "party_id": "                                                            367265M",
+        "address": "HAILMARYABELASTREETSANTAVENERASVR1041MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JUAN JOSE MARCO JURADO\r",
+        "party_id": "                                                            AAA766934",
+        "address": "2,PENTELISSTREET,KIFISSIA,ATHENS14562GREECE",
+        "nationality": "SPANISH"
+      },
+      {
+        "name": "CARMEL SALIBA\r",
+        "party_id": "                                                            367265M",
+        "address": "HAILMARYABELASTREETSANTAVENERASVR1041MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IVAN SALIBA\r",
+        "party_id": "                                                            327681M",
+        "address": "19,APT6,MARINABEACHCOURT,TRIQIL-HUTMARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'PTA9044MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

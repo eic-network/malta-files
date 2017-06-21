@@ -1,0 +1,91 @@
+{
+  "name": "570 AD LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITA MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            334169M",
+        "address": "RIWINTAGODTRIQCARMELOROSARIODIMECHGHAXAQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "REUBEN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527774M",
+        "address": "VENUSTA,CHURCHSTREET,TARXIENTXN2316MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "REUBEN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527774M",
+        "address": "VENUSTA,CHURCHSTREET,TARXIENTXN2316MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GILBERT MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110121",
+        "address": "62,MAGNOLIA,TRIQIL-MARG,ATTARDATD2382MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "REUBEN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527774M",
+        "address": "VENUSTA,CHURCHSTREET,TARXIENTXN2316MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRACY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358373M",
+        "address": "69,TRIQKARLUMARATTA,TARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "REUBEN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527774M",
+        "address": "VENUSTA,CHURCHSTREET,TARXIENTXN2316MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "19, TRIQ IL-VENEWWA,",
+  "company_id": "C 48461",
+  "registration_date": "Dec 16, 2009",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 600
+}

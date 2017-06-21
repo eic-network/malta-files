@@ -1,0 +1,115 @@
+{
+  "name": "ANCILLERI COMPANY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEANETTE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150372M",
+        "address": "2,TRIQL-ANTIKA,VITTORIOSAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDINE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527473M",
+        "address": "PIXIEHOLLOW,RABANEMEL,RABATMALTA"
+      },
+      {
+        "name": "JEANETTE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150372M",
+        "address": "2,TRIQL-ANTIKA,VITTORIOSAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLAUDINE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527473M",
+        "address": "PIXIEHOLLOW,RABANEMEL,RABATMALTA"
+      },
+      {
+        "name": "JEANETTE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150372M",
+        "address": "2,TRIQL-ANTIKA,VITTORIOSAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDINE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527473M",
+        "address": "PIXIEHOLLOW,RABANEMEL,RABATMALTA"
+      },
+      {
+        "name": "JEANETTE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150372M",
+        "address": "2,TRIQL-ANTIKA,VITTORIOSAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLAUDINE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527473M",
+        "address": "PIXIEHOLLOW,RABANEMEL,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JEANETTE ANCILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150372M",
+        "address": "2,TRIQL-ANTIKA,VITTORIOSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "PAOLO COURT, SUITE 3, G. CALI STREET,",
+  "company_id": "C 59705",
+  "registration_date": "Mar 15, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

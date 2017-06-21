@@ -1,0 +1,81 @@
+{
+  "name": "AMCI - MALTA Limited",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 50000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 14,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49999,
+      "nominal_value_per_share": 1000
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1000
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOAO CARLOS EIRO CARVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            039623122ZZ1",
+        "address": "RSJOAODEDEUS,136,VILANOVADEFAMALICAO4760-162PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOAO CARLOS EIRO CARVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            039623122ZZ1",
+        "address": "RSJOAODEDEUS,136,VILANOVADEFAMALICAO4760-162PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOAO CARLOS EIRO CARVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            039623122ZZ1",
+        "address": "RSJOAODEDEUS,136,VILANOVADEFAMALICAO4760-162PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMANDIO CARVALHO - SGPS, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            505933934",
+        "address": "AVENIDACARLOSBACELAR,174,APARTADO56,VILANOVADEFAMALICAO4761-922PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 14
+        }
+      },
+      {
+        "name": "AMANDIO CARVALHO - CONCESSOES RODOVIARIAS, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            506807797",
+        "address": "AVENIDACARLOSBACELAR,174,APARTADO56,VILANOVADEFAMALICAO4761-922PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15,
+  "address": "93, MILL STREET,",
+  "company_id": "C 55264",
+  "registration_date": "Feb 09, 2012",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 50000
+}

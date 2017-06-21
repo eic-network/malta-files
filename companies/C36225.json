@@ -1,0 +1,115 @@
+{
+  "name": "ANDERSEN LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN V. CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            819055M",
+        "address": "CHATEAUDESLOIRS,78,G'MANGIAHILL,G'MANGIA,PIETA'PTA1314MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLIVER BRAUN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            29979A",
+        "address": "PALACECOURT,FLAT9,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      },
+      {
+        "name": "PETER M. BRAUN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29984A",
+        "address": "PALACECOURT,FL7,CHURCHSTREET,ST.JULIANSSTJ01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLIVER BRAUN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            29979A",
+        "address": "PALACECOURT,FLAT9,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      },
+      {
+        "name": "PETER M. BRAUN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29984A",
+        "address": "PALACECOURT,FL7,CHURCHSTREET,ST.JULIANSSTJ01MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "23,'LGHABEX',TRIQIS-SLIEMMARSASCALAMSK3381MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OLIVER BRAUN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            29979A",
+        "address": "PALACECOURT,FLAT9,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      },
+      {
+        "name": "PETER M. BRAUN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29984A",
+        "address": "PALACECOURT,FL7,CHURCHSTREET,ST.JULIANSSTJ01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACOBS CAPITAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1632715",
+        "address": "GENEVAPLACE,2NDFLOOR,#333,WATERFRONTDRIVE,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "JACOBS INVESTMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 34630",
+        "address": "MAYFAIRBUSINESSCENTRE,STGEORGE'SBAY,ST.JULIANSSTJ3311MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "MAYFAIR BUSINESS CENTRE, ST. GEORGE'S BAY,",
+  "company_id": "C 36225",
+  "registration_date": "May 16, 2005",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1250
+}

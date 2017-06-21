@@ -1,0 +1,97 @@
+{
+  "name": "BELI BRYAK LIMITED",
+  "total_issued_shares_value": 31000,
+  "total_authorised_shares_value": 31000,
+  "authorised_shares": [
+    {
+      "issued_shares": 30999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 30999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLINT BENNETTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301985M",
+        "address": "1,ST.GREGORYSTREETGUARDAMANGIAPIETA'PTA1050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERTRAND EMIL DAMSTRA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BMCCLCJR1",
+        "address": "NO.8,TRIQDINGLI-CORNELIO,SENGLEAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERTRAND EMIL DAMSTRA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BMCCLCJR1",
+        "address": "NO.8,TRIQDINGLI-CORNELIO,SENGLEAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ZD ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/11",
+        "address": "230,2NDFLOOR,EUCHARISTICCONGRESSROAD,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERTRAND EMIL DAMSTRA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BMCCLCJR1",
+        "address": "NO.8,TRIQDINGLI-CORNELIO,SENGLEAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BELI BRYAK HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109429",
+        "address": "SUITE925A,BLOCK8/9,EUROPORTGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 30999
+        }
+      },
+      {
+        "name": "BERTRAND E. DAMSTRA\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            112848A",
+        "address": "8,TRIQDINGLICORNELIO,SENGLEAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 31000,
+  "address": "8, Triq Dingli-Cornelio,",
+  "company_id": "C 43130",
+  "registration_date": "Dec 18, 2007",
+  "shares_currency": "EUR",
+  "locality": "SENGLEA",
+  "status": "",
+  "total_authorised_shares": 31000
+}

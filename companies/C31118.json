@@ -1,0 +1,67 @@
+{
+  "name": "ARCADIA MARITIME LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "WIND SHIPMANAGEMENT CORP.",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MH96960,MAJUROMARSHALLISLANDS"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "198,OLDBAKERYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WIND SHIPMANAGEMENT CORP.",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,P.O.BOX1405,MH96960,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET",
+  "company_id": "C 31118",
+  "registration_date": "Mar 13, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

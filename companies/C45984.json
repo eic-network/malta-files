@@ -1,0 +1,101 @@
+{
+  "name": "b.original Limited",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LUKE CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5888M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      },
+      {
+        "name": "MARIELLA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381159M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUKE CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5888M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      },
+      {
+        "name": "MARIELLA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381159M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIELLA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381159M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUKE CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5888M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      },
+      {
+        "name": "MARIELLA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381159M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUKE CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5888M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARIELLA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381159M",
+        "address": "32BRIDGESTREETMOSTAMST2179MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "32 BRIDGE STREET",
+  "company_id": "C 45984",
+  "registration_date": "Jan 06, 2009",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

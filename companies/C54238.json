@@ -1,0 +1,97 @@
+{
+  "name": "ANGEL DATA CLUB LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LOUIS FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267455M",
+        "address": "52,'LAFIORITA',MONS.PIETRUPAWLSAYDONSTREET,IKLINIKL1333MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUENAXXARNXR9021MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ONLINE XTRADER LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1674351",
+        "address": "VANTERPOOLPLAZA,2NDFLOOR,WICKHAMSCAYI,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ISOLA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            77405",
+        "address": "SUITE205,SECONDFLOOR,CAPITALCITY,INDEPENDENCEAVENUE,POBOX903,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "14, BRARED STREET,",
+  "company_id": "C 54238",
+  "registration_date": "Oct 27, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

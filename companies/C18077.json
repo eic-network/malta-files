@@ -1,0 +1,97 @@
+{
+  "total_issued_shares_value": 23293.73,
+  "registration_date": "Mar 22, 1995",
+  "status": "",
+  "locality": "SANTA VENERA",
+  "name": "BUGEJA COMPANY LIMITED",
+  "total_issued_shares": 10000,
+  "address": "JESSICA GARAGE, KAPILLAN MIFSUD STREET,",
+  "company_id": "C 18077",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "40,MAYROSE,KENTSTREET,FGURAMALTA",
+        "party_id": "                                                            53157M",
+        "name": "JOSEPH BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "40,MAYROSE,KENTSTREET,FGURAMALTA",
+        "party_id": "                                                            53157M",
+        "name": "JOSEPH BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "40,MAYROSE,KENTSTREET,FGURAMALTA",
+        "party_id": "                                                            53157M",
+        "name": "JOSEPH BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "40,MAYROSE,KENTSTREET,FGURAMALTA",
+        "party_id": "                                                            53157M",
+        "name": "JOSEPH BUGEJA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "MAYROSE,NO.40,KENTSTREETFGURAMALTA",
+        "party_id": "                                                            582457M",
+        "name": "SUSANNE BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "23,'LGHABEX',TRIQIS-SLIEMMARSASCALAMSK3381MALTA",
+        "party_id": "                                                            10050",
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 5000,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "765HIGHSTREETHAMRUNMALTA",
+        "party_id": "                                                            C 12842",
+        "name": "BUGEJA ENTERPRISES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 5000,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "MAYROSE,NO.40,KENTSTREET,FGURAMALTA",
+        "party_id": "                                                            C 54702",
+        "name": "THE WHOLESALER B.E.L. GROUP LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 10000,
+      "authorised_share_capital": 10000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 23293.73,
+  "shares_currency": "EUR"
+}

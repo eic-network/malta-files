@@ -1,0 +1,91 @@
+{
+  "name": "Ashfield Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLINT CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294283M",
+        "address": "WOODPECKER,TRIQGUZEMUSCATAZZOPARDI,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "STICHTING ADMINISTRATIEKANTOOR FIENNES\r",
+        "nationality": "",
+        "party_id": "                                                            34361510",
+        "address": "BAARERSTRASSE75ZUGCH-6300SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA",
+  "company_id": "C 48352",
+  "registration_date": "Dec 07, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

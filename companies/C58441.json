@@ -1,0 +1,89 @@
+{
+  "name": "AUROSANA MALTA LIMITED",
+  "total_issued_shares_value": 286480571,
+  "total_authorised_shares_value": 400000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 286480570,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 399999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352677M",
+        "address": "FLAT2,APOLLO,DOMMAUROINGUANEZSTREET,BIRKIRKARABKR4813MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AUROSANA B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            14061218",
+        "address": "6,RUEEUGENERUPPERT,LUXEMBOURGL-2453LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 286480570
+        }
+      },
+      {
+        "name": "Ragusana S.a.r.l.\r",
+        "nationality": "",
+        "party_id": "                                                            B163455",
+        "address": "6,RUEEUGENERUPPERT,LUXEMBOURGL-2453LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 286480571,
+  "address": "LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL,",
+  "company_id": "C 58441",
+  "registration_date": "Dec 03, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 400000000
+}

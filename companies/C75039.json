@@ -1,0 +1,107 @@
+{
+  "name": "BARBAROSSA HOLDINGS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHANNES STEFAN DANNY SLUIJTER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NR7972KL8",
+        "address": "SANDRAFLATS,FL02,TRIQWINDSORSLIEMAMALTA"
+      },
+      {
+        "name": "JEREMY XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0446479M",
+        "address": "9,MAMOCOURT,TRIQSANTAKATERINA,ATTARDATD2605MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHANNES STEFAN DANNY SLUIJTER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NR7972KL8",
+        "address": "SANDRAFLATS,FL02,TRIQWINDSORSLIEMAMALTA"
+      },
+      {
+        "name": "JEREMY XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0446479M",
+        "address": "9,MAMOCOURT,TRIQSANTAKATERINA,ATTARDATD2605MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JEREMY XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0446479M",
+        "address": "9,MAMOCOURT,TRIQSANTAKATERINA,ATTARDATD2605MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHANNES STEFAN DANNY SLUIJTER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NR7972KL8",
+        "address": "SANDRAFLATS,FL02,TRIQWINDSORSLIEMAMALTA"
+      },
+      {
+        "name": "JEREMY XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0446479M",
+        "address": "9,MAMOCOURT,TRIQSANTAKATERINA,ATTARDATD2605MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "SOLAK LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2222134",
+        "address": "MAICOBUILDING,THEVALLEY,ANGUILLABRITISHINDIANOCEANTERRITORY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "AJIREE COURT, SUITE 1, TESTAFERRATA STREET,",
+  "company_id": "C 75039",
+  "registration_date": "Mar 30, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

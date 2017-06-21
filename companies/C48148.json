@@ -1,0 +1,172 @@
+{
+  "name": "BH SKY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            657456M",
+        "address": "THETOWER,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "RAPHEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367581M",
+        "address": "CASACRISTABELLABURMARRADROADST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MICHAEL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520786M",
+        "address": "IS-SIENJA,ST.GEORGESROAD,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            501758M",
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            657456M",
+        "address": "THETOWER,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "RAPHEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367581M",
+        "address": "CASACRISTABELLABURMARRADROADST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MICHAEL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520786M",
+        "address": "IS-SIENJA,ST.GEORGESROAD,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            501758M",
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            657456M",
+        "address": "THETOWER,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "RAPHEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367581M",
+        "address": "CASACRISTABELLABURMARRADROADST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MICHAEL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520786M",
+        "address": "IS-SIENJA,ST.GEORGESROAD,WARDIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            501758M",
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            657456M",
+        "address": "THETOWER,WARDIJAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "RAPHEL BIANCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367581M",
+        "address": "CASACRISTABELLA,BURMARRADROAD,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "HILI INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18144",
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 48148",
+  "registration_date": "Nov 11, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

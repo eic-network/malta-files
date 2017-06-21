@@ -1,0 +1,107 @@
+{
+  "name": "ARF LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Elaraf Omer Abdullah Alghrabli \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            668990",
+        "address": "badrestreetTripoliSTATEOFLIBYA"
+      },
+      {
+        "name": "Ibrahim Mohamed Tahhar\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            FKRZ60LH",
+        "address": "BadreStreetTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Elaraf Omer Abdullah Alghrabli \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            668990",
+        "address": "badrestreetTripoliSTATEOFLIBYA"
+      },
+      {
+        "name": "Ibrahim Mohamed Tahhar\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            FKRZ60LH",
+        "address": "BadreStreetTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Elaraf Omer Abdullah Alghrabli \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            668990",
+        "address": "badrestreetTripoliSTATEOFLIBYA"
+      },
+      {
+        "name": "Ibrahim Mohamed Tahhar\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            FKRZ60LH",
+        "address": "BadreStreetTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Elaraf Omer Abdullah Alghrabli \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            668990",
+        "address": "badrestreetTripoliSTATEOFLIBYA"
+      },
+      {
+        "name": "Ibrahim Mohamed Tahhar\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            FKRZ60LH",
+        "address": "BadreStreetTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Elaraf Omer Abdullah Alghrabli \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            668990",
+        "address": "badrestreetTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Ibrahim Mohamed Tahhar\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            FKRZ60LH",
+        "address": "BadreStreetTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "15, Grognet Street",
+  "company_id": "C 69044",
+  "registration_date": "Mar 17, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

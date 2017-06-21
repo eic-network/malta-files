@@ -1,0 +1,88 @@
+{
+  "name": "BNH Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA DELL'AQUIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1957051",
+        "address": "V.LEEPIPOLI251,SIRACUSA(SR)96100ITALY"
+      },
+      {
+        "name": "FRENCESCO RIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2088973",
+        "address": "C.SOCESAREVERGINE15,TUGLIE(LE)73058ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREA DELL'AQUIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1957051",
+        "address": "V.LEEPIPOLI251,SIRACUSA(SR)96100ITALY"
+      },
+      {
+        "name": "FRENCESCO RIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2088973",
+        "address": "C.SOCESAREVERGINE15,TUGLIE(LE)73058ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDREA DELL'AQUIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1957051",
+        "address": "V.LEEPIPOLI251,SIRACUSA(SR)96100ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREA DELL'AQUIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1957051",
+        "address": "V.LEEPIPOLI251,SIRACUSA(SR)96100ITALY"
+      },
+      {
+        "name": "FRENCESCO RIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2088973",
+        "address": "C.SOCESAREVERGINE15,TUGLIE(LE)73058ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AFA LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 60864",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CMS HOUSE, THIRD FLOOR, ST. PETER'S STREET,",
+  "company_id": "C 60865",
+  "registration_date": "Jun 18, 2013",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

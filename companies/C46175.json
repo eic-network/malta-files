@@ -1,0 +1,96 @@
+{
+  "company_id": "C 46175",
+  "address": "51, TA' XBIEX SEAFRONT",
+  "name": "BREDA M LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Feb 05, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 100000,
+  "total_authorised_shares_value": 100000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ROBERTUS HENRICUS LEONARDUS MARIA THIELEN\r",
+        "party_id": "                                                            NU6PR1RJ0",
+        "address": "L'ESTORIL,BATA,APT19A,AVENUEPRINCESSEGRACE,MONACO98000MONACO",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERTUS HENRICUS LEONARDUS MARIA THIELEN\r",
+        "party_id": "                                                            NU6PR1RJ0",
+        "address": "L'ESTORIL,BATA,APT19A,AVENUEPRINCESSEGRACE,MONACO98000MONACO",
+        "nationality": "DUTCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ROBERTUS HENRICUS LEONARDUS MARIA THIELEN\r",
+        "party_id": "                                                            NU6PR1RJ0",
+        "address": "L'ESTORIL,BATA,APT19A,AVENUEPRINCESSEGRACE,MONACO98000MONACO",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSSTJ3174MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ROBERTUS HENRICUS LEONARDUS MARIA THIELEN\r",
+        "party_id": "                                                            NU6PR1RJ0",
+        "address": "L'ESTORIL,BATA,APT19A,AVENUEPRINCESSEGRACE,MONACO98000MONACO",
+        "nationality": "DUTCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMONA PISCOPO\r",
+        "party_id": "                                                            201178M",
+        "address": "Blk12,Apt11VjalPortomasoST.JULIANSSTJ06MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

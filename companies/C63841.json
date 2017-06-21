@@ -1,0 +1,115 @@
+{
+  "name": "AWS Malta Ltd",
+  "total_issued_shares_value": 2430000,
+  "total_authorised_shares_value": 2430000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2429999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2429999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHANTAL GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312180M",
+        "address": "45,KAPPARACOURT,TRIQIL-BUQRAJQ,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVO FERDINANDO MATHIER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            160474A",
+        "address": "ROUTEDUSANETSCH37,SIONSH-1950SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KILIAN KAMPFEN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1118790",
+        "address": "EUGEN-WYLERSTRASSE10,8302KLOTENSWITZERLAND"
+      },
+      {
+        "name": "IVO FERDINANDO MATHIER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            160474A",
+        "address": "ROUTEDUSANETSCH37,SIONSH-1950SWITZERLAND"
+      },
+      {
+        "name": "MARK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94965M",
+        "address": "10A,FORTHMANSION,TA'XBIEXSEAFRONT,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "FRANCIS ZAMMIT DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0771754M",
+        "address": "7,TELGHETSANGILJANST.JULIANSSTJ1342MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IVO FERDINANDO MATHIER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            160474A",
+        "address": "ROUTEDUSANETSCH37,SIONSH-1950SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AWS SWITZERLAND SA\r",
+        "nationality": "",
+        "party_id": "                                                            CH-600.3.004.389-3",
+        "address": "AFI-PARTNERSA,RUEDELADENTBLANCHE20,CASEPOSTALE111,SION1951SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2429999
+        }
+      },
+      {
+        "name": "IVO FERDINANDO MATHIER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            160474A",
+        "address": "ROUTEDUSANETSCH37,SIONSH-1950SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2430000,
+  "address": "NO 8, THE WESTIN DRAGONARA RESORT, DRAGONARA ROAD,",
+  "company_id": "C 63841",
+  "registration_date": "Feb 12, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2430000
+}

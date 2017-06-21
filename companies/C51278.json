@@ -1,0 +1,97 @@
+{
+  "name": "ALPHACOSM LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHEL VANSIMPSEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-2502221-14",
+        "address": "283,ROUTED'ARLON,STRASSENL-8011LUXEMBOURG"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GHM CORPORATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 60006",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEAUTY KNIGHTS FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            PFLP-17",
+        "address": "\"C\",IVYMANSIONS,TRIQIL-QASAM,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ISOLA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            77405",
+        "address": "SUITE205,SECONDFLOOR,CAPITALCITY,INDEPENDENCEAVENUE,POBOX903,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, CASAL NAXARO, LABOUR AVENUE,",
+  "company_id": "C 51278",
+  "registration_date": "Nov 29, 2010",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

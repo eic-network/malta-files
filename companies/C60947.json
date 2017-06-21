@@ -1,0 +1,107 @@
+{
+  "name": "ARLANDA LEASING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "'TESSIEJOHN',ORATORYSTREET,NAXXARNXR2504MALTA"
+      },
+      {
+        "name": "ALFRED V CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281259M",
+        "address": "76,TRIQFUQIL-GONNA,SWIEQISWQ3526MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "'TESSIEJOHN',ORATORYSTREET,NAXXARNXR2504MALTA"
+      },
+      {
+        "name": "ALFRED V CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281259M",
+        "address": "76,TRIQFUQIL-GONNA,SWIEQISWQ3526MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "'TESSIEJOHN',ORATORYSTREET,NAXXARNXR2504MALTA"
+      },
+      {
+        "name": "ALFRED V CREMONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281259M",
+        "address": "76,TRIQFUQIL-GONNA,SWIEQISWQ3526MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DEUCALION CAPITAL X LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            MC-244091",
+        "address": "QUEENSGATEHOUSE,GRANDCAYMAN,KY1-1102CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "OSIRIS CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4910",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "4, V. DIMECH STREET",
+  "company_id": "C 60947",
+  "registration_date": "Jun 25, 2013",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

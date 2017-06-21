@@ -1,0 +1,78 @@
+{
+  "name": "BODYWATCH INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 150000,
+      "type": "Ordinary",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAMONA PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201178M",
+        "address": "Q1-02,TIGNEPOINT,SLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8,ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8,ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN DESIRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10633",
+        "address": "DBS,TRIQL-AKWEDOTT,FLEUR-DE-LYS,BIRKIRKARABKR1976MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER GREVE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NU48CJL03",
+        "address": "WERDSTRASSE8,ZURICH8004SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BODYWATCH HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48012",
+        "address": "51,TA'XBIEXSEAFRONT,TA'XBIEXXBX1020MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "51, TA' XBIEX SEAFRONT",
+  "company_id": "C 48013",
+  "registration_date": "Oct 23, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 150000
+}

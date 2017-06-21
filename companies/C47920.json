@@ -1,0 +1,115 @@
+{
+  "name": "Bigpoint International Services Limited",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 49999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL PITZSCHEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            579041745",
+        "address": "CAPRICE,22TRIQGIUSEPPECALITA'XBIEXXBX1422MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN DOUGLAS MORRISROE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            526216425",
+        "address": "KIRCHENWEG12,HAMBURG20099GERMANY"
+      },
+      {
+        "name": "MICHAEL PITZSCHEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            579041745",
+        "address": "CAPRICE,22TRIQGIUSEPPECALITA'XBIEXXBX1422MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN DOUGLAS MORRISROE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            526216425",
+        "address": "KIRCHENWEG12,HAMBURG20099GERMANY"
+      },
+      {
+        "name": "MICHAEL PITZSCHEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            579041745",
+        "address": "CAPRICE,22TRIQGIUSEPPECALITA'XBIEXXBX1422MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN DOUGLAS MORRISROE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            526216425",
+        "address": "KIRCHENWEG12,HAMBURG20099GERMANY"
+      },
+      {
+        "name": "MICHAEL PITZSCHEL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            579041745",
+        "address": "CAPRICE,22TRIQGIUSEPPECALITA'XBIEXXBX1422MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BIGPOINT INTERNATIONAL HOLDCO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47918",
+        "address": "40,EMPIRESTADIUMSTREET,GZIRAGZR1300MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 49999
+        }
+      },
+      {
+        "name": "BREAKING EVEN GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 100877",
+        "address": "DREHBAHN47-48,20354HAMBURG22297GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "40, EMPIRE STADIUM STREET,",
+  "company_id": "C 47920",
+  "registration_date": "Oct 13, 2009",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

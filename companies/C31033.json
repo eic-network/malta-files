@@ -1,0 +1,170 @@
+{
+  "name": "ANICI INVESTMENTS LIMITED",
+  "total_issued_shares_value": 2096.44,
+  "total_authorised_shares_value": 8385.74,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33282M",
+        "address": "NO5,BRAILLESTREET,SANTAVENERAMALTA"
+      },
+      {
+        "name": "PHILIP BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306483M",
+        "address": "60,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "THERESE MARIE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            409184M",
+        "address": "60,VALLETTAROADATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33282M",
+        "address": "NO5,BRAILLESTREET,SANTAVENERAMALTA"
+      },
+      {
+        "name": "PHILIP BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306483M",
+        "address": "60,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "THERESE MARIE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            409184M",
+        "address": "60,VALLETTAROADATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617654M",
+        "address": "SANGANDOLFO,SIRWALTERSCOTTSTREET,BIRGUMA,L/ONAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33282M",
+        "address": "NO5,BRAILLESTREET,SANTAVENERAMALTA"
+      },
+      {
+        "name": "PHILIP BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306483M",
+        "address": "60,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "THERESE MARIE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            409184M",
+        "address": "60,VALLETTAROADATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33282M",
+        "address": "NO5,BRAILLESTREET,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "KARL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            220280M",
+        "address": "NO9,TA'CENCMANSIONS,SKERLASTREETSANNAT(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "PHILIP BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306483M",
+        "address": "60,VALLETTAROAD,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "THERESE MARIE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            409184M",
+        "address": "60,VALLETTAROADATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ANDREW BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            510582M",
+        "address": "DEPAULECOURT,FLAT4,NO2TRIQIL-FERROVIJAL-QADIMABALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 900,
+  "address": "192, OLD BAKERY STREET,",
+  "company_id": "C 31033",
+  "registration_date": "Feb 26, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3600
+}

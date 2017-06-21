@@ -1,0 +1,91 @@
+{
+  "company_id": "C 43138",
+  "address": "26/28 Mill Street",
+  "name": "Brand Properties Limited",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Dec 18, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDWARD PELLEGRINI PETIT\r",
+        "party_id": "                                                            787650M",
+        "address": "26/28MillStreetQORMIQRM3105MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDWARD PELLEGRINI PETIT\r",
+        "party_id": "                                                            787650M",
+        "address": "26/28MillStreetQORMIQRM3105MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "ADRIAN STIVALA\r",
+        "party_id": "                                                            849453M",
+        "address": "LAVISTA,SIRHARRYLUKESTREET,NAXXARNXR06MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD PELLEGRINI PETIT\r",
+        "party_id": "                                                            787650M",
+        "address": "26/28MillStreetQORMIQRM3105MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD PELLEGRINI PETIT\r",
+        "party_id": "                                                            787650M",
+        "address": "26/28MillStreetQORMIQRM3105MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT J DINGLI\r",
+        "party_id": "                                                            484653M",
+        "address": "9,SANPAWL,TRIQTAL-GHOQOD,SWIEQISTJ05MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROLAN MICALLEF ATTARD\r",
+        "party_id": "                                                            002289",
+        "address": "ME'AGHEMMIERI,LIMITITAR-RABAT,RABATRBT4112MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

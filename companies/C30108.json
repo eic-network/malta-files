@@ -1,0 +1,75 @@
+{
+  "name": "ASPEN MARITIME INVESTMENTS LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "THEROSECOTTAGE,KARMGALEASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "THEROSECOTTAGE,KARMGALEASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "THEROSECOTTAGE,KARMGALEASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MURAT KINACI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-H257653",
+        "address": "74,ANKARACADDESI,KARTAL,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1163
+        }
+      },
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "THEROSECOTTAGE,KARMGALEASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "126, ATOCIA STREET,",
+  "company_id": "C 30108",
+  "registration_date": "Aug 20, 2002",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

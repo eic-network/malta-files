@@ -1,0 +1,90 @@
+{
+  "name": "BADGER COMPANY LIMITED",
+  "total_issued_shares_value": 432658,
+  "total_authorised_shares_value": 432658,
+  "authorised_shares": [
+    {
+      "issued_shares": 68717,
+      "type": "Ordinary",
+      "authorised_share_capital": 68717,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 111810,
+      "type": "Preference7%",
+      "authorised_share_capital": 111810,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 252131,
+      "type": "Preference8%",
+      "authorised_share_capital": 252131,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCO GOVE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279471M",
+        "address": "TADDAWRA,TRIQTA'MARMORA,THEVILLAGE,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136475M",
+        "address": "VILLAMAMO,TRIQIC-CINK,TA'STRONKA,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136475M",
+        "address": "VILLAMAMO,TRIQIC-CINK,TA'STRONKA,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136475M",
+        "address": "VILLAMAMO,TRIQIC-CINK,TA'STRONKA,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATER HOLDING COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3334",
+        "address": "168,PATERHOUSE,PSAILASTREET,BIRKIRKARABKR9077MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 68717
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 432658,
+  "address": "168, PATER HOUSE, PSAILA STREET,",
+  "company_id": "C 19568",
+  "registration_date": "Dec 28, 1995",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 432658
+}

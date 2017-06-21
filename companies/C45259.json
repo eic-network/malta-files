@@ -1,0 +1,91 @@
+{
+  "name": "BOOKING AND COMPANY LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOANNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            134182M",
+        "address": "25,FL.3,TRIQIL-KAPPELLATA'XAGHRA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLIFTON DINGLI BENNETTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            439780M",
+        "address": "FL4,SWANHILLAPP.,TRIQL-ISTURNELL,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLIFTON DINGLI BENNETTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            439780M",
+        "address": "FL4,SWANHILLAPP.,TRIQL-ISTURNELL,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLIFTON DINGLI BENNETTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            439780M",
+        "address": "FL4,SWANHILLAPP.,TRIQL-ISTURNELL,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOVEMENTS HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30010",
+        "address": "LEVEL5,THEMALLCOMPLEX,THEMALL,FLORIANAFRN1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7510
+        }
+      },
+      {
+        "name": "TSG (ICT) SOLUTIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43672",
+        "address": "27,PJAZZAROBERTSAMUT,FLORIANAFRN1200MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2490
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "SKYWAY OFFICES, BLOCK C, FLATS 3 & 4, MARINA STREET,",
+  "company_id": "C 45259",
+  "registration_date": "Oct 03, 2008",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 10000
+}

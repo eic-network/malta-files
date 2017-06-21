@@ -1,0 +1,59 @@
+{
+  "name": "ALVIN SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IOANNIS TSEKAS\r",
+        "nationality": "",
+        "party_id": "                                                            n/a",
+        "address": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLYING PHANTOM SEACARRIERS INC",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SHARMOOR INVESTMENTS LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "14, MARINA COURT, ABATE RIGORD STREET,",
+  "company_id": "C 21756",
+  "registration_date": "Aug 05, 1997",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

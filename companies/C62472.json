@@ -1,0 +1,75 @@
+{
+  "name": "Beauty Car Limited",
+  "total_issued_shares_value": 1170,
+  "total_authorised_shares_value": 1170,
+  "authorised_shares": [
+    {
+      "issued_shares": 1170,
+      "type": "Ordinary",
+      "authorised_share_capital": 1170,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Omar Cairoli\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5299380",
+        "address": "VSandroBottice,59Mapello24030ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Omar Cairoli\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5299380",
+        "address": "VSandroBottice,59Mapello24030ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03287",
+        "address": "46,VILLATRAPANI,TRIQL-GHARBIEL,SWIEQISWQ3252MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 585
+        }
+      },
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 585
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1170,
+  "address": "13, Curate Fenech Street,",
+  "company_id": "C 62472",
+  "registration_date": "Nov 05, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "total_authorised_shares": 1170
+}

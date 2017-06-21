@@ -1,0 +1,83 @@
+{
+  "name": "BIMINI LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARMELO SIVE MELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,TRIQIL-KUNCIZZJONI,LIJALJA1274MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMELO SIVE MELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,TRIQIL-KUNCIZZJONI,LIJALJA1274MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RICHARD ABDILLA CASTILLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267256M",
+        "address": "\"IL-GIRNA\",MDINAROAD,MRIEHEL,BIRKIRKARABKR1870MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMELO SIVE MELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,TRIQIL-KUNCIZZJONI,LIJALJA1274MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30527",
+        "address": "\"NO2\"TRIQILKUNCIZZJONILIJALJA1274MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "CARMELO SIVE MELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,TRIQIL-KUNCIZZJONI,LIJALJA1274MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "NINETEEN TWENTY THREE VALLETTA ROAD",
+  "company_id": "C 72484",
+  "registration_date": "Oct 01, 2015",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

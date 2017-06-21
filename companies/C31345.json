@@ -1,0 +1,91 @@
+{
+  "company_id": "C 31345",
+  "address": "ZEBBUG ROAD,",
+  "name": "BOTTEGA DEL MARMISTA LIMITED",
+  "locality": "ATTARD",
+  "status": "",
+  "registration_date": "Apr 30, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 4658.74,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "party_id": "                                                            753355M",
+        "address": "CONNEMARA,19,PAWLUBORGSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "S.D. VELLA COMPANY LIMITED\r",
+        "party_id": "                                                            C 15692",
+        "address": "MEADOWSWEETTRIQIL-BLANZUNIATTARDMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "EDWARD VELLA\r",
+        "party_id": "                                                            120979M",
+        "address": "226,TRIQL-IMHALLEFWILLIAMHARDING,PEMBROKESTJ14MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "party_id": "                                                            753355M",
+        "address": "CONNEMARA,19,PAWLUBORGSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "party_id": "                                                            753355M",
+        "address": "CONNEMARA,19,PAWLUBORGSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "party_id": "                                                            753355M",
+        "address": "CONNEMARA,19,PAWLUBORGSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY CHETCUTI GANADO\r",
+        "party_id": "                                                            48005",
+        "address": "5/2,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

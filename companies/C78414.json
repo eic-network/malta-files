@@ -1,0 +1,83 @@
+{
+  "company_id": "C 78414",
+  "address": "35, STRAIT STREET,",
+  "name": "BRO FOOD AND RESORT LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 01, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DANIEL CAMILLERI\r",
+        "party_id": "                                                            530377M",
+        "address": "OHANA,PINTOCOURTTRIQSANRAFEL,QORMIQRM2036MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CSSC S.R.L.\r",
+        "party_id": "                                                            SR 143690",
+        "address": "VIASCALAGRECAN.67/A,SIRACUSA96100ITALY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ELEONORA ZAFONTI\r",
+        "party_id": "                                                            3914895AA",
+        "address": "VIADOMENICOGIULIOTTI9,SIENAITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIEL CAMILLERI\r",
+        "party_id": "                                                            530377M",
+        "address": "OHANA,PINTOCOURTTRIQSANRAFEL,QORMIQRM2036MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DANIEL CAMILLERI\r",
+        "party_id": "                                                            530377M",
+        "address": "OHANA,PINTOCOURTTRIQSANRAFEL,QORMIQRM2036MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DANIEL CAMILLERI\r",
+        "party_id": "                                                            530377M",
+        "address": "OHANA,PINTOCOURTTRIQSANRAFEL,QORMIQRM2036MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

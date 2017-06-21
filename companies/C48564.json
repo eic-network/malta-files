@@ -1,0 +1,109 @@
+{
+  "name": "ARETE ENTERPRISES LTD",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SIMON CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274790M",
+        "address": "35,CORDELIA,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SIMON CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274790M",
+        "address": "35,CORDELIA,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      },
+      {
+        "name": "MARCUS ZARB COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            288991M",
+        "address": "APT308,TOWNSQUAREAPARTMENTS,QUISISANASEAFRONT,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SIMON CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274790M",
+        "address": "35,CORDELIA,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      },
+      {
+        "name": "MARCUS ZARB COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            288991M",
+        "address": "APT308,TOWNSQUAREAPARTMENTS,QUISISANASEAFRONT,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH JOHN DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04886",
+        "address": "60,KOSCO,TRIQG.CALITA'XBIEXXBX1424MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SIMON CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274790M",
+        "address": "35,CORDELIA,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      },
+      {
+        "name": "MARCUS ZARB COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            288991M",
+        "address": "APT308,TOWNSQUAREAPARTMENTS,QUISISANASEAFRONT,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIMON CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274790M",
+        "address": "35,CORDELIA,TRIQIL-KTAJJEN,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "MARCUS ZARB COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            288991M",
+        "address": "APT308,TOWNSQUAREAPARTMENTS,QUISISANASEAFRONT,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA,",
+  "company_id": "C 48564",
+  "registration_date": "Dec 31, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 50000
+}

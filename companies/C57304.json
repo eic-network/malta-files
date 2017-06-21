@@ -1,0 +1,99 @@
+{
+  "name": "ARPOADOR LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOSEF PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198575M",
+        "address": "15,ETERNALFLAMETRIQIL-MIGBHA,MARSASCALAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHELLE SUZANNE MARGUERITE OUDOT LE LOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PK80269",
+        "address": "AV.FRANCISCOBHERING,169/101,ARPOADOR,RIODEJANEIRO22080-050BRAZIL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHELLE SUZANNE MARGUERITE OUDOT LE LOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PK80269",
+        "address": "AV.FRANCISCOBHERING,169/101,ARPOADOR,RIODEJANEIRO22080-050BRAZIL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHELLE SUZANNE MARGUERITE OUDOT LE LOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PK80269",
+        "address": "AV.FRANCISCOBHERING,169/101,ARPOADOR,RIODEJANEIRO22080-050BRAZIL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERWANN PIERRE JACQUES LE LOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            06AV40832",
+        "address": "CHEMINDUCLOSDULEYTERAND13,SAINTLEGIERLACHIESAZ1806SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MICHELLE SUZANNE MARGUERITE OUDOT LE LOUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PK80269",
+        "address": "AV.FRANCISCOBHERING,169/101,ARPOADOR,RIODEJANEIRO22080-050BRAZIL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "85, ST. JOHN STREET,",
+  "company_id": "C 57304",
+  "registration_date": "Aug 22, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 10000
+}

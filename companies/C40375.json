@@ -1,0 +1,97 @@
+{
+  "name": "ASK SUBSEA LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDATD3111MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXEY SHMATKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722065931",
+        "address": "14,ZVIOZDAYASTREET,GELENDZHIKRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXEY SHMATKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722065931",
+        "address": "14,ZVIOZDAYASTREET,GELENDZHIKRUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXEY SHMATKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722065931",
+        "address": "14,ZVIOZDAYASTREET,GELENDZHIKRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ALEXEY SHMATKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722065931",
+        "address": "14,ZVIOZDAYASTREET,GELENDZHIKRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "114, THE STRAND,",
+  "company_id": "C 40375",
+  "registration_date": "Dec 21, 2006",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

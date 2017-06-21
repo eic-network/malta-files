@@ -1,0 +1,97 @@
+{
+  "name": "AZMENT TRADING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FL12TRIQIL-WARD,MADLIENASWIEQISWQ1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "APOSTOLOS ZAFEIROPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0379935",
+        "address": "NO.95,CHAINSBUILDING,FLAT1,GORGBORGOLIVIERSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "APOSTOLOS ZAFEIROPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0379935",
+        "address": "NO.95,CHAINSBUILDING,FLAT1,GORGBORGOLIVIERSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEVILLE TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11118",
+        "address": "53,NEVANN,TRIQIL-BATTERIJA,ZONQOR,MARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "APOSTOLOS ZAFEIROPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AM0379935",
+        "address": "NO.95,CHAINSBUILDING,FLAT1,GORGBORGOLIVIERSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AZMENT HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9546918",
+        "address": "FIRSTFLOOR20,MARGARETSTREET,LONDONW1W8RSUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "GROUND FLOOR, PALACE COURT,  CHURCH STREET,",
+  "company_id": "C 70498",
+  "registration_date": "May 08, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

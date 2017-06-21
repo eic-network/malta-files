@@ -1,0 +1,82 @@
+{
+  "name": "APOLLO RESOURCES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 598,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 996,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188262M",
+        "address": "9,THEMEADOWS,TRIQIL-QIGHANMELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188262M",
+        "address": "9,THEMEADOWS,TRIQIL-QIGHANMELLIEHAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188262M",
+        "address": "9,THEMEADOWS,TRIQIL-QIGHANMELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARY BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188262M",
+        "address": "9,THEMEADOWS,TRIQIL-QIGHANMELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEL SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            187551M",
+        "address": "31,TRIQDONIL-QADIMA,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "31, TRIQ DONI L-QADIMA,",
+  "company_id": "C 48894",
+  "registration_date": "Feb 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,75 @@
+{
+  "name": "AUTO TRADER LIMITED",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAMES MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319670M",
+        "address": "'SOLITAIRE'TRIQIL-HELSIENQORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAMES MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319670M",
+        "address": "'SOLITAIRE'TRIQIL-HELSIENQORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JAMES MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319670M",
+        "address": "'SOLITAIRE'TRIQIL-HELSIENQORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRAZIELLA MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395673M",
+        "address": "'SOLITAIRE'TRIQIL-HELSIENQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "JAMES MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319670M",
+        "address": "'SOLITAIRE'TRIQIL-HELSIENQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "252, MDINA ROAD,",
+  "company_id": "C 23714",
+  "registration_date": "Nov 23, 1998",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,123 @@
+{
+  "name": "ALPHA FOUNDATION LTD.",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KRIS SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            196686M",
+        "address": "35,EVERGREEN,MONS.PPSAYDONSTREETIKLINIKL1334MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "2,ST.IGNATIUSJUNCTION,SLIEMASLM2022MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YANELYS CANO NUNEZ\r",
+        "nationality": "CUBAN",
+        "party_id": "                                                            B468767",
+        "address": "VIAALBENGA14/4GENOVAITALY"
+      },
+      {
+        "name": "MARTIN DEEKEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            401412953",
+        "address": "DIETRICH-BONHOEFFER-WEG84,FRANKFURT60389GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YANELYS CANO NUNEZ\r",
+        "nationality": "CUBAN",
+        "party_id": "                                                            B468767",
+        "address": "VIAALBENGA14/4GENOVAITALY"
+      },
+      {
+        "name": "MARTIN DEEKEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            401412953",
+        "address": "DIETRICH-BONHOEFFER-WEG84,FRANKFURT60389GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YANELYS CANO NUNEZ\r",
+        "nationality": "CUBAN",
+        "party_id": "                                                            B468767",
+        "address": "VIAALBENGA14/4GENOVAITALY"
+      },
+      {
+        "name": "MARTIN DEEKEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            401412953",
+        "address": "DIETRICH-BONHOEFFER-WEG84,FRANKFURT60389GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OMEGA FOUNDATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45949",
+        "address": "OFFICESUITE1,1STFLOOR,78SWIEQIROAD,SWIEQISWQ3412MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "YANELYS CANO NUNEZ\r",
+        "nationality": "CUBAN",
+        "party_id": "                                                            B468767",
+        "address": "VIAALBENGA14/4GENOVAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 47573",
+  "registration_date": "Aug 21, 2009",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

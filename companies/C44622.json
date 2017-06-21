@@ -1,0 +1,109 @@
+{
+  "name": "ARMA HOLDINGS LTD",
+  "total_issued_shares_value": 198000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 198000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168485M",
+        "address": "63/2,STELLAMARISSTREET,SLIEMASLM1769MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168485M",
+        "address": "63/2,STELLAMARISSTREET,SLIEMASLM1769MALTA"
+      },
+      {
+        "name": "ANDRE' MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            308285M",
+        "address": "164/4,TOWERROAD,SLIEMASLM1603MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168485M",
+        "address": "63/2,STELLAMARISSTREET,SLIEMASLM1769MALTA"
+      },
+      {
+        "name": "ANDRE' MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            308285M",
+        "address": "164/4,TOWERROAD,SLIEMASLM1603MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168485M",
+        "address": "63/2,STELLAMARISSTREET,SLIEMASLM1769MALTA"
+      },
+      {
+        "name": "ANDRE' MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            308285M",
+        "address": "164/4,TOWERROAD,SLIEMASLM1603MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168485M",
+        "address": "63/2,STELLAMARISSTREET,SLIEMASLM1769MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99000
+        }
+      },
+      {
+        "name": "ANDRE' MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            308285M",
+        "address": "164/4,TOWERROAD,SLIEMASLM1603MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 198000,
+  "address": "63/2 Stella Maris Street",
+  "company_id": "C 44622",
+  "registration_date": "Jul 02, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

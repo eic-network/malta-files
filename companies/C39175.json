@@ -1,0 +1,117 @@
+{
+  "name": "ANNA INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "Ordinary",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IGNATIUS LICARI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241744M",
+        "address": "94,COSPICUAROAD,PAOLAPLA1902MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEFAN BENDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            323623532",
+        "address": "2413,DANBURYRIDGECOURT,DULUTHGA30096UNITEDSTATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFAN BENDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            323623532",
+        "address": "2413,DANBURYRIDGECOURT,DULUTHGA30096UNITEDSTATES"
+      },
+      {
+        "name": "DIETER MAURER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            420228750",
+        "address": "AARSTRASSE67,WIESBADEN65195GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFAN BENDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            323623532",
+        "address": "2413,DANBURYRIDGECOURT,DULUTHGA30096UNITEDSTATES"
+      },
+      {
+        "name": "DIETER MAURER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            420228750",
+        "address": "AARSTRASSE67,WIESBADEN65195GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19714",
+        "address": "108,POPPYFIELDTRIQHOOKHAMFRERE,G'MANGIAPIETA'PTA1108MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEFAN BENDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            323623532",
+        "address": "2413,DANBURYRIDGECOURT,DULUTHGA30096UNITEDSTATES"
+      },
+      {
+        "name": "DIETER MAURER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            420228750",
+        "address": "AARSTRASSE67,WIESBADEN65195GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEFAN BENDER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            323623532",
+        "address": "2413,DANBURYRIDGECOURT,DULUTHGA30096UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "DIETER MAURER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            420228750",
+        "address": "AARSTRASSE67,WIESBADEN65195GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "TOWER GATE PLACE, TAL-QROQQ STREET,",
+  "company_id": "C 39175",
+  "registration_date": "Jul 20, 2006",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 15000
+}

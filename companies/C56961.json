@@ -1,0 +1,107 @@
+{
+  "name": "AV MALTA LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 565,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 565,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "RedeemablePreferenceA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JONASTIN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654262M",
+        "address": "7,TRIQL-EGEW,THEVILLAGE,SANGWANNMALTA"
+      },
+      {
+        "name": "PAUL ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176368M",
+        "address": "L'IDYLLE,INDEPENDENCEAVENUE,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONASTIN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654262M",
+        "address": "7,TRIQL-EGEW,THEVILLAGE,SANGWANNMALTA"
+      },
+      {
+        "name": "PAUL ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176368M",
+        "address": "L'IDYLLE,INDEPENDENCEAVENUE,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176368M",
+        "address": "L'IDYLLE,INDEPENDENCEAVENUE,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONASTIN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654262M",
+        "address": "7,TRIQL-EGEW,THEVILLAGE,SANGWANNMALTA"
+      },
+      {
+        "name": "PAUL ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176368M",
+        "address": "L'IDYLLE,INDEPENDENCEAVENUE,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GENERAL WORKERS UNION",
+        "nationality": "",
+        "party_id": "",
+        "address": "WORKERSMEMORIALBUILDING,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "5D LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50179",
+        "address": "FLAT1A,SEAVIEWFLATS,ST.GEORGE'SROADST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 565
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "AV MALTA, OLD BAKERY STREET,",
+  "company_id": "C 56961",
+  "registration_date": "Jul 16, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

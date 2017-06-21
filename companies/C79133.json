@@ -1,0 +1,70 @@
+{
+  "name": "AXE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DANIEL GREFF\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13FV03131",
+        "address": "2,LABAIEDESANGES,ELKANTAOUI4089TUNISIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DANIEL GREFF\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13FV03131",
+        "address": "2,LABAIEDESANGES,ELKANTAOUI4089TUNISIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARC VITIERE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CA26064",
+        "address": "QUARTIERLEHAUTBACON,BESSESURISSOLE,83890FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIEL GREFF\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13FV03131",
+        "address": "2,LABAIEDESANGES,ELKANTAOUI4089TUNISIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALPHA FI S.A., SPF\r",
+        "nationality": "",
+        "party_id": "                                                            B52054",
+        "address": "44,AVENUEJFKENNEDY,LUXEMBOURG1855LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 79133",
+  "registration_date": "Jan 17, 2017",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

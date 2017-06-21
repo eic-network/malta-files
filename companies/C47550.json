@@ -1,0 +1,109 @@
+{
+  "name": "BARCODE LOGISTICS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUKE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155682M",
+        "address": "SOLITAIREMANSIONS,NO3,PREHISTORYSTREET,MISTRARIDGE,XEMXIJA,ST.PAUL'SBAYSPB4221MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Adrian Farrugia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            541084M",
+        "address": "BLK2,Flat3,Triql-Insolja,BurmarradST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "LUKE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155682M",
+        "address": "SOLITAIREMANSIONS,NO3,PREHISTORYSTREET,MISTRARIDGE,XEMXIJA,ST.PAUL'SBAYSPB4221MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Adrian Farrugia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            541084M",
+        "address": "BLK2,Flat3,Triql-Insolja,BurmarradST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "LUKE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155682M",
+        "address": "SOLITAIREMANSIONS,NO3,PREHISTORYSTREET,MISTRARIDGE,XEMXIJA,ST.PAUL'SBAYSPB4221MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Adrian Farrugia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            541084M",
+        "address": "BLK2,Flat3,Triql-Insolja,BurmarradST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "LUKE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155682M",
+        "address": "SOLITAIREMANSIONS,NO3,PREHISTORYSTREET,MISTRARIDGE,XEMXIJA,ST.PAUL'SBAYSPB4221MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUKE GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            155682M",
+        "address": "SOLITAIREMANSIONS,NO3,PREHISTORYSTREET,MISTRARIDGE,XEMXIJA,ST.PAUL'SBAYSPB4221MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "BYRON ZARB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389984M",
+        "address": "38,MIRAGE,CASSARINOSTREET,ST.PAUL'SBAYSPB1010MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "MISTRA VALLEY, NO. 7, PRE HISTORY STREET, XEMXIJA,",
+  "company_id": "C 47550",
+  "registration_date": "Aug 17, 2009",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

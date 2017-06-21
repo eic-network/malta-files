@@ -1,0 +1,83 @@
+{
+  "name": "B3W Limited",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SOFT INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            036022",
+        "address": "C/OCOTED'AZURE-MAHE,REGISTEREDAGENTLIMITED,TRINITYHOUSE,1STFLOOR,ALBERTSTREET,P.O.BOX1402,MAHEREPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SOFT INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            036022",
+        "address": "C/OCOTED'AZURE-MAHE,REGISTEREDAGENTLIMITED,TRINITYHOUSE,1STFLOOR,ALBERTSTREET,P.O.BOX1402,MAHEREPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIPPE WARZEE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            28471A",
+        "address": "1,TRIQL-IZBARKTAL-FRANCIZI,BAHARIC-CAGHAQ,NAXXARNXR5050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SOFT INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            036022",
+        "address": "C/OCOTED'AZURE-MAHE,REGISTEREDAGENTLIMITED,TRINITYHOUSE,1STFLOOR,ALBERTSTREET,P.O.BOX1402,MAHEREPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SOFT INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            036022",
+        "address": "C/OCOTED'AZURE-MAHE,REGISTEREDAGENTLIMITED,TRINITYHOUSE,1STFLOOR,ALBERTSTREET,P.O.BOX1402,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "109, LEVEL 1 SIR WILLIAM REID STREET",
+  "company_id": "C 42840",
+  "registration_date": "Nov 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

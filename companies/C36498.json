@@ -1,0 +1,91 @@
+{
+  "name": "A & R INVESTMENTS LIMITED",
+  "total_issued_shares_value": 2125055.7,
+  "total_authorised_shares_value": 2761202.16,
+  "authorised_shares": [
+    {
+      "issued_shares": 554121,
+      "type": "Ordinary",
+      "authorised_share_capital": 720000,
+      "nominal_value_per_share": 3.835003
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,'MALAHIDE',TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FENIX INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 35604",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FENIX INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 35604",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FENIX INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 35604",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENIX INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 35604",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 3.835003,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 554120
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 3.835003,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 554121,
+  "address": "114 THE STRAND",
+  "company_id": "C 36498",
+  "registration_date": "Jun 24, 2005",
+  "shares_currency": "PLN",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 720000
+}

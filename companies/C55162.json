@@ -1,0 +1,91 @@
+{
+  "name": "BIONLOV MALTA LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDRZEJ DZIERZEGA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C5273681",
+        "address": "WENDELBUCKSTRASSE11,WILCH8196SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDRZEJ DZIERZEGA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C5273681",
+        "address": "WENDELBUCKSTRASSE11,WILCH8196SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDRZEJ DZIERZEGA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C5273681",
+        "address": "WENDELBUCKSTRASSE11,WILCH8196SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10635",
+        "address": "SHAMROCK,TRIQTA'MASRIJA,MELLIEHAMLH1636MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDRZEJ DZIERZEGA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C5273681",
+        "address": "WENDELBUCKSTRASSE11,WILCH8196SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDRZEJ DZIERZEGA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C5273681",
+        "address": "WENDELBUCKSTRASSE11,WILCH8196SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "GWIDON IDZIAK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ANK380534",
+        "address": "OS.DYWIZJONU30341/45,KRAKOW31-875POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "4, ST. FRANCIS STREET,",
+  "company_id": "C 55162",
+  "registration_date": "Jan 30, 2012",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 1250
+}

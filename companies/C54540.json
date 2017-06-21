@@ -1,0 +1,70 @@
+{
+  "name": "BEXANC LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHAN FREDRIK ENGLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80132320",
+        "address": "VARMDOVAGEN160NACKA13141SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHAN FREDRIK ENGLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80132320",
+        "address": "VARMDOVAGEN160NACKA13141SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LISETTE MARIA ENGLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81087616",
+        "address": "VARMDOVAGEN,160,NACKA13141SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHAN FREDRIK ENGLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80132320",
+        "address": "VARMDOVAGEN160NACKA13141SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEXANC HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54418",
+        "address": "30,KENILWORTH,FLAT1,SIRAUGUSTUSBARTOLOSTREETTA'XBIEXXBX1093MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "30, KENILWORTH, FLAT 1, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 54540",
+  "registration_date": "Nov 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

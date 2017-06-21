@@ -1,0 +1,83 @@
+{
+  "name": "AZIRYA CONSULTING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "52,LACACHETTE,TRIQIL-SIEQJA,ATTARDATD1710MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1950
+        }
+      },
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CENTRAL BUSINESS CENTRE - ROOM 1, LEVEL 1, SUITE 2, MDINA ROAD",
+  "company_id": "C 74445",
+  "registration_date": "Feb 19, 2016",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 5000
+}

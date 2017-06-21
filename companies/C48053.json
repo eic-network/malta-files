@@ -1,0 +1,91 @@
+{
+  "name": "Ashop Europe Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROWENA ATALAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            454067836",
+        "address": "21PICKFORDROAD,MARKYATE,ST.ALBANS,HERTFORDSHIREUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MELIH TANC\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            TR-TNO.014232",
+        "address": "4/2,NATHALIEPOUTIATINTABONESTR,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MELIH TANC\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            TR-TNO.014232",
+        "address": "4/2,NATHALIEPOUTIATINTABONESTR,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MELIH TANC\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            TR-TNO.014232",
+        "address": "4/2,NATHALIEPOUTIATINTABONESTR,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROWENA ATALAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            454067836",
+        "address": "21PICKFORDROAD,MARKYATE,ST.ALBANS,HERTFORDSHIREUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "YUNUS ATALAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            305830291",
+        "address": "21PICKFORDROAD,MARKYATE,ST.ALBANS,HERTFORDSHIREUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Apt 149, Maple Court Balluta Mansions, Old College Street",
+  "company_id": "C 48053",
+  "registration_date": "Oct 28, 2009",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

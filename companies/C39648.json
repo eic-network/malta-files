@@ -1,0 +1,97 @@
+{
+  "name": "BEJA HOLDINGS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GERALDINE FRANCES DUO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605121169",
+        "address": "2,PINETREELODGE,MONTAGUGARDENS,GIBRALTARGIBRALTAR"
+      },
+      {
+        "name": "TRACY JANE POZO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605133359",
+        "address": "808,OCEANHEIGHTS,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SOVEREIGN MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            105951",
+        "address": "SUITE2B,143MAINSTREET,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SOVEREIGN MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            105951",
+        "address": "SUITE2B,143MAINSTREET,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SOVEREIGN MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            105951",
+        "address": "SUITE2B,143MAINSTREET,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MIDLAND INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            25391",
+        "address": "2B,MANSIONHOUSE,143,MAINSTREET,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "VALLEY TOWERS, SUITE 5, VALLEY ROAD,",
+  "company_id": "C 39648",
+  "registration_date": "Sep 29, 2006",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BEST HOLDING LIMITED",
+  "total_issued_shares_value": 1501,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1501,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEFANO DONINELLI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0692589",
+        "address": "MUSCINO,CASTELSANPIETRO,TICINOCH-6874SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      },
+      {
+        "name": "STEFANO DONINELLI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0692589",
+        "address": "MUSCINO,CASTELSANPIETRO,TICINOCH-6874SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      },
+      {
+        "name": "STEFANO DONINELLI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0692589",
+        "address": "MUSCINO,CASTELSANPIETRO,TICINOCH-6874SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      },
+      {
+        "name": "STEFANO DONINELLI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0692589",
+        "address": "MUSCINO,CASTELSANPIETRO,TICINOCH-6874SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43957",
+        "address": "19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43957",
+        "address": "19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1501,
+  "address": "19, ST. MARK STREET",
+  "company_id": "C 38254",
+  "registration_date": "Mar 17, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

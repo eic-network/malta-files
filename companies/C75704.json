@@ -1,0 +1,88 @@
+{
+  "name": "Arlington Real Estate & Investment Management Limited",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 20
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      },
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,J.QUINTINUSSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      },
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,J.QUINTINUSSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJAMALTA"
+      },
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "FLAT6,ARZELLA,J.QUINTINUSSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDES FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48236",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 20,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "5/1 Merchants Street",
+  "company_id": "C 75704",
+  "registration_date": "May 20, 2016",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

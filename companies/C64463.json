@@ -1,0 +1,83 @@
+{
+  "company_id": "C 64463",
+  "address": "35/1, SALVU PSAILA STREET,",
+  "name": "3G Entertainment Ltd.",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Mar 28, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "WDM Lex Advisory Ltd\r",
+        "party_id": "                                                            C 33734",
+        "address": "35/1SalvuPsailaStreetBIRKIRKARABKR9072MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BFJ VENTURES LTD.\r",
+        "party_id": "                                                            8932113",
+        "address": "20-21JOCKEY'SFIELDSLONDONWC1R4BWUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "WDM TRUSTEES LIMITED\r",
+        "party_id": "                                                            C 51310",
+        "address": "35/1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WDM Lex Advisory Ltd\r",
+        "party_id": "                                                            C 33734",
+        "address": "35/1SalvuPsailaStreetBIRKIRKARABKR9072MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WDM Lex Advisory Ltd\r",
+        "party_id": "                                                            C 33734",
+        "address": "35/1SalvuPsailaStreetBIRKIRKARABKR9072MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DUNSTAN MAGRO\r",
+        "party_id": "                                                            326573M",
+        "address": "13HYACINTH,FLAT3,TUMASFENECHSTREET,BIRKIRKARABKR2526MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

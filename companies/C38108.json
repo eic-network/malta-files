@@ -1,0 +1,91 @@
+{
+  "name": "APUESTAS LIMITED",
+  "total_issued_shares_value": 140000,
+  "total_authorised_shares_value": 140000,
+  "authorised_shares": [
+    {
+      "issued_shares": 140000,
+      "type": "Ordinary",
+      "authorised_share_capital": 140000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "OLGA FINKEL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51392M",
+        "address": "7A,THEPODIUM,ST.MARKSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ZOLTAN STEFAN BALAZSI\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            23226920",
+        "address": "TALLBACKEN7,SE-43295VARBERGSWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ZOLTAN STEFAN BALAZSI\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            23226920",
+        "address": "TALLBACKEN7,SE-43295VARBERGSWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ZOLTAN STEFAN BALAZSI\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            23226920",
+        "address": "TALLBACKEN7,SE-43295VARBERGSWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APPFACTORY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49930",
+        "address": "Office1/2239,LevelG,QuantumHouse,75,AbateRigordStreet,TA'XBIEXXBX1120MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BALAZSI INVEST B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            34194684",
+        "address": "DRENTESTRAAT24BGAMSTERDAM1083HKNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 139999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 140000,
+  "address": "OFFICE 1/2025, LEVEL G, QUANTUM HOUSE, 75, ABATE RIGORD STREET",
+  "company_id": "C 38108",
+  "registration_date": "Feb 28, 2006",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 140000
+}

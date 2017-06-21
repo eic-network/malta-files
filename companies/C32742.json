@@ -1,0 +1,115 @@
+{
+  "company_id": "C 32742",
+  "address": "TOWER GATE PLACE TAL-QROQQ STREET",
+  "name": "BRANSTON HOLDINGS LIMITED",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Dec 16, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 1000,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 1000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT G GUEST\r",
+        "party_id": "                                                            GBR702597423",
+        "address": "AVENIDAPRINCIPEFELIPE41,EDIFICIOPANORAMA3-A,11300LALINESDELACONCEPCION,CADIZSPAIN",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "IVAN P PEREZ\r",
+        "party_id": "                                                            GBR605031983",
+        "address": "6ALMONDLODGE,MONTAGUGARDENS,GIBRALTARGIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN BORG\r",
+        "party_id": "                                                            48046",
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

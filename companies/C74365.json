@@ -1,0 +1,78 @@
+{
+  "name": "BBS Oil and Gas Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191283M",
+        "address": "ARCENCIEL,TRIQOLAFGOLLCHER,TA'PARISBIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAYMOND VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487766M",
+        "address": "8TRIQMONSA.MIFSUDPEMBROKEPBK1331MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAYMOND VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487766M",
+        "address": "8,TRIQMONSA.MIFSUDPEMBROKEPBK1331MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAYMOND VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487766M",
+        "address": "8,TRIQMONSA.MIFSUDPEMBROKEPBK1331MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAYMOND VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487766M",
+        "address": "8,TRIQMONSA.MIFSUDPEMBROKEPBK1331MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VAMA Holding Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 74241",
+        "address": "193UrsulineSistersStreetPIETA'PTA1222MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "193 Ursuline Sisters Street",
+  "company_id": "C 74365",
+  "registration_date": "Feb 19, 2016",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

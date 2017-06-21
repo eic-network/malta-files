@@ -1,0 +1,116 @@
+{
+  "name": "BIO DIETS EU LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PRADEEP MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3370358",
+        "address": "4402,SADAF8JUMEIRAHBEACHRESIDENCEMARSAPOBOX454448DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PRADEEP MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3370358",
+        "address": "4402,SADAF8JUMEIRAHBEACHRESIDENCEMARSAPOBOX454448DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PRADEEP MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3370358",
+        "address": "4402,SADAF8JUMEIRAHBEACHRESIDENCEMARSAPOBOX454448DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/01",
+        "address": "FOURTHFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PRADEEP MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3370358",
+        "address": "4402,SADAF8JUMEIRAHBEACHRESIDENCEMARSAPOBOX454448DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PRADEEP MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3370358",
+        "address": "4402,SADAF8JUMEIRAHBEACHRESIDENCEMARSAPOBOX454448DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "MANISHA MATHUR\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3620753",
+        "address": "4402,SADAF8,JUMEIRAHBEACHRESIDENCE,POBOX454448MARSAUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "GIRISH CHADHA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z3019747",
+        "address": "B-7/5180VASANTKUNJNEWDELHI110070INDIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "AMBER COURT, BLOCK C, NO. 1, QORMI ROAD,",
+  "company_id": "C 46197",
+  "registration_date": "Feb 09, 2009",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

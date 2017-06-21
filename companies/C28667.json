@@ -1,0 +1,111 @@
+{
+  "name": "B72 LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOSEPH SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670050M",
+        "address": "19,FLAT1,PORTICOMANSIONS,TRIQSANPAWL,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241961M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241961M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      },
+      {
+        "name": "SHARON ATTARD INGLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182463M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241961M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      },
+      {
+        "name": "SHARON ATTARD INGLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182463M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH A. MiCALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19608",
+        "address": "1SQAQSANT'AGATARABATMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241961M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHARON ATTARD INGLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182463M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "PIERRE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241961M",
+        "address": "23,TRIQIS-SAGHTAR,MADLIENA,SWIEQISWQ1403MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "SEASPED HOUSE, NINU CREMONA STREET",
+  "company_id": "C 28667",
+  "registration_date": "Sep 11, 2001",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

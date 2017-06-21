@@ -1,0 +1,75 @@
+{
+  "name": "ASSET SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHALLENGER MARINE INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16, VINCENTI BUILDINGS , STRAIT STREET",
+  "company_id": "C 27681",
+  "registration_date": "Feb 07, 2001",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

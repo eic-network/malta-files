@@ -1,0 +1,59 @@
+{
+  "total_issued_shares_value": 1164.69,
+  "registration_date": "Sep 29, 1995",
+  "status": "",
+  "locality": "SLIEMA",
+  "name": "BROWNIE LTD",
+  "total_issued_shares": 500,
+  "address": "36/A, TIGNE' SEAFRONT,",
+  "company_id": "C 19142",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "37/1,TIGNESEAFRONT,SLIEMAMALTA",
+        "party_id": "                                                            384735M",
+        "name": "JOSEPH PACE\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 499,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "4,GERALDFLATSBORDINSTREETPIETA'MALTA",
+        "party_id": "                                                            453038M",
+        "name": "ALFRED BROWN\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "SANTAMARIJA,ANNIBALEPRECASTREET,LIJABZN10MALTA",
+        "party_id": "                                                            339069M",
+        "name": "AUDREY DEMICOLI\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 5000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 11646.86,
+  "shares_currency": "EUR"
+}

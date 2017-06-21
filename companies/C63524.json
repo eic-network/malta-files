@@ -1,0 +1,105 @@
+{
+  "name": "AV CONSULTING LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RACHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            312764M",
+        "address": "59,EMBASSYWAY,TA'XBIEXMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "WAYNE PISANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386878M",
+        "address": "TORRITA'CINCLI,BIDNIJA,MOSTAMST5112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AV CONSULTING (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63522",
+        "address": "SUITE3,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "SUITE 3, TOWER BUSINESS CENTRE TOWER STREET, SWATAR",
+  "company_id": "C 63524",
+  "registration_date": "Jan 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1165
+}

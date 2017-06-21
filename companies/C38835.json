@@ -1,0 +1,64 @@
+{
+  "name": "BLANKENESE SHIPPING LTD",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 1397.62,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "OLEGS BUTENKO\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3837499",
+        "address": "30-42PAREDESSTREET,RIGALV1016LATVIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "MARINA LITVINCUKA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0578530",
+        "address": "39-27,SATIKSMESSTREETJELGAVALV3001LATVIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "MAKSIMS MALISKO\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3855199",
+        "address": "21-45GRAMSDASSTREETRIGALATVIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "18/2 SOUTH STREET",
+  "company_id": "C 38835",
+  "registration_date": "Jun 01, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 600
+}

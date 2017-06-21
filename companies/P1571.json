@@ -1,0 +1,51 @@
+{
+  "name": "B & M Beauty Creations",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 60000,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "AMOR BENTANFOUS\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            0020253A",
+        "address": "22,SANGIRGOR,BLOCKA,FLAT3,MISRAHKARMENUGRIMAZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "ANTONIO MONTICELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0662648",
+        "address": "VIAKOLBE,3,TURANOLODIGIANOLODI26828ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 30000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "190, MERCHANTS STREET",
+  "company_id": "P 1571",
+  "registration_date": "Mar 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 60000
+}

@@ -1,0 +1,89 @@
+{
+  "name": "AO FUTURO LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIA TATAR\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            053253967",
+        "address": "MUN.MEDIASJUD.SIBIU,STR.HULAVECHEno.9,HULAVECHEROMANIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA TATAR\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            053253967",
+        "address": "MUN.MEDIASJUD.SIBIU,STR.HULAVECHEno.9,HULAVECHEROMANIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IULIAN ZERES\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            585448",
+        "address": "MUN.MEDIASJUD.SIBU,STR.no9,HULAVECHEROMANIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA TATAR\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            053253967",
+        "address": "MUN.MEDIASJUD.SIBIU,STR.HULAVECHEno.9,HULAVECHEROMANIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARX TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31448",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ARX TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31448",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "30, KENILWORTH/1, TRIQ SIR AUGUSTUS BARTOLO,",
+  "company_id": "C 67237",
+  "registration_date": "Oct 21, 2014",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2000
+}

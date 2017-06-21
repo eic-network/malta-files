@@ -1,0 +1,88 @@
+{
+  "name": "A V H LTD",
+  "total_issued_shares_value": 1167.02,
+  "total_authorised_shares_value": 232937.3,
+  "authorised_shares": [
+    {
+      "issued_shares": 501,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HENRY BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            707345M",
+        "address": "41,TRIQW.LASSELL,IL-KORTIN,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HENRY BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            707345M",
+        "address": "41,TRIQW.LASSELL,IL-KORTIN,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENRY BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            707345M",
+        "address": "41,TRIQW.LASSELL,IL-KORTIN,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332347M",
+        "address": "74,ST.ANTHONYSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "HENRY BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            707345M",
+        "address": "41,TRIQW.LASSELL,IL-KORTIN,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "VICTOR BORG BARTHET\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279551M",
+        "address": "SERAFINA,TRIQIX-XGHAJRAT,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 167
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 501,
+  "address": "41 W. LASSELL STR IL-KORTIN",
+  "company_id": "C 11552",
+  "registration_date": "Apr 09, 1990",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

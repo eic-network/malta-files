@@ -1,0 +1,91 @@
+{
+  "name": "Azur Estate Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAN HARM SNYMAN\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            A04227352",
+        "address": "PLOT92,SILKAATSNEKBRITS0250SOUTHAFRICA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Roy Dennis Tolfts\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705580660",
+        "address": "Plot35,UitzichtPretoria0001SOUTHAFRICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Roy Dennis Tolfts\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705580660",
+        "address": "Plot35,UitzichtPretoria0001SOUTHAFRICA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN KARL FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113133",
+        "address": "ROOM5,OFFICE18,BLOCK19,VINCENTIBUILDING,STRAITSTREETVALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Roy Dennis Tolfts\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            705580660",
+        "address": "Plot35,UitzichtPretoria0001SOUTHAFRICA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VAGIF GERMAN\r",
+        "nationality": "ESTONIAN",
+        "party_id": "                                                            KB0226921",
+        "address": "KARNERI,1-80,TALLINNESTONIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ARTUR SVARTS\r",
+        "nationality": "ESTONIAN",
+        "party_id": "                                                            KB0708579",
+        "address": "LAANEMERETEE,43-21,TALLINNESTONIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Room 4, Office 18, Block 19 Vincenti Bld, Strait street",
+  "company_id": "C 66945",
+  "registration_date": "Oct 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

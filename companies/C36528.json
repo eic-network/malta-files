@@ -1,0 +1,51 @@
+{
+  "name": "BLUEGATE LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "E C E NOMINEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            30319",
+        "address": "SUITE7HADFIELDHOUSELIBRARYSTREETGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "L C NOMINEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            30320",
+        "address": "SUITE7HADFIELDHOUSELIBRARYSTREETGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "12/13 STRAIT STREET",
+  "company_id": "C 36528",
+  "registration_date": "Jun 30, 2005",
+  "shares_currency": "GBP",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

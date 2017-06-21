@@ -1,0 +1,91 @@
+{
+  "name": "BETICA LTD",
+  "total_issued_shares_value": 51200,
+  "total_authorised_shares_value": 51200,
+  "authorised_shares": [
+    {
+      "issued_shares": 51200,
+      "type": "Ordinary",
+      "authorised_share_capital": 51200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUIS DRAGOTTO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0114813A",
+        "address": "191,FLAT3,TRIQIS-SAGHTAR,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUIS DRAGOTTO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0114813A",
+        "address": "191,FLAT3,TRIQIS-SAGHTAR,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUIS DRAGOTTO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0114813A",
+        "address": "191,FLAT3,TRIQIS-SAGHTAR,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUIS DRAGOTTO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0114813A",
+        "address": "191,FLAT3,TRIQIS-SAGHTAR,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ACITEB HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1824496",
+        "address": "BELMONTCHAMBERS,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50720
+        }
+      },
+      {
+        "name": "ESTER AIROLDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E691582",
+        "address": "VIALEOPARDI27,CASAMASSIMA,BARI70010ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 51200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 63171",
+  "registration_date": "Dec 18, 2013",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 51200
+}

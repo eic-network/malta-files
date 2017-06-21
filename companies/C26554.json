@@ -1,0 +1,97 @@
+{
+  "name": "ATM LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "TONIO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119856M",
+        "address": "7,TRIQIL-PINTASWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANNE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11364M",
+        "address": "7,TRIQIL-PINTA,IBRAGGST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIANNE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11364M",
+        "address": "7,TRIQIL-PINTA,IBRAGGST.JULIANSMALTA"
+      },
+      {
+        "name": "TONIO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119856M",
+        "address": "7,TRIQIL-PINTASWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TONIO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119856M",
+        "address": "7,TRIQIL-PINTASWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIANNE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11364M",
+        "address": "7,TRIQIL-PINTA,IBRAGGST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "TONIO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119856M",
+        "address": "7,TRIQIL-PINTASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "7, TRIQ IL-PINTA, IBRAGG",
+  "company_id": "C 26554",
+  "registration_date": "Jun 19, 2000",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 3000
+}

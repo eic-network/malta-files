@@ -1,0 +1,70 @@
+{
+  "name": "BIORUN LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EMANUEL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            92255M",
+        "address": "2,MANOLMANSION,DEPAULEAVENUE,BALZANBZN07MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "2A,THEGARDENAPARTMENTS,MENSIJASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "2A,THEGARDENAPARTMENTS,MENSIJASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455061M",
+        "address": "2A,THEGARDENAPARTMENTS,MENSIJASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FINASERV CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21866",
+        "address": "KYLE,APARTMENT4,TRIQIL-MEDITERRAN,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "235, APARTMENT 6 TOWER ROAD",
+  "company_id": "C 22627",
+  "registration_date": "Mar 09, 1998",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1300
+}

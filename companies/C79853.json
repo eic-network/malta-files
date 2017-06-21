@@ -1,0 +1,83 @@
+{
+  "name": "Alpha Systems Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Natalia Hideg\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530965586",
+        "address": "MandulaKoz4Pilisborosjeno2097HUNGARY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Natalia Hideg\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530965586",
+        "address": "MandulaKoz4Pilisborosjeno2097HUNGARY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Natalia Hideg\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530965586",
+        "address": "MandulaKoz4Pilisborosjeno2097HUNGARY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Natalia Hideg\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530965586",
+        "address": "MandulaKoz4Pilisborosjeno2097HUNGARY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Natalia Hideg\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530965586",
+        "address": "MandulaKoz4Pilisborosjeno2097HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "Otokar Kaszinecz\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD6437392",
+        "address": "PetofiSandorut8Lonya4836HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "4 A. De Saavedra Street",
+  "company_id": "C 79853",
+  "registration_date": "Apr 13, 2017",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BET-AT-HOME.COM INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GERALD FINEDER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P5009493",
+        "address": "1452,PENDERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "QUATEMBER MICHAEL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3207903",
+        "address": "KAPLITZSTRASSE21,LINZ4020AUSTRIA"
+      },
+      {
+        "name": "FRANZ OMER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            J02972338",
+        "address": "FLECKENDORF14,ANSFELDEN4052AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "QUATEMBER MICHAEL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3207903",
+        "address": "KAPLITZSTRASSE21,LINZ4020AUSTRIA"
+      },
+      {
+        "name": "FRANZ OMER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            J02972338",
+        "address": "FLECKENDORF14,ANSFELDEN4052AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "QUATEMBER MICHAEL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3207903",
+        "address": "KAPLITZSTRASSE21,LINZ4020AUSTRIA"
+      },
+      {
+        "name": "FRANZ OMER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            J02972338",
+        "address": "FLECKENDORF14,ANSFELDEN4052AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET-AT-HOME.COM AG\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 52673",
+        "address": "KRONPRINZENSTRASSE82-84,DUSSELDORFD-40217GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "BET-AT-HOME.COM HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 34842",
+        "address": "PORTOMASOBUISNESSTOWER,LEVEL12,PORTOMASO,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "PORTOMASO BUSINESS TOWER, LEVEL 12, PORTOMASO,",
+  "company_id": "C 34845",
+  "registration_date": "Oct 22, 2004",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 5000
+}

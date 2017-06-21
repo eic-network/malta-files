@@ -1,0 +1,78 @@
+{
+  "name": "ANNIKA V LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BERNHARD MUSKANTOR\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88063606",
+        "address": "SONNENBERGSTRASSE57,HERGISWILCH-6052SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNHARD MUSKANTOR\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88063606",
+        "address": "SONNENBERGSTRASSE57,HERGISWILCH-6052SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNHARD MUSKANTOR\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88063606",
+        "address": "SONNENBERGSTRASSE57,HERGISWILCH-6052SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAILEY AUDIT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/105",
+        "address": "SUITE3,1STFLOOR,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAVLT1103MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNHARD MUSKANTOR\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88063606",
+        "address": "SONNENBERGSTRASSE57,HERGISWILCH-6052SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERNHARD MUSKANTOR\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88063606",
+        "address": "SONNENBERGSTRASSE57,HERGISWILCH-6052SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VALLETTA BUILDINGS, FOURTH FLOOR, SUITE 20, SOUTH STREET,",
+  "company_id": "C 68018",
+  "registration_date": "Dec 11, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

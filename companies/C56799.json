@@ -1,0 +1,57 @@
+{
+  "company_id": "C 56799",
+  "address": "259, ST. PAUL STREET,",
+  "name": "3ANGLECAPITAL INTERNATIONAL HOLDINGS LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jun 26, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2999
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "2HOLD INVESTMENTS S.A.\r",
+        "party_id": "                                                            508067405",
+        "address": "AVENIDAVISCONDEVALMORNOS63A63CEAVENDIDAMARQUESDETOMAR35A35C,1DT,LISBON1050153PORTUGAL",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

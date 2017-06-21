@@ -1,0 +1,88 @@
+{
+  "name": "BLACKPOOL INVESTMENTS LTD",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 50000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "24,'SARDINELLA',TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "24,'SARDINELLA',TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            260360M",
+        "address": "18/2,SOUTHSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEVIN F. DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "24,'SARDINELLA',TREJQAALBERTM.CASSOLA,SWIEQISWQ3260MALTA"
+      },
+      {
+        "name": "CRISTIANO MOREIRA PINTO BERALDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FJ250405",
+        "address": "AVENIDAATLANTICA,2016,APARTMENT3,ANDARCOPACABANA,RIODEJANEIRORJ22021-001BRAZIL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GABRIELA DA CONCEICAO ANDRADE MAGRO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N155565",
+        "address": "RUAMELOESOUSA,NO.139,3oD,ESTORIL,ESTROIL2765-253PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "18/2, SOUTH STREET",
+  "company_id": "C 64313",
+  "registration_date": "Mar 20, 2014",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000000
+}

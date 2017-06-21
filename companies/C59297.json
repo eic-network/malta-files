@@ -1,0 +1,51 @@
+{
+  "company_id": "C 59297",
+  "address": "SUITE 20, FOURTH FLOOR, 'VALLETTA BUILDINGS', SOUTH STREET,",
+  "name": "3i Trading Limited",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 13, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "AEQUITAS TRUST & FIDUCIARY LIMITED\r",
+        "party_id": "                                                            C 59564",
+        "address": "VALLETTABUILDINGS,FOURTHFLOOR,SUITE20,SOUTHSTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "DANILO DE LUCA\r",
+        "party_id": "                                                            F511108",
+        "address": "VIACAVALCABO'PIETRO009MILANO20146ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

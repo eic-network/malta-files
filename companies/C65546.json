@@ -1,0 +1,70 @@
+{
+  "company_id": "C 65546",
+  "address": "SUITE 3, 64/1, AGITON BUILDING, ST. ANTHONY STREET,",
+  "name": "BOULANGERIE LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Jun 09, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANGELA LORUSSO\r",
+        "party_id": "                                                            AS1565681",
+        "address": "NO4,VIAPIAZZAFALCONEE.BORSELLINO,MODUGNOITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELA LORUSSO\r",
+        "party_id": "                                                            AS1565681",
+        "address": "NO4,VIAPIAZZAFALCONEE.BORSELLINO,MODUGNOITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANGELA LORUSSO\r",
+        "party_id": "                                                            AS1565681",
+        "address": "NO4,VIAPIAZZAFALCONEE.BORSELLINO,MODUGNOITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANGELA LORUSSO\r",
+        "party_id": "                                                            AS1565681",
+        "address": "NO4,VIAPIAZZAFALCONEE.BORSELLINO,MODUGNOITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANGELA LORUSSO\r",
+        "party_id": "                                                            AS1565681",
+        "address": "NO4,VIAPIAZZAFALCONEE.BORSELLINO,MODUGNOITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "company_id": "C 41959",
+  "address": "HAMPTON CRT/5 DOM CACHIA STREET",
+  "name": "3am Systems Ltd.",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Jul 26, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRIAN E. CAUCHI\r",
+        "party_id": "                                                            353370M",
+        "address": "HAMPTONCRT/5DOMCACHIASTREETBIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN E. CAUCHI\r",
+        "party_id": "                                                            353370M",
+        "address": "HAMPTONCRT/5DOMCACHIASTREETBIRKIRKARAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN E. CAUCHI\r",
+        "party_id": "                                                            353370M",
+        "address": "HAMPTONCRT/5DOMCACHIASTREETBIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN E. CAUCHI\r",
+        "party_id": "                                                            353370M",
+        "address": "HAMPTONCRT/5DOMCACHIASTREETBIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRIAN E. CAUCHI\r",
+        "party_id": "                                                            353370M",
+        "address": "HAMPTONCRT/5DOMCACHIASTREETBIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT PULLICINO\r",
+        "party_id": "                                                            10040",
+        "address": "19,BETTINA,TRIQTA'GAWHAR,SAFISFI1510MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

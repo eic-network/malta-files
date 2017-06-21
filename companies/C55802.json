@@ -1,0 +1,54 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Mar 28, 2012",
+  "status": "",
+  "locality": "MOSTA",
+  "name": "BTG BUSINESS LTD",
+  "total_issued_shares": 1200,
+  "address": "15, GROGNET STREET,",
+  "company_id": "C 55802",
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "address": "ELSHADDAIFLATS/6.JEANDELACASSIERESTREET,ST.PAUL'SBAYMALTA",
+        "party_id": "                                                            207181M",
+        "name": "EVA CALLEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA",
+        "party_id": "                                                            01588",
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "APARTMENT62/63,MOLODEZHNAJASTREET,HIMKI,MOSCOWRUSSIANFEDERATION",
+        "party_id": "                                                            712468190",
+        "name": "VADIM ROMANOV\r",
+        "nationality": "RUSSIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

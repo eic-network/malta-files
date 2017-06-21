@@ -1,0 +1,78 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Feb 04, 2009",
+  "status": "",
+  "locality": "PIETA'",
+  "name": "BT INVESTMENTS LTD.",
+  "total_issued_shares": 1500,
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BUILDINGS 216, MARINA SEAFRONT",
+  "company_id": "C 46161",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWIMALTA",
+        "party_id": "                                                            587061M",
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "RDESIDERIO11ESQ,1000-122LISBOAPORTUGAL",
+        "party_id": "                                                            J190004",
+        "name": "RUI MIGUEL PEREIRA GUEDES HENRIQUES\r",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWIMALTA",
+        "party_id": "                                                            587061M",
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWIMALTA",
+        "party_id": "                                                            587061M",
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA",
+        "party_id": "                                                            AB/26/84/28",
+        "name": "BAKER TILLY SANT\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1500,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "LEVEL4,SUITE8A,ROSAMARINABLDG.,216,MARINASEAFRONTPIETA'MALTA",
+        "party_id": "                                                            C 61153",
+        "name": "BT HOLDINGS LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 1500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

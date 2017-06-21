@@ -1,0 +1,70 @@
+{
+  "company_id": "C 80979",
+  "address": "Room 4, Office 18, Block 19 Vincenti Bld, Strait Str",
+  "name": "Brochon Limited",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 24, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Margaryta Tovstolyak\r",
+        "party_id": "                                                            49126A",
+        "address": "Flat1,256PisaniCrtTriqStiefnuZerafaMARSAMALTA",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3A Fiduciary Services Limited\r",
+        "party_id": "                                                            C47551",
+        "address": "Level2,PalazzoCa'BrugneraValleyRdBIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Margaryta Tovstolyak\r",
+        "party_id": "                                                            49126A",
+        "address": "Flat1,256PisaniCrtTriqStiefnuZerafaMARSAMALTA",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Margaryta Tovstolyak\r",
+        "party_id": "                                                            49126A",
+        "address": "Flat1,256PisaniCrtTriqStiefnuZerafaMARSAMALTA",
+        "nationality": "UKRAINIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Margaryta Tovstolyak\r",
+        "party_id": "                                                            49126A",
+        "address": "Flat1,256PisaniCrtTriqStiefnuZerafaMARSAMALTA",
+        "nationality": "UKRAINIAN"
+      }
+    ]
+  }
+}

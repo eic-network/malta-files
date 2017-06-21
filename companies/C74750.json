@@ -1,0 +1,107 @@
+{
+  "name": "AYNIC & CO. LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IVAN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94072M",
+        "address": "ISOLAMEDITERRANEA,NO.4,SIRHENRYBOUVERIESTR.GZIRAMALTA"
+      },
+      {
+        "name": "GORDON SHEPHARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386874M",
+        "address": "TAL-GEMLI,SQAQBRIMBUNAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94072M",
+        "address": "ISOLAMEDITERRANEA,NO.4,SIRHENRYBOUVERIESTR.GZIRAMALTA"
+      },
+      {
+        "name": "GORDON SHEPHARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386874M",
+        "address": "TAL-GEMLI,SQAQBRIMBUNAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190570M",
+        "address": "UPPERCRUSTSUITES,BLOCKA,FLAT9TRIQIL-KEFFASWIEQISWQ2256MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            94072M",
+        "address": "ISOLAMEDITERRANEA,NO.4,SIRHENRYBOUVERIESTR.GZIRAMALTA"
+      },
+      {
+        "name": "GORDON SHEPHARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386874M",
+        "address": "TAL-GEMLI,SQAQBRIMBUNAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CPZ LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 61604",
+        "address": "MARANTFP,MDINAROAD,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CORNER FOODSTORES COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30452",
+        "address": "'CORNERFOODSTORE',TRIQIL-QASAM,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "MARANT FP, MDINA ROAD,",
+  "company_id": "C 74750",
+  "registration_date": "Mar 11, 2016",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1200
+}

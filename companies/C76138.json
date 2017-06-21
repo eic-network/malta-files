@@ -1,0 +1,89 @@
+{
+  "name": "BETTER POWER TECHNOLOGY LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "YING LI\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            G48626844",
+        "address": "ROOM501,NO1,LANE1658,CHANGYANGROAD,YANGPUDISTRICTSHANGAICHINA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YING LI\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            G48626844",
+        "address": "ROOM501,NO1,LANE1658,CHANGYANGROAD,YANGPUDISTRICTSHANGAICHINA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "YING LI\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            G48626844",
+        "address": "ROOM501,NO1,LANE1658,CHANGYANGROAD,YANGPUDISTRICTSHANGAICHINA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YING LI\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            G48626844",
+        "address": "ROOM501,NO1,LANE1658,CHANGYANGROAD,YANGPUDISTRICTSHANGAICHINA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Better Power Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 76135",
+        "address": "527,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "LISHENG HUANG\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            G46234909",
+        "address": "ROOM1907,NO.3BUILDING,NO.588,LONGCHANGROAD,YANGPUDISTRICTSHANGAICHINA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "527,  ST.PAUL'S STREET,",
+  "company_id": "C 76138",
+  "registration_date": "Jun 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1250
+}

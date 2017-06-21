@@ -1,0 +1,97 @@
+{
+  "company_id": "C 22426",
+  "address": "17, ROSARY ALLEY",
+  "name": "BRO COMPANY LIMITED",
+  "locality": "GHARGHUR",
+  "status": "",
+  "registration_date": "Jan 22, 1998",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 1111
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 1111,
+  "total_issued_shares_value": 2587.93,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSE BORG\r",
+        "party_id": "                                                            211173M",
+        "address": "FLAT4,165WESTWOODFLATSOLDRAILWAYROAD,BALZANMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MANUEL BORG\r",
+        "party_id": "                                                            516776M",
+        "address": "2,ST.ANNE'SCOURTBISAZZASTREETSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSE BORG\r",
+        "party_id": "                                                            211173M",
+        "address": "FLAT4,165WESTWOODFLATSOLDRAILWAYROAD,BALZANMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 111,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MANUEL BORG\r",
+        "party_id": "                                                            516776M",
+        "address": "2,ST.ANNE'SCOURTBISAZZASTREETSLIEMAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANUEL BORG\r",
+        "party_id": "                                                            516776M",
+        "address": "2,ST.ANNE'SCOURTBISAZZASTREETSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MANUEL BORG\r",
+        "party_id": "                                                            516776M",
+        "address": "2,ST.ANNE'SCOURTBISAZZASTREETSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MANUEL BORG\r",
+        "party_id": "                                                            516776M",
+        "address": "2,ST.ANNE'SCOURTBISAZZASTREETSLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "AWC HOLDINGS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SHIRLEY SUSAN COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            206685653",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALLAN WALLACE COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800957063",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SHIRLEY SUSAN COOK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            206685653",
+        "address": "50,BAGLEYWOODROAD,KENNINGTON,OXFORDOX15LYUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, CASAL NAXARO, LABOUR AVENUE,",
+  "company_id": "C 44445",
+  "registration_date": "Jun 12, 2008",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 4000
+}

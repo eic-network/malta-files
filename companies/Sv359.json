@@ -1,0 +1,127 @@
+{
+  "name": "AQA UCITS FUNDS SICAV P.L.C.",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 10000001000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Founder",
+      "authorised_share_capital": 10000001000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Calamatta Cuschieri Fund Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45733",
+        "address": "EWROPABUSINESSCENTRETRIQDUNKARMBIRKIRKARABKR9034MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS CALAMATTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266382M",
+        "address": "31,TRIQIL-GARDELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "17F,ALTENBACHSTRASSE,SZWOLLERAUCH-8832SWITZERLAND"
+      },
+      {
+        "name": "ALEXANDER VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            365083M",
+        "address": "58,'CHEZNOUS',TRIQIS-SIFA,MELLIEHAMLH1723MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS CALAMATTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266382M",
+        "address": "31,TRIQIL-GARDELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "17F,ALTENBACHSTRASSE,SZWOLLERAUCH-8832SWITZERLAND"
+      },
+      {
+        "name": "ALEXANDER VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            365083M",
+        "address": "58,'CHEZNOUS',TRIQIS-SIFA,MELLIEHAMLH1723MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS CALAMATTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            266382M",
+        "address": "31,TRIQIL-GARDELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "17F,ALTENBACHSTRASSE,SZWOLLERAUCH-8832SWITZERLAND"
+      },
+      {
+        "name": "ALEXANDER VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            365083M",
+        "address": "58,'CHEZNOUS',TRIQIS-SIFA,MELLIEHAMLH1723MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AQA CAPITAL HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 70100",
+        "address": "171,OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "AQA CAPITAL LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 70143",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "Ewropa Business Centre Triq Dun Karm",
+  "company_id": "SV 359",
+  "registration_date": "Apr 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000001000
+}

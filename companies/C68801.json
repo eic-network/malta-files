@@ -1,0 +1,91 @@
+{
+  "company_id": "C 68801",
+  "address": "PEPRINA 3,  TRIQ IL-BALTIKU,",
+  "name": "3D SOLUTIONS LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Jan 28, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GAEL GOASDOUE\r",
+        "party_id": "                                                            08AC20831",
+        "address": "LESSUFFRENCEPELLEAUTIER05000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FR3G LIMITED\r",
+        "party_id": "                                                            155739",
+        "address": "1,SECONDFLOOR,SOUND&VISIONHOUSE,FRANCISRACHELSTREET,VICTORIAMAHEREPUBLICOFSEYCHELLES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "GAEL GOASDOUE\r",
+        "party_id": "                                                            08AC20831",
+        "address": "LESSUFFRENCEPELLEAUTIER05000FRANCE",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GAEL GOASDOUE\r",
+        "party_id": "                                                            08AC20831",
+        "address": "LESSUFFRENCEPELLEAUTIER05000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GAEL GOASDOUE\r",
+        "party_id": "                                                            08AC20831",
+        "address": "LESSUFFRENCEPELLEAUTIER05000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CONRAD BORG MANCHE\r",
+        "party_id": "                                                            510780M",
+        "address": "109,MANOELDEVILHENASTREET,GZIRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

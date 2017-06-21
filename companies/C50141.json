@@ -1,0 +1,109 @@
+{
+  "name": "42 Telecom Limited",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRICIA ANGELOW\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            70686M",
+        "address": "23,TRIQL-ADRIJATIKU,THEVILLAGE,SANGWANNSGN1810MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERIK HARRY OSKAR ANGELOW\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            92757955",
+        "address": "23,TRIQL-ADRIJATIKUTHEVILLAGE,SANGWANNSGN1810MALTA"
+      },
+      {
+        "name": "JOHAN PERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86800306",
+        "address": "MAYFAIR,PENTHOUSE,APARTMENT4,TRIQL-GHAMADSWIEQISWQ3463MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ERIK HARRY OSKAR ANGELOW\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            92757955",
+        "address": "23,TRIQL-ADRIJATIKUTHEVILLAGE,SANGWANNSGN1810MALTA"
+      },
+      {
+        "name": "JOHAN PERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86800306",
+        "address": "MAYFAIR,PENTHOUSE,APARTMENT4,TRIQL-GHAMADSWIEQISWQ3463MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "GRANTTHORNTONHOUSE,PRINCESSELIZABETHSTREET,TA'XBIEXXBX1104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERIK HARRY OSKAR ANGELOW\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            92757955",
+        "address": "23,TRIQL-ADRIJATIKUTHEVILLAGE,SANGWANNSGN1810MALTA"
+      },
+      {
+        "name": "JOHAN PERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86800306",
+        "address": "MAYFAIR,PENTHOUSE,APARTMENT4,TRIQL-GHAMADSWIEQISWQ3463MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "42 Enterprise Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 69931",
+        "address": "THEQUAY,PORTOMASOMARINAPORTOMASOST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "TRILLIAN GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50116",
+        "address": "129,CASAD'ARTECENTRE,TRIQTAL-LABOUR,NAXXARNXR9023MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "129, CASA D'ARTE CENTRE, TRIQ TAL-LABOUR,",
+  "company_id": "C 50141",
+  "registration_date": "Jul 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1300
+}

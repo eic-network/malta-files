@@ -1,0 +1,109 @@
+{
+  "name": "B E SUPPORT TEAM LTD",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "Ordinary",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES CASSANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570049M",
+        "address": "264,MAINSTREET,MELLIEHAMLH2317MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTOINE BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290576M",
+        "address": "75,SOLARIS,TRIQIL-FALKUNIER,FGURAFGR1934MALTA"
+      },
+      {
+        "name": "BRIAN MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554076M",
+        "address": "92,TANIELLAHOUSE,VALLETTAROAD,PAOLAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTOINE BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290576M",
+        "address": "75,SOLARIS,TRIQIL-FALKUNIER,FGURAFGR1934MALTA"
+      },
+      {
+        "name": "BRIAN MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554076M",
+        "address": "92,TANIELLAHOUSE,VALLETTAROAD,PAOLAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTOINE BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290576M",
+        "address": "75,SOLARIS,TRIQIL-FALKUNIER,FGURAFGR1934MALTA"
+      },
+      {
+        "name": "BRIAN MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554076M",
+        "address": "92,TANIELLAHOUSE,VALLETTAROAD,PAOLAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTOINE BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290576M",
+        "address": "75,SOLARIS,TRIQIL-FALKUNIER,FGURAFGR1934MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "BRIAN MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554076M",
+        "address": "92,TANIELLAHOUSE,VALLETTAROAD,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 15000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "EUROMED CENTRE, 264, MAIN STREET,",
+  "company_id": "C 39942",
+  "registration_date": "Nov 10, 2006",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 30000
+}

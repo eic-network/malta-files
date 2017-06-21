@@ -1,0 +1,101 @@
+{
+  "name": "ALMON HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO COLUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4761648",
+        "address": "CARTES,FLAT3,TRIQBORDINO,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ALESSANDRO MONGARLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5455463",
+        "address": "VIAGARDONCINI7TORINO10143ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCO COLUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4761648",
+        "address": "CARTES,FLAT3,TRIQBORDINO,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ALESSANDRO MONGARLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5455463",
+        "address": "VIAGARDONCINI7TORINO10143ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCESCO COLUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4761648",
+        "address": "CARTES,FLAT3,TRIQBORDINO,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCO COLUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4761648",
+        "address": "CARTES,FLAT3,TRIQBORDINO,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ALESSANDRO MONGARLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5455463",
+        "address": "VIAGARDONCINI7TORINO10143ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCESCO COLUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA4761648",
+        "address": "CARTES,FLAT3,TRIQBORDINO,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ALESSANDRO MONGARLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5455463",
+        "address": "VIAGARDONCINI7TORINO10143ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CARTES, FLAT 3, TRIQ BORDINO,",
+  "company_id": "C 67181",
+  "registration_date": "Oct 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1200
+}

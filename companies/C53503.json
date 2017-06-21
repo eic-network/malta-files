@@ -1,0 +1,80 @@
+{
+  "name": "BERLIN SHIPPING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363559M",
+        "address": "HILLOCK,TRIQIT-TERZ,ST.ANDREWS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEXANDER GESSL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2503853",
+        "address": "SCHMITZBERG5,AMPLFWANDINHAUSRUCKWALD4843AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363559M",
+        "address": "HILLOCK,TRIQIT-TERZ,ST.ANDREWS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEXANDER GESSL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2503853",
+        "address": "SCHMITZBERG5,AMPLFWANDINHAUSRUCKWALD4843AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            363559M",
+        "address": "HILLOCK,TRIQIT-TERZ,ST.ANDREWS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEXANDER GESSL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2503853",
+        "address": "SCHMITZBERG5,AMPLFWANDINHAUSRUCKWALD4843AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FTI HOLDINGS MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 9140",
+        "address": "LEVEL7,BUILDING02/03,SMARTCITY,RICASOLI,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 7, BUILDING SCM 02/03, SMART CITY, RICASOLI,",
+  "company_id": "C 53503",
+  "registration_date": "Jul 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

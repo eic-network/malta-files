@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 5000,
+  "registration_date": "Jul 20, 2015",
+  "status": "",
+  "locality": "SLIEMA",
+  "name": "BULKCORE LIMITED",
+  "total_issued_shares": 5000,
+  "address": "1, CHALET MANSIONS, GHAR ID- DUD STREET,",
+  "company_id": "C 71514",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "19,M.SAPIANOSTR.SANGWANNSGN1556MALTA",
+        "party_id": "                                                            393883M",
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "19,M.SAPIANOSTR.SANGWANNSGN1556MALTA",
+        "party_id": "                                                            393883M",
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "19,M.SAPIANOSTR.SANGWANNSGN1556MALTA",
+        "party_id": "                                                            393883M",
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "19,M.SAPIANOSTR.SANGWANNSGN1556MALTA",
+        "party_id": "                                                            393883M",
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2500,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "party_id": "                                                            C 36968",
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 2500,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "party_id": "                                                            C 36968",
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000,
+      "authorised_share_capital": 5000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "shares_currency": "USD"
+}

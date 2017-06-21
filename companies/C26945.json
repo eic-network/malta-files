@@ -1,0 +1,65 @@
+{
+  "company_id": "C 26945",
+  "address": "171, OLD BAKERY STR.",
+  "name": "BRIGHT ADELFIA SHIPPING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 14, 2000",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DIMITRIS STEFANOU",
+        "party_id": "",
+        "address": "133,FILONOSSTR.,PIRAEUS18536GREECE",
+        "nationality": "GREEK"
+      },
+      {
+        "name": "GEORGIOS STEFANOU",
+        "party_id": "",
+        "address": "133,FILONOSSTR.,PIRAEUSGREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DYNAMIC TALENT SHIPPING S.A.",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,POBOX1405,MH96960MAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "LUCKY TARGET SHIPPING S.A.",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEISLAND,POBOX1405,MH9690MAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

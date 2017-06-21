@@ -1,0 +1,81 @@
+{
+  "name": "BLUE DIAMOND LIMITED",
+  "total_issued_shares_value": 103000,
+  "total_authorised_shares_value": 103000,
+  "authorised_shares": [
+    {
+      "issued_shares": 102999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 102999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIPOLINO SL\r",
+        "nationality": "",
+        "party_id": "                                                            B57257404",
+        "address": "NO13,AVENIDAAMERICA,CALARAJADA,CAPDEPERA,PALMADEMALLORCA07580SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIPOLINO SL\r",
+        "nationality": "",
+        "party_id": "                                                            B57257404",
+        "address": "NO13,AVENIDAAMERICA,CALARAJADA,CAPDEPERA,PALMADEMALLORCA07580SPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIPOLINO SL\r",
+        "nationality": "",
+        "party_id": "                                                            B57257404",
+        "address": "NO13,AVENIDAAMERICA,CALARAJADA,CAPDEPERA,PALMADEMALLORCA07580SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PIPOLINO SL\r",
+        "nationality": "",
+        "party_id": "                                                            B57257404",
+        "address": "NO13,AVENIDAAMERICA,CALARAJADA,CAPDEPERA,PALMADEMALLORCA07580SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 102999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 103000,
+  "address": "81-83, ST PAUL STREET,",
+  "company_id": "C 40926",
+  "registration_date": "Mar 07, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 103000
+}

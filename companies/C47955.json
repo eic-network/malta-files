@@ -1,0 +1,83 @@
+{
+  "name": "B3W LIVE LIMITED",
+  "total_issued_shares_value": 40000,
+  "total_authorised_shares_value": 40000,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "B3W Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 42840",
+        "address": "109,LEVEL1SIRWILLIAMREIDSTREETGZIRAGZR1033MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "B3W Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 42840",
+        "address": "109,LEVEL1SIRWILLIAMREIDSTREETGZIRAGZR1033MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIPPE WARZEE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            28471A",
+        "address": "1,TRIQL-IZBARKTAL-FRANCIZI,BAHARIC-CAGHAQ,NAXXARNXR5050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "B3W Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 42840",
+        "address": "109,LEVEL1SIRWILLIAMREIDSTREETGZIRAGZR1033MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B3W Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 42840",
+        "address": "109,LEVEL1SIRWILLIAMREIDSTREETGZIRAGZR1033MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SOFT INVEST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            036022",
+        "address": "C/OCOTED'AZURE-MAHE,REGISTEREDAGENTLIMITED,TRINITYHOUSE,1STFLOOR,ALBERTSTREET,P.O.BOX1402,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "109, LEVEL 1, SIR WILLIAM REID STREET,",
+  "company_id": "C 47955",
+  "registration_date": "Oct 16, 2009",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

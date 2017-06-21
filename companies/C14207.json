@@ -1,0 +1,135 @@
+{
+  "name": "BOCONCEPT MALTA LTD",
+  "total_issued_shares_value": 500000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 372001,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 372001,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 37999,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 37999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 90000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 90000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES M MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726152M",
+        "address": "VERDALAMANSIONS,15PORTACARAFFA,TRIQINGUANEZRABATRBT2418MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES M MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726152M",
+        "address": "VERDALAMANSIONS,15PORTACARAFFA,TRIQINGUANEZRABATRBT2418MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNA MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            563752M",
+        "address": "VERDALAMANSIONS,15PORTACARAFFA,TRIQINGUANEZRABATRBT2418MALTA"
+      },
+      {
+        "name": "CHARLES M MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726152M",
+        "address": "VERDALAMANSIONS,15PORTACARAFFA,TRIQINGUANEZRABATRBT2418MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "122,HATFIELD,TRIQSANTUMAS,FGURAFGR1604MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES M MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726152M",
+        "address": "VERDALAMANSIONS,15PORTACARAFFA,TRIQINGUANEZRABATRBT2418MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRANDS INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 7764",
+        "address": "TRIQTAL-BALAL,SANGWANNSGN9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 372001
+        }
+      },
+      {
+        "name": "ANTHONY J. MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            524883M",
+        "address": "ECOPARKAPARTMENTSNO.11,TRIQEDGARBERNARD,GZIRAGZR1707MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "MATTHEW J MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76077M",
+        "address": "7,TRIQSIDTNATA'L-ANGLI,SQAQNRU.1ZEBBUGZBG3210MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "PETER M. MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            489479M",
+        "address": "FLAT7,DORISFLATS,NAXXARROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 30000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500000,
+  "address": "TRIQ TAL-BALAL,",
+  "company_id": "C 14207",
+  "registration_date": "Sep 04, 1992",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 500000
+}

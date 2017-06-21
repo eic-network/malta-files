@@ -1,0 +1,70 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Oct 02, 2015",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BTW LTD",
+  "total_issued_shares": 1200,
+  "address": "99, ARCHBISHOP STREET,",
+  "company_id": "C 72502",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "TAS-SELLUMRESIDENCE,APARTMENT1031,MELLIEHAMALTA",
+        "party_id": "                                                            EG3478871",
+        "name": "DARIUSZ JAN PRZESLAWSKI\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "TAS-SELLUMRESIDENCE,APARTMENT1031,MELLIEHAMALTA",
+        "party_id": "                                                            EG3478871",
+        "name": "DARIUSZ JAN PRZESLAWSKI\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "TAS-SELLUMRESIDENCE,APARTMENT1021,MELLIEHAMALTA",
+        "party_id": "                                                            EB6677092",
+        "name": "MARCIN TOMASZ PRZESLAWSKI\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "TAS-SELLUMRESIDENCE,APARTMENT1031,MELLIEHAMALTA",
+        "party_id": "                                                            EG3478871",
+        "name": "DARIUSZ JAN PRZESLAWSKI\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "TAS-SELLUMRESIDENCE,APARTMENT1021,MELLIEHAMALTA",
+        "party_id": "                                                            EB6677092",
+        "name": "MARCIN TOMASZ PRZESLAWSKI\r",
+        "nationality": "POLISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

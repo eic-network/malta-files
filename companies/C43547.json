@@ -1,0 +1,89 @@
+{
+  "name": "ASIA IMPORT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Christopher Casapinta\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0462477M",
+        "address": "3,BlkDTriqil-GiziminSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Christopher Casapinta\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0462477M",
+        "address": "3,BlkDTriqil-GiziminSWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART GORDON CRAIG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48102A",
+        "address": "6,FLAT1,TRIQSIRLUIGICAMILLERI,SLIEMASLM1841MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Christopher Casapinta\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0462477M",
+        "address": "3,BlkDTriqil-GiziminSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SMART FASHION WORLDWIDE SL\r",
+        "nationality": "",
+        "party_id": "                                                            B 85203388",
+        "address": "PLANTA13,PASEODELACASTELLANAMADRIDNO140SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "Christopher Casapinta\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0462477M",
+        "address": "3,BlkDTriqil-GiziminSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Domestica Building, Fourth Floor  Msida Valley Road",
+  "company_id": "C 43547",
+  "registration_date": "Feb 12, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

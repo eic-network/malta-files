@@ -1,0 +1,75 @@
+{
+  "name": "BLUE WATER YACHTING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "WILLEM VAN DER TORRE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH7102969",
+        "address": "GENTIANENLAAN9,OOSTVOORNEVC3233NETHERLANDS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WILLEM VAN DER TORRE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH7102969",
+        "address": "GENTIANENLAAN9,OOSTVOORNEVC3233NETHERLANDS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILLEM VAN DER TORRE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH7102969",
+        "address": "GENTIANENLAAN9,OOSTVOORNEVC3233NETHERLANDS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHANNES VAN DER TORRE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NJ9951543",
+        "address": "2,CORNEILLELAANUTRECHT3533CWNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12
+        }
+      },
+      {
+        "name": "WILLEM VAN DER TORRE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH7102969",
+        "address": "GENTIANENLAAN9,OOSTVOORNEVC3233NETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1188
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "15, GERRY ZAMMIT STREET,",
+  "company_id": "C 41977",
+  "registration_date": "Jul 27, 2007",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

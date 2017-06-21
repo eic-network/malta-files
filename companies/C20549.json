@@ -1,0 +1,59 @@
+{
+  "name": "BERNARDINO HOLDINGS LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARMELO PENZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9855M",
+        "address": "4,VILLASCIROCCO,TRIQIL-QALIET,MARSASCALAZBR12MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARLES GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            172261M",
+        "address": "DOLCEVITA,MADLIENAHILL,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSE RIBALTA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            38532642Y",
+        "address": "ARISTIDESMALLIOL1,BARCELONA08028SPAIN",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "4/3, REGENT HOUSE, BISAZZA STREET,",
+  "company_id": "C 20549",
+  "registration_date": "Sep 12, 1996",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

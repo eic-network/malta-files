@@ -1,0 +1,109 @@
+{
+  "total_issued_shares_value": 1272.3,
+  "registration_date": "Sep 11, 1995",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BUILDINLOC LIMITED",
+  "total_issued_shares": 1500,
+  "address": "85, ST. JOHN STREET,",
+  "company_id": "C 19043",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "party_id": "                                                            C 25993",
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": ""
+      },
+      {
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA",
+        "party_id": "                                                            414504L",
+        "name": "BORIS IOFFE\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "party_id": "                                                            663682M",
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "party_id": "                                                            C 25993",
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": ""
+      },
+      {
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA",
+        "party_id": "                                                            414504L",
+        "name": "BORIS IOFFE\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "party_id": "                                                            C 25993",
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": ""
+      },
+      {
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA",
+        "party_id": "                                                            414504L",
+        "name": "BORIS IOFFE\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "93,FL2,OLDCOLLEGESTREET,SLIEMAMALTA",
+        "party_id": "                                                            19508",
+        "name": "IAN CROCKFORD\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1499,
+          "nominal_value_per_share": 0.8482,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA",
+        "party_id": "                                                            C 22030",
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 0.8482,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT09MALTA",
+        "party_id": "                                                            C 22030",
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 0.8482,
+      "issued_shares": 1500,
+      "authorised_share_capital": 3000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 2544.6,
+  "shares_currency": "EUR"
+}

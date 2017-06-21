@@ -1,0 +1,125 @@
+{
+  "name": "BERGHOLT SICAV P.L.C.",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 5000001000,
+  "authorised_shares": [
+    {
+      "issued_shares": 99,
+      "type": "FounderA",
+      "authorised_share_capital": 999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "FounderB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DIMITRI ALINE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PE20421",
+        "address": "PENTHOUSE12,CONNIE,MEMESCICLUNASQUARE,GZIRAMALTA"
+      },
+      {
+        "name": "EROS LOMBARDO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0888659",
+        "address": "VIAALLACHEISA7A,SEMENTINACH6514SWITZERLAND"
+      },
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIMITRI ALINE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PE20421",
+        "address": "PENTHOUSE12,CONNIE,MEMESCICLUNASQUARE,GZIRAMALTA"
+      },
+      {
+        "name": "EROS LOMBARDO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0888659",
+        "address": "VIAALLACHEISA7A,SEMENTINACH6514SWITZERLAND"
+      },
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "E2S MONITORING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 76033",
+        "address": "259,STPAUL'SSTREET,VALLETTAVLT1213MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIMITRI ALINE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PE20421",
+        "address": "PENTHOUSE12,CONNIE,MEMESCICLUNASQUARE,GZIRAMALTA"
+      },
+      {
+        "name": "EROS LOMBARDO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0888659",
+        "address": "VIAALLACHEISA7A,SEMENTINACH6514SWITZERLAND"
+      },
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GAMMA CAPITAL MARKETS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51103",
+        "address": "259,STPAULSTREET,VALLETTAVLT1213MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "A",
+          "issued_shares": 99
+        }
+      },
+      {
+        "name": "OF TRADER LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 64235",
+        "address": "259,ST.PAULSTREET,VALLETTAVLT1213MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "259, ST. PAUL STREET,",
+  "company_id": "SV 450",
+  "registration_date": "Apr 17, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000001000
+}

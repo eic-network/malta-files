@@ -1,0 +1,107 @@
+{
+  "name": "Arlon Capital (Malta) Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARL MAGNUS LINDQUIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81939374",
+        "address": "RIDDARGTAN20,STOCKHOLM11451SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARL MAGNUS LINDQUIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81939374",
+        "address": "RIDDARGTAN20,STOCKHOLM11451SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNASWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56748",
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARL MAGNUS LINDQUIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81939374",
+        "address": "RIDDARGTAN20,STOCKHOLM11451SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARLON CAPITAL AB\r",
+        "nationality": "",
+        "party_id": "                                                            556975-1281",
+        "address": "RIDDARGTAN20,LGH1501STOCKHOLM11451SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ALTER DOMUS TRUSTEE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63887",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL",
+  "company_id": "C 71392",
+  "registration_date": "Jul 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

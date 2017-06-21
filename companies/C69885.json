@@ -1,0 +1,70 @@
+{
+  "company_id": "C 69885",
+  "address": "606, High Grove,  Triq il-Kwarta, Ibragg,",
+  "name": "Bright Point International Ltd",
+  "locality": "SWIEQI",
+  "status": "",
+  "registration_date": "May 11, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 100000
+    }
+  ],
+  "total_authorised_shares": 100000,
+  "total_authorised_shares_value": 100000,
+  "total_issued_shares": 100000,
+  "total_issued_shares_value": 100000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Essam Asedeq A. OHEBA\r",
+        "party_id": "                                                            509810",
+        "address": "Fashloom,TripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Essam Asedeq A. OHEBA\r",
+        "party_id": "                                                            509810",
+        "address": "Fashloom,TripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Essam Asedeq A. OHEBA\r",
+        "party_id": "                                                            509810",
+        "address": "Fashloom,TripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Essam Asedeq A. OHEBA\r",
+        "party_id": "                                                            509810",
+        "address": "Fashloom,TripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Essam Asedeq A. OHEBA\r",
+        "party_id": "                                                            509810",
+        "address": "Fashloom,TripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

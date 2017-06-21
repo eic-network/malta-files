@@ -1,0 +1,117 @@
+{
+  "name": "AVENTUR LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "52,LACACHETTE,TRIQIL-SIEQJA,ATTARDATD1710MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JENS BOG HOKKA\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            203565455",
+        "address": "5,LATHAMROAD,TWICKENHAM,MIDDLESEXTQIIBNUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JENS BOG HOKKA\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            203565455",
+        "address": "5,LATHAMROAD,TWICKENHAM,MIDDLESEXTQIIBNUNITEDKINGDOM"
+      },
+      {
+        "name": "OLE PETER RIIS\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202916632",
+        "address": "NORREVAENGET10,GALTEN8464DENMARK"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JENS BOG HOKKA\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            203565455",
+        "address": "5,LATHAMROAD,TWICKENHAM,MIDDLESEXTQIIBNUNITEDKINGDOM"
+      },
+      {
+        "name": "OLE PETER RIIS\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202916632",
+        "address": "NORREVAENGET10,GALTEN8464DENMARK"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MGI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/26",
+        "address": "351/7,ZABBARROAD,FGURAFGR1016MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JENS BOG HOKKA\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            203565455",
+        "address": "5,LATHAMROAD,TWICKENHAM,MIDDLESEXTQIIBNUNITEDKINGDOM"
+      },
+      {
+        "name": "OLE PETER RIIS\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202916632",
+        "address": "NORREVAENGET10,GALTEN8464DENMARK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FINAC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17916",
+        "address": "66,OLDBAKERYSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "FINAC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17916",
+        "address": "66,OLDBAKERYSTREET,VALLETTAVLT1454MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "66, OLD BAKERY STREET,",
+  "company_id": "C 34472",
+  "registration_date": "Aug 18, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

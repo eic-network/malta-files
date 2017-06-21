@@ -1,0 +1,75 @@
+{
+  "name": "ASPEX (MALTA) LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DANIEL GUMY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            9765356",
+        "address": "JANZURVILLAGE,TRIPOLIGSPLAJSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DANIEL GUMY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            9765356",
+        "address": "JANZURVILLAGE,TRIPOLIGSPLAJSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANIEL GUMY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            9765356",
+        "address": "JANZURVILLAGE,TRIPOLIGSPLAJSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOANNA DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            818955M",
+        "address": "26/18,ST.CHRISTOPHERFLATS,TRIQIL-KUCCARD,ST.JULIANSSGN02MALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "DANIEL GUMY\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            9765356",
+        "address": "JANZURVILLAGE,TRIPOLIGSPLAJSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200,
+  "address": "SKY APARTMENTS B4, 177-179, MARINA STREET, (TRIQ IX-XATT),",
+  "company_id": "C 30501",
+  "registration_date": "Nov 13, 2002",
+  "shares_currency": "USD",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1000
+}

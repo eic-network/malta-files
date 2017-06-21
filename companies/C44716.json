@@ -1,0 +1,75 @@
+{
+  "name": "ALRO GROUP LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 80000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ISKANDAR KARAM\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540551492",
+        "address": "SUNHOUSE6CHELSEAEMBANKMENTLONDONSW34LFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "AYTAN SHIRINOVA\r",
+        "nationality": "AZERBAIJANI",
+        "party_id": "                                                            P3626128",
+        "address": "2,M.RASULZADESTR.,APT102,BAKUAZ1001AZERBAIJAN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 44716",
+  "registration_date": "Jul 16, 2008",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

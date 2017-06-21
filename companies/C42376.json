@@ -1,0 +1,65 @@
+{
+  "name": "BETASTREAM LIMITED",
+  "total_issued_shares_value": 30000,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 29999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 29999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALPSTREAM AVIATION MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42374",
+        "address": "4,V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 29999
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 30000,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 42376",
+  "registration_date": "Sep 17, 2007",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 30000
+}

@@ -1,0 +1,102 @@
+{
+  "name": "BLUE SEA MALTA FINANCE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 800,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LARA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            283185M",
+        "address": "'WOODCOCK',TRIQSANGWANNTAL-GHORGHAR,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LARA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            283185M",
+        "address": "'WOODCOCK',TRIQSANGWANNTAL-GHORGHAR,SANGWANNMALTA"
+      },
+      {
+        "name": "LOUIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LARA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            283185M",
+        "address": "'WOODCOCK',TRIQSANGWANNTAL-GHORGHAR,SANGWANNMALTA"
+      },
+      {
+        "name": "LOUIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LARA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            283185M",
+        "address": "'WOODCOCK',TRIQSANGWANNTAL-GHORGHAR,SANGWANNMALTA"
+      },
+      {
+        "name": "LOUIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            576847M",
+        "address": "'LECIEL',19E,ST.GEORGE'SROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAVENDISH HOTELS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 8372",
+        "address": "PALACEGATEBUILDING,4THFLOOR,DRAGONARAROAD,ST.JULIANSSTJ3141MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 4, PALACE GATE BUILDING DRAGONARA ROAD,",
+  "company_id": "C 68714",
+  "registration_date": "Mar 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,91 @@
+{
+  "name": "AUBERGE PROPERTIES LIMITED",
+  "total_issued_shares_value": 240000,
+  "total_authorised_shares_value": 350000,
+  "authorised_shares": [
+    {
+      "issued_shares": 240000,
+      "type": "Ordinary",
+      "authorised_share_capital": 350000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL RUST\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            114568A",
+        "address": "64,ROGER,FLAT7,TRIQNAZJUELLUL,GZIRAGZR1624MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAY STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            245157M",
+        "address": "2,THEOLIVES,TRIQESPRITBARTHET,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAY STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            245157M",
+        "address": "2,THEOLIVES,TRIQESPRITBARTHET,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAY STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            245157M",
+        "address": "2,THEOLIVES,TRIQESPRITBARTHET,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 239999
+        }
+      },
+      {
+        "name": "RAY STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            245157M",
+        "address": "2,THEOLIVES,TRIQESPRITBARTHET,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 240000,
+  "address": "REGENT HOUSE, 52, BISAZZA STREET,",
+  "company_id": "C 30046",
+  "registration_date": "Jul 31, 2002",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 350000
+}

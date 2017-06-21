@@ -1,0 +1,51 @@
+{
+  "name": "A. AZZOPARDI LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ALFRED AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188263M",
+        "address": "DEOGRATIAS,PLOT14,TONIPACESTREET,MELLIEHASPB12MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "MARIA MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            310353M",
+        "address": "REDENTUR,TRIQISOUARD,ST.PAUL'SBAYSPB02MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "DEO GRATIAS, 14, TONY PACE STREET,",
+  "company_id": "C 18005",
+  "registration_date": "Mar 13, 1995",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,83 @@
+{
+  "name": "ALLIANCE LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROGER XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241859M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROGER XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241859M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GRACE XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654760M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROGER XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241859M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRACE XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            654760M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "ROGER XUEREB ARCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            241859M",
+        "address": "26,LEWISV.FARRUGIASTREET,MRIEHEL,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "38, ST. MARY STREET,",
+  "company_id": "C 29959",
+  "registration_date": "Jul 12, 2002",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,115 @@
+{
+  "name": "AUDENTIA CAPITAL HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERTO LLANEZA MARTIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            PAC145819",
+        "address": "PLAZADEAMERICA73C,OVIEDO,ASTURIAS,SPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "ALBERTO LLANEZA MARTIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            PAC145819",
+        "address": "PLAZADEAMERICA73C,OVIEDO,ASTURIAS,SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "ALBERTO LLANEZA MARTIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            PAC145819",
+        "address": "PLAZADEAMERICA73C,OVIEDO,ASTURIAS,SPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "ALBERTO LLANEZA MARTIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            PAC145819",
+        "address": "PLAZADEAMERICA73C,OVIEDO,ASTURIAS,SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERTO LLANEZA MARTIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            PAC145819",
+        "address": "PLAZADEAMERICA73C,OVIEDO,ASTURIAS,SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE TA' XBIEX YACHT MARINA",
+  "company_id": "C 68182",
+  "registration_date": "Dec 18, 2014",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

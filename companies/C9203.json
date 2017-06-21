@@ -1,0 +1,91 @@
+{
+  "name": "ARC SERVICES LTD",
+  "total_issued_shares_value": 7500,
+  "total_authorised_shares_value": 25000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRICIA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            335066M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGESANGWANNSGN1870MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRIS R CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            559962M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGE,SANGWANNSGN1870MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRIS R CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            559962M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGE,SANGWANNSGN1870MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRIS R CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            559962M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGE,SANGWANNSGN1870MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRIS R CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            559962M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGE,SANGWANNSGN1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "PATRICIA CURMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            335066M",
+        "address": "MUGUET,TRIQIL-MEDITERRAN,THEVILLAGESANGWANNSGN1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "MUGUET, TRIQ IL-MEDITERRAN, THE VILLAGE,",
+  "company_id": "C 9203",
+  "registration_date": "Nov 26, 1987",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 10000
+}

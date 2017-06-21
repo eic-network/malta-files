@@ -1,0 +1,83 @@
+{
+  "company_id": "C 48208",
+  "address": "SUITE 2, INTERNATIONAL HOUSE, NAXXAR ROAD",
+  "name": "BORG BUILDING & INVESTMENTS LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Nov 19, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAY MERCIECA\r",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAY MERCIECA\r",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAY MERCIECA\r",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAY MERCIECA\r",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

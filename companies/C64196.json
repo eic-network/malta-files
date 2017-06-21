@@ -1,0 +1,89 @@
+{
+  "name": "AQUATEC SERVICES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIUSEPPE DI BARTOLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5109070",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIUSEPPE DI BARTOLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5109070",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GIUSEPPE DI BARTOLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5109070",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIUSEPPE DI BARTOLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5109070",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIUSEPPE DI BARTOLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5109070",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "DANIELA MARCHETTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4304332",
+        "address": "VIALUIGIPIRANDELLONO.2,BARCELLONAP.G98051(ME)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE 137, TRIQ A. CALIGARI,",
+  "company_id": "C 64196",
+  "registration_date": "Mar 12, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZABBAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

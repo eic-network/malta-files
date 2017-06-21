@@ -1,0 +1,134 @@
+{
+  "name": "BARON INVESTMENTS LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 998,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4990,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 5,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19131",
+        "address": "5,CORDINA,TRIQL-GHONQA,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARON GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 14927",
+        "address": "31,REPUBLICSTREETVICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 998
+        }
+      },
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "31, REPUBLIC STREET,",
+  "company_id": "C 26599",
+  "registration_date": "Jun 26, 2000",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 5000
+}

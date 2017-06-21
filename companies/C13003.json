@@ -1,0 +1,46 @@
+{
+  "name": "BATUMI SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 0,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "Ordinary",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.911716
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GURAM DOLBAIA\r",
+        "nationality": "",
+        "party_id": "                                                            070511",
+        "address": "5,SHARASHIDZESTREET,TBILISIGEORGIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            341754M",
+        "address": "MERCURYHOUSE,125,OLDMINTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.911716,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 400,
+  "address": "'MERCURY HOUSE' 125, OLD MINT STREET,",
+  "company_id": "C 13003",
+  "registration_date": "Aug 20, 1991",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 400
+}

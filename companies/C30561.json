@@ -1,0 +1,107 @@
+{
+  "name": "ARREDANDO LIMITED",
+  "total_issued_shares_value": 77363.14,
+  "total_authorised_shares_value": 77363.14,
+  "authorised_shares": [
+    {
+      "issued_shares": 16606,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 16606,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 16606,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 16606,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK BORG COSTANZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451766M",
+        "address": "25,BRITTANIASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "CARLO SALAMONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B552061",
+        "address": "206,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK BORG COSTANZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451766M",
+        "address": "25,BRITTANIASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "CARLO SALAMONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B552061",
+        "address": "206,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK BORG COSTANZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451766M",
+        "address": "25,BRITTANIASTREET,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK BORG COSTANZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451766M",
+        "address": "25,BRITTANIASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "CARLO SALAMONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B552061",
+        "address": "206,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COSTANZI GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18524",
+        "address": "206,TOWERROAD,SLIEMASLM09MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 16606
+        }
+      },
+      {
+        "name": "CARLO SALAMONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B552061",
+        "address": "206,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 16606
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 33212,
+  "address": "207, TOWER ROAD,",
+  "company_id": "C 30561",
+  "registration_date": "Nov 26, 2002",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 33212
+}

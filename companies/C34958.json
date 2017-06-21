@@ -1,0 +1,109 @@
+{
+  "name": "ARMLET LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            837457M",
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48046",
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "93, MILL STREET,",
+  "company_id": "C 34958",
+  "registration_date": "Nov 09, 2004",
+  "shares_currency": "USD",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2000
+}

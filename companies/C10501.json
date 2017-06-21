@@ -1,0 +1,75 @@
+{
+  "name": "AMIGO ENTERPRISES LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102771M",
+        "address": "52,VILLAWATERLILY,TRIQIL-GIEBJA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUEL DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731449M",
+        "address": "VILLADEGIORGIO,TRIQIR-RUSSETT,SANGWANNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMANUEL DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731449M",
+        "address": "VILLADEGIORGIO,TRIQIR-RUSSETT,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUEL DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731449M",
+        "address": "VILLADEGIORGIO,TRIQIR-RUSSETT,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "JOHN DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102771M",
+        "address": "52,VILLAWATERLILY,TRIQIL-GIEBJA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "FAFNER HOUSE, NATIONAL ROAD, BLATA L-BAJDA,",
+  "company_id": "C 10501",
+  "registration_date": "Apr 03, 1989",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

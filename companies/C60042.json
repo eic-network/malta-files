@@ -1,0 +1,75 @@
+{
+  "name": "ATTIKA SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMASLM1106MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMASLM1106MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "24,ST.MARYSTREET,SLIEMASLM1106MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRYONY NAVIGATION S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            59960",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMH96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MURIEL NAVIGATION CORP\r",
+        "nationality": "",
+        "party_id": "                                                            60588",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMH96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "147/1 ST. LUCIA STREET",
+  "company_id": "C 60042",
+  "registration_date": "Apr 16, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

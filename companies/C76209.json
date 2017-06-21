@@ -1,0 +1,114 @@
+{
+  "name": "BLUE PATH LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281375M",
+        "address": "2,TRIQIS-SEQER,KAPPARASANGWANNSGN4071MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281375M",
+        "address": "2,TRIQIS-SEQER,KAPPARASANGWANNSGN4071MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281375M",
+        "address": "2,TRIQIS-SEQER,KAPPARASANGWANNSGN4071MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUE PATH HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 77383",
+        "address": "1,MARINACOURT,FL.2,GIUSEPPECALISTREET,TA'XBIEXXBX1421MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4750
+        }
+      },
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "98,TRIQIL-GALLINA,KAPPARA,SANGWANNSGN4117MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281375M",
+        "address": "2,TRIQIS-SEQER,KAPPARASANGWANNSGN4071MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "1, MARINA COURT, FL 2, GIUSEPPE CALI STREET",
+  "company_id": "C 76209",
+  "registration_date": "Jun 28, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

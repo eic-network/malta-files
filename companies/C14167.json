@@ -1,0 +1,107 @@
+{
+  "name": "B.G. CATERING EQUIPMENT COMPANY LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NORMAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430360M",
+        "address": "EXECUTIVESUITE,FLAT2,TRIQIT-TURISTI,QAWRA,ST.PAUL'SBAYSPB06MALTA"
+      },
+      {
+        "name": "ALFRED GAFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307552M",
+        "address": "'DAFFODIL',FLAT3,TRIQIS-SAJJIEDA,ST.PAUL'SBAYSPB06MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NORMAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430360M",
+        "address": "EXECUTIVESUITE,FLAT2,TRIQIT-TURISTI,QAWRA,ST.PAUL'SBAYSPB06MALTA"
+      },
+      {
+        "name": "ALFRED GAFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307552M",
+        "address": "'DAFFODIL',FLAT3,TRIQIS-SAJJIEDA,ST.PAUL'SBAYSPB06MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFRED GAFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307552M",
+        "address": "'DAFFODIL',FLAT3,TRIQIS-SAJJIEDA,ST.PAUL'SBAYSPB06MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NORMAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430360M",
+        "address": "EXECUTIVESUITE,FLAT2,TRIQIT-TURISTI,QAWRA,ST.PAUL'SBAYSPB06MALTA"
+      },
+      {
+        "name": "ALFRED GAFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307552M",
+        "address": "'DAFFODIL',FLAT3,TRIQIS-SAJJIEDA,ST.PAUL'SBAYSPB06MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED GAFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307552M",
+        "address": "'DAFFODIL',FLAT3,TRIQIS-SAJJIEDA,ST.PAUL'SBAYSPB06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "NORMAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            430360M",
+        "address": "EXECUTIVESUITE,FLAT2,TRIQIT-TURISTI,QAWRA,ST.PAUL'SBAYSPB06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "COSY SPOT, TRIQ IT-TURISTI,",
+  "company_id": "C 14167",
+  "registration_date": "Aug 24, 1992",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

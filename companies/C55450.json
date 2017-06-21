@@ -1,0 +1,96 @@
+{
+  "name": "AVS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ENGENAS STEPHANAS ZEEMAN BOTHA HAVENGA\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            70830A",
+        "address": "93,ANNUNCIATIONSTREETSLIEMASLM1469MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ENGENAS STEPHANAS ZEEMAN BOTHA HAVENGA\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            70830A",
+        "address": "93,ANNUNCIATIONSTREETSLIEMASLM1469MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ENGENAS STEPHANAS ZEEMAN BOTHA HAVENGA\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            70830A",
+        "address": "93,ANNUNCIATIONSTREETSLIEMASLM1469MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ENGENAS STEPHANAS ZEEMAN BOTHA HAVENGA\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            70830A",
+        "address": "93,ANNUNCIATIONSTREETSLIEMASLM1469MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ENGENAS STEPHANAS ZEEMAN BOTHA HAVENGA\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            70830A",
+        "address": "93,ANNUNCIATIONSTREETSLIEMASLM1469MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JOSEPH VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            568287M",
+        "address": "21,CHERWELL,TRIQL-IMWIEGELSIGGIEWISGW1920MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 504
+        }
+      },
+      {
+        "name": "MARIO VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            752748M",
+        "address": "4,FUNGUSCOURTTRIQIT-TORRISANLAWRENZ(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 96
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT",
+  "company_id": "C 55450",
+  "registration_date": "Feb 27, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

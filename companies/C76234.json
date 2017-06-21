@@ -1,0 +1,101 @@
+{
+  "name": "A&S LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "CHRISTOPHE SCHAILLEE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN616532",
+        "address": "34,QUAIJEANCHARLESREY,MONACO9800MONACO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "CHRISTOPHE SCHAILLEE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN616532",
+        "address": "34,QUAIJEANCHARLESREY,MONACO9800MONACO"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      },
+      {
+        "name": "CHRISTOPHE SCHAILLEE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN616532",
+        "address": "34,QUAIJEANCHARLESREY,MONACO9800MONACO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LEHNER INDUSTRIES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 74641",
+        "address": "5/1MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ESKANDAR MALEKI\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            U0832610",
+        "address": "6,IMPASSEDELAFONTAINE,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 76234",
+  "registration_date": "Jun 30, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

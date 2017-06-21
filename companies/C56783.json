@@ -1,0 +1,84 @@
+{
+  "name": "Apple Exp Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVIDE IGNIZIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1661979",
+        "address": "VIALEDELLALIBERTA',LUSCIANO6681010ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVIDE IGNIZIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1661979",
+        "address": "VIALEDELLALIBERTA',LUSCIANO6681010ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVIDE IGNIZIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1661979",
+        "address": "VIALEDELLALIBERTA',LUSCIANO6681010ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "GRANTTHORNTONHOUSE,PRINCESSELIZABETHSTREET,TA'XBIEXXBX1104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVIDE IGNIZIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1661979",
+        "address": "VIALEDELLALIBERTA',LUSCIANO6681010ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HARD JOB LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1717547",
+        "address": "COMMONWEALTHTRUSTLIMITEDDRAKECHAMBERS,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ROOM 1, LEVEL 2, PALAZZO CA BRUGNERA, VALLEY ROAD,",
+  "company_id": "C 56783",
+  "registration_date": "Jun 25, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

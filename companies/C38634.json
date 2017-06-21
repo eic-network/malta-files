@@ -1,0 +1,75 @@
+{
+  "company_id": "C 38634",
+  "address": "SEA VIEW APARTMENT NO. 1, QUI SI SANA SEAFRONT,",
+  "name": "3BFriends Ltd",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "May 08, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 50000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 50000
+    }
+  ],
+  "total_authorised_shares": 50000,
+  "total_authorised_shares_value": 50000,
+  "total_issued_shares": 50000,
+  "total_issued_shares_value": 50000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CEDRIC OLIVIER SCHWARTZLER\r",
+        "party_id": "                                                            04KH88512",
+        "address": "DROTTNINGHOLMSVAGEN72NB,STOCKHOLMSE-11242SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3B International Holding Ltd\r",
+        "party_id": "                                                            C 38302",
+        "address": "60/2MELITASTREET,VALLETTAVLT12MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999,
+          "paid_up_%": 80,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CCA INTERSERV LIMITED\r",
+        "party_id": "                                                            C 35376",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 80,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CEDRIC OLIVIER SCHWARTZLER\r",
+        "party_id": "                                                            04KH88512",
+        "address": "DROTTNINGHOLMSVAGEN72NB,STOCKHOLMSE-11242SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CEDRIC OLIVIER SCHWARTZLER\r",
+        "party_id": "                                                            04KH88512",
+        "address": "DROTTNINGHOLMSVAGEN72NB,STOCKHOLMSE-11242SWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ]
+  }
+}

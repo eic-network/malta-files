@@ -1,0 +1,81 @@
+{
+  "company_id": "C 22065",
+  "address": "SAN NIKLAW FARM, GHAR LAPSI ROAD,",
+  "name": "BORG COLD STORES (IMPORT & DISTRIBUTION) LTD.",
+  "locality": "SIGGIEWI",
+  "status": "",
+  "registration_date": "Oct 30, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 7692,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 7692
+    },
+    {
+      "authorised_share_capital": 12308,
+      "type": "RedeemablePreference",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 12308
+    }
+  ],
+  "total_authorised_shares": 20000,
+  "total_authorised_shares_value": 46587.46,
+  "total_issued_shares": 20000,
+  "total_issued_shares_value": 46587.46,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDWARD BORG (DECEASED)\r",
+        "party_id": "                                                            468060M",
+        "address": "TALKABOCCIFARMHOUSE,SANNIKLAWFARM,GHARLAPSIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BORG COLD STORES LTD.\r",
+        "party_id": "                                                            C 3061",
+        "address": "SANNIKLAWFARM,GHARLAPSIROAD,SIGGIEWIMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7691,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MARY ROSE BALDACCHINO\r",
+        "party_id": "                                                            217569M",
+        "address": "2,ALLEY1,ST.CATHERINESTREET,MQABBAZQR08MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD BORG (DECEASED)\r",
+        "party_id": "                                                            468060M",
+        "address": "TALKABOCCIFARMHOUSE,SANNIKLAWFARM,GHARLAPSIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD BORG (DECEASED)\r",
+        "party_id": "                                                            468060M",
+        "address": "TALKABOCCIFARMHOUSE,SANNIKLAWFARM,GHARLAPSIROAD,SIGGIEWIMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "name": "ANB HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARNAUD BEYSSEN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08AI62750",
+        "address": "8RUEPERIGNON,PARIS75007FRANCE"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNAUD BEYSSEN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08AI62750",
+        "address": "8RUEPERIGNON,PARIS75007FRANCE"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARNAUD BEYSSEN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08AI62750",
+        "address": "8RUEPERIGNON,PARIS75007FRANCE"
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARNAUD BEYSSEN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            08AI62750",
+        "address": "8RUEPERIGNON,PARIS75007FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL,",
+  "company_id": "C 54875",
+  "registration_date": "Dec 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

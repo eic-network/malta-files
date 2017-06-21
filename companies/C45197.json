@@ -1,0 +1,83 @@
+{
+  "name": "BELLATRIX ONLINE Ltd",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DRAGOS BURIU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            11466357",
+        "address": "44,ROZELORSTRHARSOVACONSTANTAROMANIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DRAGOS BURIU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            11466357",
+        "address": "44,ROZELORSTRHARSOVACONSTANTAROMANIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RALUCA ANDREEA COMAN\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            KT286541",
+        "address": "CONSTANTA,85AL.LAPUSNEANUAVENUEBLOCKLV16,FLAT43CONSTANTACOUNTYROMANIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DRAGOS BURIU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            11466357",
+        "address": "44,ROZELORSTRHARSOVACONSTANTAROMANIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BURIU HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 45196",
+        "address": "60/2MELITASTREETVALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "DRAGOS BURIU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            11466357",
+        "address": "44,ROZELORSTRHARSOVACONSTANTAROMANIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "3rd Floor, Moonglow Building Pioneer Street, BUGIBBA,",
+  "company_id": "C 45197",
+  "registration_date": "Sep 24, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 100000
+}

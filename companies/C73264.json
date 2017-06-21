@@ -1,0 +1,70 @@
+{
+  "name": "AUGUSTUS HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JAMES JOSEPH BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27615L",
+        "address": "LANDRESTRAAT11,THEHAGUE2551AANETHERLANDS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAMES JOSEPH BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27615L",
+        "address": "LANDRESTRAAT11,THEHAGUE2551AANETHERLANDS"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAMES JOSEPH BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27615L",
+        "address": "LANDRESTRAAT11,THEHAGUE2551AANETHERLANDS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMES JOSEPH BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27615L",
+        "address": "LANDRESTRAAT11,THEHAGUE2551AANETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "14 TRIQ BRARED",
+  "company_id": "C 73264",
+  "registration_date": "Nov 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

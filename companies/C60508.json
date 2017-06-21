@@ -1,0 +1,105 @@
+{
+  "name": "BALLAGLASS PARTNERS LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 14999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 14999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EDWARD CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237245M",
+        "address": "86,VILLAFLORA,MSIDASTREET,BIRKIRKARABKR2018MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IAN CLAGUE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706879646",
+        "address": "'TOWNSQUARE',APT.310,IX-XATTTAQUI-SI-SANA,SLIEMASLM3112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IAN CLAGUE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706879646",
+        "address": "'TOWNSQUARE',APT.310,IX-XATTTAQUI-SI-SANA,SLIEMASLM3112MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IAN CLAGUE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706879646",
+        "address": "'TOWNSQUARE',APT.310,IX-XATTTAQUI-SI-SANA,SLIEMASLM3112MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IAN CLAGUE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706879646",
+        "address": "'TOWNSQUARE',APT.310,IX-XATTTAQUI-SI-SANA,SLIEMASLM3112MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COLBY PARTNERS\r",
+        "nationality": "",
+        "party_id": "                                                            HT-277776",
+        "address": "WINDWARD1,REGATTAOFFICEPARK,P.O.BOX897,GRANDCAYMANKY1-1103CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 14999
+        }
+      },
+      {
+        "name": "IAN CLAGUE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706879646",
+        "address": "'TOWNSQUARE',APT.310,IX-XATTTAQUI-SI-SANA,SLIEMASLM3112MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "'TOWN SQUARE', SUITE 117, IX-XATT TA QUI-SI-SANA,",
+  "company_id": "C 60508",
+  "registration_date": "May 21, 2013",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 15000
+}

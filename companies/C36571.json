@@ -1,0 +1,51 @@
+{
+  "name": "ARSENAL GROUP LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "GORDEN CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            632471",
+        "address": "PALMGROVEHOUSEROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "Sarah Louise Petre-Mears\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706738952",
+        "address": "WinwoodVilla,ShawsEstateNewCastleVillageSAINTKITTSANDNEVIS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "3 JDR FLATS, PIETRU XUEREB STREET,",
+  "company_id": "C 36571",
+  "registration_date": "Jul 04, 2005",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

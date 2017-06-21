@@ -1,0 +1,91 @@
+{
+  "name": "ARETI LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MAREK GRZEGORZ WRONKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED5059091",
+        "address": "55,APT5GEORGEBORGOLIVIERSTREETST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAREK GRZEGORZ WRONKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED5059091",
+        "address": "55,APT5GEORGEBORGOLIVIERSTREETST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAREK GRZEGORZ WRONKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED5059091",
+        "address": "55,APT5GEORGEBORGOLIVIERSTREETST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAREK GRZEGORZ WRONKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED5059091",
+        "address": "55,APT5GEORGEBORGOLIVIERSTREETST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "N.D.I. Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 67538",
+        "address": "99,DINGLISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MAREK GRZEGORZ WRONKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED5059091",
+        "address": "55,APT5GEORGEBORGOLIVIERSTREETST.JULIANSSTJ1081MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "99,  DINGLI STREET,",
+  "company_id": "C 70527",
+  "registration_date": "May 12, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

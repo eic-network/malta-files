@@ -1,0 +1,140 @@
+{
+  "name": "B.X. LIMITED",
+  "total_issued_shares_value": 1514.09,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1800,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760455M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760455M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA"
+      },
+      {
+        "name": "JOSEPHINE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            50656M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760455M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA"
+      },
+      {
+        "name": "JOSEPHINE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            50656M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760455M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "JOSEPHINE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            50656M",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "JOSEF CARUANA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "MARIELLA CARUANA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "PHYELISIANNE CARUANA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "CARUANAHOUSEGRACESTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 650,
+  "address": "CARUANA HOUSE, GRACE STREET",
+  "company_id": "C 13884",
+  "registration_date": "May 21, 1992",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 2000
+}

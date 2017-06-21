@@ -1,0 +1,78 @@
+{
+  "name": "BETVIA LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IAN GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            213675M",
+        "address": "63,KARLUMARATTASTREET,TARXIENMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "67,FLAT32,GORGBORGOLIVIERSTREET,ST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANTISEK TOTH\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BJ4875821",
+        "address": "PIVOVARSKA,20,ZILINA01001SLOVAKIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANTISEK TOTH\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BJ4875821",
+        "address": "PIVOVARSKA,20,ZILINA01001SLOVAKIA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANTISEK TOTH\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BJ4875821",
+        "address": "PIVOVARSKA,20,ZILINA01001SLOVAKIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETVIA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53474",
+        "address": "66,OLDBAKERYSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "66 OLD BAKERY STREET",
+  "company_id": "C 53478",
+  "registration_date": "Jul 27, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1165
+}

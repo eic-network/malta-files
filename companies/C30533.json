@@ -1,0 +1,78 @@
+{
+  "company_id": "C 30533",
+  "address": "166, OLD BAKERY STREET,",
+  "name": "BRIDGEWORK LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Nov 20, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LUCA ERRANI\r",
+        "party_id": "                                                            D935823",
+        "address": "CALDERARADIRENO,VIAA.GRANDI,N.11,INT.6,BOLOGNAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUCA ERRANI\r",
+        "party_id": "                                                            D935823",
+        "address": "CALDERARADIRENO,VIAA.GRANDI,N.11,INT.6,BOLOGNAITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUCA ERRANI\r",
+        "party_id": "                                                            D935823",
+        "address": "CALDERARADIRENO,VIAA.GRANDI,N.11,INT.6,BOLOGNAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUCA ERRANI\r",
+        "party_id": "                                                            D935823",
+        "address": "CALDERARADIRENO,VIAA.GRANDI,N.11,INT.6,BOLOGNAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUCA ERRANI\r",
+        "party_id": "                                                            D935823",
+        "address": "CALDERARADIRENO,VIAA.GRANDI,N.11,INT.6,BOLOGNAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT PULLICINO\r",
+        "party_id": "                                                            10040",
+        "address": "19,BETTINA,TRIQTA'GAWHAR,SAFISFI1510MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "BLUE SEA HOLDING LIMITED",
+  "total_issued_shares_value": 1002000,
+  "total_authorised_shares_value": 1002000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496876M",
+        "address": "3,'DARIL-WARD',MILEENDSTREET,BLATAL-BAJDA,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01785",
+        "address": "2,THEOLIVE,TRIQIL-VEDUTAMADLIENANAXXARNXR09MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARKOS NOMIKOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN0671282",
+        "address": "ANGMERINGPARKHOUSE,ANGMERINGPARK,LITTLEHAMPTON,WESTSUSSEXBN164EXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000000
+        }
+      },
+      {
+        "name": "ALBERCA FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            492F",
+        "address": "GOODMAN'SCORPORATECENTRE,WESTBAYSTREET,NASSAUBAHAMAS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1002000,
+  "address": "IL PIAZZETTA, A, SUITE 21, TOWER ROAD,",
+  "company_id": "C 43913",
+  "registration_date": "Apr 02, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1002000
+}

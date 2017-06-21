@@ -1,0 +1,115 @@
+{
+  "name": "BLUEFISH PHARMA HOLDING LIMITED",
+  "total_issued_shares_value": 250000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 249999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 249999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      },
+      {
+        "name": "KARL ALEXIUS TIGER KARLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84050348",
+        "address": "BRANNKYRKAGATAN38STOCKHOLM11123SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      },
+      {
+        "name": "KARL ALEXIUS TIGER KARLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84050348",
+        "address": "BRANNKYRKAGATAN38STOCKHOLM11123SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "23,'LGHABEX',TRIQIS-SLIEMMARSASCALAMSK3381MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      },
+      {
+        "name": "KARL ALEXIUS TIGER KARLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84050348",
+        "address": "BRANNKYRKAGATAN38STOCKHOLM11123SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUEFISH PHARMACEUTICALS AB\r",
+        "nationality": "",
+        "party_id": "                                                            556673-9164",
+        "address": "TORSGATAN11,8TRSTOCKHOLM11123SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 249999
+        }
+      },
+      {
+        "name": "BLUEFISH PHARMA INCENTIVE AB\r",
+        "nationality": "",
+        "party_id": "                                                            556731-3704",
+        "address": "TORSGATAN11,8TRSTOCKHOLM11123SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 250000,
+  "address": "THE PLAZA COMMERCIAL CENTRE LEVEL 8, SUITE 5, BISAZZA STREET,",
+  "company_id": "C 50712",
+  "registration_date": "Sep 24, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 250000
+}

@@ -1,0 +1,83 @@
+{
+  "name": "91 ST. JOHN LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GINO SICURELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1773803",
+        "address": "RUEDUGRANDFEUNO.140BOUGE5004BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GINO SICURELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1773803",
+        "address": "RUEDUGRANDFEUNO.140BOUGE5004BELGIUM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GINO SICURELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1773803",
+        "address": "RUEDUGRANDFEUNO.140BOUGE5004BELGIUM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GINO SICURELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1773803",
+        "address": "RUEDUGRANDFEUNO.140BOUGE5004BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROLAND SYLVAIN BARNICH\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM529639",
+        "address": "NO.28RUEELIEPUISSANT(VD)NAMUR5020BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "GINO SICURELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1773803",
+        "address": "RUEDUGRANDFEUNO.140BOUGE5004BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "91 ST. JOHN STREET,",
+  "company_id": "C 75598",
+  "registration_date": "May 12, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

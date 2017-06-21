@@ -1,0 +1,99 @@
+{
+  "name": "BEJEWELLED LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE MARIO HYZLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328756M",
+        "address": "5,VILLEGAIGNONSTREET,MDINAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ELAINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324976M",
+        "address": "BLOCKA,FLAT12,THEPODIUM,ST.MARKSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ELAINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324976M",
+        "address": "BLOCKA,FLAT12,THEPODIUM,ST.MARKSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAKER TILLY SANT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/28",
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ELAINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324976M",
+        "address": "BLOCKA,FLAT12,THEPODIUM,ST.MARKSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELAINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324976M",
+        "address": "BLOCKA,FLAT12,THEPODIUM,ST.MARKSTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "MATTHEW BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62779M",
+        "address": "BLOCKA,FLAT12,THEPODIUM,ST.MARKSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "BLOCK A, FLAT 12, THE PODIUM, ST. MARK STREET,",
+  "company_id": "C 49168",
+  "registration_date": "Mar 22, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

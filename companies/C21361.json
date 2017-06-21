@@ -1,0 +1,83 @@
+{
+  "name": "BALBI (1860) LTD.",
+  "total_issued_shares_value": 116468.65,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            199459M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "10,TRIQIL-PJAZZETTA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "12, MARIAN COURT, DEPIRO STREET,",
+  "company_id": "C 21361",
+  "registration_date": "Apr 28, 1997",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

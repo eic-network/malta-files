@@ -1,0 +1,78 @@
+{
+  "name": "BOLTON LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRICK BRISCOE WHITE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            214296M",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHAN PETER ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0277848",
+        "address": "IMAMTSACKER20,EMBRACH8424SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHAN PETER ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0277848",
+        "address": "IMAMTSACKER20,EMBRACH8424SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "'Kyle'TRIQIL-MEDITERRANST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHAN PETER ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0277848",
+        "address": "IMAMTSACKER20,EMBRACH8424SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHAN PETER ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0277848",
+        "address": "IMAMTSACKER20,EMBRACH8424SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 65594",
+  "registration_date": "Jun 12, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

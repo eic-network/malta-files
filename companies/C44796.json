@@ -1,0 +1,44 @@
+{
+  "name": "B & O INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MARCO MONTOFANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN9637645",
+        "address": "VIACESAREBATTISTI,14CASORATESEMPIONE(VA)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "2, INDEPEDENCE SQUARE,",
+  "company_id": "C 44796",
+  "registration_date": "Jul 24, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

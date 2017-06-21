@@ -1,0 +1,103 @@
+{
+  "name": "Bet Passion Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "EVO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68411",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "LCK HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56655",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 114
+        }
+      },
+      {
+        "name": "MCK HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56658",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 114
+        }
+      },
+      {
+        "name": "MGame Holding Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 51394",
+        "address": "SUITE3,64/1,AGITONBUILDING,STANTHONYSTREET,SANGWANNSGN1437MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 738
+        }
+      },
+      {
+        "name": "OGC Company Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 51746",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "QAZA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68404",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREETSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 114
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 3, 64/1, AGITON BUILDINGS, ST. ANTHONY STREET,",
+  "company_id": "C 56661",
+  "registration_date": "Jun 13, 2012",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

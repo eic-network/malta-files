@@ -1,0 +1,78 @@
+{
+  "name": "ASK Advertising Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Marion Mejlak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            273471M",
+        "address": "MaryvaleSt.George`sSiefVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIR,ANTONIOMALLIASTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIR,ANTONIOMALLIASTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIR,ANTONIOMALLIASTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIA SKARAKI\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH0061617",
+        "address": "28B,P.BAKOGIANNI,KIFISSIAATHENS14562GREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Business House Suite 5 Archbishop P Pace Street",
+  "company_id": "C 56465",
+  "registration_date": "May 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1200
+}

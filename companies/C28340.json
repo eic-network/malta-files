@@ -1,0 +1,67 @@
+{
+  "name": "ANGLE MARITIME LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "COOK MANAGEMENT CO.,",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443781M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COOK MANAGEMENT CO.,",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            744752M",
+        "address": "13/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 28340",
+  "registration_date": "Jun 19, 2001",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,89 @@
+{
+  "name": "AQUAMARINE HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ZSOFIA KUNIGUNDA KOROSI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            935923PA",
+        "address": "LOPORTARUTCA8.3EM.5A.,BUDAPEST1134HUNGARY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ZSOFIA KUNIGUNDA KOROSI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            935923PA",
+        "address": "LOPORTARUTCA8.3EM.5A.,BUDAPEST1134HUNGARY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ARIEL HARTUNG\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            057868JA",
+        "address": "36MARTINASZURACALMASH-2459HUNGARY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ZSOFIA KUNIGUNDA KOROSI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            935923PA",
+        "address": "LOPORTARUTCA8.3EM.5A.,BUDAPEST1134HUNGARY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ZSOFIA KUNIGUNDA KOROSI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            935923PA",
+        "address": "LOPORTARUTCA8.3EM.5A.,BUDAPEST1134HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'SAN JUAN', 116/8 ST. GEORGE'S ROAD,",
+  "company_id": "C 50305",
+  "registration_date": "Jul 28, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

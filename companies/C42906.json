@@ -1,0 +1,46 @@
+{
+  "name": "Atlanta Ltd.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04488",
+        "address": "31OAKHILLAPTSTRIQSCICLUNASLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RORY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            134879",
+        "address": "60MARKETSQUAREBELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE 1, ST. ANTHONY COURT, TRIQ IN-NUTAR ZARB",
+  "company_id": "C 42906",
+  "registration_date": "Nov 28, 2007",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1200
+}

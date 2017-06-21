@@ -1,0 +1,184 @@
+{
+  "name": "AVIAWORKS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            641052M",
+        "address": "20Triqil-GardellSANGWANNSGN4253MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVAS,TRIQIL-HARRUB,MADLIENA,SWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "JOHN R. RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURGHR1535MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVAS,TRIQIL-HARRUB,MADLIENA,SWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "JOHN R. RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURGHR1535MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "KENNETH DE MARTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467360M",
+        "address": "SHANTINIVAS,TRIQIL-HARRUB,MADLIENA,SWIEQISWQ1063MALTA"
+      },
+      {
+        "name": "JOHN R. RIPARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642559M",
+        "address": "TAX-XIH,GARDENSTREET,GHARGHURGHR1535MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN RIPARD & SON LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40",
+        "address": "22LASCARISWHARFVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "DAVID ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417465M",
+        "address": "ARZELLAXITWIJATRIQIL-GIZI,VICTORIAGARDENS,IBRAGG,SWIEQISWQ2751MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "MALCOLM CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388072M",
+        "address": "14/1,DINGLISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "JOY NOELLE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118578M",
+        "address": "FLAT5,LADYDIAPARTMENTS,HUGHESHALLETSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "KDM INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 19337",
+        "address": "CAPITALBUSINESSCENTRE,TAZ-ZWEJTSTREET,SANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "22, LASCARIS WHARF,",
+  "company_id": "C 44633",
+  "registration_date": "Jul 03, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

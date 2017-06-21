@@ -1,0 +1,226 @@
+{
+  "name": "A.B.B.X. LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VINCENT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361567M",
+        "address": "FL2,'BAYVIEWAPARTMENTS',TRIQIL-BAJJATAS-SALINA,SALINA,L/ONAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DISMA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177575M",
+        "address": "CENSINAHOUSE,DEJMAROAD,FGURAMALTA"
+      },
+      {
+        "name": "EMMANUEL BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            17663M",
+        "address": "FATIMAHSE.GIUSEPPEHYZLERSTR.MOSTAMALTA"
+      },
+      {
+        "name": "JOHN BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279464M",
+        "address": "JOELHOUSE,GIANNIVELLASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "VINCENT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361567M",
+        "address": "FL2,'BAYVIEWAPARTMENTS',TRIQIL-BAJJATAS-SALINA,SALINA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "PAUL XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29864M",
+        "address": "SILEMA,ST.PAULSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DISMA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177575M",
+        "address": "CENSINAHOUSE,DEJMAROAD,FGURAMALTA"
+      },
+      {
+        "name": "EMMANUEL BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            17663M",
+        "address": "FATIMAHSE.GIUSEPPEHYZLERSTR.MOSTAMALTA"
+      },
+      {
+        "name": "JOHN BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279464M",
+        "address": "JOELHOUSE,GIANNIVELLASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "VINCENT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361567M",
+        "address": "FL2,'BAYVIEWAPARTMENTS',TRIQIL-BAJJATAS-SALINA,SALINA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "PAUL XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29864M",
+        "address": "SILEMA,ST.PAULSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19727",
+        "address": "ZION,QREMPUCSTREETMARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DISMA ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177575M",
+        "address": "CENSINAHOUSE,DEJMAROAD,FGURAMALTA"
+      },
+      {
+        "name": "EMMANUEL BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            17663M",
+        "address": "FATIMAHSE.GIUSEPPEHYZLERSTR.MOSTAMALTA"
+      },
+      {
+        "name": "JOHN BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279464M",
+        "address": "JOELHOUSE,GIANNIVELLASTREET,MOSTAMALTA"
+      },
+      {
+        "name": "VINCENT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361567M",
+        "address": "FL2,'BAYVIEWAPARTMENTS',TRIQIL-BAJJATAS-SALINA,SALINA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "PAUL XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29864M",
+        "address": "SILEMA,ST.PAULSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "D.D.E. ATTARD LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4938",
+        "address": "EXNAAFIHOUSE,DEJMAROAD,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "BONAVIA BROTHERS COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16453",
+        "address": "'SANGUZEPP',TRIQID-DIFIZACIVILI,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "J. Bonavia and Nephews Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 25285",
+        "address": "STFRANCIS,TRIQIL-FORTIZZA,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "V & C CONTRACTORS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 13748",
+        "address": "WHYTEHARTE,TRIQIL-KOSTINJUSNAXXARNXR6352MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "PAUL XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29864M",
+        "address": "SILEMA,ST.PAULSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "\"WHYTE HARTE\", TRIQ SANT'ANTNIN,",
+  "company_id": "C 53523",
+  "registration_date": "Aug 02, 2011",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

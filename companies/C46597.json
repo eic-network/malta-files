@@ -1,0 +1,109 @@
+{
+  "name": "Babbage Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Malcolm Mallia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            852576",
+        "address": "5,TheCourtyard,BaltimoreCoCorkIRELAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Boquiera Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            59166",
+        "address": "Suite15,1stFloorOliajiTradeCentre,FrancisRachelStreet,VictoriaMaheREPUBLICOFSEYCHELLES"
+      },
+      {
+        "name": "Malcolm Mallia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            852576",
+        "address": "5,TheCourtyard,Baltimore,CoCorkIRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Boquiera Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            59166",
+        "address": "Suite15,1stFloorOliajiTradeCentre,FrancisRachelStreet,VictoriaMaheREPUBLICOFSEYCHELLES"
+      },
+      {
+        "name": "Malcolm Mallia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            852576",
+        "address": "5,TheCourtyard,Baltimore,CoCorkIRELAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALEXANDER AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19734",
+        "address": "THECROFT,TRIQIL-KAPPAR,ATTARDATD2283MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Boquiera Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            59166",
+        "address": "Suite15,1stFloorOliajiTradeCentre,FrancisRachelStreet,VictoriaMaheREPUBLICOFSEYCHELLES"
+      },
+      {
+        "name": "Malcolm Mallia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            852576",
+        "address": "5,TheCourtyard,Baltimore,CoCorkIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Boquiera Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            59166",
+        "address": "Suite15,1stFloorOliajiTradeCentre,FrancisRachelStreet,VictoriaMaheREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "Malcolm Mallia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            852576",
+        "address": "5,TheCourtyard,BaltimoreCoCorkBaltimoreCoCorkIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "37 Triq Dun Mikiel Xerri,",
+  "company_id": "C 46597",
+  "registration_date": "Apr 08, 2009",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1500
+}

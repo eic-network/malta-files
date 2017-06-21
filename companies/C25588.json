@@ -1,0 +1,95 @@
+{
+  "company_id": "C 25588",
+  "address": "75, EDERA , VJAL COTTONER,",
+  "name": "BRITTANIA PHARMACY LIMITED",
+  "locality": "FGURA",
+  "status": "",
+  "registration_date": "Dec 16, 1999",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARTIN CROUCHER\r",
+        "party_id": "                                                            567658M",
+        "address": "ALCOVE,M.A.SAPIANOSTREET,LUQAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "VICTOR SCIRIHA\r",
+        "party_id": "                                                            753050M",
+        "address": "BRAESIDE,TAS-SILGROAD,MARSAXLOKKMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARTIN CROUCHER\r",
+        "party_id": "                                                            567658M",
+        "address": "ALCOVE,M.A.SAPIANOSTREET,LUQAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "VICTOR SCIRIHA\r",
+        "party_id": "                                                            753050M",
+        "address": "BRAESIDE,TAS-SILGROAD,MARSAXLOKKMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN CROUCHER\r",
+        "party_id": "                                                            567658M",
+        "address": "ALCOVE,M.A.SAPIANOSTREET,LUQAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "VICTOR SCIRIHA\r",
+        "party_id": "                                                            753050M",
+        "address": "BRAESIDE,TAS-SILGROAD,MARSAXLOKKMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARTIN CROUCHER\r",
+        "party_id": "                                                            567658M",
+        "address": "ALCOVE,M.A.SAPIANOSTREET,LUQAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARMANIN CAUCHI & CO\r",
+        "party_id": "                                                            AB/26/84/78",
+        "address": "75,VJALKOTTONER,FGURAFGR1386MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

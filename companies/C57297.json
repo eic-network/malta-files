@@ -1,0 +1,129 @@
+{
+  "name": "B1 MUSIC HOLDING LIMITED",
+  "total_issued_shares_value": 2646764,
+  "total_authorised_shares_value": 5000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2640264,
+      "type": "Ordinary",
+      "authorised_share_capital": 4993500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 6499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "57,CATHEDRALSTREET,SLIEMASLM1522MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREETST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WOLFGANG ROLF BOSS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YM9PGTW",
+        "address": "FLAT2,11,199,KNIGHTSBRIDGE,LONDONSW71RHUNITEDKINGDOM"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREETST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WOLFGANG ROLF BOSS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YM9PGTW",
+        "address": "FLAT2,11,199,KNIGHTSBRIDGE,LONDONSW71RHUNITEDKINGDOM"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREETST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WOLFGANG ROLF BOSS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YM9PGTW",
+        "address": "FLAT2,11,199,KNIGHTSBRIDGE,LONDONSW71RHUNITEDKINGDOM"
+      },
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREETST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WOLFGANG ROLF BOSS\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YM9PGTW",
+        "address": "FLAT2,11,199,KNIGHTSBRIDGE,LONDONSW71RHUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2640264
+        }
+      },
+      {
+        "name": "TAISIA DEEVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63NO.9312626",
+        "address": "FLAT2,11,199,KNIGHTSBRIDGE,LONDONSW71RHUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2646764,
+  "address": "93 MILL STREET",
+  "company_id": "C 57297",
+  "registration_date": "Aug 21, 2012",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000000
+}

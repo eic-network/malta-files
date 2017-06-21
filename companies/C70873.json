@@ -1,0 +1,107 @@
+{
+  "name": "BENCINI INVESTMENTS LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GODWIN E. BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "36,FL3Triqil-GejzaSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GODWIN E. BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "36,FL3Triqil-GejzaSWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "36,FL3Triqil-GejzaSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GODWIN E. BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA"
+      },
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "36,FL3Triqil-GejzaSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRAHAM BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            420876M",
+        "address": "36,FL3Triqil-GejzaSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "GODWIN E. BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353642M",
+        "address": "235,FL2,BELGRAVIACOURT,TOWERROAD,SLIEMASLM1601MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "103, ARCHBISHOP STREET,",
+  "company_id": "C 70873",
+  "registration_date": "Jun 02, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

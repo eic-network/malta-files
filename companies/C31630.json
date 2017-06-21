@@ -1,0 +1,91 @@
+{
+  "name": "ASTER CO. LTD.",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES CASSANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570049M",
+        "address": "264,MAINSTREET,MELLIEHAMLH2317MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARTHUR JAMES BIGENI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46274M",
+        "address": "CASABIGENIGALEA,149,RACECOURSESTREET,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARTHUR JAMES BIGENI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46274M",
+        "address": "CASABIGENIGALEA,149,RACECOURSESTREET,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARTHUR JAMES BIGENI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46274M",
+        "address": "CASABIGENIGALEA,149,RACECOURSESTREET,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARTHUR JAMES BIGENI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46274M",
+        "address": "CASABIGENIGALEA,149,RACECOURSESTREET,XAGHRA(GOZO)XRA104MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1960
+        }
+      },
+      {
+        "name": "DONNA MARIE BIGENI\r",
+        "nationality": "",
+        "party_id": "                                                            17719A",
+        "address": "149,'CASABIGENIGALEA',TRIQIT-TIGRIJA,XAGHRA(GOZO)XRA104MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 40
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "149, CASA BIGENI GALEA, TRIQ IT-TIGRIJA",
+  "company_id": "C 31630",
+  "registration_date": "Jun 20, 2003",
+  "shares_currency": "EUR",
+  "locality": "XAGHRA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 2000
+}

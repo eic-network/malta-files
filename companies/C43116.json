@@ -1,0 +1,65 @@
+{
+  "name": "ALTO COMMODITIES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "GRIFFITHS & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/51",
+        "address": "IVYMANSIONSTRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ZELTEN HOLDINGS INC.\r",
+        "nationality": "",
+        "party_id": "                                                            65982",
+        "address": "60,MARKETSQUARE,POBOX364BELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "G & A ADVISORY SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 37452",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "C, IVY MANSIONS, TRIQ IL-QASAM",
+  "company_id": "C 43116",
+  "registration_date": "Dec 17, 2007",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 2000
+}

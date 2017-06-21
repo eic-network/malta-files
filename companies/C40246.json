@@ -1,0 +1,104 @@
+{
+  "name": "AQUICOLL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 4600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10657M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARTIN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            530554M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "MATTHEW AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            375580M",
+        "address": "141,OLDCOLLEGESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "PAUL AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255887M",
+        "address": "3,MRABATSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3,  MRABAT STREET,",
+  "company_id": "C 40246",
+  "registration_date": "Dec 14, 2006",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 4600
+}

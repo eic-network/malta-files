@@ -1,0 +1,78 @@
+{
+  "name": "AVETA LTD",
+  "total_issued_shares_value": 1001165,
+  "total_authorised_shares_value": 13001165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1001165,
+      "type": "Ordinary",
+      "authorised_share_capital": 13001165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLAIRE SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146984M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICOLAI VELLA FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690064",
+        "address": "13,TRIQTAL-MIELAH,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICOLAI VELLA FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690064",
+        "address": "13,TRIQTAL-MIELAH,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTOINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10770",
+        "address": "16,TRIQIX-XEFAQ,DINGLIDGL1577MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICOLAI VELLA FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            690064",
+        "address": "13,TRIQTAL-MIELAH,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Lemax Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 48063",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1001165
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1001165,
+  "address": "85, ST. JOHN STREET,",
+  "company_id": "C 63958",
+  "registration_date": "Feb 21, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 13001165
+}

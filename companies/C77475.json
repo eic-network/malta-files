@@ -1,0 +1,101 @@
+{
+  "company_id": "C 77475",
+  "address": "PARKFIELD, PENTHOUSE 5, TRIQ IL-MERHBA,",
+  "name": "3CALL LIMITED",
+  "locality": "FGURA",
+  "status": "",
+  "registration_date": "Oct 04, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ERNESTO MIGLIAZZI\r",
+        "party_id": "                                                            AU1858191",
+        "address": "VIAFRUGAROLO6,CASALCERMELLI(AL)ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "GIANLUCA TUFANO\r",
+        "party_id": "                                                            AU1851244",
+        "address": "VIAMONTEGRAPPA8,ALESSANDRIAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERNESTO MIGLIAZZI\r",
+        "party_id": "                                                            AU1858191",
+        "address": "VIAFRUGAROLO6,CASALCERMELLI(AL)ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "GIANLUCA TUFANO\r",
+        "party_id": "                                                            AU1851244",
+        "address": "VIAMONTEGRAPPA8,ALESSANDRIAITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERNESTO MIGLIAZZI\r",
+        "party_id": "                                                            AU1858191",
+        "address": "VIAFRUGAROLO6,CASALCERMELLI(AL)ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "GIANLUCA TUFANO\r",
+        "party_id": "                                                            AU1851244",
+        "address": "VIAMONTEGRAPPA8,ALESSANDRIAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERNESTO MIGLIAZZI\r",
+        "party_id": "                                                            AU1858191",
+        "address": "VIAFRUGAROLO6,CASALCERMELLI(AL)ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "GIANLUCA TUFANO\r",
+        "party_id": "                                                            AU1851244",
+        "address": "VIAMONTEGRAPPA8,ALESSANDRIAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ERNESTO MIGLIAZZI\r",
+        "party_id": "                                                            AU1858191",
+        "address": "VIAFRUGAROLO6,CASALCERMELLI(AL)ITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "BETAN CONSULTANTS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIETRO ZAGARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH1886312",
+        "address": "VIAF.FERRUCCI224ANDRIAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIETRO ZAGARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH1886312",
+        "address": "VIAF.FERRUCCI224ANDRIAITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIETRO ZAGARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH1886312",
+        "address": "VIAF.FERRUCCI224ANDRIAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIETRO ZAGARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH1886312",
+        "address": "VIAF.FERRUCCI224ANDRIAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN08MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PIETRO ZAGARIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AH1886312",
+        "address": "VIAF.FERRUCCI224ANDRIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "SUITE 2, INTERNATIONAL HOUSE NAXXAR ROAD",
+  "company_id": "C 40643",
+  "registration_date": "Jan 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 3000
+}

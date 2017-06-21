@@ -1,0 +1,103 @@
+{
+  "name": "BERFIN INVESTMENTS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDATD3111MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 51322",
+  "registration_date": "Dec 02, 2010",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

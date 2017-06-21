@@ -1,0 +1,109 @@
+{
+  "company_id": "C 68498",
+  "address": "3RD FLOOR, NAVI BUILDINGS, PANTAR ROAD,",
+  "name": "BOWMORE INVESTMENTS LTD",
+  "locality": "LIJA",
+  "status": "",
+  "registration_date": "Jan 08, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "AB INITIO LIMITED\r",
+        "party_id": "                                                            C 32316",
+        "address": "68/69,MELITASTREETVALLETTAMALTA",
+        "nationality": ""
+      },
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JPK INVESTMENTS LTD\r",
+        "party_id": "                                                            C 66026",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SN HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 64459",
+        "address": "68,MELITASTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AB INITIO LIMITED\r",
+        "party_id": "                                                            C 32316",
+        "address": "68/69,MELITASTREETVALLETTAMALTA",
+        "nationality": ""
+      },
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AB INITIO LIMITED\r",
+        "party_id": "                                                            C 32316",
+        "address": "68/69,MELITASTREETVALLETTAMALTA",
+        "nationality": ""
+      },
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NORVAL DESIRA\r",
+        "party_id": "                                                            430764M",
+        "address": "68/69,MELITASTREETVALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GRECH\r",
+        "party_id": "                                                            10335",
+        "address": "'LILAC',GUZEPPIBRIFFASTREETKERCEM(GOZO)KCM1202MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

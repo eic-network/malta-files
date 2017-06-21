@@ -1,0 +1,101 @@
+{
+  "name": "BIONDO S.M. LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARCO BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0127174A",
+        "address": "DJSCOURT,FLAT3,TRIQL-IMHALLEFPAOLODEBONO,MSIDAMALTA"
+      },
+      {
+        "name": "SALVATORE BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0117083A",
+        "address": "102,ST.PAUL'SAPARTMENTS,APARTMENT3,CANONROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0127174A",
+        "address": "DJSCOURT,FLAT3,TRIQL-IMHALLEFPAOLODEBONO,MSIDAMALTA"
+      },
+      {
+        "name": "SALVATORE BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0117083A",
+        "address": "102,ST.PAUL'SAPARTMENTS,APARTMENT3,CANONROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0127174A",
+        "address": "DJSCOURT,FLAT3,TRIQL-IMHALLEFPAOLODEBONO,MSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0127174A",
+        "address": "DJSCOURT,FLAT3,TRIQL-IMHALLEFPAOLODEBONO,MSIDAMALTA"
+      },
+      {
+        "name": "SALVATORE BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0117083A",
+        "address": "102,ST.PAUL'SAPARTMENTS,APARTMENT3,CANONROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARCO BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0127174A",
+        "address": "DJSCOURT,FLAT3,TRIQL-IMHALLEFPAOLODEBONO,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SALVATORE BIONDO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0117083A",
+        "address": "102,ST.PAUL'SAPARTMENTS,APARTMENT3,CANONROAD,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "102, ST.PAUL'S APT, FLAT 3, CANNON ROAD,",
+  "company_id": "C 68287",
+  "registration_date": "Dec 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

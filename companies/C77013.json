@@ -1,0 +1,89 @@
+{
+  "name": "AMASIA CAPITAL LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NIRAV PATEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            306561998",
+        "address": "DORMERS,BELLINGDON,CHESHAM,BUCKINGHAMSHIRE,HP52XNUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NIRAV PATEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            306561998",
+        "address": "DORMERS,BELLINGDON,CHESHAM,BUCKINGHAMSHIRE,HP52XNUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NIRAV PATEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            306561998",
+        "address": "DORMERS,BELLINGDON,CHESHAM,BUCKINGHAMSHIRE,HP52XNUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NIRAV PATEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            306561998",
+        "address": "DORMERS,BELLINGDON,CHESHAM,BUCKINGHAMSHIRE,HP52XNUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RODINIA CAPITAL HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 77010",
+        "address": "60/2,MELITASTREET,VALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "SHASHIKANT PATADE RAJESH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            517992784",
+        "address": "FLAT3BDUNROBINCOURT,389FINCHLEYROAD,LONDONNW36HEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 77013",
+  "registration_date": "Aug 26, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

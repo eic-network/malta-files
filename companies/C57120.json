@@ -1,0 +1,91 @@
+{
+  "name": "BIZAGI GROUP LTD.",
+  "total_issued_shares_value": 7199128.97,
+  "total_authorised_shares_value": 10000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 719912897,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000000000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANA SMERA\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            150410A",
+        "address": "180,RUDOLPHSTREETSLIEMASLM1278MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KOEN MARIA J. LOZIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            142790A",
+        "address": "180,RUDOLPHSTREET,SLIEMASLM1278MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KOEN MARIA J. LOZIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            142790A",
+        "address": "180,RUDOLPHSTREET,SLIEMASLM1278MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KOEN MARIA J. LOZIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            142790A",
+        "address": "180,RUDOLPHSTREET,SLIEMASLM1278MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AVER TRUSTEES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35675",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 683917252
+        }
+      },
+      {
+        "name": "GUSTAVO IGNACIO GOMEZ GONZALEZ\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099032897",
+        "address": "5,LARCHWOOD,WINSTONCLOSE,CHESHAMBOIS,AMERSHAM,BUCKINGHAMSHIREHP65PJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 35995645
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 719912897,
+  "address": "49, Fontana Mansions, 2 Bisazza Street",
+  "company_id": "C 57120",
+  "registration_date": "Aug 01, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1000000000
+}

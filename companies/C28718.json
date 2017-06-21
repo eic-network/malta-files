@@ -1,0 +1,83 @@
+{
+  "company_id": "C 28718",
+  "address": "49, PATRI DELIA STREET",
+  "name": "3C LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Sep 05, 1991",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1750,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1750
+    }
+  ],
+  "total_authorised_shares": 1750,
+  "total_authorised_shares_value": 1750,
+  "total_issued_shares": 1750,
+  "total_issued_shares_value": 1750,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HANS-LOTHAR SLABIK\r",
+        "party_id": "                                                            25283A",
+        "address": "GLEANEAGLESFLAT4,FORRESTSTREETST.JULIANSMALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAX HOLLIGER\r",
+        "party_id": "                                                            5585245",
+        "address": "POSTRASSE1-POSTFACHOETWILLSWITZERLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 875,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "HANS-LOTHAR SLABIK\r",
+        "party_id": "                                                            25283A",
+        "address": "GLEANEAGLESFLAT4,FORRESTSTREETST.JULIANSMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 875,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HANS-LOTHAR SLABIK\r",
+        "party_id": "                                                            25283A",
+        "address": "GLEANEAGLESFLAT4,FORRESTSTREETST.JULIANSMALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HANS-LOTHAR SLABIK\r",
+        "party_id": "                                                            25283A",
+        "address": "GLEANEAGLESFLAT4,FORRESTSTREETST.JULIANSMALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "HANS-LOTHAR SLABIK\r",
+        "party_id": "                                                            25283A",
+        "address": "GLEANEAGLESFLAT4,FORRESTSTREETST.JULIANSMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

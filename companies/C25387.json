@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 2922,
+  "registration_date": "Nov 07, 1989",
+  "status": "",
+  "locality": "QORMI",
+  "name": "BRUMMEL HOLDINGS LTD.",
+  "total_issued_shares": 6000,
+  "address": "93, Mill Street,",
+  "company_id": "C 25387",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 16564",
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "TACRIS,GARDENCRESCENT,UPPERGARDENS,ST.JULIANSSTJ1923MALTA",
+        "party_id": "                                                            837457M",
+        "name": "CHRISTOPHER GALEA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 16564",
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Directors": [
+      {
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 16564",
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "40,TRIQMAITLAND,HAMRUNMALTA",
+        "party_id": "                                                            48046",
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0.487,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 16564",
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0.487,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 16564",
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 0.487,
+      "issued_shares": 6000,
+      "authorised_share_capital": 6000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 6000,
+  "total_authorised_shares_value": 2922,
+  "shares_currency": "EUR"
+}

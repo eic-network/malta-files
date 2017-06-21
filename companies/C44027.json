@@ -1,0 +1,138 @@
+{
+  "name": "ARKAYL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KARL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            931750M",
+        "address": "22,TRIQSANGORGMARSASCALAMALTA"
+      },
+      {
+        "name": "ARSLAN YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22256A",
+        "address": "PARADISECOURT,FLAT4,TRIQIL-HGEJJEG,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "AYMA YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22257A",
+        "address": "50,PARADISECOURT,NUMBER4,TRIQIL-HGEJJEG,ST.PAUL'SBAYSPB2825MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KARL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            931750M",
+        "address": "22,TRIQSANGORGMARSASCALAMALTA"
+      },
+      {
+        "name": "ARSLAN YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22256A",
+        "address": "PARADISECOURT,FLAT4,TRIQIL-HGEJJEG,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "AYMA YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22257A",
+        "address": "50,PARADISECOURT,NUMBER4,TRIQIL-HGEJJEG,ST.PAUL'SBAYSPB2825MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "AYMA YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22257A",
+        "address": "50,PARADISECOURT,NUMBER4,TRIQIL-HGEJJEG,ST.PAUL'SBAYSPB2825MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            931750M",
+        "address": "22,TRIQSANGORGMARSASCALAMALTA"
+      },
+      {
+        "name": "ARSLAN YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22256A",
+        "address": "PARADISECOURT,FLAT4,TRIQIL-HGEJJEG,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "AYMA YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22257A",
+        "address": "50,PARADISECOURT,NUMBER4,TRIQIL-HGEJJEG,ST.PAUL'SBAYSPB2825MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KARL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            931750M",
+        "address": "22,TRIQSANGORGMARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ARSLAN YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22256A",
+        "address": "PARADISECOURT,FLAT4,TRIQIL-HGEJJEG,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "AYMA YOUSAF KHAN\r",
+        "nationality": "PAKISTANI",
+        "party_id": "                                                            22257A",
+        "address": "50,PARADISECOURT,NUMBER4,TRIQIL-HGEJJEG,ST.PAUL'SBAYSPB2825MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO 1, TRIQ SAN FRANGISK,",
+  "company_id": "C 44027",
+  "registration_date": "Apr 15, 2008",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

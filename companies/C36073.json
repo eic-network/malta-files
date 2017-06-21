@@ -1,0 +1,83 @@
+{
+  "name": "ASTRABET LTD.",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIO STANZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0055123A",
+        "address": "FLT5,WATERSIDEAPARTMENTS,TRIQTONIBAJADA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIO STANZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0055123A",
+        "address": "FLT5,WATERSIDEAPARTMENTS,TRIQTONIBAJADA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JACLIN MILENA GUERRERO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2344713",
+        "address": "68,WATERSIDE,FL5,TRIQONIBAJADA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIO STANZANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0055123A",
+        "address": "FLT5,WATERSIDEAPARTMENTS,TRIQTONIBAJADA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTRA 365 MALTA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68174",
+        "address": "EUROMEDCENTRE,264,MAINSTREET,MELLIEHAMLH2317MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "FLAT 1, EUROMED, 264, MAIN STREET,",
+  "company_id": "C 36073",
+  "registration_date": "Apr 22, 2005",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

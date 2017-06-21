@@ -1,0 +1,95 @@
+{
+  "name": "A 1Hz Services Ltd",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEFFEN HOFMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7651160189D",
+        "address": "Ul.Barklaja16/4,MOSCOW121033RUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFFEN HOFMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7651160189D",
+        "address": "Ul.Barklaja16/4,MOSCOW121033RUSSIANFEDERATION"
+      },
+      {
+        "name": "ANDRE PAVLOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO7820663",
+        "address": "NISHNILOMOVSKRAJON21,SELOVIRGA,VIRGA442141RUSSIANFEDERATION"
+      },
+      {
+        "name": "VLADIMIR SEMIKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO3422412",
+        "address": "Ul.Suvorovo180/9,PENZA440012RUSSIANFEDERATION"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEFFEN HOFMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7651160189D",
+        "address": "Ul.Barklaja16/4,MOSCOW121033RUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFFEN HOFMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7651160189D",
+        "address": "Ul.Barklaja16/4,MOSCOW121033RUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEFFEN HOFMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            7651160189D",
+        "address": "Ul.Barklaja16/4,MOSCOW121033RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SUSAN NEUMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1000561658D",
+        "address": "AUGUSTBEBELSTR15,ROSSWEIN0471GERMANY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "84,  Triq il-Barbagann, Kappara,",
+  "company_id": "C 38805",
+  "registration_date": "May 26, 2006",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

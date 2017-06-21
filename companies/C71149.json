@@ -1,0 +1,103 @@
+{
+  "name": "BEDROCK INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALEXANDRE MIGUEL DE OLIVIERA CARVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N697154",
+        "address": "9-3,RUAALDANOGUEIRALISBON1400-416PORTUGAL"
+      },
+      {
+        "name": "CONRAD MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0313789M",
+        "address": "52,IVYTriqil-GummarBIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TIAGO DAVID MARTINS FARIAS LOURENCO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M197018",
+        "address": "102-1,RUAGUILHERMEGOMESFERNANDES,ODIVELAS2675-368PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TIAGO DAVID MARTINS FARIAS LOURENCO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M197018",
+        "address": "102-1,RUAGUILHERMEGOMESFERNANDES,ODIVELAS2675-368PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TIAGO DAVID MARTINS FARIAS LOURENCO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M197018",
+        "address": "102-1,RUAGUILHERMEGOMESFERNANDES,ODIVELAS2675-368PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDRE MIGUEL DE OLIVIERA CARVALHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N697154",
+        "address": "9-3,RUAALDANOGUEIRALISBON1400-416PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "TIAGO DAVID MARTINS FARIAS LOURENCO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M197018",
+        "address": "102-1,RUAGUILHERMEGOMESFERNANDES,ODIVELAS2675-368PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ABACUS BUSINESS CENTRE, LEVEL 1, DUN KARM STREET, B'KARA BYPASS,",
+  "company_id": "C 71149",
+  "registration_date": "Jun 22, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

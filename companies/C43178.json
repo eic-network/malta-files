@@ -1,0 +1,183 @@
+{
+  "company_id": "C 43178",
+  "address": "CORPORATE HOUSE, 10, ORATORY STREET,",
+  "name": "BRND WGN Co. Ltd",
+  "locality": "NAXXAR",
+  "status": "",
+  "registration_date": "Dec 21, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 18360,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 18360
+    },
+    {
+      "authorised_share_capital": 9720,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 9720
+    },
+    {
+      "authorised_share_capital": 7920,
+      "type": "OrdinaryC",
+      "nominal_value_per_share": 1,
+      "issued_shares": 7920
+    }
+  ],
+  "total_authorised_shares": 36000,
+  "total_authorised_shares_value": 36000,
+  "total_issued_shares": 36000,
+  "total_issued_shares_value": 36000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PETER JAN GRECH\r",
+        "party_id": "                                                            298280M",
+        "address": "200MARY'SHOUSETRIQANNIBALEPRECALIJALJA1919MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTOPHER LESLIE KNIGHTS\r",
+        "party_id": "                                                            27957A",
+        "address": "62,TRIQSANBARTILMEWGHARGHURGHR1012MALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "GARETH SCIBERRAS\r",
+        "party_id": "                                                            194783M",
+        "address": "12,TRIQIL-GLADJOLI,SANGWANNSGN1371MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "KRISTIAN VELLA PETRONI\r",
+        "party_id": "                                                            00482M",
+        "address": "MYSTIQUEAPTS,FLT5,ST.PAUL'SSTREET,NAXXARNXR4016MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER JAN GRECH\r",
+        "party_id": "                                                            298280M",
+        "address": "200MARY'SHOUSETRIQANNIBALEPRECALIJALJA1919MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 18360,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "KRISTIAN VELLA PETRONI\r",
+        "party_id": "                                                            00482M",
+        "address": "MYSTIQUEAPTS,FLAT5,ST.PAUL'SSTREET,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 9720,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CHRISTOPHER LESLIE KNIGHTS\r",
+        "party_id": "                                                            27957A",
+        "address": "62,TRIQSANBARTILMEWGHARGHURGHR1012MALTA",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 6840,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "GARETH SCIBERRAS\r",
+        "party_id": "                                                            194783M",
+        "address": "12,TRIQIL-GLADJOLI,SANGWANNSGN1371MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1080,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER JAN GRECH\r",
+        "party_id": "                                                            298280M",
+        "address": "200MARY'SHOUSETRIQANNIBALEPRECALIJALJA1919MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTOPHER LESLIE KNIGHTS\r",
+        "party_id": "                                                            27957A",
+        "address": "62,TRIQSANBARTILMEWGHARGHURGHR1012MALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "GARETH SCIBERRAS\r",
+        "party_id": "                                                            194783M",
+        "address": "12,TRIQIL-GLADJOLI,SANGWANNSGN1371MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "KRISTIAN VELLA PETRONI\r",
+        "party_id": "                                                            00482M",
+        "address": "MYSTIQUEAPTS,FLT5,ST.PAUL'SSTREET,NAXXARNXR4016MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER JAN GRECH\r",
+        "party_id": "                                                            298280M",
+        "address": "200MARY'SHOUSETRIQANNIBALEPRECALIJALJA1919MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTOPHER LESLIE KNIGHTS\r",
+        "party_id": "                                                            27957A",
+        "address": "62,TRIQSANBARTILMEWGHARGHURGHR1012MALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "GARETH SCIBERRAS\r",
+        "party_id": "                                                            194783M",
+        "address": "12,TRIQIL-GLADJOLI,SANGWANNSGN1371MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "KRISTIAN VELLA PETRONI\r",
+        "party_id": "                                                            00482M",
+        "address": "MYSTIQUEAPTS,FLT5,ST.PAUL'SSTREET,NAXXARNXR4016MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GARETH SCIBERRAS\r",
+        "party_id": "                                                            194783M",
+        "address": "12,TRIQIL-GLADJOLI,SANGWANNSGN1371MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE\r",
+        "party_id": "                                                            AB/26/84/76",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "company_id": "C 81105",
+  "address": "LEVEL 7, THE PLAZA BUSINESS CENTRE, BISAZZA STREET,",
+  "name": "BROMAR PUBLICATIONS LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "May 30, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MATTHEW BONNICI\r",
+        "party_id": "                                                            1196071",
+        "address": "NO.4,TRIQIX-XNIENSANGWANNSGN1661MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INDEPENDENT MOBILE PRODUCTIONS LTD\r",
+        "party_id": "                                                            C 72884",
+        "address": "LEVEL7,THEPLAZABUSINESSCENTRE,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW BONNICI\r",
+        "party_id": "                                                            1196071",
+        "address": "NO.4,TRIQIX-XNIENSANGWANNSGN1661MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW BONNICI\r",
+        "party_id": "                                                            1196071",
+        "address": "NO.4,TRIQIX-XNIENSANGWANNSGN1661MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BEVERLY PACE\r",
+        "party_id": "                                                            284589M",
+        "address": "KING'SLANDING,TRIQHAL-GHARGHUR,BIRKIRKARABKR2901MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "company_id": "C 28196",
+  "address": "198, OLD BAKERY STREET,",
+  "name": "BOZONA MARITIME LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 18, 2001",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOZONA HOLDINGS INC\r",
+        "party_id": "                                                            C102434",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

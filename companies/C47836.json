@@ -1,0 +1,78 @@
+{
+  "name": "BLUEBERRY PARK LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "DOREEN TURNER BILOCCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            342069M",
+        "address": "13,CURATEFENECHSTREET,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ERIC GIET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03EC81826",
+        "address": "74,RUEDESEVRES,PARIS75007FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERIC GIET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03EC81826",
+        "address": "74,RUEDESEVRES,PARIS75007FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ERIC GIET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03EC81826",
+        "address": "74,RUEDESEVRES,PARIS75007FRANCE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERIC GIET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03EC81826",
+        "address": "74,RUEDESEVRES,PARIS75007FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERIC GIET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03EC81826",
+        "address": "74,RUEDESEVRES,PARIS75007FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "13, CURATE FENECH STREET,",
+  "company_id": "C 47836",
+  "registration_date": "Oct 01, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

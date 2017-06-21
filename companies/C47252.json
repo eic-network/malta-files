@@ -1,0 +1,78 @@
+{
+  "name": "Anchor Corporate Services Ltd",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DION BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423468M",
+        "address": "48,PARISHSTREET,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DION BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423468M",
+        "address": "48,PARISHSTREET,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DION BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423468M",
+        "address": "48,PARISHSTREET,SANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RALPH PULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386174M",
+        "address": "4,ST.MICHAEL,GUZEGALEASTREETQORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DION BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423468M",
+        "address": "48,PARISHSTREET,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID CAMILLERI PODESTA'\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            500280M",
+        "address": "VILLAFERRIS,NOTABILEROAD,ATTARDATD9036MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "1A, ST. MARK STREET,",
+  "company_id": "C 47252",
+  "registration_date": "Jul 09, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

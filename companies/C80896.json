@@ -1,0 +1,89 @@
+{
+  "name": "A.F. Properties Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Adrian Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "Block2,Flat1,Ta'SanTumas,Triqil-Gandoffli,MARSASCALAMSK3012MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Adrian Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "Block2,Flat1,Ta'SanTumas,Triqil-Gandoffli,MARSASCALAMSK3012MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Charlene Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            180582M",
+        "address": "210,Apt4,ManuelDimechStreet,SLIEMASLM1050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Adrian Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "Block2,Flat1,Ta'SanTumas,Triqil-Gandoffli,MARSASCALAMSK3012MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A.F. & Sons Ltd \r",
+        "nationality": "",
+        "party_id": "                                                            C 63296",
+        "address": "AbacusBusinessCentre,Level1,DunKarmStreet,B'KaraBypass,BIRKIRKARABKR9037MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "Adrian Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "Block2,Flat1,Ta'SanTumas,Triqil-Gandoffli,MARSASCALAMSK3012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Abacus Business Centre, Level 1, Dun Karm Street, B'Kara Bypass,",
+  "company_id": "C 80896",
+  "registration_date": "May 17, 2017",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

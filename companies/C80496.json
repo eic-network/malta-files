@@ -1,0 +1,102 @@
+{
+  "company_id": "C 80496",
+  "address": "114 The Strand",
+  "name": "BROLDAV LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Apr 17, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 875,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "party_id": "                                                            31171M",
+        "address": "2,THECOTTAGE,TRIQHANNIBAL,ATTARDATD3111MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "party_id": "                                                            143785M",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "name": "ALLIED FINANCE MALTA LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "THOMAS KARL EDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90559840",
+        "address": "INGASSEN18,8001ZURICHSWITZERLAND"
+      },
+      {
+        "name": "BERNHARD WILHELM LAMPERT\r",
+        "nationality": "LIECHTENSTEIN",
+        "party_id": "                                                            R27563",
+        "address": "BERGSTRASSE53,TRIESEN9495LIECHTENSTEIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUCA CASTELLAZZI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4499750",
+        "address": "GLADBACHSTRASSE51,ZURICH8044SWITZERLAND"
+      },
+      {
+        "name": "THOMAS KARL EDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90559840",
+        "address": "INGASSEN18,8001ZURICHSWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUCA CASTELLAZZI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4499750",
+        "address": "GLADBACHSTRASSE51,ZURICH8044SWITZERLAND"
+      },
+      {
+        "name": "THOMAS KARL EDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90559840",
+        "address": "INGASSEN18,8001ZURICHSWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "GRANTTHORNTONHOUSE,PRINCESSELIZABETHSTREET,TA'XBIEXXBX1104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUCA CASTELLAZZI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4499750",
+        "address": "GLADBACHSTRASSE51,ZURICH8044SWITZERLAND"
+      },
+      {
+        "name": "THOMAS KARL EDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90559840",
+        "address": "INGASSEN18,8001ZURICHSWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THOMAS KARL EDLUND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90559840",
+        "address": "INGASSEN18,8001ZURICHSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "BERNHARD WILHELM LAMPERT\r",
+        "nationality": "LIECHTENSTEIN",
+        "party_id": "                                                            R27563",
+        "address": "BERGSTRASSE53,TRIESEN9495LIECHTENSTEIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 53891",
+  "registration_date": "Sep 20, 2011",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

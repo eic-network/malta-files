@@ -1,0 +1,83 @@
+{
+  "name": "ANTOINE NAVIGATION LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GEORGES I. KFOURI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL1491536",
+        "address": "GEORGESKOURIBLDG.,SEASTREET,NORTHLEBANON,CHEKKALEBANON"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGES I. KFOURI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL1491536",
+        "address": "GEORGESKOURIBLDG.,SEASTREET,NORTHLEBANON,CHEKKALEBANON"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHEL A DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            287362M",
+        "address": "18/2,SOUTHSTREET,VALLETTAVLT11MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGES I. KFOURI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL1491536",
+        "address": "GEORGESKOURIBLDG.,SEASTREET,NORTHLEBANON,CHEKKALEBANON"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IBRAHIM KFOURY\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL0761789",
+        "address": "IBRAHIMKFOURYBLDG.,SEASTREET,NORTHERNLEBANON,CHEKKALEBANON",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MILAD KFOURY\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL1674008",
+        "address": "MILADKFOURYBLDG.,SEASTREET,NORTHERNLEBANON,CHEKKALEBANON",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 34376",
+  "registration_date": "Jul 28, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

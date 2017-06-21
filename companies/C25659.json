@@ -1,0 +1,59 @@
+{
+  "name": "ATHINOULA MARITIME LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DIMITRIOS APESSAKIS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "71,VASS.GEORGIOUAVENUE,GLYFADA,16674,ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CORSTON ESTATES LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "KORFUS SHIPMANAGEMENT LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 25659",
+  "registration_date": "Dec 30, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

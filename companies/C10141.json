@@ -1,0 +1,185 @@
+{
+  "name": "ANDAVIA PROPERTIES LTD",
+  "total_issued_shares_value": 11180.99,
+  "total_authorised_shares_value": 11180.99,
+  "authorised_shares": [
+    {
+      "issued_shares": 594,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 594,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1782,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1782,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 594,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 594,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 18,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 18,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1812,
+      "type": "RedeemablePreferenceA",
+      "authorised_share_capital": 1812,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316645M",
+        "address": "LAZARVILLE,MADLIENAROAD,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316645M",
+        "address": "LAZARVILLE,MADLIENAROAD,SWIEQIMALTA"
+      },
+      {
+        "name": "JOSEPH ANDREA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            493880M",
+        "address": "129,FLAT2,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316645M",
+        "address": "LAZARVILLE,MADLIENAROAD,SWIEQIMALTA"
+      },
+      {
+        "name": "JOSEPH ANDREA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            493880M",
+        "address": "129,FLAT2,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316645M",
+        "address": "LAZARVILLE,MADLIENAROAD,SWIEQIMALTA"
+      },
+      {
+        "name": "JOSEPH ANDREA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            493880M",
+        "address": "129,FLAT2,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVINA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386879M",
+        "address": "LAZARVILLE,TRIQIL-INGINIER,MADLIENASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 594
+        }
+      },
+      {
+        "name": "JOSEPH PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            316645M",
+        "address": "LAZARVILLE,MADLIENAROAD,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 15
+        }
+      },
+      {
+        "name": "VENERA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            225751M",
+        "address": "LAZARVILLE,MADLIENAROAD,MADLIENASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 3
+        }
+      },
+      {
+        "name": "J.L. LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48442",
+        "address": "PRELUNAHOTEL,TOWERROAD,SLIEMASLM1000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1188
+        }
+      },
+      {
+        "name": "ANDREA PRECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            493880M",
+        "address": "129,FLAT2,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 594
+        }
+      },
+      {
+        "name": "MARIA LOUISA MANSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            261982M",
+        "address": "FLAT8,105,OLDCOLLEGESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 594
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4800,
+  "address": "PRELUNA HOTEL, TOWER ROAD,",
+  "company_id": "C 10141",
+  "registration_date": "Dec 07, 1988",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 4800
+}

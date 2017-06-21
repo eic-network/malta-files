@@ -1,0 +1,97 @@
+{
+  "name": "ARIZA INVESTMENT LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253583M",
+        "address": "18/4,WINDSORTERRACE,SLIEMASLM1855MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEX HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 56015",
+        "address": "FLOOR5,115A,MSIDAVALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LEX HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 56015",
+        "address": "FLOOR5,115A,MSIDAVALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ZD ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/11",
+        "address": "230,2NDFLOOR,EUCHARISTICCONGRESSROAD,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEX HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 56015",
+        "address": "FLOOR5,115A,MSIDAVALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARIZA INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1741131",
+        "address": "TRIDENTCHAMBERS,POBOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "LEX HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 56015",
+        "address": "FLOOR5,115A,MSIDAVALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLOOR 5, 115A, VALLEY ROAD,",
+  "company_id": "C 60842",
+  "registration_date": "Jun 17, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

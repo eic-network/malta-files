@@ -1,0 +1,91 @@
+{
+  "name": "BERDAVA HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            50366M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JW SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47906",
+        "address": "'LARABUILDINGS'LEVEL1,GUZEPPICALLEJASTREET,IKLINIKL1262MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'LARA BUILDINGS' LEVEL 1, GUZEPPI CALLEJA STREET,",
+  "company_id": "C 46362",
+  "registration_date": "Mar 05, 2009",
+  "shares_currency": "EUR",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

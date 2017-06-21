@@ -1,0 +1,101 @@
+{
+  "name": "ALSERAG IMPEX LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ABDELKARIM OMER OT AAEIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            023345",
+        "address": "Xara20,RasAlbaidaBenghazi,STATEOFLIBYA"
+      },
+      {
+        "name": "MOHAMED FATHI M  GABER\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            766357",
+        "address": "HouseNo.4AtlasAlSahraStreet,AselmonyEst,BenghaziSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABDELKARIM OMER OT AAEIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            023345",
+        "address": "Xara20,RasAlbaidaBenghazi,STATEOFLIBYA"
+      },
+      {
+        "name": "MOHAMED FATHI M  GABER\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            766357",
+        "address": "HouseNo.4AtlasAlSahraStreet,AselmonyEst,BenghaziSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MOHAMED FATHI M  GABER\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            766357",
+        "address": "HouseNo.4AtlasAlSahraStreet,AselmonyEst,BenghaziSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABDELKARIM OMER OT AAEIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            023345",
+        "address": "Xara20,RasAlbaidaBenghazi,STATEOFLIBYA"
+      },
+      {
+        "name": "MOHAMED FATHI M  GABER\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            766357",
+        "address": "HouseNo.4AtlasAlSahraStreet,AselmonyEst,BenghaziSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABDELKARIM OMER OT AAEIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            023345",
+        "address": "Xara20,RasAlbaidaBenghazi,STATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "MOHAMED FATHI M  GABER\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            766357",
+        "address": "HouseNo.4AtlasAlSahraStreet,AselmonyEst,BenghaziSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "15,  GROGNET STREET",
+  "company_id": "C 67667",
+  "registration_date": "Nov 25, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

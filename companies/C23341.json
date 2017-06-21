@@ -1,0 +1,59 @@
+{
+  "name": "BALTIC PEARL SHIPPING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.68,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 0.232937
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443781M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Kiran International Holding Company Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 35835",
+        "address": "25/16VINCENTIBUILDINGSSTRAITSTREETVALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.232937,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "TAMER KIRAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01052510",
+        "address": "BULGURLUMAH.,SEKERKAYASOKAK,NO:45,USKUDAR,ISTANBUL34696-01TURKEY",
+        "shares": {
+          "nominal_value_per_share": 0.232937,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 23341",
+  "registration_date": "Aug 14, 1998",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

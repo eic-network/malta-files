@@ -1,0 +1,88 @@
+{
+  "total_issued_shares_value": 1170,
+  "registration_date": "Feb 27, 2017",
+  "status": "",
+  "locality": "QORMI",
+  "name": "bSupporter Limited",
+  "total_issued_shares": 117,
+  "address": "93, MILL STREET,",
+  "company_id": "C 79756",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "BODENACHERSTRASSE10,VOLKETSWILCH-8604SWITZERLAND",
+        "party_id": "                                                            X0792941",
+        "name": "LUCA GEIGER\r",
+        "nationality": "SWISS"
+      },
+      {
+        "address": "25,ST.MICHAEL'SCOURT,FLAT4,TRIQID-DEJMATARXIENMALTA",
+        "party_id": "                                                            146078M",
+        "name": "JESMOND MANICARO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "BODENACHERSTRASSE10,VOLKETSWILCH-8604SWITZERLAND",
+        "party_id": "                                                            X0792941",
+        "name": "LUCA GEIGER\r",
+        "nationality": "SWISS"
+      },
+      {
+        "address": "25,ST.MICHAEL'SCOURT,FLAT4,TRIQID-DEJMATARXIENMALTA",
+        "party_id": "                                                            146078M",
+        "name": "JESMOND MANICARO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "25,ST.MICHAEL'SCOURT,FLAT4,TRIQID-DEJMATARXIENMALTA",
+        "party_id": "                                                            146078M",
+        "name": "JESMOND MANICARO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "BODENACHERSTRASSE10,VOLKETSWILCH-8604SWITZERLAND",
+        "party_id": "                                                            X0792941",
+        "name": "LUCA GEIGER\r",
+        "nationality": "SWISS"
+      },
+      {
+        "address": "25,ST.MICHAEL'SCOURT,FLAT4,TRIQID-DEJMATARXIENMALTA",
+        "party_id": "                                                            146078M",
+        "name": "JESMOND MANICARO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 117,
+          "nominal_value_per_share": 10,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "LANDSTRASSESTR.,1,TRIESEN9495LIECHTENSTEIN",
+        "party_id": "                                                            FL-0002.537.831-7",
+        "name": "SETHEMBA AG\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 10,
+      "issued_shares": 117,
+      "authorised_share_capital": 4000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 4000,
+  "total_authorised_shares_value": 40000,
+  "shares_currency": "EUR"
+}

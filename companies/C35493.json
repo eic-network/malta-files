@@ -1,0 +1,51 @@
+{
+  "name": "BALDERTON LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "PAGET ENTERPRISES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            340142",
+        "address": "POBOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "VINSON OVERSEAS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            394827",
+        "address": "POBOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SECOND FLOOR, EUROPA CENTRE, ST ANNE STREET,",
+  "company_id": "C 35493",
+  "registration_date": "Jan 19, 2005",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

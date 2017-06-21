@@ -1,0 +1,155 @@
+{
+  "name": "BHTM Limited",
+  "total_issued_shares_value": 23303.05,
+  "total_authorised_shares_value": 23303.05,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00A11",
+        "address": "5,ST.NICHOLASFLATS,ABATERIGORDSTREETTA'XBIEXXBX1128MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "SARAH ZAMMIT TABONA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8699A",
+        "address": "\"LAGIARA\"TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "BENJAMIN ZAMMIT TABONA (minor)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "HANNAH ZAMMIT TABONA (minor)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "MIA ZAMMIT TABONA (minor)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "THOMAS ZAMMIT TABONA (minor)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149658M",
+        "address": "\"LAGIARA\",TREJQETSANLUQA,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10004,
+  "address": "107, ST. GEORGE'S ROAD,",
+  "company_id": "C 42054",
+  "registration_date": "Aug 08, 2007",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10004
+}

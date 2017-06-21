@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 69881.19,
+  "registration_date": "May 13, 1997",
+  "status": "",
+  "locality": "LUQA",
+  "name": "BULK MARITIME LIMITED",
+  "total_issued_shares": 30000,
+  "address": "ROOM 32, POLIDANO, HAL-FARRUG ROAD,",
+  "company_id": "C 21420",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "MOUNTBLANCHE,TRIQIL-KUCCARD,SAFIMALTA",
+        "party_id": "                                                            506259M",
+        "name": "CARMEL POLIDANO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "PAULJACK,TRIQIL-FENICI,SAFIMALTA",
+        "party_id": "                                                            232165M",
+        "name": "PAUL POLIDANO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "VALVIGNA,TRIQIZ-ZEBBIEGH,MGARRMALTA",
+        "party_id": "                                                            639157M",
+        "name": "FRANCIS VELLA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "MEILING,ST.PHILIPSSTREET,MGARRMALTA",
+        "party_id": "                                                            116049M",
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 15000,
+          "nominal_value_per_share": 2.329373,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "WIEDFILEP,NAXXARMALTA",
+        "party_id": "                                                            C 8360",
+        "name": "BALLUT BLOCKS SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 15000,
+          "nominal_value_per_share": 2.329373,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "POLIDANOBROS.LTDHALFARRUGROADLUQAMALTA",
+        "party_id": "                                                            C 15143",
+        "name": "POLIDANO HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 15000,
+      "authorised_share_capital": 15000,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 15000,
+      "authorised_share_capital": 15000,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 30000,
+  "total_authorised_shares_value": 69881.19,
+  "shares_currency": "EUR"
+}

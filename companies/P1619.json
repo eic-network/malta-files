@@ -1,0 +1,51 @@
+{
+  "name": "ARMANDO SANTOS IMPORT & EXPORT",
+  "total_issued_shares_value": 500,
+  "total_authorised_shares_value": 500,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "KRISTINA RUDYASHKINA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530223256",
+        "address": "HUTTAFA,TRIQIL-MITHNA,DINGLIDGL1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "HERMANN SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1061518",
+        "address": "HUTTAFA,TRIQIL-MITHNA,DINGLIDGL1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "HUTTAFA, TRIQ IL-MITHNA,",
+  "company_id": "P 1619",
+  "registration_date": "Feb 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "DINGLI",
+  "status": "",
+  "total_authorised_shares": 500
+}

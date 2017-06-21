@@ -1,0 +1,123 @@
+{
+  "name": "ARAGONIT CONSULTING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "BENJAMIN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            557248M",
+        "address": "37,SERENA,MOSESGATTSTREET,BIRKIRKARABKR04MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTOPH DIETHARDT\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66533A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPH DIETHARDT\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66533A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "MICHAEL EBNER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66534A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPH DIETHARDT\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66533A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "MICHAEL EBNER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66534A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPH DIETHARDT\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66533A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "MICHAEL EBNER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            66534A",
+        "address": "43,THEPEARL,FLAT2,TRIQIL-KANNIZZATA,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDRITE HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1660130",
+        "address": "WOODBOURNEHALL,ROADTOWN,TOROTLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "CHALCEDONY HOLDING INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1660146",
+        "address": "WOODBOURNEHALL,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL",
+  "company_id": "C 53451",
+  "registration_date": "Jul 25, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Belleville Investments Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NUNZIATINA DI CAMILLO\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N4887252",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHEN BRIFFA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M6893145",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEPHEN BRIFFA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M6893145",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHEN BRIFFA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M6893145",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEPHEN BRIFFA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M6893145",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "NUNZIATINA DI CAMILLO\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N4887252",
+        "address": "932FERNTREEGULLYROAD,WHEELERSHILL,VICTORIAVIC3150AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 3, SKYPARKS BUSINESS CENTRE, MALTA INTERNATIONAL AIRPORT,",
+  "company_id": "C 58399",
+  "registration_date": "Nov 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

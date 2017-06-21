@@ -1,0 +1,105 @@
+{
+  "name": "BDV LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "FLAT1,63C,B'KARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREET,ST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREET,ST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREET,ST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MDV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40342",
+        "address": "LEVEL2WESTMERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "MISCANTE HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            CH-0203030175-7",
+        "address": "STOCKERSTRASSE23,ZURICHSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "33, ST BARBARA BASTION,",
+  "company_id": "C 40347",
+  "registration_date": "Dec 20, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

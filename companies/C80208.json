@@ -1,0 +1,107 @@
+{
+  "name": "ANTARES HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 960,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 960,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SERENITY TRUSTEE SA \r",
+        "nationality": "",
+        "party_id": "                                                            PLACE DE SAINT-GERVAIS 1",
+        "address": "GENEVE1201SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SERENITY TRUSTEE SA \r",
+        "nationality": "",
+        "party_id": "                                                            PLACE DE SAINT-GERVAIS 1",
+        "address": "GENEVE1201SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SERENITY TRUSTEE SA \r",
+        "nationality": "",
+        "party_id": "                                                            PLACE DE SAINT-GERVAIS 1",
+        "address": "GENEVE1201SWITZERLAND"
+      },
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,TRIQIL-BATTERIJA,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 960
+        }
+      },
+      {
+        "name": "THAIS MELHADO DE CAMARGO FERRAZ\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA6471988",
+        "address": "RUAVITORINONEMESIONR107,4EQCTFTPORTO4050638PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "2ND FLOOR, EUROPA CENTRE, ST. ANNE STREET,",
+  "company_id": "C 80208",
+  "registration_date": "Mar 28, 2017",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

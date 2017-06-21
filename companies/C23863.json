@@ -1,0 +1,83 @@
+{
+  "name": "BISHEL HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "164B/19TowerRoadSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "164B/19TowerRoadSLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263262M",
+        "address": "164B/19TowerRoadSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "UNIFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11126",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "UNIFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11126",
+        "address": "37APT.RDOLPHINCOURT,EMBASSYWAY,TA'XBIEXXBX1073MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "37, APT. R DOLPHIN COURT, EMBASSY WAY,",
+  "company_id": "C 23863",
+  "registration_date": "Dec 22, 1998",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

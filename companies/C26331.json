@@ -1,0 +1,91 @@
+{
+  "name": "AX PORT HOLDING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1497.79,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 643,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IAN VELLA GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264779M",
+        "address": "'THECONIFERS',TRIQIL-PEDIDALWETT,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANGELO XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            494652M",
+        "address": "VILLAVISTANAVJALMILLBRAEMOSTAMST9080MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANGELO XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            494652M",
+        "address": "VILLAVISTANAVJALMILLBRAEMOSTAMST9080MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANGELO XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            494652M",
+        "address": "VILLAVISTANAVJALMILLBRAEMOSTAMST9080MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AX HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3595",
+        "address": "AXHOUSE,MOSTAROAD,LIJALJA9010MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "HOLIDAY RESORTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5733",
+        "address": "AXHOUSE,MOSTAROAD,LIJALJA9010MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "AX HOUSE, MOSTA ROAD,",
+  "company_id": "C 26331",
+  "registration_date": "May 05, 2000",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 643
+}

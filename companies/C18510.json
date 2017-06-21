@@ -1,0 +1,203 @@
+{
+  "name": "A.M. DEVELOPMENTS LIMITED",
+  "total_issued_shares_value": 4412466.04,
+  "total_authorised_shares_value": 4413747.15,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 0.023293
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryF",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "Preference3",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1872822,
+      "type": "Preference6",
+      "authorised_share_capital": 1872822,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228266M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228266M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      },
+      {
+        "name": "MARIANNE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132969M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228266M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      },
+      {
+        "name": "MARIANNE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132969M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228266M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      },
+      {
+        "name": "MARIANNE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132969M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIANNE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132969M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.023293,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "ANTON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228266M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.023293,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "PD FINANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 24572",
+        "address": "FINANCEHOUSE,FIRSTFLOORPRINCESSELIZABETHSTREETTA'XBIEXXBX1102MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "6",
+          "issued_shares": 1872822
+        }
+      },
+      {
+        "name": "ADELBERT CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            251988M",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MATTHEW CAMILLERI",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "SAVIENNE CAMILLERI",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "IL-MAXTURA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1914072,
+  "address": "IL-MAXTURA, MADLIENA ROAD, MADLIENA,",
+  "company_id": "C 18510",
+  "registration_date": "May 22, 1995",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1969072
+}

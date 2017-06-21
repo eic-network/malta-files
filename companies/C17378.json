@@ -1,0 +1,116 @@
+{
+  "company_id": "C 17378",
+  "address": "MAPP ELECTRONICS, PARISH PRIEST MIFSUD STREET,",
+  "name": "BROSCO LIMITED",
+  "locality": "HAMRUN",
+  "status": "",
+  "registration_date": "Dec 29, 1994",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 11646.86,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 11646.87,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANTON BUGEJA\r",
+        "party_id": "                                                            670162M",
+        "address": "THECROFT,TRIQHAL-QORMI,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIO BUGEJA\r",
+        "party_id": "                                                            724856M",
+        "address": "L'AMANDE,TRIQIL-PRUNA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            318260M",
+        "address": "IN-NAHLA,TRIQALF.CAMILLERI,MISRAHKOLA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTON BUGEJA\r",
+        "party_id": "                                                            670162M",
+        "address": "THECROFT,TRIQHAL-QORMI,BIRKIRKARAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1667,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MARIO BUGEJA\r",
+        "party_id": "                                                            724856M",
+        "address": "L'AMANDE,TRIQIL-PRUNA,ATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1667,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PAUL BUGEJA\r",
+        "party_id": "                                                            318260M",
+        "address": "IN-NAHLA,TRIQALF.CAMILLERI,MISRAHKOLA,ATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1666,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON BUGEJA\r",
+        "party_id": "                                                            670162M",
+        "address": "THECROFT,TRIQHAL-QORMI,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON BUGEJA\r",
+        "party_id": "                                                            670162M",
+        "address": "THECROFT,TRIQHAL-QORMI,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO BUGEJA\r",
+        "party_id": "                                                            724856M",
+        "address": "L'AMANDE,TRIQIL-PRUNA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

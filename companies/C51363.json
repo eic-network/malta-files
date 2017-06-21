@@ -1,0 +1,125 @@
+{
+  "name": "ARMAMENTO SETRAMAR MALTA LTD",
+  "total_issued_shares_value": 3890088.9,
+  "total_authorised_shares_value": 3890088.9,
+  "authorised_shares": [
+    {
+      "issued_shares": 2818904,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2818904,
+      "nominal_value_per_share": 1.38
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1.38
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "A & M V ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39555",
+        "address": "MERCURYHOUSE,125,OLDMINTSTREET,VALLETTAVLT1515MALTA"
+      },
+      {
+        "name": "PIERPAOLO CALDELARI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2667898",
+        "address": "VIAFOGAZZARO3,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "NICOLO POGGIALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0012457",
+        "address": "VIAGIORDANOBRUNO1,RAVENNA48100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "A & M V ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39555",
+        "address": "MERCURYHOUSE,125,OLDMINTSTREET,VALLETTAVLT1515MALTA"
+      },
+      {
+        "name": "PIERPAOLO CALDELARI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2667898",
+        "address": "VIAFOGAZZARO3,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "NICOLO POGGIALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0012457",
+        "address": "VIAGIORDANOBRUNO1,RAVENNA48100ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "A & M V ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39555",
+        "address": "MERCURYHOUSE,125,OLDMINTSTREET,VALLETTAVLT1515MALTA"
+      },
+      {
+        "name": "PIERPAOLO CALDELARI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2667898",
+        "address": "VIAFOGAZZARO3,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "NICOLO POGGIALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0012457",
+        "address": "VIAGIORDANOBRUNO1,RAVENNA48100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARMAMENTO SETRAMAR S.P.A.\r",
+        "nationality": "",
+        "party_id": "                                                            183685",
+        "address": "VIACLASSICANA99,RAVENNA48100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1.38,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2818904
+        }
+      },
+      {
+        "name": "A & M V ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39555",
+        "address": "MERCURYHOUSE,125,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.38,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2818905,
+  "address": "MERCURY HOUSE, 125, OLD MINT STREET,",
+  "company_id": "C 51363",
+  "registration_date": "Dec 07, 2010",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2818905
+}

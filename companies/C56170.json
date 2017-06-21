@@ -1,0 +1,109 @@
+{
+  "name": "APACE P.L.C.",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      },
+      {
+        "name": "ARNO AHORNEGGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4362644",
+        "address": "MARGARETENGURTEL14/28,WIEN1050AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      },
+      {
+        "name": "ARNO AHORNEGGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4362644",
+        "address": "MARGARETENGURTEL14/28,WIEN1050AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10635",
+        "address": "SHAMROCK,TRIQTA'MASRIJA,MELLIEHAMLH1636MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      },
+      {
+        "name": "ARNO AHORNEGGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4362644",
+        "address": "MARGARETENGURTEL14/28,WIEN1050AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMFORT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55396",
+        "address": "60/2,MELITASTREET,VALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      },
+      {
+        "name": "ARNO AHORNEGGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4362644",
+        "address": "MARGARETENGURTEL14/28,WIEN1050AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 56170",
+  "registration_date": "May 03, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

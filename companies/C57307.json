@@ -1,0 +1,91 @@
+{
+  "name": "ANKER PROPERTIES LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH M FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAMES DUNBAR COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267450M",
+        "address": "14TRIQDONMIKIELRUASLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAMES DUNBAR COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267450M",
+        "address": "14TRIQDONMIKIELRUASLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN ALBERT NAUDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19720",
+        "address": "5,STONEHAVEN,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARNXR2318MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JAMES DUNBAR COUSIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267450M",
+        "address": "14TRIQDONMIKIELRUASLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HGD INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1728113",
+        "address": "3RDFLOOR,YAMRAJBUILDING,MARKETSQUAREROADTOWNTORTOLAP.O.BOX3175VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "HGD Trading Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 57308",
+        "address": "LEVEL5THEMALLCOMPLEX,THEMALLFLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 57307",
+  "registration_date": "Aug 22, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

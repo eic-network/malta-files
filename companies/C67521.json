@@ -1,0 +1,91 @@
+{
+  "name": "AMIR LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MAMDOUH ALTLLAS\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            0062005A",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAMDOUH ALTLLAS\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            0062005A",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAMDOUH ALTLLAS\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            0062005A",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAMDOUH ALTLLAS\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            0062005A",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAMDOUH ALTLLAS\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            0062005A",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MARIA ALTLLAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            354979M",
+        "address": "124,ST.PETER,TRIQDOMENICOCACHIABIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "124, ST. PETER, TRIQ DOMENICO CACHIA,",
+  "company_id": "C 67521",
+  "registration_date": "Nov 07, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,101 @@
+{
+  "company_id": "C 61910",
+  "address": "MAYFLOWER COURT, APT. 8, ST. ALOYSIUS STREET,",
+  "name": "Botta Dritta Ltd.",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "registration_date": "Sep 16, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FILIPPO FERRARI\r",
+        "party_id": "                                                            F0601744",
+        "address": "31AVENUEHECTOROTTOMONACOMC-98000MONACO",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEAN-CHARLESREY,MONACOMC-98000MONACO",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADALBERTO MIANI\r",
+        "party_id": "                                                            AA0739172",
+        "address": "5AVENUEPRINCESSEGRACEMONACOMC-98000MONACO",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEAN-CHARLESREY,MONACOMC-98000MONACO",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 350,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FILIPPO FERRARI\r",
+        "party_id": "                                                            F0601744",
+        "address": "31AVENUEHECTOROTTOMONACOMC-98000MONACO",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEAN-CHARLESREY,MONACOMC-98000MONACO",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FILIPPO FERRARI\r",
+        "party_id": "                                                            F0601744",
+        "address": "31AVENUEHECTOROTTOMONACOMC-98000MONACO",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIANI\r",
+        "party_id": "                                                            AA1119290",
+        "address": "32,QUAIJEAN-CHARLESREY,MONACOMC-98000MONACO",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "ALEX AGIUS\r",
+        "party_id": "                                                            81573M",
+        "address": "37,TRIQDUNMIKIELXERRI,ATTARDATD2023MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

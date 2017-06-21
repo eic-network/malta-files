@@ -1,0 +1,89 @@
+{
+  "name": "44IP Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BOURSE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71099",
+        "address": "BOURSE,QUI-SI-SANASEAFRONTCORNERWITHLOCKERSTREETSLIEMASLM3113MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BOURSE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71099",
+        "address": "BOURSE,QUI-SI-SANASEAFRONTCORNERWITHLOCKERSTREETSLIEMASLM3113MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANGELA THORNS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61379M",
+        "address": "APT.12,DETIGNE21TIGNESEAFRONT,SLIEMASLM3010MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BOURSE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71099",
+        "address": "BOURSE,QUI-SI-SANASEAFRONTCORNERWITHLOCKERSTREETSLIEMASLM3113MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INDAY ROSE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1505548",
+        "address": "GENEVAPLACE,WATERFRONTDRIVE,ROADTOWNVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BRV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            45494",
+        "address": "LATONNELLEHOUSE,LESBANQUES,STSAMPSONGY13HSGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Bourse, Qui-si-Sana Seafront,",
+  "company_id": "C 69335",
+  "registration_date": "Mar 03, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

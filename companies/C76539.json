@@ -1,0 +1,126 @@
+{
+  "name": "BIOTECH INNOVATIONS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 660,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 660,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 420,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 420,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 120,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 120,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GODFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535772M",
+        "address": "VILLAMUZIKA,TRIQIL-GALANTONVASSALLO,SANTAVENERAMALTA"
+      },
+      {
+        "name": "KHALED YASSINE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135504L",
+        "address": "BARBARA,FRANCESCOBUHAGIARSTREET,BIRKIRKARABKR1204MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GODFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535772M",
+        "address": "VILLAMUZIKA,TRIQIL-GALANTONVASSALLO,SANTAVENERAMALTA"
+      },
+      {
+        "name": "KHALED YASSINE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135504L",
+        "address": "BARBARA,FRANCESCOBUHAGIARSTREET,BIRKIRKARABKR1204MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GODFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535772M",
+        "address": "VILLAMUZIKA,TRIQIL-GALANTONVASSALLO,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GODFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535772M",
+        "address": "VILLAMUZIKA,TRIQIL-GALANTONVASSALLO,SANTAVENERAMALTA"
+      },
+      {
+        "name": "KHALED YASSINE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            135504L",
+        "address": "BARBARA,FRANCESCOBUHAGIARSTREET,BIRKIRKARABKR1204MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GODFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535772M",
+        "address": "VILLAMUZIKA,TRIQIL-GALANTONVASSALLO,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 660
+        }
+      },
+      {
+        "name": "VISION OPERATIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48510",
+        "address": "CHARLESCOURT,FLAT14,TRIQSANLUQA,GWARDAMANGIA,PIETA'PTA1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 420
+        }
+      },
+      {
+        "name": "MALTA UNIVERSITY HOLDING COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20375",
+        "address": "UNIVERSITYOFMALTA,MSIDAMSD2080MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "37, TRIQ DUN MIKIEL XERRI,",
+  "company_id": "C 76539",
+  "registration_date": "Jul 21, 2016",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1200
+}

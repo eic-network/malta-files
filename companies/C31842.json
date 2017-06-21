@@ -1,0 +1,75 @@
+{
+  "name": "AMTEL HOLDING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IGOR RYZOGLAZOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO.9951145",
+        "address": "38/1-15,ARBATSTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IGOR RYZOGLAZOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO.9951145",
+        "address": "38/1-15,ARBATSTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IGOR RYZOGLAZOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            62NO.9951145",
+        "address": "38/1-15,ARBATSTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAFINAT AN-NAJAAT HOLDING COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31452",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "SAFINAT AN-NAJAAT SHIPMANAGEMENT COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 29518",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "171 OLD BAKERY STREET",
+  "company_id": "C 31842",
+  "registration_date": "Jul 29, 2003",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

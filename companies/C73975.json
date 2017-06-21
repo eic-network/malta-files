@@ -1,0 +1,83 @@
+{
+  "name": "BCC MARKETING SERVICES LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AVER TRUSTEES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35675",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AVER TRUSTEES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35675",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KOEN MARIA JORIS ANTONIA LOZIE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            0142790A",
+        "address": "180RUDOLPHSTREETSLIEMASLM1278MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AVER TRUSTEES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35675",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AVER TRUSTEES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35675",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BCC MARKETING HOLDING LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 73922",
+        "address": "49BISAZZASTREET,FONTANAMANSIONS,2SLIEMASLM1643MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "49 BISAZZA STREET, FONTANA MANSIONS, 2",
+  "company_id": "C 73975",
+  "registration_date": "Jan 18, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

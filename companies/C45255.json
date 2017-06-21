@@ -1,0 +1,91 @@
+{
+  "name": "BLUSAN SUPPLIES LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA FORMOSA BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323781M",
+        "address": "T8B2PRETICOURT,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267352M",
+        "address": "4,MISRAHIL-MAFKAR,DINGLIDGL1101MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267352M",
+        "address": "4,MISRAHIL-MAFKAR,DINGLIDGL1101MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HORWATH MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/27",
+        "address": "LAPROVVIDA,KARMZERAFASTREET,BIRKIRKARABKR1713MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267352M",
+        "address": "4,MISRAHIL-MAFKAR,DINGLIDGL1101MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267352M",
+        "address": "4,MISRAHIL-MAFKAR,DINGLIDGL1101MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "MARIA FORMOSA BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323781M",
+        "address": "T8B2PRETICOURT,TIGNEPOINTSLIEMATP01MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "103, PALAZZO PIETRO STIGES,  STRAIT STREET,",
+  "company_id": "C 45255",
+  "registration_date": "Oct 02, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,97 @@
+{
+  "name": "AUSTRO COMMERZ LIMITED",
+  "total_issued_shares_value": 1000000,
+  "total_authorised_shares_value": 1000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL ROSENZOPF\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6813734",
+        "address": "BISCHOFEGGERSTRASSE4/3,8144,UNTERPREMSTATTENGKZ60652AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL ROSENZOPF\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6813734",
+        "address": "BISCHOFEGGERSTRASSE4/3,8144,UNTERPREMSTATTENGKZ60652AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL ROSENZOPF\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6813734",
+        "address": "BISCHOFEGGERSTRASSE4/3,8144,UNTERPREMSTATTENGKZ60652AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL ROSENZOPF\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6813734",
+        "address": "BISCHOFEGGERSTRASSE4/3,8144,UNTERPREMSTATTENGKZ60652AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43957",
+        "address": "ASTRUSTEESOFTHEBREGANTIATRUST,19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999999
+        }
+      },
+      {
+        "name": "MICHAEL ROSENZOPF\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P6813734",
+        "address": "BISCHOFEGGERSTRASSE4/3,8144,UNTERPREMSTATTENGKZ60652AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000000,
+  "address": "PRODOMO OFFICES, 68, GEORGE BORG OLIVIER STREET,",
+  "company_id": "C 25644",
+  "registration_date": "Nov 30, 1989",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1000000
+}

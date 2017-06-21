@@ -1,0 +1,143 @@
+{
+  "name": "BIONIQ LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "INVEST GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 50250",
+        "address": "OFFICEM/1,BLOCK12,TIGNEPLACE,TIGNESTREETSLIEMAMALTA"
+      },
+      {
+        "name": "SYLWIA GRZEGORZEWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AS8124146",
+        "address": "UL.JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "ANDRZEJ RAFAL GRZEGORZEWSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EG7103878",
+        "address": "JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "KRZYSZTOF KUBALA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            48024A",
+        "address": "NUMBER21,TP,PIAZZAAPARTMENT,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INVEST GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 50250",
+        "address": "OFFICEM/1,BLOCK12,TIGNEPLACE,TIGNESTREETSLIEMAMALTA"
+      },
+      {
+        "name": "SYLWIA GRZEGORZEWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AS8124146",
+        "address": "UL.JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "ANDRZEJ RAFAL GRZEGORZEWSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EG7103878",
+        "address": "JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "KRZYSZTOF KUBALA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            48024A",
+        "address": "NUMBER21,TP,PIAZZAAPARTMENT,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SANDRA MAGRI SANT FOURNIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            195380M",
+        "address": "NO.1,ARAGONLANE,MDINAMDN1260MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INVEST GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 50250",
+        "address": "OFFICEM/1,BLOCK12,TIGNEPLACE,TIGNESTREETSLIEMAMALTA"
+      },
+      {
+        "name": "SYLWIA GRZEGORZEWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AS8124146",
+        "address": "UL.JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "ANDRZEJ RAFAL GRZEGORZEWSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EG7103878",
+        "address": "JEZA12,LODZ91-503POLAND"
+      },
+      {
+        "name": "KRZYSZTOF KUBALA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            48024A",
+        "address": "NUMBER21,TP,PIAZZAAPARTMENT,TIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDRZEJ RAFAL GRZEGORZEWSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EG7103878",
+        "address": "JEZA12,LODZ91-503POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "INVEST GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 50250",
+        "address": "OFFICEM/1,BLOCK12,TIGNEPLACE,TIGNESTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE M5, BLOCK 12, TIGNE PLACE, TIGNE STREET,",
+  "company_id": "C 65142",
+  "registration_date": "May 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

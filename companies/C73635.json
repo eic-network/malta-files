@@ -1,0 +1,89 @@
+{
+  "name": "4NRG Company Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Prahctica Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            176381",
+        "address": "GlobalGateway8,RueDeLaPerle,Providence,Mahe,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Prahctica Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            176381",
+        "address": "GlobalGateway8,RueDeLaPerle,Providence,Mahe,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Joceline Caruana\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23390M",
+        "address": "16,Merhba,TriqGiovanniScicluna.GHAXAQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Prahctica Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            176381",
+        "address": "GlobalGateway8,RueDeLaPerle,Providence,Mahe,REPUBLICOFSEYCHELLES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Prahctica Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            176381",
+        "address": "GlobalGateway8,RueDeLaPerle,Providence,Mahe,REPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "Nicholas Cachia\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359075M",
+        "address": "37,Triqic-Citru,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Abacus Business Centre, Level 1, Dun Karm Street, B'Kara Bypass,",
+  "company_id": "C 73635",
+  "registration_date": "Dec 28, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

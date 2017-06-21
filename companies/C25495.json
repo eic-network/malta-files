@@ -1,0 +1,75 @@
+{
+  "name": "ANFIN HOLDINGS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GABRIELE BRAVI\r",
+        "nationality": "VENEZUELAN",
+        "party_id": "                                                            A0118602",
+        "address": "ALTAMIRASUITES,1A,AVENIDACON1ATRANSVERSALDELOSPALOSGRANDES,CARACASVENEZUELA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GABRIELE BRAVI\r",
+        "nationality": "VENEZUELAN",
+        "party_id": "                                                            A0118602",
+        "address": "ALTAMIRASUITES,1A,AVENIDACON1ATRANSVERSALDELOSPALOSGRANDES,CARACASVENEZUELA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GABRIELE BRAVI\r",
+        "nationality": "VENEZUELAN",
+        "party_id": "                                                            A0118602",
+        "address": "ALTAMIRASUITES,1A,AVENIDACON1ATRANSVERSALDELOSPALOSGRANDES,CARACASVENEZUELA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "SUITE 1, 17, SIR A. BARTOLO STREET,",
+  "company_id": "C 25495",
+  "registration_date": "Nov 25, 1999",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 3000
+}

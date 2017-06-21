@@ -1,0 +1,78 @@
+{
+  "name": "BONDONE LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWISGW1302MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWISGW1302MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWISGW1302MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAKER TILLY SANT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/28",
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWISGW1302MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MENCOR (LUXEMBOURG) S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            B 52433",
+        "address": "12,RUEGUILLAUMESCHNEIDER,LUXEMBOURG2522LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BLDG., 216, MARINA SEAFRONT,",
+  "company_id": "C 69622",
+  "registration_date": "Mar 18, 2015",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 200000
+}

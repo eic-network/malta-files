@@ -1,0 +1,67 @@
+{
+  "name": "A & M TRADING COMPANY LIMITED",
+  "total_issued_shares_value": 3261.12,
+  "total_authorised_shares_value": 3261.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 1400,
+      "type": "Ordinary",
+      "authorised_share_capital": 1400,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JESPER SCHOU\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            100094917",
+        "address": "JEFDEBELDERLAAN8,9831STMARTENS-LATEMDEURLEBELGIUM"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JESPER SCHOU\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            100094917",
+        "address": "JEFDEBELDERLAAN8,9831STMARTENS-LATEMDEURLEBELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A & M INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23731",
+        "address": "53,ST.DOMINICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1399
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1400,
+  "address": "53, ST DOMINIC STREET,",
+  "company_id": "C 23802",
+  "registration_date": "Dec 14, 1998",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1400
+}

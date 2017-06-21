@@ -1,0 +1,97 @@
+{
+  "name": "BLUE STAR PLANET LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOANNA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286960M",
+        "address": "T9B13PRETICOURTTIGNEPOINTSLIEMAMALTA"
+      },
+      {
+        "name": "ADRIAN OLIVERO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605101038",
+        "address": "5702,EUROPLAZA,HARBOURVIEWSROAD,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FINSBURY CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            22933",
+        "address": "SUITE7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FINSBURY CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            22933",
+        "address": "SUITE7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "71,CARMELSTREET,SLIEMASLM1157MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FINSBURY CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            22933",
+        "address": "SUITE7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Octave Corporate Services Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 58466",
+        "address": "TheHub,SuiteW301TriqSant'AndrijaSANGWANNSGN1612MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Water Tree Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            112998",
+        "address": "Suite7B&8B50TownRangeGibraltarGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE HUB - SUITE W301, TRIQ SANT'ANDRIJA,",
+  "company_id": "C 70661",
+  "registration_date": "May 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,86 @@
+{
+  "company_id": "C 66829",
+  "address": "60/2, MELITA STREET",
+  "name": "BREAKWATER LTD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Sep 23, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "party_id": "                                                            CH1HJNLHL",
+        "address": "HAUSHOFERSTR.2MUNICH81925GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "party_id": "                                                            CH1HJNLHL",
+        "address": "HAUSHOFERSTR.2MUNICH81925GERMANY",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "party_id": "                                                            CH1HJNLHL",
+        "address": "HAUSHOFERSTR.2MUNICH81925GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "party_id": "                                                            CH1HJNLHL",
+        "address": "HAUSHOFERSTR.2MUNICH81925GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "party_id": "                                                            CH1HJNLHL",
+        "address": "HAUSHOFERSTR.2MUNICH81925GERMANY",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER PACE\r",
+        "party_id": "                                                            136985M",
+        "address": "DIAMONDCRT,FLT8,TRIQGANNIFAURETARXIENTXN2422MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

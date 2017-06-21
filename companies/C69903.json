@@ -1,0 +1,76 @@
+{
+  "total_issued_shares_value": 51350,
+  "registration_date": "Apr 06, 2015",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BTM HOLDING LIMITED",
+  "total_issued_shares": 51350,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA",
+  "company_id": "C 69903",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "15,TAL-PITTUR,TRIQIL-HABS,NAXXARMALTA",
+        "party_id": "                                                            1074788M",
+        "name": "ADAM VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "15,TAL-PITTUR,TRIQIL-HABS,NAXXARMALTA",
+        "party_id": "                                                            1074788M",
+        "name": "ADAM VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA",
+        "party_id": "                                                            79180M",
+        "name": "JONATHAN CORRIERI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "15,TAL-PITTUR,TRIQIL-HABS,NAXXARMALTA",
+        "party_id": "                                                            1074788M",
+        "name": "ADAM VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 50000,
+          "nominal_value_per_share": 1,
+          "class": "Class A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "OfLeoneCourt,Flat9,NursingSistersstreet,ST.JULIANSSTJ1355MALTA",
+        "party_id": "                                                            49242A",
+        "name": "Bengt Magnus Petter Hedman\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 50000,
+      "authorised_share_capital": 50000,
+      "type": "OrdinaryClassA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1350,
+      "authorised_share_capital": 1350,
+      "type": "OrdinaryClassB"
+    }
+  ],
+  "total_authorised_shares": 51350,
+  "total_authorised_shares_value": 51350,
+  "shares_currency": "USD"
+}

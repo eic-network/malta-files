@@ -1,0 +1,91 @@
+{
+  "name": "BET-AT-HOME.COM INTERNET LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EMELIE BAJER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            110430A",
+        "address": "LEVEL12,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GERALD FINEDER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P5009493",
+        "address": "1452,PENDERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GERALD FINEDER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P5009493",
+        "address": "1452,PENDERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GERALD FINEDER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P5009493",
+        "address": "1452,PENDERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET-AT-HOME.COM AG\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 52673",
+        "address": "KRONPRINZENSTRASSE82-84,DUSSELDORFD-40217GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "BET-AT-HOME.COM HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 34842",
+        "address": "PORTOMASOBUISNESSTOWER,LEVEL12,PORTOMASO,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 98000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "PORTOMASO BUSINESS TOWER, LEVEL 12, PORTOMASO,",
+  "company_id": "C 35109",
+  "registration_date": "Nov 29, 2004",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 100000
+}

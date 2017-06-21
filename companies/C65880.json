@@ -1,0 +1,102 @@
+{
+  "company_id": "C 65880",
+  "address": "179, MARINA STREET, 1, BLOCK C SKYWAY OFFICES,",
+  "name": "BRAINTREE PROPERTIES LIMITED",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jul 04, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CONFIANCE MALTA LIMITED\r",
+        "party_id": "                                                            C 59587",
+        "address": "BLOCKC,SKYWAYOFFICE,179MARINASTREETPIETA'PTA9042MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAVENDISH CORPORATE INVESTMENTS PCC LIMITED - CELL 1075\r",
+        "party_id": "                                                            48974",
+        "address": "ELIZABETHHOUSE,RUETTESBRAYES,ST.PETERPORTGUERNSEYGY14HWCHANNELISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 719,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CAVENDISH CORPORATE INVESTMENTS PCC LIMITED - CELL 1076\r",
+        "party_id": "                                                            48974",
+        "address": "ELIZABETHHOUSE,RUETTESBRAYES,ST.PETERPORTGUERNSEYGY14HWCHANNELISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 480,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CONFIANCE MALTA LIMITED\r",
+        "party_id": "                                                            C 59587",
+        "address": "BLOCKC,SKYWAYOFFICE,179MARINASTREETPIETA'PTA9042MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CONFIANCE MALTA LIMITED\r",
+        "party_id": "                                                            C 59587",
+        "address": "BLOCKC,SKYWAYOFFICE,179MARINASTREETPIETA'PTA9042MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CONFIANCE MALTA LIMITED\r",
+        "party_id": "                                                            C 59587",
+        "address": "BLOCKC,SKYWAYOFFICE,179MARINASTREETPIETA'PTA9042MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID JAMES MASON\r",
+        "party_id": "                                                            22037A",
+        "address": "9/4,CHURCHSQUARE,LAPSISTREETST.JULIANSSTH1261MALTA",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

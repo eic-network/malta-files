@@ -1,0 +1,115 @@
+{
+  "name": "BEXEE LIMITED",
+  "total_issued_shares_value": 108061945,
+  "total_authorised_shares_value": 109000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 108061894,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 108061894,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 51,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 51,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            226852M",
+        "address": "52,HOYA,TRIQL-INSOLJA,ATTARDATD2655MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ECOVIS (MALTA) TFC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21414",
+        "address": "55B,BIRBALROAD,BALZANBZN9017MALTA"
+      },
+      {
+        "name": "LADISLAV FRANTA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            34652525",
+        "address": "SMRZOVA105/2,10400,10-PITKOVICE,PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ECOVIS (MALTA) TFC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21414",
+        "address": "55B,BIRBALROAD,BALZANBZN9017MALTA"
+      },
+      {
+        "name": "LADISLAV FRANTA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            34652525",
+        "address": "SMRZOVA105/2,10400,10-PITKOVICE,PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ECOVIS (MALTA) TFC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21414",
+        "address": "55B,BIRBALROAD,BALZANBZN9017MALTA"
+      },
+      {
+        "name": "LADISLAV FRANTA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            34652525",
+        "address": "SMRZOVA105/2,10400,10-PITKOVICE,PRAHACZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CG CZ LTD\r",
+        "nationality": "",
+        "party_id": "                                                            HE299988",
+        "address": "STASIKRATOUS20KRAMBISBUILDING,1STFLOOR,FLAT/OFFICE101,NICOSIA1065CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 61894
+        }
+      },
+      {
+        "name": "ECOVIS (MALTA) TFC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21414",
+        "address": "55B,BIRBALROAD,BALZANBZN9017MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 51
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 108061945,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 57474",
+  "registration_date": "Sep 07, 2012",
+  "shares_currency": "CZK",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 109000000
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BELLA SICILIA LIMITED",
+  "total_issued_shares_value": 60000,
+  "total_authorised_shares_value": 60000,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "Ordinary",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAOLO MANGIAFICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM9765878",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPHA MANGIAFICO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722808",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      },
+      {
+        "name": "PAOLO MANGIAFICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM9765878",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPHA MANGIAFICO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722808",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      },
+      {
+        "name": "PAOLO MANGIAFICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM9765878",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPHA MANGIAFICO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722808",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      },
+      {
+        "name": "PAOLO MANGIAFICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM9765878",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPHA MANGIAFICO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722808",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "PAOLO MANGIAFICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AM9765878",
+        "address": "VIASIRACUSA,29-P1-INT.L,SOLARINOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 60000,
+  "address": "134, THE STRAND,",
+  "company_id": "C 56475",
+  "registration_date": "May 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 60000
+}

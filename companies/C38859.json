@@ -1,0 +1,164 @@
+{
+  "name": "ALPHA BRIGGS MEDITERRANEAN LTD",
+  "total_issued_shares_value": 120000,
+  "total_authorised_shares_value": 120000,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 60000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      },
+      {
+        "name": "JOSEPH WILLIAM EDMUND BOYLE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099147435",
+        "address": "RYDELMOUNT,7DERWENTROAD,CULLERCOATSTYNE&WEARNE303AHENGLAND"
+      },
+      {
+        "name": "PATRICK THOMAS DIAMOND\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            400316674",
+        "address": "9,TRAFALGARCOURT,DULLATURG680AEUNITEDKINGDOM"
+      },
+      {
+        "name": "ALEX MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      },
+      {
+        "name": "JOSEPH WILLIAM EDMUND BOYLE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099147435",
+        "address": "RYDELMOUNT,7DERWENTROAD,CULLERCOATSTYNE&WEARNE303AHENGLAND"
+      },
+      {
+        "name": "PATRICK THOMAS DIAMOND\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            400316674",
+        "address": "9,TRAFALGARCOURT,DULLATURG680AEUNITEDKINGDOM"
+      },
+      {
+        "name": "ALEX MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      },
+      {
+        "name": "JOSEPH WILLIAM EDMUND BOYLE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099147435",
+        "address": "RYDELMOUNT,7DERWENTROAD,CULLERCOATSTYNE&WEARNE303AHENGLAND"
+      },
+      {
+        "name": "PATRICK THOMAS DIAMOND\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            400316674",
+        "address": "9,TRAFALGARCOURT,DULLATURG680AEUNITEDKINGDOM"
+      },
+      {
+        "name": "ALEX MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN4150MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALPHA OIL SERVICES & TRADING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11408",
+        "address": "125B/6ST.GEORGE'SROADST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "PI (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31559",
+        "address": "125B/6STGEORGE'SROADST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 59000
+        }
+      },
+      {
+        "name": "BRIGGS (OVERSEAS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            SC217945",
+        "address": "WESTDOCKBURNTISLAND,FIFEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 60000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120000,
+  "address": "125B/6 ST GEORGE'S ROAD,",
+  "company_id": "C 38859",
+  "registration_date": "Jun 02, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 120000
+}

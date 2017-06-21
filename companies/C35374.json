@@ -1,0 +1,91 @@
+{
+  "name": "ASHERN PROPERTIES LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL PACE BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71478M",
+        "address": "12,STELLAMARISSTREET,SLIEMASLM1768MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BLEVINS FRANKS GAMMA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31996",
+        "address": "GASANCENTRE,TRIQIL-MERGHAT,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BLEVINS FRANKS GAMMA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31996",
+        "address": "GASANCENTRE,TRIQIL-MERGHAT,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BLEVINS FRANKS GAMMA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31996",
+        "address": "GASANCENTRE,TRIQIL-MERGHAT,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLEVINS FRANKS GAMMA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31996",
+        "address": "GASANCENTRE,TRIQIL-MERGHAT,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "BLEVINS FRANKS GAMMA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31996",
+        "address": "GASANCENTRE,TRIQIL-MERGHAT,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "TRIQ IL-MERGHAT, GASAN CENTRE, MRIEHEL BY PASS, MRIEHEL,",
+  "company_id": "C 35374",
+  "registration_date": "Dec 29, 2004",
+  "shares_currency": "GBP",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

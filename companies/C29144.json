@@ -1,0 +1,78 @@
+{
+  "company_id": "C 29144",
+  "address": "30, 'THANK GOD', FRA DIEGO STREET,",
+  "name": "BORG DEBONO LIMITED",
+  "locality": "MARSA",
+  "status": "",
+  "registration_date": "Jan 14, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHAEL DEBONO\r",
+        "party_id": "                                                            51170M",
+        "address": "30,'THANKGOD',FRADIEGOSTREET,MARSAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL DEBONO\r",
+        "party_id": "                                                            51170M",
+        "address": "30,'THANKGOD',FRADIEGOSTREET,MARSAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL DEBONO\r",
+        "party_id": "                                                            51170M",
+        "address": "30,'THANKGOD',FRADIEGOSTREET,MARSAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL DEBONO\r",
+        "party_id": "                                                            51170M",
+        "address": "30,'THANKGOD',FRADIEGOSTREET,MARSAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL DEBONO\r",
+        "party_id": "                                                            51170M",
+        "address": "30,'THANKGOD',FRADIEGOSTREET,MARSAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

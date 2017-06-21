@@ -1,0 +1,115 @@
+{
+  "name": "BETA DHALIA (ENTERPRISES) LTD",
+  "total_issued_shares_value": 11500,
+  "total_authorised_shares_value": 11500,
+  "authorised_shares": [
+    {
+      "issued_shares": 5750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 5750,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "INGRID SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171467M",
+        "address": "13,FLAT2,TRIQL-GHANSALIKHAL,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "64/65,FLATNO.2,THESTRAND,SLIEMAMALTA"
+      },
+      {
+        "name": "INGRID SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171467M",
+        "address": "13,FLAT2,TRIQL-GHANSALIKHAL,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "64/65,FLATNO.2,THESTRAND,SLIEMAMALTA"
+      },
+      {
+        "name": "INGRID SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171467M",
+        "address": "13,FLAT2,TRIQL-GHANSALIKHAL,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO JOSEF MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "NAMASTE,TRIQDUNG.GALEA,NAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "64/65,FLATNO.2,THESTRAND,SLIEMAMALTA"
+      },
+      {
+        "name": "INGRID SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171467M",
+        "address": "13,FLAT2,TRIQL-GHANSALIKHAL,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DHALIA INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 1604",
+        "address": "COBALTHOUSE,FLOOR1NOTABILEROAD,MRIEHELBIRKIRKARAQRM09MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5750
+        }
+      },
+      {
+        "name": "ALEGRIA COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43038",
+        "address": "13,FL.2,TRIQL-GHANSALIKHAL,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 11500,
+  "address": "DHALIA GROUP, COBALT HOUSE, FLOOR 1, NOTABILE ROAD, MRIEHEL,",
+  "company_id": "C 43328",
+  "registration_date": "Jan 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 11500
+}

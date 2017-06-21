@@ -1,0 +1,151 @@
+{
+  "name": "Binary Investments (Europe) Ltd",
+  "total_issued_shares_value": 1000000,
+  "total_authorised_shares_value": 1200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Joanna Frendo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            207773M",
+        "address": "1,FlameTrees,Triql-Arznu,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Joanna Frendo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            207773M",
+        "address": "1,FlameTrees,Triql-Arznu,SANGWANNMALTA"
+      },
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405566M",
+        "address": "20,TRIQISOUARDXUEREB,ZURRIEQZRQ3123MALTA"
+      },
+      {
+        "name": "Jean-Yves Sireau\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16FV14587",
+        "address": "Flat14A,Block2,Site7,WhampoaGardensTakonStreet,HungHomHONGKONG"
+      },
+      {
+        "name": "Derek  Swift\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140496M",
+        "address": "GMG,LabourRoadZABBARZBR9037MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Joanna Frendo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            207773M",
+        "address": "1,FlameTrees,Triql-Arznu,SANGWANNMALTA"
+      },
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405566M",
+        "address": "20,TRIQISOUARDXUEREB,ZURRIEQZRQ3123MALTA"
+      },
+      {
+        "name": "Jean-Yves Sireau\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16FV14587",
+        "address": "Flat14A,Block2,Site7,WhampoaGardensTakonStreet,HungHomHONGKONG"
+      },
+      {
+        "name": "Derek  Swift\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140496M",
+        "address": "GMG,LabourRoadZABBARZBR9037MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "SUITE3,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Joanna Frendo\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            207773M",
+        "address": "1,FlameTrees,Triql-Arznu,SANGWANNMALTA"
+      },
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405566M",
+        "address": "20,TRIQISOUARDXUEREB,ZURRIEQZRQ3123MALTA"
+      },
+      {
+        "name": "Jean-Yves Sireau\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            16FV14587",
+        "address": "Flat14A,Block2,Site7,WhampoaGardensTakonStreet,HungHomHONGKONG"
+      },
+      {
+        "name": "Derek  Swift\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140496M",
+        "address": "GMG,LabourRoadZABBARZBR9037MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Binary Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            108101",
+        "address": "47Esplanade,StHelier,Jersey,ChannelIslandsJE10BDJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999999
+        }
+      },
+      {
+        "name": "Binary Services Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            071054",
+        "address": "Suite9,AnsuyaEstateRevolutionAvenueMaheREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000000,
+  "address": "Mompalao Building, Suite 2 Tower Road",
+  "company_id": "C 70156",
+  "registration_date": "Apr 22, 2015",
+  "shares_currency": "USD",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200000
+}

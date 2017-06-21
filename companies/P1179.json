@@ -1,0 +1,51 @@
+{
+  "name": "ALOPA PARTNERSHIP",
+  "total_issued_shares_value": 1164,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "SALVU BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462279M",
+        "address": "'JOCA',DOCKYARDSTREET,TARXIENPLA04MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "EMAUEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            416973M",
+        "address": "SANGABRIEL,TRIQTAL-BARRANI,TARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "JOCA, DOCKYARD STREET,",
+  "company_id": "P 1179",
+  "registration_date": "Dec 10, 2008",
+  "shares_currency": "EUR",
+  "locality": "TARXIEN",
+  "status": "",
+  "total_authorised_shares": 500
+}

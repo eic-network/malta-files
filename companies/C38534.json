@@ -1,0 +1,75 @@
+{
+  "name": "BENDINAT ESTATE LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL JOHN DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            740020836",
+        "address": "CALLEGARCILASODELAVEGA5,3A,07181PORTALSNOUS,MALLORCASPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL JOHN DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            740020836",
+        "address": "CALLEGARCILASODELAVEGA5,3A,07181PORTALSNOUS,MALLORCASPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL JOHN DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            740020836",
+        "address": "CALLEGARCILASODELAVEGA5,3A,07181PORTALSNOUS,MALLORCASPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CCA INTERSERV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35376",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MICHAEL JOHN DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            740020836",
+        "address": "CALLEGARCILASODELAVEGA5,3A,07181PORTALSNOUS,MALLORCASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 38534",
+  "registration_date": "Apr 24, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

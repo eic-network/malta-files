@@ -1,0 +1,81 @@
+{
+  "name": "ASIAGEM INTERNATIONAL TRADING LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DOMENICO ENNIO CIOFFI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU0501665",
+        "address": "CORSOUMBERTOINO.5CAVALLINO(LE)73020ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DOMENICO ENNIO CIOFFI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU0501665",
+        "address": "CORSOUMBERTOINO.5CAVALLINO(LE)73020ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DOMENICO ENNIO CIOFFI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU0501665",
+        "address": "CORSOUMBERTOINO.5CAVALLINO(LE)73020ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASIAGEM INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 67820",
+        "address": "83,ST.PAULSTREET,VALLETTAVLT1213MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "83, ST PAUL STREET,",
+  "company_id": "C 67821",
+  "registration_date": "Nov 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

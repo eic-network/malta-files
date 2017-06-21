@@ -1,0 +1,38 @@
+{
+  "company_id": "C 61265",
+  "address": "4 V. DIMECH STREET",
+  "name": "Borneo Limited",
+  "locality": "FLORIANA",
+  "status": "",
+  "registration_date": "Jul 22, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "P COURT LIMITED\r",
+        "party_id": "                                                            104958C",
+        "address": "BRIDGEHOUSE,BRIDGESTREET,CASTLETOWNIM91AXISLEOFMAN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "AMONRA LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 99999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 99999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAOLO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314769",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAOLO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314769",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      },
+      {
+        "name": "VINCENZO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2701857",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENZO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2701857",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAOLO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314769",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      },
+      {
+        "name": "VINCENZO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2701857",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DI GRANDI S.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            04782610879",
+        "address": "PIAZZAGALATEA,27CAP95129,CATANIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "VINCENZO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2701857",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "LEVEL 3, SKYPARKS BUSINESS CENTRE, MALTA INTERNATIONAL AIRPORT,",
+  "company_id": "C 54425",
+  "registration_date": "Nov 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

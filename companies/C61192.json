@@ -1,0 +1,83 @@
+{
+  "name": "APULIA LEOTER LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LEONARDO DRAGONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO9955461",
+        "address": "C.DASANBARTOLOMEO,800/E,MONOPOLI(BA)70043ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LEONARDO DRAGONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO9955461",
+        "address": "C.DASANBARTOLOMEO,800/E,MONOPOLI(BA)70043ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TERENZIO FRANCESCO LANZILOTTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO0298047",
+        "address": "VIAFOGGIACALDONNA,50/B,CASTELLANAGROTTE(BA)70013ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEONARDO DRAGONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO9955461",
+        "address": "C.DASANBARTOLOMEO,800/E,MONOPOLI(BA)70043ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LEONARDO DRAGONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO9955461",
+        "address": "C.DASANBARTOLOMEO,800/E,MONOPOLI(BA)70043ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 390
+        }
+      },
+      {
+        "name": "TERENZIO FRANCESCO LANZILOTTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO0298047",
+        "address": "VIAFOGGIACALDONNA,50/B,CASTELLANAGROTTE(BA)70013ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 210
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "55/1, VINCENZA COURT, GIUSEPPE CALI STREET,",
+  "company_id": "C 61192",
+  "registration_date": "Jul 17, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 600
+}

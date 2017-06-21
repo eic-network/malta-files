@@ -1,0 +1,154 @@
+{
+  "name": "APEX INTERIORS LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FLEUR ANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153578M",
+        "address": "6,JULESVERNESTREET,NAXXARNXR06MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY FENECH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264449M",
+        "address": "57OLDRAILWAYROADSANTAVENERAMALTA"
+      },
+      {
+        "name": "DANIEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29675M",
+        "address": "6,JULESVERNESTREET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY FENECH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264449M",
+        "address": "57OLDRAILWAYROADSANTAVENERAMALTA"
+      },
+      {
+        "name": "DANIEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29675M",
+        "address": "6,JULESVERNESTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY FENECH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264449M",
+        "address": "57OLDRAILWAYROADSANTAVENERAMALTA"
+      },
+      {
+        "name": "DANIEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29675M",
+        "address": "6,JULESVERNESTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY FENECH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264449M",
+        "address": "57OLDRAILWAYROADSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "INGRID VELLA SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            115782M",
+        "address": "9,TRIQIL-FORN,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "ALEXANDRA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            276250M",
+        "address": "6,JULESVERNESTREET,SANPAWLTAT-TARGANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3125
+        }
+      },
+      {
+        "name": "DANIEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            29675M",
+        "address": "6,JULESVERNESTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "FLEUR ANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153578M",
+        "address": "6,JULESVERNESTREET,NAXXARNXR06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "86, MDINA ROAD,",
+  "company_id": "C 10222",
+  "registration_date": "Jan 10, 1989",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 10000
+}

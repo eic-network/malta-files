@@ -1,0 +1,70 @@
+{
+  "company_id": "C 64082",
+  "address": "THE PENTHOUSE, CAROLINA COURT, GIUSEPPE CALI STREET,",
+  "name": "BREGOLI-PEREZ GROUP LTD.",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Mar 03, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MAURIZIO PEREZ\r",
+        "party_id": "                                                            AR9213605",
+        "address": "VIALEERMOCRATEN.13SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAURIZIO PEREZ\r",
+        "party_id": "                                                            AR9213605",
+        "address": "VIALEERMOCRATEN.13SIRACUSAITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURIZIO PEREZ\r",
+        "party_id": "                                                            AR9213605",
+        "address": "VIALEERMOCRATEN.13SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MAURIZIO PEREZ\r",
+        "party_id": "                                                            AR9213605",
+        "address": "VIALEERMOCRATEN.13SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURIZIO PEREZ\r",
+        "party_id": "                                                            AR9213605",
+        "address": "VIALEERMOCRATEN.13SIRACUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

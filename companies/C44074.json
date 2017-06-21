@@ -1,0 +1,81 @@
+{
+  "company_id": "C 44074",
+  "address": "60 TIGNE TOWERS TIGNE STREET",
+  "name": "BRORA TRADING LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Apr 21, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1164,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1164
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IGOR IVANOV\r",
+        "party_id": "                                                            6604014587",
+        "address": "1STVOSTOCHNAYASTREET6,APT.6,SMOLENSKRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRORA HOLDING S.A.R.L.\r",
+        "party_id": "                                                            B 135526",
+        "address": "46A,AVENUEJ.F.KENNEDYLUXEMBOURGL-1855LUXEMBOURG",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EQUITY TRUST MALTA LIMITED\r",
+        "party_id": "                                                            C 39512",
+        "address": "SMARTCITYMALTA,SCM01TMFGROUP(MALTA)401,RICASOLI,KALKARASCM1001MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IGOR IVANOV\r",
+        "party_id": "                                                            6604014587",
+        "address": "1STVOSTOCHNAYASTREET6,APT.6,SMOLENSKRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IGOR IVANOV\r",
+        "party_id": "                                                            6604014587",
+        "address": "1STVOSTOCHNAYASTREET6,APT.6,SMOLENSKRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ]
+  }
+}

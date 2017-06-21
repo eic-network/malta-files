@@ -1,0 +1,91 @@
+{
+  "name": "ARGO ENTERPRISES LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            808660M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            808660M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            808660M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19727",
+        "address": "ZION,QREMPUCSTREETMARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            808660M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALICE GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            2868M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "CHARLES GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            808660M",
+        "address": "3,HARBOURLIGHTS,TRIQL-IRMIGG,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "15, TRIQ ALDERBARAN,",
+  "company_id": "C 17509",
+  "registration_date": "Jan 12, 1995",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 500
+}

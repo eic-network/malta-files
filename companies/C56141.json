@@ -1,0 +1,91 @@
+{
+  "name": "BLUE WINDOW LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEFFREY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            419286M",
+        "address": "TOUJOURS,PATRICKBRYDONESTREET,ST.JULIANSSTJ1711MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JANCARL KHALIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            011602L",
+        "address": "22,OMARTRIQIS-SIEQJAATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JANCARL KHALIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            011602L",
+        "address": "22,OMARTRIQIS-SIEQJAATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR k/as SILVIO BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10235",
+        "address": "4,COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGA,NAXXARNXR2232MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JANCARL KHALIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            011602L",
+        "address": "22,OMARTRIQIS-SIEQJAATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BUSUTTIL FIDUCIARY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41069",
+        "address": "COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGANAXXARNXR2232MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BUSUTTIL FIDUCIARY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41069",
+        "address": "COUNTRYLODGE,A.DESAAVEDRASTREET,SANPAWLTAT-TARGANAXXARNXR2232MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'COUNTRY LODGE', A. DE SAAVEDRA STREET, SAN PAWL TAT-TARGA,",
+  "company_id": "C 56141",
+  "registration_date": "Apr 30, 2012",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

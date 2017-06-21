@@ -1,0 +1,75 @@
+{
+  "name": "ALLWINDS SHIPPING LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER CARBONARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150060M",
+        "address": "18,OLDTREASURYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER CARBONARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150060M",
+        "address": "18,OLDTREASURYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER CARBONARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150060M",
+        "address": "18,OLDTREASURYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DOVE VENTURES CORP.,\r",
+        "nationality": "",
+        "party_id": "                                                            125014",
+        "address": "ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "URS A KAELIN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1018296",
+        "address": "DUNANTSTRASSE6,ZURICH8044SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 14206",
+  "registration_date": "Sep 04, 1992",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,109 @@
+{
+  "company_id": "C 53776",
+  "address": "21/1, TRIQ SAN GWANN TAL-GHORGHOR,",
+  "name": "BRAMLEY LTD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Sep 07, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KARL BONNICI\r",
+        "party_id": "                                                            452083M",
+        "address": "1,CASABONNICI,TRIQIL-QREMPUC,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SHANEL DEBATTISTA\r",
+        "party_id": "                                                            167687M",
+        "address": "190/7,TRIQIX-XATT,PIETA'MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KARL BONNICI\r",
+        "party_id": "                                                            452083M",
+        "address": "1,CASABONNICI,TRIQIL-QREMPUC,SANGWANNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SHANEL DEBATTISTA\r",
+        "party_id": "                                                            167687M",
+        "address": "190/7,TRIQIX-XATT,PIETA'MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL BONNICI\r",
+        "party_id": "                                                            452083M",
+        "address": "1,CASABONNICI,TRIQIL-QREMPUC,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SHANEL DEBATTISTA\r",
+        "party_id": "                                                            167687M",
+        "address": "190/7,TRIQIX-XATT,PIETA'MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KARL BONNICI\r",
+        "party_id": "                                                            452083M",
+        "address": "1,CASABONNICI,TRIQIL-QREMPUC,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SHANEL DEBATTISTA\r",
+        "party_id": "                                                            167687M",
+        "address": "190/7,TRIQIX-XATT,PIETA'MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL BONNICI\r",
+        "party_id": "                                                            452083M",
+        "address": "1,CASABONNICI,TRIQIL-QREMPUC,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEPHEN ATTARD\r",
+        "party_id": "                                                            19961",
+        "address": "34,BLOSSOM,TRIQIC-CAWSLI,SANGWANNSGN2415MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

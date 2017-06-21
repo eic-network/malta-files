@@ -1,0 +1,83 @@
+{
+  "name": "AMER-ICA LEASING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALAIN DIOTALLEVI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR62379",
+        "address": "27,AVENUEDUMARECHALMAUNOURY,PARIS75116FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALAIN DIOTALLEVI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR62379",
+        "address": "27,AVENUEDUMARECHALMAUNOURY,PARIS75116FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALAIN DIOTALLEVI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR62379",
+        "address": "27,AVENUEDUMARECHALMAUNOURY,PARIS75116FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDRE CHRISTIAN ANTOINE DIOTALLEVI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            07CC31688",
+        "address": "107E37ST4,NEWYORKNY10016-3065UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JEANINE ROSE BLANCHE DIOTALLEVI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            120375G00370",
+        "address": "14,RUEDELANCIENNECOMEDIE,PARIS6E(75)FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "43A/1, ST. PAUL'S BUILDINGS, WEST STREET,",
+  "company_id": "C 65849",
+  "registration_date": "Jul 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,96 @@
+{
+  "company_id": "C 61955",
+  "address": "OFFICE 21, REGENT HOUSE, BISAZZA STREET,",
+  "name": "BRIDGE INVESTMENTS LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Sep 19, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW WILLIAM WRIGHT\r",
+        "party_id": "                                                            540669349",
+        "address": "THELONGBARN,TOWNSENDMANORFARM,STATIONROAD,STOCKBRIDGE,HAMPSHIRESO208HUUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIDGE HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 61951",
+        "address": "OFFICE21,REGENTHOUSE,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW WILLIAM WRIGHT\r",
+        "party_id": "                                                            540669349",
+        "address": "THELONGBARN,TOWNSENDMANORFARM,STATIONROAD,STOCKBRIDGE,HAMPSHIRESO208HUUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MATTHEW WILLIAM WRIGHT\r",
+        "party_id": "                                                            540669349",
+        "address": "THELONGBARN,TOWNSENDMANORFARM,STATIONROAD,STOCKBRIDGE,HAMPSHIRESO208HUUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

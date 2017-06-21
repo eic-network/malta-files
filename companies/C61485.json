@@ -1,0 +1,157 @@
+{
+  "name": "BAVA HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "VALERIO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            221374M",
+        "address": "PRIMEROSE,ANTHONYAQUILINASTREET,ZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "ADOLPHUS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            413967M",
+        "address": "43,FLAT2,TRIQMAGGIEMORAN,PAOLAMALTA"
+      },
+      {
+        "name": "ALVIERO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386075M",
+        "address": "OOTMARSUM,TRIQID-DULURI,ZEJTUNMALTA"
+      },
+      {
+        "name": "VALERIO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            221374M",
+        "address": "PRIMEROSE,ANTHONYAQUILINASTREET,ZEBBUGMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VALERIO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            221374M",
+        "address": "PRIMEROSE,ANTHONYAQUILINASTREET,ZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "VALERIO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            221374M",
+        "address": "PRIMEROSE,ANTHONYAQUILINASTREET,ZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "VALERIO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            221374M",
+        "address": "PRIMEROSE,ANTHONYAQUILINASTREET,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ALVIERO CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386075M",
+        "address": "OOTMARSUM,TRIQID-DULURI,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ADOLPHUS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            413967M",
+        "address": "43,FLAT2,TRIQMAGGIEMORAN,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO. 40, INDUSTRIAL ESTATE,",
+  "company_id": "C 61485",
+  "registration_date": "Aug 07, 2013",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

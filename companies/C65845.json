@@ -1,0 +1,109 @@
+{
+  "name": "ARGYLE HOLDINGS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KENNETH ROSS HETHERINGTON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4034813",
+        "address": "CAMBRIDGE,OLIVESTREET,ST.JULIANSSTJ1952MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT BAKER\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4044968",
+        "address": "91,SOUTHERNCROSSDRIVE,DALBYQLD4405AUSTRALIA"
+      },
+      {
+        "name": "KENNETH ROSS HETHERINGTON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4034813",
+        "address": "CAMBRIDGE,OLIVESTREET,ST.JULIANSSTJ1952MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT BAKER\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4044968",
+        "address": "91,SOUTHERNCROSSDRIVE,DALBYQLD4405AUSTRALIA"
+      },
+      {
+        "name": "KENNETH ROSS HETHERINGTON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4034813",
+        "address": "CAMBRIDGE,OLIVESTREET,ST.JULIANSSTJ1952MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT BAKER\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4044968",
+        "address": "91,SOUTHERNCROSSDRIVE,DALBYQLD4405AUSTRALIA"
+      },
+      {
+        "name": "KENNETH ROSS HETHERINGTON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4034813",
+        "address": "CAMBRIDGE,OLIVESTREET,ST.JULIANSSTJ1952MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "41, SUITE 1, ST CHRISTOPHER STREET,",
+  "company_id": "C 65845",
+  "registration_date": "Jul 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

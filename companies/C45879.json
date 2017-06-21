@@ -1,0 +1,104 @@
+{
+  "name": "ARENA GROUP LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIOVANNI CAMPANILE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E347676",
+        "address": "NORTHQUAYAPTS,FLAT02,TRIQSANPAWL,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREA LANFREDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D324412",
+        "address": "VIAA.VOLTA29CASERTA81100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREA LANFREDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D324412",
+        "address": "VIAA.VOLTA29CASERTA81100ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA LANFREDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D324412",
+        "address": "VIAA.VOLTA29CASERTA81100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARCO IACOVONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT0211807",
+        "address": "VIAG.FALCONE16CASERTA81100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "ANDREA LANFREDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            D324412",
+        "address": "VIAA.VOLTA29CASERTA81100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "MARIO LANFREDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1524385",
+        "address": "VIAA.VOLTA29CASERTA81100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18, DRIVE 41 THOMAS GALEA STREET, TA' PARIS",
+  "company_id": "C 45879",
+  "registration_date": "Dec 18, 2008",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

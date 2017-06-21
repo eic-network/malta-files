@@ -1,0 +1,70 @@
+{
+  "company_id": "C 65673",
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR",
+  "name": "BOUND INVESTMENTS LTD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Jun 18, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VLADIMIR CALDERON\r",
+        "party_id": "                                                            214792891",
+        "address": "4219RIVERDISTRICTDRDULUTHMINNESOTAGA30096UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VLADIMIR CALDERON\r",
+        "party_id": "                                                            214792891",
+        "address": "4219RIVERDISTRICTDRDULUTHMINNESOTAGA30096UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VLADIMIR CALDERON\r",
+        "party_id": "                                                            214792891",
+        "address": "4219RIVERDISTRICTDRDULUTHMINNESOTAGA30096UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VLADIMIR CALDERON\r",
+        "party_id": "                                                            214792891",
+        "address": "4219RIVERDISTRICTDRDULUTHMINNESOTAGA30096UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VLADIMIR CALDERON\r",
+        "party_id": "                                                            214792891",
+        "address": "4219RIVERDISTRICTDRDULUTHMINNESOTAGA30096UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "APPLE CORE FOODS LTD",
+  "total_issued_shares_value": 270000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 270000,
+      "type": "Ordinary",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LOUIS DE GABRIELE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136664M",
+        "address": "55,TRIQIL-BARMIL,VICTORIAGARDENS,IBRAGG,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE MATTOCKS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            537464M",
+        "address": "87,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE MATTOCKS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            537464M",
+        "address": "87,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129082M",
+        "address": "102,ST.CATHERINESTREET,ATTARDATD2605MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE MATTOCKS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            537464M",
+        "address": "87,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PIERRE MATTOCKS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            537464M",
+        "address": "87,MAINSTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 270000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 270000,
+  "address": "45 HARDROCKS BUSINESS PARK, WIED IL-GHASEL, L/O",
+  "company_id": "C 55240",
+  "registration_date": "Feb 07, 2012",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 500000
+}

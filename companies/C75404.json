@@ -1,0 +1,151 @@
+{
+  "name": "B.M. Operations Limited",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 50000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "FLAT1,63C,B'KARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KENNETH J FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428870M",
+        "address": "'KYRIOS'43,TRIQIRRAND,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37765M",
+        "address": "CLOVER,TRIQIL-QAWSALLA,IBRAGGSWIEQIMALTA"
+      },
+      {
+        "name": "JOHN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            636656M",
+        "address": "NEWTONHEATH,TRIQIL-GARRA,IBRAGG,SWIEQIMALTA"
+      },
+      {
+        "name": "KENNETH J FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428870M",
+        "address": "'KYRIOS'43,TRIQIRRAND,ATTARDMALTA"
+      },
+      {
+        "name": "MALCOLM G MILLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782654M",
+        "address": "'DARL-GHOMOR',OLIVESTREETST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37765M",
+        "address": "CLOVER,TRIQIL-QAWSALLA,IBRAGGSWIEQIMALTA"
+      },
+      {
+        "name": "JOHN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            636656M",
+        "address": "NEWTONHEATH,TRIQIL-GARRA,IBRAGG,SWIEQIMALTA"
+      },
+      {
+        "name": "KENNETH J FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428870M",
+        "address": "'KYRIOS'43,TRIQIRRAND,ATTARDMALTA"
+      },
+      {
+        "name": "MALCOLM G MILLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782654M",
+        "address": "'DARL-GHOMOR',OLIVESTREETST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37765M",
+        "address": "CLOVER,TRIQIL-QAWSALLA,IBRAGGSWIEQIMALTA"
+      },
+      {
+        "name": "JOHN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            636656M",
+        "address": "NEWTONHEATH,TRIQIL-GARRA,IBRAGG,SWIEQIMALTA"
+      },
+      {
+        "name": "KENNETH J FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428870M",
+        "address": "'KYRIOS'43,TRIQIRRAND,ATTARDMALTA"
+      },
+      {
+        "name": "MALCOLM G MILLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            782654M",
+        "address": "'DARL-GHOMOR',OLIVESTREETST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MILLER DISTRIBUTORS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 344",
+        "address": "''MILLERHOUSE''TARXIENROAD,AIRPORTWAYLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50000
+        }
+      },
+      {
+        "name": "R.J.C. OPERATIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35934",
+        "address": "THEPENTHOUSE,N.16,PAPILLONCOURTA,BIRBALSTREET,BALZANBZN9019MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 50000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "MILLER HOUSE, TARXIEN ROAD, AIRPORT WAY,",
+  "company_id": "C 75404",
+  "registration_date": "Apr 26, 2016",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,96 @@
+{
+  "name": "BETMAGICIAN LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IVAN POPOV\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009540108",
+        "address": "1.MAJ6,23273NOVOMILOSEVOSERBIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN POPOV\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009540108",
+        "address": "1.MAJ6,23273NOVOMILOSEVOSERBIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BOJAN NIKITOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            010806777",
+        "address": "DRDJORDJAKOVACEVICA8/12,11550LAZAREVECSERBIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN POPOV\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009540108",
+        "address": "1.MAJ6,23273NOVOMILOSEVOSERBIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOJAN NIKITOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            010806777",
+        "address": "DRDJORDJAKOVACEVICA8/12,11550LAZAREVECSERBIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "IVAN POPOV\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            009540108",
+        "address": "1.MAJ6,23273NOVOMILOSEVOSERBIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1075
+        }
+      },
+      {
+        "name": "OGNJEN PUSAC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            011233307",
+        "address": "SELJACKIHBUNA,21000NOVISADSERBIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "152, SUITE NR. 7, NAXXAR ROAD,",
+  "company_id": "C 78819",
+  "registration_date": "Dec 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

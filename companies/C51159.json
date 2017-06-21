@@ -1,0 +1,103 @@
+{
+  "name": "BEMBLA HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIE THERESE TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279862M",
+        "address": "VILLAWINCANTON,NOTARYZARBSTREET,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIE THERESE TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279862M",
+        "address": "VILLAWINCANTON,NOTARYZARBSTREET,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIE THERESE TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279862M",
+        "address": "VILLAWINCANTON,NOTARYZARBSTREET,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HORWATH MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/27",
+        "address": "LAPROVVIDA,KARMZERAFASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIE THERESE TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279862M",
+        "address": "VILLAWINCANTON,NOTARYZARBSTREET,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THOMAS TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            104995M",
+        "address": "VILLAWINCANTON,NOTARYEZARBSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARIE THERESE TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            279862M",
+        "address": "VILLAWINCANTON,NOTARYZARBSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 399
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "BLB 25, BULEBEL INDUSTRIAL ESTATE,",
+  "company_id": "C 51159",
+  "registration_date": "Nov 12, 2010",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

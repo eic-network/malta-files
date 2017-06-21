@@ -1,0 +1,83 @@
+{
+  "name": "Arias Ltd.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "WTS Directors Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            1529671",
+        "address": "OMCChambersWickhamsCay1RoadTown,TortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WTS Directors Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            1529671",
+        "address": "OMCChambersWickhamsCay1RoadTown,TortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA DE LURDES SARAIVA RODRIGUES\r",
+        "nationality": "ANGOLAN",
+        "party_id": "                                                            004746240ME048",
+        "address": "170-2,RUAAMILCARCOBRAL,APARTAMENTO2,LUANDAANGOLA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WTS Directors Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            1529671",
+        "address": "OMCChambersWickhamsCay1RoadTown,TortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WTS Directors Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            1529671",
+        "address": "OMCChambersWickhamsCay1RoadTown,TortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "WTS Nominees Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            1529670",
+        "address": "OMCChambersWickhamsCay1RoadTown,TortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 74129",
+  "registration_date": "Feb 09, 2016",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ANDREA TANI HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 0,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LIUS FONCERRADA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            94370035297",
+        "address": "VIAPINEROZO58MILANOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESTEFANA FONCERRADA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            154768374",
+        "address": "VIAPINEROZO58MILANOITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "LIUS FONCERRADA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            94370035297",
+        "address": "VIAPINEROZO58MILANOITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "'SEABREEZE' G. CALI STREET",
+  "company_id": "C 24052",
+  "registration_date": "Feb 02, 1999",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

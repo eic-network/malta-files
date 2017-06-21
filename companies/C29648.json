@@ -1,0 +1,51 @@
+{
+  "name": "ALLMART LIMITED",
+  "total_issued_shares_value": 2327.04,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 999,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "PANACO MARKETING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32254",
+        "address": "46/3,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "JOHN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173671M",
+        "address": "17,FLAT17GHARIL-LEMBISTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 999,
+  "address": "21, CHURCH STREET,",
+  "company_id": "C 29648",
+  "registration_date": "May 03, 2002",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 2000
+}

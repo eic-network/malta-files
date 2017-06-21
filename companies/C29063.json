@@ -1,0 +1,75 @@
+{
+  "name": "ARKIA MANAGEMENT SHIPPING LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16 VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 29063",
+  "registration_date": "Dec 19, 2001",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

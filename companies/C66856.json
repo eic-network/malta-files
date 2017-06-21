@@ -1,0 +1,146 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Sep 25, 2014",
+  "status": "",
+  "locality": "RABAT",
+  "name": "BRS LTD",
+  "total_issued_shares": 1200,
+  "address": "'ST. JOSEPH HOUSE' BUQANA ROAD",
+  "company_id": "C 66856",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "293,TRIQFLEURDELYS,BIRKIRKARAMALTA",
+        "party_id": "                                                            332968M",
+        "name": "ODETTE ABELA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "STJOSEPHF/HTRIQIL-BUQANARABATMALTA",
+        "party_id": "                                                            413792M",
+        "name": "LUCA BARTOLO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "MARIGOLDTRIQDUNKARMPSAILAZEBBUGMALTA",
+        "party_id": "                                                            268485M",
+        "name": "MARK BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "293,TRIQFLEURDELYS,BIRKIRKARAMALTA",
+        "party_id": "                                                            332968M",
+        "name": "ODETTE ABELA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "STJOSEPHF/HTRIQIL-BUQANARABATMALTA",
+        "party_id": "                                                            413792M",
+        "name": "LUCA BARTOLO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "MARIGOLDTRIQDUNKARMPSAILAZEBBUGMALTA",
+        "party_id": "                                                            268485M",
+        "name": "MARK BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "MARIGOLDTRIQDUNKARMPSAILAZEBBUGMALTA",
+        "party_id": "                                                            268485M",
+        "name": "MARK BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "MARIGOLDTRIQDUNKARMPSAILAZEBBUGMALTA",
+        "party_id": "                                                            268485M",
+        "name": "MARK BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "party_id": "                                                            C 44657",
+        "name": "NOTABILE FIDUCIARIES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "party_id": "                                                            C 44657",
+        "name": "NOTABILE FIDUCIARIES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 400,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "293,TRIQFLEURDELYS,BIRKIRKARAMALTA",
+        "party_id": "                                                            332968M",
+        "name": "ODETTE ABELA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "STJOSEPHF/HTRIQIL-BUQANARABATMALTA",
+        "party_id": "                                                            413792M",
+        "name": "LUCA BARTOLO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "MARIGOLDTRIQDUNKARMPSAILAZEBBUGMALTA",
+        "party_id": "                                                            268485M",
+        "name": "MARK BARTOLO\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

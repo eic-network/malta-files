@@ -1,0 +1,91 @@
+{
+  "company_id": "C 24752",
+  "address": "251, AGAPE COURT, FLAT 3, OLD RAILWAY ROAD,",
+  "name": "BREAKPOINT COMPANY LIMITED",
+  "locality": "BALZAN",
+  "status": "",
+  "registration_date": "Jun 23, 1999",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 643,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 643
+    }
+  ],
+  "total_authorised_shares": 643,
+  "total_authorised_shares_value": 1497.79,
+  "total_issued_shares": 643,
+  "total_issued_shares_value": 1497.79,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARMEN SPITERI\r",
+        "party_id": "                                                            515059M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY SPITERI\r",
+        "party_id": "                                                            228658M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 322,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "CARMEN SPITERI\r",
+        "party_id": "                                                            515059M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 321,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEN SPITERI\r",
+        "party_id": "                                                            515059M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEN SPITERI\r",
+        "party_id": "                                                            515059M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMEN SPITERI\r",
+        "party_id": "                                                            515059M",
+        "address": "251,AGAPECOURT,FLAT3,OLDRAILWAYROAD,BALZANBZN1615MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDRE PARNIS\r",
+        "party_id": "                                                            10133",
+        "address": "EL-ELYON,TRIQXATBETL-ART,ATTARDATD1411MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

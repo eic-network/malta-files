@@ -1,0 +1,115 @@
+{
+  "name": "BISTROT LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            656581M",
+        "address": "THEOLDFARMHOUSE,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            545985M",
+        "address": "28,FLT1,TRIQSANPUBLJU,SLIEMAMALTA"
+      },
+      {
+        "name": "JOHN PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            656581M",
+        "address": "THEOLDFARMHOUSE,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            545985M",
+        "address": "28,FLT1,TRIQSANPUBLJU,SLIEMAMALTA"
+      },
+      {
+        "name": "JOHN PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            656581M",
+        "address": "THEOLDFARMHOUSE,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            545985M",
+        "address": "28,FLT1,TRIQSANPUBLJU,SLIEMAMALTA"
+      },
+      {
+        "name": "JOHN PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            656581M",
+        "address": "THEOLDFARMHOUSE,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            656581M",
+        "address": "THEOLDFARMHOUSE,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "MATTHEW BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            545985M",
+        "address": "28,FLT1,TRIQSANPUBLJU,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "88, WINDSOR COURT, FLAT 2B, WINDSOR TERRACE,",
+  "company_id": "C 52472",
+  "registration_date": "Apr 04, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

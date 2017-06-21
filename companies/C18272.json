@@ -1,0 +1,59 @@
+{
+  "name": "ASSO MARITIME CO LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAFFAELE CARDONE",
+        "nationality": "",
+        "party_id": "",
+        "address": "VIAMAURELIO167NAPOLIITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNA CRAUS",
+        "nationality": "",
+        "party_id": "",
+        "address": "VIAF.DELIASOLITARIA5NAPOLIITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MARCO LOMBARDI",
+        "nationality": "",
+        "party_id": "",
+        "address": "VIAROMA11BOLOGNAITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "MERCURY HOUSE, 125, OLD MINT STREET,",
+  "company_id": "C 18272",
+  "registration_date": "Apr 13, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

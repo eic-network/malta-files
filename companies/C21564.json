@@ -1,0 +1,91 @@
+{
+  "name": "ANTONIO BORG CENTRE POINT CO LTD",
+  "total_issued_shares_value": 93174.92,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336876M",
+        "address": "160,MAINSTREET,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336876M",
+        "address": "160,MAINSTREET,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336876M",
+        "address": "160,MAINSTREET,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336876M",
+        "address": "160,MAINSTREET,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            618937M",
+        "address": "160,MAINSTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VICTOR SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336876M",
+        "address": "160,MAINSTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "CENTRE POINT, TRIQ 20 TA' JANNAR,",
+  "company_id": "C 21564",
+  "registration_date": "Jun 23, 1997",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 40000
+}

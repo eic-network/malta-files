@@ -1,0 +1,103 @@
+{
+  "name": "ARKEA PROJECTS COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AMANDA M SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580277M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398173M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMANDA M SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580277M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA"
+      },
+      {
+        "name": "ROBERT SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398173M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398173M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398173M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "AMANDA M SARSERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580277M",
+        "address": "525,ST.JOSEPHHIGHROAD,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "525, ST. JOSEPH HIGH ROAD,",
+  "company_id": "C 32913",
+  "registration_date": "Dec 30, 2003",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 500
+}

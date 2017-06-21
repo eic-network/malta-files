@@ -1,0 +1,123 @@
+{
+  "name": "Amarillo Asset Partners Limited",
+  "total_issued_shares_value": 125000,
+  "total_authorised_shares_value": 125000,
+  "authorised_shares": [
+    {
+      "issued_shares": 124999,
+      "type": "Ordinary",
+      "authorised_share_capital": 124999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryDEFERRED",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "INGRID BIANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536182M",
+        "address": "AYLWARDCRT.161/2,GWARDAMANGIAHILL,PIETA'MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLA,BIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLA,BIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA"
+      },
+      {
+        "name": "KENNETH MOUSU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208470M",
+        "address": "SARDINELLA8,TRIQIL-QARCILLA,BIRKIRKARABKR1932MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMARILLO ASSET PARTNERS GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN 314893 d",
+        "address": "FRANZ-KLEIN-GASSE,5,VIENNA1190AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 124999
+        }
+      },
+      {
+        "name": "ANDREAS JESCHKO\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2485519",
+        "address": "MUCHAGASSE10,VIENNA1190AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "DEFERRED",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 125000,
+  "address": "23, REGENT HOUSE, BISAZZA STREET,",
+  "company_id": "C 45137",
+  "registration_date": "Sep 17, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 125000
+}

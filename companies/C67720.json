@@ -1,0 +1,89 @@
+{
+  "company_id": "C 67720",
+  "address": "45/1, TRIQ L-ISQOF F.S. CARUANA,",
+  "name": "BREWERY ADVERTISING CONSULTING LTD",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Nov 21, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MEDITERRA MMXII SERVICES LTD\r",
+        "party_id": "                                                            C 56163",
+        "address": "THEROCKLANDS,2/10,WINDSORTERRACE,SLIEMASLM1859MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BREWERY TRADE LTD\r",
+        "party_id": "                                                            149262",
+        "address": "SUITE102,GROUNDFLOOR,BLAKEBUILDING,CORNEREYRE,HUSTONSTREETS,BELIZECITYBELIZE",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MEDITERRA MMXII SERVICES LTD\r",
+        "party_id": "                                                            C 56163",
+        "address": "THEROCKLANDS,2/10,WINDSORTERRACE,SLIEMASLM1859MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MEDITERRA MMXII SERVICES LTD\r",
+        "party_id": "                                                            C 56163",
+        "address": "THEROCKLANDS,2/10,WINDSORTERRACE,SLIEMASLM1859MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MEDITERRA MMXII SERVICES LTD\r",
+        "party_id": "                                                            C 56163",
+        "address": "THEROCKLANDS,2/10,WINDSORTERRACE,SLIEMASLM1859MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTHONY GHIRLANDO\r",
+        "party_id": "                                                            232406L",
+        "address": "THEROCKLANDS,2/10,WINDSORTERRACE,SLIEMASLM1859MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 1164.6,
+  "registration_date": "Jan 27, 1987",
+  "status": "",
+  "locality": "ST. PAUL'S BAY",
+  "name": "BUGIBBA HOLIDAY COMPLEX LIMITED",
+  "total_issued_shares": 500,
+  "address": "TRIQ IT-TURISTI,",
+  "company_id": "C 8542",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "IL-GARRA,TRIQCARMELOPACEIKLINMALTA",
+        "party_id": "                                                            820340M",
+        "name": "WINSTON ZAHRA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "TAZ-ZENQA,BIDNIJAROAD,MGARRMALTA",
+        "party_id": "                                                            9167M",
+        "name": "KENNETH ABELA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "IL-GARRA,TRIQCARMELOPACEIKLINMALTA",
+        "party_id": "                                                            820340M",
+        "name": "WINSTON ZAHRA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "IL-GARRA,TRIQCARMELOPACEIKLINMALTA",
+        "party_id": "                                                            820340M",
+        "name": "WINSTON ZAHRA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "party_id": "                                                            AB/26/84/81",
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "'IL-GARRA',TRIQCARMELOPACE,IKLINMALTA",
+        "party_id": "                                                            C 6720",
+        "name": "T.M.C. LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "THETHREEARCHESVALLETTAROADMOSTAMALTA",
+        "party_id": "                                                            C 2448",
+        "name": "VASSALLO BUILDERS GROUP LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "shares_currency": "EUR"
+}

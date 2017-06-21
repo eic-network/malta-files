@@ -1,0 +1,70 @@
+{
+  "company_id": "C 77782",
+  "address": "PLOT 141, INDUSTRIAL ESTATE,",
+  "name": "BORVIN HOLDINGS LIMITED",
+  "locality": "LUQA",
+  "status": "",
+  "registration_date": "Oct 25, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "EASTENDCOURTBLKD,FLAT8,TRIQIL-FORTIZZATAL-GRAZZJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "EASTENDCOURTBLKD,FLAT8,TRIQIL-FORTIZZATAL-GRAZZJA,XGHAJRAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "EASTENDCOURTBLKD,FLAT8,TRIQIL-FORTIZZATAL-GRAZZJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "EASTENDCOURTBLKD,FLAT8,TRIQIL-FORTIZZATAL-GRAZZJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN BORG\r",
+        "party_id": "                                                            374181M",
+        "address": "EASTENDCOURTBLKD,FLAT8,TRIQIL-FORTIZZATAL-GRAZZJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

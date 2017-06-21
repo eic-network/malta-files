@@ -1,0 +1,75 @@
+{
+  "name": "ARCANUM LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            225151M",
+        "address": "IL-HORZA,SWIEQIVALLEY,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENZO FIORDALISO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AE5025794",
+        "address": "VIAVITTORIOVENETO32,46047PORTOMANTOVANO,MANTOVAITALY"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENZO FIORDALISO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AE5025794",
+        "address": "VIAVITTORIOVENETO32,46047PORTOMANTOVANO,MANTOVAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GANADO TRUSTEES & FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7880",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT09MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "ALESSANDRA VALENTINI",
+        "nationality": "ITALIAN",
+        "party_id": "",
+        "address": "VIAVITTORIOVENETO32,46047,PORTOMANTOVANO,MANTOVAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "57, ST. CHRISTOPHER STREET,",
+  "company_id": "C 25598",
+  "registration_date": "Dec 17, 1999",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

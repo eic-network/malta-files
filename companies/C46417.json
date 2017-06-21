@@ -1,0 +1,65 @@
+{
+  "name": "ALLVOYAGER LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "GRAHAM MURPHY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            PS1340414",
+        "address": "5,TRIQIL-WEJBA,TAL-IBRAGGSWIEQISWQ2393MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SUITE F, BLOCK A, EMBASSY WAY,",
+  "company_id": "C 46417",
+  "registration_date": "Mar 12, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,77 @@
+{
+  "name": "ARREDO CASA LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ANCA HOLDINGS COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 9767",
+        "address": "121,FLAT4,THEPROMENADE,TOWERROAD,SLIEMASLM1605MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "FRANCESCA CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            96873M",
+        "address": "152,MAINSTREET,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 112
+        }
+      },
+      {
+        "name": "CHRISTOPHER VASSALLO CESAREO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            92370M",
+        "address": "52,MAINSTREET,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 113
+        }
+      },
+      {
+        "name": "LEONARD VASSALLO CESAREO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231341M",
+        "address": "CASADEPIRO,MAINSTREET,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 225
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "PARK TOWERS, G. BORG OLIVIER STREET,",
+  "company_id": "C 17987",
+  "registration_date": "Mar 10, 1995",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 5000
+}

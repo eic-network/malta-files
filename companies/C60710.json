@@ -1,0 +1,78 @@
+{
+  "name": "BOLD CONSULTANCY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422670M",
+        "address": "14,BRAREDSTREET,BIRKIRKARABKR1251MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL SIMON PRUCHNIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099277356",
+        "address": "1,THEPADDOCK,CYNOCOED,CARDIFCF235JNWALES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL SIMON PRUCHNIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099277356",
+        "address": "1,THEPADDOCK,CYNOCOED,CARDIFCF235JNWALES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL SIMON PRUCHNIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099277356",
+        "address": "1,THEPADDOCK,CYNOCOED,CARDIFCF235JNWALES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL SIMON PRUCHNIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099277356",
+        "address": "1,THEPADDOCK,CYNOCOED,CARDIFCF235JNWALES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "14, BRARED STREET,",
+  "company_id": "C 60710",
+  "registration_date": "Jun 05, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

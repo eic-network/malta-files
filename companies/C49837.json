@@ -1,0 +1,78 @@
+{
+  "company_id": "C 49837",
+  "address": "BLK 2, FLAT 5, MERCHANTS STREET,",
+  "name": "BRIGHT CLEANING SERVICES LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jun 04, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SHARON ZERAFA GALEA\r",
+        "party_id": "                                                            494281M",
+        "address": "BLK2,FLAT5,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHARON ZERAFA GALEA\r",
+        "party_id": "                                                            494281M",
+        "address": "BLK2,FLAT5,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SHARON ZERAFA GALEA\r",
+        "party_id": "                                                            494281M",
+        "address": "BLK2,FLAT5,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SHARON ZERAFA GALEA\r",
+        "party_id": "                                                            494281M",
+        "address": "BLK2,FLAT5,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SHARON ZERAFA GALEA\r",
+        "party_id": "                                                            494281M",
+        "address": "BLK2,FLAT5,MERCHANTSSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

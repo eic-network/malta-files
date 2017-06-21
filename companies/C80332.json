@@ -1,0 +1,83 @@
+{
+  "name": "BEE SHORE HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RAFFAELE MIRANDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO3864047",
+        "address": "VIARUBICONE,3,LATINA(LT)04100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAFFAELE MIRANDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO3864047",
+        "address": "VIARUBICONE,3,LATINA(LT)04100ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VITO CALIANNO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            60317A",
+        "address": "ARTMARTRIQTAL-QROQQ,MSIDAMSD1614MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAFFAELE MIRANDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO3864047",
+        "address": "VIARUBICONE,3,LATINA(LT)04100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAFFAELE MIRANDA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO3864047",
+        "address": "VIARUBICONE,3,LATINA(LT)04100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "VITO MARCO SABATIELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0203558",
+        "address": "VIASEGANTINI,57,TORINO(TO)10151ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "UNITECH BUILDING, LEVEL 2, TRIQ IL-KOSTITUZZJONI,",
+  "company_id": "C 80332",
+  "registration_date": "Apr 05, 2017",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

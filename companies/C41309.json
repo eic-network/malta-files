@@ -1,0 +1,78 @@
+{
+  "name": "ANDREA MARTINA LIMITED",
+  "total_issued_shares_value": 250000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 250000,
+      "type": "Ordinary",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DARREN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49474M",
+        "address": "22,MENSIJAROAD,SANGWANNSGN1608MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DARREN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49474M",
+        "address": "22,MENSIJAROAD,SANGWANNSGN1608MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SPIRIDIONE GOODLIP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323081M",
+        "address": "BLOCKA,FLATNO.6,ST.JOSEPHSTREET,VALLETTAVLT1610MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19816",
+        "address": "171,CHARLEROI,TRIQTUMASCHETCUTI,ATTARDATD3034MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DARREN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49474M",
+        "address": "22,MENSIJAROAD,SANGWANNSGN1608MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DARREN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49474M",
+        "address": "22,MENSIJAROAD,SANGWANNSGN1608MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 250000,
+  "address": "22, MENSIJA ROAD,",
+  "company_id": "C 41309",
+  "registration_date": "May 04, 2007",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 250000
+}

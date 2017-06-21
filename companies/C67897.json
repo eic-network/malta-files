@@ -1,0 +1,109 @@
+{
+  "company_id": "C 67897",
+  "address": "5 Majestic Court St Mary Street",
+  "name": "Brave Media Limited",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Dec 09, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Trudy Kerr\r",
+        "party_id": "                                                            51243A",
+        "address": "Flat4,PontdeVueTriqL'IndipendenzaGHARGHURMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "DONNA MERCIECA-GABRIELE\r",
+        "party_id": "                                                            365801L",
+        "address": "73MARC,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Astra Consulting Malta Limited\r",
+        "party_id": "                                                            C50423",
+        "address": "5MajesticCourtStMaryStreetMELLIEHAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Trudy Kerr\r",
+        "party_id": "                                                            51243A",
+        "address": "Flat4PontdeVueTriqLIndpendenzaGHARGHURMALTA",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Trudy Kerr\r",
+        "party_id": "                                                            51243A",
+        "address": "Flat4,PontdeVueTriqL'IndipendenzaGHARGHURMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "DONNA MERCIECA-GABRIELE\r",
+        "party_id": "                                                            365801L",
+        "address": "73MARC,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Trudy Kerr\r",
+        "party_id": "                                                            51243A",
+        "address": "Flat4,PontdeVueTriqL'IndipendenzaGHARGHURMALTA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "DONNA MERCIECA-GABRIELE\r",
+        "party_id": "                                                            365801L",
+        "address": "73MARC,TRIQL-GHERIENMELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Trudy Kerr\r",
+        "party_id": "                                                            51243A",
+        "address": "Flat4,PontdeVueTriqL'IndipendenzaGHARGHURMALTA",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CLINT CAMILLERI\r",
+        "party_id": "                                                            11495",
+        "address": "88,FLT2,TRIQTUMASDINGLIMOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

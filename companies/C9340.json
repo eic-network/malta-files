@@ -1,0 +1,159 @@
+{
+  "name": "ASSOCIATED EQUIPMENT LIMITED",
+  "total_issued_shares_value": 387482,
+  "total_authorised_shares_value": 510000,
+  "authorised_shares": [
+    {
+      "issued_shares": 214964,
+      "type": "Ordinary",
+      "authorised_share_capital": 260000,
+      "nominal_value_per_share": 0.5
+    },
+    {
+      "issued_shares": 65000,
+      "type": "RedeemablePreferenceC",
+      "authorised_share_capital": 65000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 65000,
+      "type": "RedeemablePreferenceD",
+      "authorised_share_capital": 65000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 75000,
+      "type": "RedeemablePreferenceE",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 75000,
+      "type": "RedeemablePreferenceF",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAYMOND TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231558M",
+        "address": "21,AMARYLLIS,TRIQE.SERACINOINGLOTT,IKLINMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525154M",
+        "address": "178,MARIAHILFE,IGNAZIOSAVERIOMIFSUDSTREET,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "RAYMOND TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231558M",
+        "address": "21,AMARYLLIS,TRIQE.SERACINOINGLOTT,IKLINMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525154M",
+        "address": "178,MARIAHILFE,IGNAZIOSAVERIOMIFSUDSTREET,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "RAYMOND TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231558M",
+        "address": "21,AMARYLLIS,TRIQE.SERACINOINGLOTT,IKLINMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MGI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/26",
+        "address": "351/7,ZABBARROAD,FGURAFGR1016MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525154M",
+        "address": "178,MARIAHILFE,IGNAZIOSAVERIOMIFSUDSTREET,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "RAYMOND TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231558M",
+        "address": "21,AMARYLLIS,TRIQE.SERACINOINGLOTT,IKLINMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            525154M",
+        "address": "178,MARIAHILFE,IGNAZIOSAVERIOMIFSUDSTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 97150
+        }
+      },
+      {
+        "name": "SOLAMAN EL KHAZMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360192M",
+        "address": "10,STCATHERINESTREET,MQABBAMQB1200MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20664
+        }
+      },
+      {
+        "name": "MARY ANN TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190661M",
+        "address": "21,AMARYLLISERINSERACINOINGLOTTSTREETIKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 64767
+        }
+      },
+      {
+        "name": "RAYMOND TEUMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            231558M",
+        "address": "21,AMARYLLIS,TRIQE.SERACINOINGLOTT,IKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 32383
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 494964,
+  "address": "11, LOURDES SQUARE, VJAL RIHAN,",
+  "company_id": "C 9340",
+  "registration_date": "Jan 21, 1988",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 640000
+}

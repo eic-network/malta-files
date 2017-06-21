@@ -1,0 +1,114 @@
+{
+  "name": "BAKER FILMS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NAZZARENO CECINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6371176",
+        "address": "PIAZZAB.BUOZZI9,LATINAITALY"
+      },
+      {
+        "name": "PASQUALE LIGUORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            123831A",
+        "address": "7,THEPINNACLE,SOUTHSTREET,MELLIEHAMLH1321MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NAZZARENO CECINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6371176",
+        "address": "PIAZZAB.BUOZZI9,LATINAITALY"
+      },
+      {
+        "name": "PASQUALE LIGUORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            123831A",
+        "address": "7,THEPINNACLE,SOUTHSTREET,MELLIEHAMLH1321MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PASQUALE LIGUORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            123831A",
+        "address": "7,THEPINNACLE,SOUTHSTREET,MELLIEHAMLH1321MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NAZZARENO CECINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6371176",
+        "address": "PIAZZAB.BUOZZI9,LATINAITALY"
+      },
+      {
+        "name": "PASQUALE LIGUORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            123831A",
+        "address": "7,THEPINNACLE,SOUTHSTREET,MELLIEHAMLH1321MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NAZZARENO CECINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN6371176",
+        "address": "PIAZZAB.BUOZZI9,LATINAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 540
+        }
+      },
+      {
+        "name": "PASQUALE LIGUORI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            123831A",
+        "address": "7,THEPINNACLE,SOUTHSTREET,MELLIEHAMLH1321MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 540
+        }
+      },
+      {
+        "name": "ALAIN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405263M",
+        "address": "61,WATERFRONTPLACE,THESTRAND,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CREDINVEST HOUSE, 157, ARCHBISHOP STREET,",
+  "company_id": "C 69406",
+  "registration_date": "Mar 05, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,108 @@
+{
+  "company_id": "C 39623",
+  "address": "58, ZACHARY STREET,",
+  "name": "BOV FUND SERVICES LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 27, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.5,
+      "issued_shares": 300000
+    }
+  ],
+  "total_authorised_shares": 500000,
+  "total_authorised_shares_value": 1250000,
+  "total_issued_shares": 300000,
+  "total_issued_shares_value": 750000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PAUL V. AZZOPARDI\r",
+        "party_id": "                                                            656459M",
+        "address": "35,ARZELLA,TRIQKOLAXARA,RABATRBT2283MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOHN CASSAR WHITE\r",
+        "party_id": "                                                            198250M",
+        "address": "30,SANJOSE,LORDBYRONSTREET,NAXXARNXR4142MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ROBIN FULLER\r",
+        "party_id": "                                                            627070129",
+        "address": "LAPOUQUELAIE,LESCAMPSDUMOULIN,ST.MARTIN,GUERNSEYGY46DZCHANNELISLANDS",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ELVIA GEORGE\r",
+        "party_id": "                                                            41563M",
+        "address": "ANANAS,TRIQIN-NISSIEG,ZABBARZBR3395MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIO MALLIA\r",
+        "party_id": "                                                            325261M",
+        "address": "THEOTOKOSQORMIROAD,BIRKIRKARABKR1846MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RAMONA PISCOPO\r",
+        "party_id": "                                                            201178M",
+        "address": "Q1-APT02,TIGNEPOINT,SLIEMATP01MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BANK OF VALLETTA P.L.C.\r",
+        "party_id": "                                                            C 2833",
+        "address": "58,ZACHARYSTREET,VALLETTAVLT1130MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.5
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN CASSAR WHITE\r",
+        "party_id": "                                                            198250M",
+        "address": "30,SANJOSE,LORDBYRONSTREET,NAXXARNXR4142MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN CASSAR WHITE\r",
+        "party_id": "                                                            198250M",
+        "address": "30,SANJOSE,LORDBYRONSTREET,NAXXARNXR4142MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUTH SPITERI LONGHURST\r",
+        "party_id": "                                                            408476M",
+        "address": "29,TRIQL-ISFARGEL,ATTARDATD1523MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

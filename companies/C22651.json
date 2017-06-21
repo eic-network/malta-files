@@ -1,0 +1,91 @@
+{
+  "name": "BLUE ROOM CATERING LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GLEN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277478M",
+        "address": "67,ST.RITASTREET,RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YONG QIAN\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            11579A",
+        "address": "FLAT4,VILLACOSTADELSOL,TRIQL-ILQUGH,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YONG QIAN\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            11579A",
+        "address": "FLAT4,VILLACOSTADELSOL,TRIQL-ILQUGH,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCIRIHA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01486",
+        "address": "AWRIKARJA,TRIQL-IMNARJA,BUSKETT,DINGLIDGL2104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YONG QIAN\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            11579A",
+        "address": "FLAT4,VILLACOSTADELSOL,TRIQL-ILQUGH,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GLEN CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277478M",
+        "address": "67,ST.RITASTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5001
+        }
+      },
+      {
+        "name": "YONG QIAN\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            11579A",
+        "address": "FLAT4,VILLACOSTADELSOL,TRIQL-ILQUGH,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "59, REPUBLIC STREET,",
+  "company_id": "C 22651",
+  "registration_date": "Mar 12, 1998",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

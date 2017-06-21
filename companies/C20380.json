@@ -1,0 +1,111 @@
+{
+  "name": "APAC COMPANY LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADRIAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470271M",
+        "address": "'CARMEL'N.CARUANADINGLISTREETTARXIENMALTA"
+      },
+      {
+        "name": "MARCO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            180669M",
+        "address": "'JUVENA'XANDRUFARRUGIASTREETTARXIENMALTA"
+      },
+      {
+        "name": "MARTIN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306766M",
+        "address": "164F.NIGHTENGALESTREETBIRZEBBUGIAMALTA"
+      },
+      {
+        "name": "ANDREW PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77853M",
+        "address": "288TRIQIL-MERILMELLIEHAMALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "NEVILLE CHAPPELL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            199257M",
+        "address": "CBHOUSE,TRIQIL-BUFULAHAMRAMOSTAMST02MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470271M",
+        "address": "'CARMEL'N.CARUANADINGLISTREETTARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 170
+        }
+      },
+      {
+        "name": "MARCO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            180669M",
+        "address": "'JUVENA'XANDRUFARRUGIASTREETTARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 165
+        }
+      },
+      {
+        "name": "MARTIN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            306766M",
+        "address": "164F.NIGHTENGALESTREETBIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 165
+        }
+      },
+      {
+        "name": "ANDREW PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77853M",
+        "address": "288TRIQIL-MERILMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "288, TRIQ IL-MERIL,",
+  "company_id": "C 20380",
+  "registration_date": "Jul 18, 1996",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1000
+}

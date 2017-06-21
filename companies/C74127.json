@@ -1,0 +1,89 @@
+{
+  "name": "4SIGHT TECHNOLOGIES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MAURIZIO MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145680M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURIZIO MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145680M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MAURIZIO MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145680M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURIZIO MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145680M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAURIZIO MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145680M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ISABELLE MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8581M",
+        "address": "BLOCK3BFLAT12TRIQIL-PROFWALTERGANADO,PEMBROKEMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "31, MONS G. DE PIRO STREET,",
+  "company_id": "C 74127",
+  "registration_date": "Jan 28, 2016",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

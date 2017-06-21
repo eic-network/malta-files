@@ -1,0 +1,75 @@
+{
+  "name": "ALPHA OMEGA LTD",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 46587.46,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ELAINE MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            354078M",
+        "address": "FLAT7,QUISISANACOURT,QUISISANA,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH G MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206542M",
+        "address": "FLAT7,QUISISANACOURT,QUISISANA,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH G MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206542M",
+        "address": "FLAT7,QUISISANACOURT,QUISISANA,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELAINE MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            354078M",
+        "address": "FLAT7,QUISISANACOURT,QUISISANA,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSEPH G MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206542M",
+        "address": "FLAT7,QUISISANACOURT,QUISISANA,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "26, ST. URSULA STREET,",
+  "company_id": "C 32067",
+  "registration_date": "Sep 12, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

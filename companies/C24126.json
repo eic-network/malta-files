@@ -1,0 +1,91 @@
+{
+  "company_id": "C 24126",
+  "address": "NO. 2, GERALDU FARRUGIA STREET,",
+  "name": "BOXER HOLDINGS LIMITED",
+  "locality": "ZEBBUG",
+  "status": "",
+  "registration_date": "Feb 18, 1999",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MSD HOLDING LIMITED\r",
+        "party_id": "                                                            C 17298",
+        "address": "NO.2,GERALDUFARRUGIASTREET,ZEBBUGZBG4351MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MSD HOLDING LIMITED\r",
+        "party_id": "                                                            C 17298",
+        "address": "NO.2,GERALDUFARRUGIASTREET,ZEBBUGZBG4351MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MSD HOLDING LIMITED\r",
+        "party_id": "                                                            C 17298",
+        "address": "NO.2,GERALDUFARRUGIASTREET,ZEBBUGZBG4351MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MSD HOLDING LIMITED\r",
+        "party_id": "                                                            C 17298",
+        "address": "NO.2,GERALDUFARRUGIASTREET,ZEBBUGZBG4351MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MSD HOLDING LIMITED\r",
+        "party_id": "                                                            C 17298",
+        "address": "NO.2,GERALDUFARRUGIASTREET,ZEBBUGZBG4351MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE GREGORY\r",
+        "party_id": "                                                            65270M",
+        "address": "35,THEHAVENTRIQIL-GARDELL,KAPPARASANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG\r",
+        "party_id": "                                                            10004",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNHMR1880MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

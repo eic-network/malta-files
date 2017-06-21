@@ -1,0 +1,91 @@
+{
+  "name": "AZNUR LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JENNIFER PICCININO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19611",
+        "address": "161,MAINSTREET,MOSTAMST1012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT RUNZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307676M",
+        "address": "27,WINDSORTERRACE,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ANITA SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255481M",
+        "address": "HELIOPOLIS,313FLAT18,ST.PAUL'SROAD,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "HELIOPOLIS, 313 FLAT 18, ST. PAUL'S ROAD,",
+  "company_id": "C 61263",
+  "registration_date": "Jul 23, 2013",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 2000
+}

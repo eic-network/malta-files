@@ -1,0 +1,83 @@
+{
+  "name": "ANGAR LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANGELA GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395065M",
+        "address": "16,SAQQAJJASQUARE,RABATRBT12MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARTHUR GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299662M",
+        "address": "16,SAQQAJJASQUARE,RABATRBT12MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARTHUR GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299662M",
+        "address": "16,SAQQAJJASQUARE,RABATRBT12MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELA GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395065M",
+        "address": "16,SAQQAJJASQUARE,RABATRBT12MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ARTHUR GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299662M",
+        "address": "16,SAQQAJJASQUARE,RABATRBT12MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "16 SAQQAJJA SQUARE",
+  "company_id": "C 10701",
+  "registration_date": "Jun 09, 1989",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 1165
+}

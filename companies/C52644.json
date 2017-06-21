@@ -1,0 +1,133 @@
+{
+  "name": "AlphaBottle Ltd.",
+  "total_issued_shares_value": 2655263,
+  "total_authorised_shares_value": 2655263,
+  "authorised_shares": [
+    {
+      "issued_shares": 2655262,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2655262,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MOHAMMAD YASSIN KHODADEEN\r",
+        "nationality": "MAURITIAN",
+        "party_id": "                                                            1040163",
+        "address": "53,AVENUEDEL'INDEPENDENCE,VACOASMAURITIUS"
+      },
+      {
+        "name": "LAWRENCE LOPRESTO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540352068",
+        "address": "FLAT67,COLEHEMECOURT,OLDBROMPTONR,LONDONSW50EFUNITEDKINGDOM"
+      },
+      {
+        "name": "VIVEK TANDON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            203228581",
+        "address": "STRAWBERRYACREFARM,BEGGARSHILLROAD,LANDSENDRG100UBUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MOHAMMAD YASSIN KHODADEEN\r",
+        "nationality": "MAURITIAN",
+        "party_id": "                                                            1040163",
+        "address": "53,AVENUEDEL'INDEPENDENCE,VACOASMAURITIUS"
+      },
+      {
+        "name": "LAWRENCE LOPRESTO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540352068",
+        "address": "FLAT67,COLEHEMECOURT,OLDBROMPTONR,LONDONSW50EFUNITEDKINGDOM"
+      },
+      {
+        "name": "VIVEK TANDON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            203228581",
+        "address": "STRAWBERRYACREFARM,BEGGARSHILLROAD,LANDSENDRG100UBUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMMAD YASSIN KHODADEEN\r",
+        "nationality": "MAURITIAN",
+        "party_id": "                                                            1040163",
+        "address": "53,AVENUEDEL'INDEPENDENCE,VACOASMAURITIUS"
+      },
+      {
+        "name": "LAWRENCE LOPRESTO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540352068",
+        "address": "FLAT67,COLEHEMECOURT,OLDBROMPTONR,LONDONSW50EFUNITEDKINGDOM"
+      },
+      {
+        "name": "VIVEK TANDON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            203228581",
+        "address": "STRAWBERRYACREFARM,BEGGARSHILLROAD,LANDSENDRG100UBUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PERPETUAL GLOBAL TECHNOLOGIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C069399C1/GBL",
+        "address": "C/OAAAGLOBALSERVICESLTD.,1STFLOOR,THEEXCHANGE,18,CYBERCITY,EBENEMAURITIUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2655262
+        }
+      },
+      {
+        "name": "LAWRENCE LOPRESTO\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540352068",
+        "address": "FLAT67,COLEHEMECOURT,OLDBROMPTONR,LONDONSW50EFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2655263,
+  "address": "85, ST JOHN STREET,",
+  "company_id": "C 52644",
+  "registration_date": "Apr 20, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2655263
+}

@@ -1,0 +1,75 @@
+{
+  "name": "AMPHITRITE MARITIME LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0797069",
+        "address": "227,KIFISSIASAVENUE,14561KIFISSIASATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0797069",
+        "address": "227,KIFISSIASAVENUE,14561KIFISSIASATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0797069",
+        "address": "227,KIFISSIASAVENUE,14561KIFISSIASATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMPHITRITI NAVIGATION S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            C 89191",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "J.B. SOROTTO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3229",
+        "address": "EXCHANGEBLDGS,REPUBLICSTR,VALLETTAVLT05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET,",
+  "company_id": "C 25087",
+  "registration_date": "Sep 02, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

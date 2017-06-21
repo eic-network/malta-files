@@ -1,0 +1,51 @@
+{
+  "name": "ANTSAT INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 151300,
+  "total_authorised_shares_value": 151300,
+  "authorised_shares": [
+    {
+      "issued_shares": 151300,
+      "type": "Ordinary",
+      "authorised_share_capital": 151300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "AMANDA J FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55377M",
+        "address": "CHARLSTELVILLE,TRIQL-ISFARMARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "CARMEL J FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            809351M",
+        "address": "CHARLSTELVILLE,TRIQL-ISFAR,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 151290
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 151300,
+  "address": "'SATELLITE HOUSE', VALLEY ROAD,",
+  "company_id": "C 14060",
+  "registration_date": "Jul 15, 1992",
+  "shares_currency": "USD",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 151300
+}

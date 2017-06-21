@@ -1,0 +1,97 @@
+{
+  "name": "AQUILA ENTERPRISES COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EMMA GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            166964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDE J M GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLAUDE J M GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA"
+      },
+      {
+        "name": "EMMA GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            166964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDE J M GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLAUDE J M GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "EMMA GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            166964M",
+        "address": "AQUILA,BRONJASTREET,ZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "AQUILA, BRONJA STREET,",
+  "company_id": "C 18920",
+  "registration_date": "Aug 10, 1995",
+  "shares_currency": "EUR",
+  "locality": "ZURRIEQ",
+  "status": "",
+  "total_authorised_shares": 1000
+}

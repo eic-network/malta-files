@@ -1,0 +1,57 @@
+{
+  "name": "ALTIPLAN LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ALTIPLAN HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 56305",
+        "address": "36,ARCHBISHOPSTREET,VALLETTAVLT1447MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "PHILIP HAACK GEB. MEFFERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            836145196",
+        "address": "C/LAPERDIU27,MONTEMAR,BUZON82360,BENISSA/ALICANTEE-03720SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "36, ARCHBISHOP STREET,",
+  "company_id": "C 56382",
+  "registration_date": "May 21, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

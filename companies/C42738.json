@@ -1,0 +1,83 @@
+{
+  "name": "BACK OFFICE SERVICES LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KEN DONALDSON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            24624A",
+        "address": "87,QORMIROADSANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEN DONALDSON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            24624A",
+        "address": "87,QORMIROADSANTAVENERAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEN DONALDSON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            24624A",
+        "address": "87,QORMIROADSANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEN DONALDSON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            24624A",
+        "address": "87,QORMIROADSANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEN DONALDSON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            24624A",
+        "address": "87,QORMIROADSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JOHN O'REILLY\r",
+        "nationality": "ENGLISH",
+        "party_id": "                                                            702032687",
+        "address": "CONDEDEMERES,15-05-C1,TORREMOLINOSMALAGA29620SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "87, QORMI ROAD,",
+  "company_id": "C 42738",
+  "registration_date": "Nov 06, 2007",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

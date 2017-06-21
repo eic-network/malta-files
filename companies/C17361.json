@@ -1,0 +1,131 @@
+{
+  "name": "AZZOPARDI & BUSUTTIL LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 20,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 40,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 480,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 960,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "VILLAMALITAH,MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "THERESA BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            716344M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THERESA BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            716344M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THERESA BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            716344M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARMARA' CAMILLERI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/37",
+        "address": "SUITE1,141,BALZANVALLEYBALZANBZN1404MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "THERESA BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            716344M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMMANUEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4544M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "THERESA BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            716344M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "ALISON BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            714778M",
+        "address": "MERILL,INDRICALLEJASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "CARMEN CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            274769M",
+        "address": "DOLORES,279,MAINSTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "MERILL, INDRI CALLEJA STREET,",
+  "company_id": "C 17361",
+  "registration_date": "Dec 28, 1994",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1000
+}

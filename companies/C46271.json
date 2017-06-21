@@ -1,0 +1,75 @@
+{
+  "total_issued_shares_value": 2784500,
+  "registration_date": "Feb 23, 2009",
+  "status": "",
+  "locality": "XEWKIJA (GOZO)",
+  "name": "BRYVARC LTD",
+  "total_issued_shares": 2784500,
+  "address": "FACTORY GG001X, INDUSTRIAL ESTATE,",
+  "company_id": "C 46271",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "41/B,VIAPARTENIO,CERVINARAAVITALY",
+        "party_id": "                                                            AS2816104",
+        "name": "MARIO CAMA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "41/B,VIAPARTENIO,CERVINARAAVITALY",
+        "party_id": "                                                            AS2816104",
+        "name": "MARIO CAMA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "41/B,VIAPARTENIO,CERVINARAAVITALY",
+        "party_id": "                                                            AS2816104",
+        "name": "MARIO CAMA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2784499,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "VIAAURELIOSAFFI,25MILANO20100ITALY",
+        "party_id": "                                                            03236920165",
+        "name": "B.T.C. CARD SRL\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "VIARADINITEDESCHI,14BERGAMO24124ITALY",
+        "party_id": "                                                            YA0074606",
+        "name": "CARLO FARANDA\r",
+        "nationality": "ITALIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2784500,
+      "authorised_share_capital": 2784500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2784500,
+  "total_authorised_shares_value": 2784500,
+  "shares_currency": "EUR"
+}

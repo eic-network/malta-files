@@ -1,0 +1,142 @@
+{
+  "name": "A.A.K. GRECH BROS. LIMITED",
+  "total_issued_shares_value": 11646.87,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KEITH GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            397179M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            800749M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            553281M",
+        "address": "211,GRACELAND,TRIQIL-PARILJASANTAVENERAMALTA"
+      },
+      {
+        "name": "EMANUEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            800749M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMANUEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            800749M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            800749M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2000
+        }
+      },
+      {
+        "name": "ADRIAN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            397079M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "ANDREW GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            553281M",
+        "address": "211,GRACELAND,TRIQIL-PARILJASANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "IMELDA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            718851M",
+        "address": "211,GRACELAND,TRIQIIL-PARILJASANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "KEITH GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            397179M",
+        "address": "211,GRACELAND,TRIQIL-PARILJA,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "PSAILA STREET,",
+  "company_id": "C 34012",
+  "registration_date": "May 25, 2004",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

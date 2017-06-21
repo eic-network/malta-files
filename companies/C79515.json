@@ -1,0 +1,70 @@
+{
+  "company_id": "C 79515",
+  "address": "17, MACERATA STREET,",
+  "name": "BRODSTON HOLDING LIMITED",
+  "locality": "FLORIANA",
+  "status": "",
+  "registration_date": "Feb 14, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STEFANIA MARMORATO\r",
+        "party_id": "                                                            365788M",
+        "address": "38,SHAMROCK,TRIQANGLUMANGION,TARXIENTXN2333MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VASSILIADES & CO. (MALTA) LIMITED\r",
+        "party_id": "                                                            C 60982",
+        "address": "17,MACERATASTREET,FLORIANAFRN1080MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFANIA MARMORATO\r",
+        "party_id": "                                                            365788M",
+        "address": "38,SHAMROCK,TRIQANGLUMANGION,TARXIENTXN2333MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEFANIA MARMORATO\r",
+        "party_id": "                                                            365788M",
+        "address": "38,SHAMROCK,TRIQANGLUMANGION,TARXIENTXN2333MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STELIOS PITTAS\r",
+        "party_id": "                                                            E359231",
+        "address": "34,FLAT1,PJAZZASIRLUIGIPREZIOSI,FLORIANAMALTA",
+        "nationality": "CYPRIOT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "company_id": "C 56387",
+  "address": "SAN TROPEZ, TRIQ SANTA KATARINA,",
+  "name": "BPG LEISURE INVESTMENTS LIMITED",
+  "locality": "GHARGHUR",
+  "status": "",
+  "registration_date": "May 21, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BERNARD GAUCI\r",
+        "party_id": "                                                            186073M",
+        "address": "SANTROPEZ,TRIQSANTAKATARINA,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL GAUCI\r",
+        "party_id": "                                                            174454M",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,MAGHTAB,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAUI INVESTMENTS LTD\r",
+        "party_id": "                                                            C 44631",
+        "address": "SANTROPEZTRIQSANTAKATARINAGHARGHURMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PG HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 8569",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,MAGHTAB,NAXXARMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD GAUCI\r",
+        "party_id": "                                                            186073M",
+        "address": "SANTROPEZ,TRIQSANTAKATARINA,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL GAUCI\r",
+        "party_id": "                                                            174454M",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,MAGHTAB,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD GAUCI\r",
+        "party_id": "                                                            186073M",
+        "address": "SANTROPEZ,TRIQSANTAKATARINA,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL GAUCI\r",
+        "party_id": "                                                            174454M",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,MAGHTAB,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BERNARD GAUCI\r",
+        "party_id": "                                                            186073M",
+        "address": "SANTROPEZ,TRIQSANTAKATARINA,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

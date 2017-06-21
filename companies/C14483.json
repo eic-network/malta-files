@@ -1,0 +1,112 @@
+{
+  "name": "ALPHA COLOUR LIMITED",
+  "total_issued_shares_value": 232937.3,
+  "total_authorised_shares_value": 232937.3,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 40000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617654M",
+        "address": "SANGANDOLFO,SIRWALTERSCOTTSTREET,BIRGUMA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "RAYMOND BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194856M",
+        "address": "7,VALLETTAROAD,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617654M",
+        "address": "SANGANDOLFO,SIRWALTERSCOTTSTREET,BIRGUMA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "RAYMOND BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194856M",
+        "address": "7,VALLETTAROAD,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617654M",
+        "address": "SANGANDOLFO,SIRWALTERSCOTTSTREET,BIRGUMA,L/ONAXXARMALTA"
+      },
+      {
+        "name": "RAYMOND BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            194856M",
+        "address": "7,VALLETTAROAD,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BORG HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 6565",
+        "address": "HF12,HALFARINDUSTRIALESTATE,BIRZEBBUGIAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "J.B. HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2500",
+        "address": "HF12,HALFARINDUSTRIALESTATE,BIRZEBBUGIABZN02MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 59750
+        }
+      },
+      {
+        "name": "CHARLES BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            617654M",
+        "address": "SANGANDOLFO,SIRWALTERSCOTTSTREET,BIRGUMA,L/ONAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 40000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "HF5, INDUSTRIAL ESTATE,",
+  "company_id": "C 14483",
+  "registration_date": "Dec 01, 1992",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,51 @@
+{
+  "name": "ATTARD & BALDACCHINO BUILDERS",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "SALVU ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            50166M",
+        "address": "44,NIDD'AMOURTRIQIL-LUNZJATASANGWANNSGN1311MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ALFRED BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            374464M",
+        "address": "10,AGAPE,TRIQSANGLORMU,BUGIBBAST.PAUL'SBAYSPB1191MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "139 TRIQ SAN GILORMU",
+  "company_id": "P 1001",
+  "registration_date": "Mar 12, 2004",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 500
+}

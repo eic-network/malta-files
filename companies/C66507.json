@@ -1,0 +1,89 @@
+{
+  "name": "BE GAME LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARLO VIGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            324173M",
+        "address": "72,'RODOMICA'TRIQK.GALEA,BIRKIRKARABKR1806MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VR HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 66501",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "QUANTUM PARTNERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51975",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "188, 21ST SEPTEMBER AVENUE,",
+  "company_id": "C 66507",
+  "registration_date": "Aug 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

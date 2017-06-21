@@ -1,0 +1,75 @@
+{
+  "company_id": "C 35669",
+  "address": "5/1, MERCHANTS STREET,",
+  "name": "Borsari Shipping Company Limited",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 15, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARE SERVICES LIMITED\r",
+        "party_id": "                                                            C 41563",
+        "address": "5/1MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DRYBULK INVESTMENTS INC.\r",
+        "party_id": "                                                            88437",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "LIDMAN MARITIME CO.\r",
+        "party_id": "                                                            13531",
+        "address": "TRUSTCOMPANYCOMPLEXAJELTAKEISLANDMAJUROMARSHALLISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARE SERVICES LIMITED\r",
+        "party_id": "                                                            C 41563",
+        "address": "5/1MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARE SERVICES LIMITED\r",
+        "party_id": "                                                            C 41563",
+        "address": "5/1MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

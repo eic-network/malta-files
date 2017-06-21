@@ -1,0 +1,109 @@
+{
+  "name": "BELL INTERNATIONAL LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERTO BASSETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            3594566AA",
+        "address": "VIACASINE,NO.199,ANCONA60131ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERTO BASSETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            3594566AA",
+        "address": "VIACASINE,NO.199,ANCONA60131ITALY"
+      },
+      {
+        "name": "STEFANO PERTICAROLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2899741",
+        "address": "VIAVRUBICONE3ANCONA60126ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERTO BASSETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            3594566AA",
+        "address": "VIACASINE,NO.199,ANCONA60131ITALY"
+      },
+      {
+        "name": "STEFANO PERTICAROLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2899741",
+        "address": "VIAVRUBICONE3ANCONA60126ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "CentralOfficeBuildingsBlockALevel1,MostaRoadLIJALJA9016MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERTO BASSETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            3594566AA",
+        "address": "VIACASINE,NO.199,ANCONA60131ITALY"
+      },
+      {
+        "name": "STEFANO PERTICAROLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2899741",
+        "address": "VIAVRUBICONE3ANCONA60126ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            104739",
+        "address": "POBOX398,SUITEC,GROUNDFLOOR,NEPTUNEHOUSE,MARINABAYGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FINMAR HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65737",
+        "address": "3RDFLOOR,NAVIBUILDINGS,PANTARROAD,LIJALJA9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3RD FLOOR, NAVI BUILDINGS, PANTAR ROAD,",
+  "company_id": "C 65740",
+  "registration_date": "Jun 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

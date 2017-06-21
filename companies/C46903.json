@@ -1,0 +1,203 @@
+{
+  "name": "AROS CAPITAL HOLDING LIMITED",
+  "total_issued_shares_value": 4270,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 270,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 270,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KATYA TUA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353177M",
+        "address": "43,ROMANTICACRTBLKB,FL9SACREDHEARTSTREETST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICOLAI BORCHER HANSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            101578429",
+        "address": "13GORDONPLACE-FLAT2,LONDONW84JDUNITEDKINGDOM"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "FRANK TESTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424180M",
+        "address": "4,FLAT6,LOCKERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICOLAI BORCHER HANSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            101578429",
+        "address": "13GORDONPLACE-FLAT2,LONDONW84JDUNITEDKINGDOM"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "FRANK TESTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424180M",
+        "address": "4,FLAT6,LOCKERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICOLAI BORCHER HANSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            101578429",
+        "address": "13GORDONPLACE-FLAT2,LONDONW84JDUNITEDKINGDOM"
+      },
+      {
+        "name": "MICHAEL PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398480M",
+        "address": "APT.6,PALACECRT.,TRIQIL-KNISJA,PACEVILLE,ST.JULIANSMALTA"
+      },
+      {
+        "name": "FRANK TESTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424180M",
+        "address": "4,FLAT6,LOCKERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AROS CAPITAL HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46903",
+        "address": "188,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 730
+        }
+      },
+      {
+        "name": "CHRISTIAN M. FALSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            26116368",
+        "address": "121,CHURCHROAD,LONDONSW195AHUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 270
+        }
+      },
+      {
+        "name": "PETER BRINK MADSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            203271734",
+        "address": "53,RODERICKROAD,FLAT3,LONDONNW32NPUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "NICOLAI BORCHER HANSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            204936760",
+        "address": "13GORDONPLACE-FLAT2,LONDONW84JDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "JAMAK APS\r",
+        "nationality": "",
+        "party_id": "                                                            28291825",
+        "address": "KASTANIEBAKKEN5,DK-8240RISSKOVDENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 270
+        }
+      },
+      {
+        "name": "JONATHAN LIONEL SPY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            720079852",
+        "address": "27,CHIPPERFIELDROAD,BOVINGDON,HEMELHEMPSTEAD,HERTSHP3UNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 270
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4270,
+  "address": "188, OLD BAKERY STREET,",
+  "company_id": "C 46903",
+  "registration_date": "May 28, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

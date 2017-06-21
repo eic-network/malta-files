@@ -1,0 +1,78 @@
+{
+  "name": "AST LTD",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERT SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173062M",
+        "address": "ALDOR,TRIQIZ-ZEBBUGAIKLINMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173062M",
+        "address": "ALDOR,TRIQIZ-ZEBBUGAIKLINMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173062M",
+        "address": "ALDOR,TRIQIZ-ZEBBUGAIKLINMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173062M",
+        "address": "ALDOR,TRIQIZ-ZEBBUGAIKLINMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERT SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            173062M",
+        "address": "ALDOR,TRIQIZ-ZEBBUGAIKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "JB HOUSE, IKLIN ROAD,",
+  "company_id": "C 34535",
+  "registration_date": "Sep 01, 2004",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

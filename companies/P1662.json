@@ -1,0 +1,77 @@
+{
+  "name": "4M HOLDINGS",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MARCO GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            491273M",
+        "address": "CAMPBELLCLOSE,C1ST.PAULSTREETATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 640
+        }
+      },
+      {
+        "name": "MARIA CARMELA GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            41574M",
+        "address": "CAMPBELLCLOSE,C1ST.PAULSTREETATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 640
+        }
+      },
+      {
+        "name": "MATTHEW GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            440399M",
+        "address": "CAMPBELLCLOSE,C1ST.PAULSTREETATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 360
+        }
+      },
+      {
+        "name": "MIGUEL GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            320501L",
+        "address": "CAMPBELLCLOSE,C1ST.PAULSTREETATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 360
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CAMPBELL CLOSE, C 1, ST. PAUL STREET,",
+  "company_id": "P 1662",
+  "registration_date": "Jun 28, 2016",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 2000
+}

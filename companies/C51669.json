@@ -1,0 +1,83 @@
+{
+  "company_id": "C 51669",
+  "address": "171, OLD BAKERY STREET,",
+  "name": "BOYDIAN LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jan 14, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1700,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1700
+    }
+  ],
+  "total_authorised_shares": 1700,
+  "total_authorised_shares_value": 1700,
+  "total_issued_shares": 1700,
+  "total_issued_shares_value": 1700,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TODOR HRISTOV VASSILEV\r",
+        "party_id": "                                                            331019350",
+        "address": "VASSILEVMARITIMENAK.VEDISTIC.LTD.STI.SUREYYAPASASOK.NO.3,CUMHURRIYETCADDESI,KUCUKYALI,ISTANBUL34841TURKEY",
+        "nationality": "BULGARIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELENA NIKOLAEVA VASSILEVA\r",
+        "party_id": "                                                            380598335",
+        "address": "VASSILEVMARITIMENAK.VEDISTIC.LTD.STI.SUREYYAPASASOK.NO.3,CUMHURRIYETCADDESI,KUCUKYALI,ISTANBUL34841TURKEY",
+        "nationality": "BULGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "TODOR HRISTOV VASSILEV\r",
+        "party_id": "                                                            331019350",
+        "address": "VASSILEVMARITIMENAK.VEDISTIC.LTD.STI.SUREYYAPASASOK.NO.3,CUMHURRIYETCADDESI,KUCUKYALI,ISTANBUL34841TURKEY",
+        "nationality": "BULGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1699,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TODOR HRISTOV VASSILEV\r",
+        "party_id": "                                                            331019350",
+        "address": "VASSILEVMARITIMENAK.VEDISTIC.LTD.STI.SUREYYAPASASOK.NO.3,CUMHURRIYETCADDESI,KUCUKYALI,ISTANBUL34841TURKEY",
+        "nationality": "BULGARIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TODOR HRISTOV VASSILEV\r",
+        "party_id": "                                                            331019350",
+        "address": "VASSILEVMARITIMENAK.VEDISTIC.LTD.STI.SUREYYAPASASOK.NO.3,CUMHURRIYETCADDESI,KUCUKYALI,ISTANBUL34841TURKEY",
+        "nationality": "BULGARIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MELIN FADLIEV VASVIEV\r",
+        "party_id": "                                                            367275261",
+        "address": "AMBARLIDISTRICT,FEVZICAKMAKROAD,17BANKACISTREET,AP.7,FL.3,ISTANBULTURKEY",
+        "nationality": "BULGARIAN"
+      }
+    ]
+  }
+}

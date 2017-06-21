@@ -1,0 +1,91 @@
+{
+  "company_id": "C 55849",
+  "address": "21A PRINCESS MARGARET STREET,",
+  "name": "BRA.VER HOLDINGS LTD",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Apr 02, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARLO STIVALA\r",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRUSTFORTE FIDUCIARY LTD.\r",
+        "party_id": "                                                            C 25928",
+        "address": "21A,PRINCESSMARGARETSTREET,MSIDAMSD1331MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CARLO STIVALA\r",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARLO STIVALA\r",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARLO STIVALA\r",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARLO STIVALA\r",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SAMMUT\r",
+        "party_id": "                                                            03286",
+        "address": "TA'NEIDER,TRIQIL-GIZIMIN,SWIEQISWQ3504MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

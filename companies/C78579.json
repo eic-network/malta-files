@@ -1,0 +1,89 @@
+{
+  "name": "BACH - YACHTING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER BACH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5RTXK7K8",
+        "address": "MONDORFSTR.22BADNAUHEIM61231GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER BACH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5RTXK7K8",
+        "address": "MONDORFSTR.22BADNAUHEIM61231GERMANY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER BACH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5RTXK7K8",
+        "address": "MONDORFSTR.22BADNAUHEIM61231GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER BACH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5RTXK7K8",
+        "address": "MONDORFSTR.22BADNAUHEIM61231GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "TATIANA BACH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L5RTFWV4F",
+        "address": "MONDORFSTR.22BADNAUHEIM61231GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "48 STELLA MARIS STREET",
+  "company_id": "C 78579",
+  "registration_date": "Dec 12, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,128 @@
+{
+  "name": "BORG & BORG CONSTRUCTION LTD",
+  "total_issued_shares_value": 116468.65,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 49500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488865M",
+        "address": "ODYSSEY48,TRIQWIEDMEJXU,IBRAGST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488865M",
+        "address": "ODYSSEY48,TRIQWIEDMEJXU,IBRAGST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "IAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398879M",
+        "address": "108,FLAT5,LIMESTONECOURT,TRIQIS-SIRK,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488865M",
+        "address": "ODYSSEY48,TRIQWIEDMEJXU,IBRAGST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "IAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398879M",
+        "address": "108,FLAT5,LIMESTONECOURT,TRIQIS-SIRK,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488865M",
+        "address": "ODYSSEY48,TRIQWIEDMEJXU,IBRAGST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "IAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398879M",
+        "address": "108,FLAT5,LIMESTONECOURT,TRIQIS-SIRK,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            569742M",
+        "address": "OASIS,TRIQSANPAWLSANPAWLTATTARGANAXXARNXR06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 49500
+        }
+      },
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            488865M",
+        "address": "3,TRIQQALETMARKU,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "IAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            398879M",
+        "address": "108,FLAT5,LIMESTONECOURT,TRIQIS-SIRK,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "LANDGATE LTD, 5, HUGHES HALLET STREET,",
+  "company_id": "C 10075",
+  "registration_date": "Nov 10, 1988",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

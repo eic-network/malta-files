@@ -1,0 +1,78 @@
+{
+  "name": "A-ONE LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08V7LX8",
+        "address": "HAUSHOFERSTRASSE2,MUNCHEN81925GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNHARD HANNEMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            927746541",
+        "address": "AMOSTHANG786356NEUSABGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNHARD HANNEMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            927746541",
+        "address": "AMOSTHANG786356NEUSABGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000487",
+        "address": "19,FLAT2,TRIQIL-FUXASANGWANNSGN1308MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNHARD HANNEMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            927746541",
+        "address": "AMOSTHANG786356NEUSABGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER RALF ROSA-ALSCHER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08V7LX8",
+        "address": "HAUSHOFERSTRASSE2,MUNCHEN81925GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "TRITON MANSIONS BLOCK C TRIQ IT-TAMAR",
+  "company_id": "C 56549",
+  "registration_date": "Jun 04, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 3000
+}

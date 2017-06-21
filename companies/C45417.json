@@ -1,0 +1,101 @@
+{
+  "name": "ASA Holdings Ltd",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SERYOZHA ABRAHAMYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0596550",
+        "address": "1KERUSTREETYEREVAN375028ARMENIA"
+      },
+      {
+        "name": "ARAM AKOPIAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AG0382954",
+        "address": "51ARABKIRSTREETYEREVANARMENIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SERYOZHA ABRAHAMYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0596550",
+        "address": "1KERUSTREETYEREVAN375028ARMENIA"
+      },
+      {
+        "name": "ARAM AKOPIAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AG0382954",
+        "address": "51ARABKIRSTREETYEREVANARMENIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NATALIA ABRAMYAN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63N1292977",
+        "address": "15/237,VERNADSKOGOAVENUEMOSCOWMOSCOW117311RUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SERYOZHA ABRAHAMYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0596550",
+        "address": "1KERUSTREETYEREVAN375028ARMENIA"
+      },
+      {
+        "name": "ARAM AKOPIAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AG0382954",
+        "address": "51ARABKIRSTREETYEREVANARMENIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SERYOZHA ABRAHAMYAN\r",
+        "nationality": "ARMENIAN",
+        "party_id": "                                                            AH0596550",
+        "address": "1,KERUSTREET,YEREVANARMENIA375028ARMENIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "NATALIA ABRAMYAN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            63N1292977",
+        "address": "15/237,VERNADSKOGOAVENUEMOSCOWMOSCOW117311RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "60/2, Melita Street",
+  "company_id": "C 45417",
+  "registration_date": "Oct 23, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

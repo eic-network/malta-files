@@ -1,0 +1,139 @@
+{
+  "name": "ARQ CORPORATE LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      },
+      {
+        "name": "ROBERT EBEJER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10101",
+        "address": "IL-MUFTIEH,TRIQSANPATRIZJU,ZABBARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58299",
+        "address": "LEVEL1,SUITENO.5,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "LEVEL 1, SUITE NO. 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 62850",
+  "registration_date": "Nov 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

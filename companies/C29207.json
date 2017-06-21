@@ -1,0 +1,91 @@
+{
+  "name": "BAIA LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP JAMES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243777M",
+        "address": "WILDTHYME,TRIQID-DWEJRA,DWEJRA,L/ORABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIP JAMES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243777M",
+        "address": "WILDTHYME,TRIQID-DWEJRA,DWEJRA,L/ORABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILIP JAMES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243777M",
+        "address": "WILDTHYME,TRIQID-DWEJRA,DWEJRA,L/ORABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PHILIP JAMES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243777M",
+        "address": "WILDTHYME,TRIQID-DWEJRA,DWEJRA,L/ORABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILIP ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            789148M",
+        "address": "245,TRIQIL-MERILL,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PHILIP JAMES ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            243777M",
+        "address": "WILDTHYME,TRIQID-DWEJRA,DWEJRA,L/ORABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "ATTRANS DEPOT., MDINA ROAD,",
+  "company_id": "C 29207",
+  "registration_date": "Jan 30, 2002",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 500
+}

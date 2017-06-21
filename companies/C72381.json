@@ -1,0 +1,89 @@
+{
+  "total_issued_shares_value": 1165,
+  "registration_date": "Sep 24, 2015",
+  "status": "",
+  "locality": "SLIEMA",
+  "name": "BUCEPHALUS TECH LTD",
+  "total_issued_shares": 1165,
+  "address": "48, TRIQ STELLA MARIS,",
+  "company_id": "C 72381",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "7HANOVERTERRACEMEWS,LONDONNW14RHUNITEDKINGDOM",
+        "party_id": "                                                            CG6PW53H",
+        "name": "ALEXANDER ELOY\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "7HANOVERTERRACEMEWS,LONDONNW14RHUNITEDKINGDOM",
+        "party_id": "                                                            CG6PW53H",
+        "name": "ALEXANDER ELOY\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "FLAT3JUNIPERHOUSE33TRIQSIRARTUROMERCIECASLIEMASLM1864MALTA",
+        "party_id": "                                                            67653A",
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "7HANOVERTERRACEMEWS,LONDONNW14RHUNITEDKINGDOM",
+        "party_id": "                                                            CG6PW53H",
+        "name": "ALEXANDER ELOY\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1164,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "7HANOVERTERRACEMEWS,LONDONNW14RHUNITEDKINGDOM",
+        "party_id": "                                                            CG6PW53H",
+        "name": "ALEXANDER ELOY\r",
+        "nationality": "GERMAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "KROHNASVEGEN275239RADALNORWAY",
+        "party_id": "                                                            31619957",
+        "name": "RENE SKAFLESTAD\r",
+        "nationality": "NORWEGIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1164,
+      "authorised_share_capital": 1164,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "shares_currency": "EUR"
+}

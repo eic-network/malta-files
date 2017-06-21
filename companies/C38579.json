@@ -1,0 +1,91 @@
+{
+  "name": "Amigos Express International Limited",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICHOLAS GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217503L",
+        "address": "65,MAINSTREET,GHARGHURMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217503L",
+        "address": "65,MAINSTREET,GHARGHURMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217503L",
+        "address": "65,MAINSTREET,GHARGHURMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217503L",
+        "address": "65,MAINSTREET,GHARGHURMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275545M",
+        "address": "14,ST.GEORGE'SALLEY,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "NICHOLAS GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217503L",
+        "address": "65,MAINSTREET,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "30, ST. PAUL'S FLAT 1 TRIQ MATTEW PULIS",
+  "company_id": "C 38579",
+  "registration_date": "Apr 28, 2006",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "BIBIMARK LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BEVERLEY JANE COULTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518899189",
+        "address": "SEASCAPECRT,APT7,TRIQL-GHANSAR,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BEVERLEY JANE COULTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518899189",
+        "address": "SEASCAPECRT,APT7,TRIQL-GHANSAR,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO PENNATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4640372",
+        "address": "22CAP,VIACARLOMARIAMAGGI,PROVINCIADIMONZAEBRIANZA,LESMO20855ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BEVERLEY JANE COULTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518899189",
+        "address": "SEASCAPECRT,APT7,TRIQL-GHANSAR,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEVERLEY JANE COULTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            518899189",
+        "address": "SEASCAPECRT,APT7,TRIQL-GHANSAR,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9000
+        }
+      },
+      {
+        "name": "MARCO PENNATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4640372",
+        "address": "22CAP,VIACARLOMARIAMAGGI,PROVINCIADIMONZAEBRIANZA,LESMO20855ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "SEASCAPE CRT, APT 7, TRIQ L-GHANSAR,",
+  "company_id": "C 68996",
+  "registration_date": "Feb 12, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

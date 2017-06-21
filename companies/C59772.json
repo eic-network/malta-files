@@ -1,0 +1,99 @@
+{
+  "name": "BADJ CO. LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JUSTIN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            302278M",
+        "address": "8,MOONSTONE,TRIQJUANB.AZOPARDO,BIRGUMANAXXARNXR2202MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCES DALLI BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            178955M",
+        "address": "97,DRAGON,BRIGHELLASTREETSANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MOHAMMED BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222205L",
+        "address": "97,DRAGON,BRIGHELLASTRSANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MOHAMMED BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222205L",
+        "address": "97,DRAGON,BRIGHELLASTRSANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HLB FALZON & FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/14",
+        "address": "12,CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAFRN1060MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MOHAMMED BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222205L",
+        "address": "97,DRAGON,BRIGHELLASTRSANTAVENERAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOHAMMED BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222205L",
+        "address": "97,DRAGON,BRIGHELLASTRSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "FRANCES DALLI BADJADI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            178955M",
+        "address": "97,DRAGON,BRIGHELLASTREETSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "97, DRAGON, TRIQ BRIGHELLA",
+  "company_id": "C 59772",
+  "registration_date": "Apr 24, 2013",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

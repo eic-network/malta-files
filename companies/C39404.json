@@ -1,0 +1,115 @@
+{
+  "company_id": "C 39404",
+  "address": "93, MILL STREET,",
+  "name": "BRIGHT PROPERTY LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Aug 24, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 900,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 900
+    }
+  ],
+  "total_authorised_shares": 900,
+  "total_authorised_shares_value": 900,
+  "total_issued_shares": 900,
+  "total_issued_shares_value": 900,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABACUS (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43238",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      },
+      {
+        "name": "ABACUS SERVICES (GIBRALTAR) LIMITED\r",
+        "party_id": "                                                            43244",
+        "address": "5-9,MAINSTREET,GIBRALTARGX111AAGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT G GUEST\r",
+        "party_id": "                                                            702597423",
+        "address": "APARTMENT712,ATLANTICSUITES,EUROPORTAVENUE,GIBRALTARGIBRALTAR",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "IVAN P PEREZ\r",
+        "party_id": "                                                            605031983",
+        "address": "6,ALMONDLODGE,MONTAGUGARDENSGIBRALTAR",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN ALBERT NAUDI\r",
+        "party_id": "                                                            19720",
+        "address": "5,STONEHAVEN,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARNXR2318MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

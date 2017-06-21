@@ -1,0 +1,97 @@
+{
+  "name": "ATLASCOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH IMOSSI\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605134383",
+        "address": "23,SCUDHILL,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAM'SCAY1,ROADTOWNTARTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAM'SCAY1,ROADTOWNTARTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTOINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10770",
+        "address": "16,TRIQIX-XEFAQ,DINGLIDGL1577MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDUCIARY DIRECTORS (BVI) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            233903",
+        "address": "MILLMALL,SUITE6,WICKHAM'SCAY1,ROADTOWNTARTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOSSPORT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36011",
+        "address": "26GHARID-DUDSTREETSLIEMASLM1573MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FIDUCIARY NOMINEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9736",
+        "address": "3,BELLLANEGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 51959",
+  "registration_date": "Feb 09, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

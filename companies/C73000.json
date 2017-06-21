@@ -1,0 +1,107 @@
+{
+  "name": "ANTHOLOGIE LTD",
+  "total_issued_shares_value": 1201,
+  "total_authorised_shares_value": 1201,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JTC (Malta) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 67910",
+        "address": "SUITE5,LEVEL3,FAFNERHOUSE,NATIONALROAD,BLATAL-BAJDA,HAMRUNHMR9011MALTA"
+      },
+      {
+        "name": "TIMOTHY BENEDICT HOBBS\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            C001309",
+        "address": "BURGURETHOUSEBURGURETFARM,NANYUKI-NYERIROADNYERIKENYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JTC (Malta) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 67910",
+        "address": "SUITE5,LEVEL3,FAFNERHOUSE,NATIONALROAD,BLATAL-BAJDA,HAMRUNHMR9011MALTA"
+      },
+      {
+        "name": "TIMOTHY BENEDICT HOBBS\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            C001309",
+        "address": "BURGURETHOUSEBURGURETFARM,NANYUKI-NYERIROADNYERIKENYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NADINE CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            493976M",
+        "address": "25,ST.EMIDIOSTREET,ZEJTUNZTN1281MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JTC (Malta) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 67910",
+        "address": "SUITE5,LEVEL3,FAFNERHOUSE,NATIONALROAD,BLATAL-BAJDA,HAMRUNHMR9011MALTA"
+      },
+      {
+        "name": "TIMOTHY BENEDICT HOBBS\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            C001309",
+        "address": "BURGURETHOUSEBURGURETFARM,NANYUKI-NYERIROADNYERIKENYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TIMOTHY BENEDICT HOBBS\r",
+        "nationality": "KENYAN",
+        "party_id": "                                                            C001309",
+        "address": "BURGURETHOUSEBURGURETFARM,NANYUKI-NYERIROADNYERIKENYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "JTC (Malta) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 67910",
+        "address": "SUITE5,LEVEL3,FAFNERHOUSE,NATIONALROAD,BLATAL-BAJDA,HAMRUNHMR9011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1201,
+  "address": "SUITE 5, LEVEL 3, FAFNER HOUSE, NATIONAL ROAD, BLATA L-BAJDA",
+  "company_id": "C 73000",
+  "registration_date": "Nov 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 1201
+}

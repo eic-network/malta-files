@@ -1,0 +1,101 @@
+{
+  "name": "AMATAMA HOLDING LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIA CALANNI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3868879",
+        "address": "VIADIVISIONEJULIA,74CERVIGNANODELFRIULIITALY"
+      },
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLKB,FLT5MOSTAROADATTARDATD1433MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA CALANNI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3868879",
+        "address": "VIADIVISIONEJULIA,74CERVIGNANODELFRIULIITALY"
+      },
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLKB,FLT5MOSTAROADATTARDATD1433MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLKB,FLT5MOSTAROADATTARDATD1433MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA CALANNI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3868879",
+        "address": "VIADIVISIONEJULIA,74CERVIGNANODELFRIULIITALY"
+      },
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLKB,FLT5MOSTAROADATTARDATD1433MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA CALANNI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT3868879",
+        "address": "VIADIVISIONEJULIA,74CERVIGNANODELFRIULIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "UGO ODORICO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8537677",
+        "address": "VIADIVISIONEJULIA,74CERVIGNANODELFRIULIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "Terraces No.1, The Penthouse Suite, Triq il-Kannizzata",
+  "company_id": "C 77317",
+  "registration_date": "Sep 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

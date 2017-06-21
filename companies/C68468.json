@@ -1,0 +1,107 @@
+{
+  "company_id": "C 68468",
+  "address": "15, Grognet Street Mosta",
+  "name": "BREKETI LTD",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Apr 09, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 200000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 200000
+    }
+  ],
+  "total_authorised_shares": 200000,
+  "total_authorised_shares_value": 200000,
+  "total_issued_shares": 200000,
+  "total_issued_shares_value": 200000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Mohamed Hussein Khbezat \r",
+        "party_id": "                                                            573758",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Aboulbari A M  Tantoush\r",
+        "party_id": "                                                            914343",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Mohamed Hussein Khbezat \r",
+        "party_id": "                                                            573758",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Aboulbari A M  Tantoush\r",
+        "party_id": "                                                            914343",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Mohamed Hussein Khbezat \r",
+        "party_id": "                                                            573758",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Aboulbari A M  Tantoush\r",
+        "party_id": "                                                            914343",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Mohamed Hussein Khbezat \r",
+        "party_id": "                                                            573758",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Aboulbari A M  Tantoush\r",
+        "party_id": "                                                            914343",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Mohamed Hussein Khbezat \r",
+        "party_id": "                                                            573758",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "Aboulbari A M  Tantoush\r",
+        "party_id": "                                                            914343",
+        "address": "JanzurTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

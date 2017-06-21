@@ -1,0 +1,145 @@
+{
+  "name": "BMW Malta Ltd",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREAS PELLEKOORN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXR28F819",
+        "address": "CROWNMARINA,BLOCKA,APT9,TA'XBIEXSEAFRONT,TA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIRK FOERSTER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LGP3V96HL",
+        "address": "AMWALDRAIN1,STTWALDBERG,BOBINGEN86399GERMANY"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "CHRISTOPH VON TSCHIRSCHNITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF080R0TF",
+        "address": "KUNIGUNDENSTR.23,MUENCHEN80802GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIRK FOERSTER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LGP3V96HL",
+        "address": "AMWALDRAIN1,STTWALDBERG,BOBINGEN86399GERMANY"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "CHRISTOPH VON TSCHIRSCHNITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF080R0TF",
+        "address": "KUNIGUNDENSTR.23,MUENCHEN80802GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIRK FOERSTER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LGP3V96HL",
+        "address": "AMWALDRAIN1,STTWALDBERG,BOBINGEN86399GERMANY"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "CHRISTOPH VON TSCHIRSCHNITZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF080R0TF",
+        "address": "KUNIGUNDENSTR.23,MUENCHEN80802GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BMW HOLDING B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            N 27108701",
+        "address": "LAANVANVREDENOORD5,2289,2289DAZHRIJSWIJKNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "BMW INTEC BETEILIGUNGS GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            78223",
+        "address": "PETUELRING,130,80809MUNICHGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "5TH FLOOR, DEVELOPMENT HOUSE, ST. ANNE STREET,",
+  "company_id": "C 35173",
+  "registration_date": "Dec 06, 2004",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

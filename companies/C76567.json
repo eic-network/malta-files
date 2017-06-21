@@ -1,0 +1,89 @@
+{
+  "name": "ANIBA MOBILE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RAYMOND GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            64659M",
+        "address": "NIRVANA,2,TRIQSPATAFORA,ATTARDATD1850MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAYMOND GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            64659M",
+        "address": "NIRVANA,2,TRIQSPATAFORA,ATTARDATD1850MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAYMOND GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            64659M",
+        "address": "NIRVANA,2,TRIQSPATAFORA,ATTARDATD1850MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAYMOND GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            64659M",
+        "address": "NIRVANA,2,TRIQSPATAFORA,ATTARDATD1850MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HARLOCK HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 64830",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CENTRAL BUSINESS CENTRE, ROOM 1, LEVEL 1, SUITE 2, MDINA ROAD,",
+  "company_id": "C 76567",
+  "registration_date": "Jul 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1200
+}

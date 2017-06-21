@@ -1,0 +1,65 @@
+{
+  "name": "ANNA IRENA SHIPPING CO LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARIO ADAMEC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            07391382",
+        "address": "UL.8BR.4,HR-20270,VELALUKA,KORCULACROATIA"
+      },
+      {
+        "name": "TOMISLAV SOSTARIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            05118709",
+        "address": "OBRTNICKA5,HR-10430,SAMOBORCROATIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO ADAMEC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            07391382",
+        "address": "UL.8BR.4,HR-20270,VELALUKA,KORCULACROATIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "TOMISLAV SOSTARIC\r",
+        "nationality": "CROAT",
+        "party_id": "                                                            05118709",
+        "address": "OBRTNICKA5,HR-10430,SAMOBORCROATIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 20254",
+  "registration_date": "Jun 11, 1996",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

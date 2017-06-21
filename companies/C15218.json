@@ -1,0 +1,190 @@
+{
+  "name": "AWARD LIMITED",
+  "total_issued_shares_value": 1863.5,
+  "total_authorised_shares_value": 9317.49,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BEPPE FENECH ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309568M",
+        "address": "28,ST.HELENSTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            174454M",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,NAXXARMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      },
+      {
+        "name": "FRANCIS A PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            986249M",
+        "address": "'AIDENGROVE',SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            174454M",
+        "address": "TA'CLARAFARMHOUSE,RAMLAROAD,NAXXARMALTA"
+      },
+      {
+        "name": "CHARLES POLIDANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506259M",
+        "address": "MOUNTBLANCHE,KUCCARDSTREET,SAFIMALTA"
+      },
+      {
+        "name": "FRANCIS A PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            986249M",
+        "address": "'AIDENGROVE',SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POLIDANO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15143",
+        "address": "POLIDANOBROS.LTDHALFARRUGROADLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "COMPASS ROSE PROPERTIES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 31593",
+        "address": "VIRTU,TA'XBIEXTERRACE,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 66
+        }
+      },
+      {
+        "name": "PEN HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31644",
+        "address": "8,PRINCESSELIZABETHSTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 67
+        }
+      },
+      {
+        "name": "SOMANDA HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 30761",
+        "address": "VIRTU,TA'XBIEXTERRACE,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 67
+        }
+      },
+      {
+        "name": "BPG LEISURE INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56387",
+        "address": "SANTROPEZ,TRIQSANTAKATARINA,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "TAPA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 12391",
+        "address": "FLAT6,ANTONCOURTQAWRACOASTROAD,QAWRAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "PENINSULA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16111",
+        "address": "THEWESTINDRAGONARARESORTST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 800,
+  "address": "THE WESTIN DRAGONARA RESORT,",
+  "company_id": "C 15218",
+  "registration_date": "Jul 07, 1993",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4000
+}

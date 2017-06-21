@@ -1,0 +1,83 @@
+{
+  "name": "ARANTOR HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS RUDOLF BIHRER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0630469",
+        "address": "BAHNHOFSTRASSE28AZURICH8022SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS RUDOLF BIHRER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0630469",
+        "address": "BAHNHOFSTRASSE28AZURICH8022SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXIA MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126088M",
+        "address": "EQUINOX,TRIQJOSEFKALLEYA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS RUDOLF BIHRER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0630469",
+        "address": "BAHNHOFSTRASSE28AZURICH8022SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "114/3 THE STRAND",
+  "company_id": "C 79353",
+  "registration_date": "Jan 31, 2017",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

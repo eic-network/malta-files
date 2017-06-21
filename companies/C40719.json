@@ -1,0 +1,75 @@
+{
+  "company_id": "C 40719",
+  "address": "211, VALLEY ROAD,",
+  "name": "Briz Limited",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Feb 02, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANDREY LYALKO\r",
+        "party_id": "                                                            62NO0999960",
+        "address": "LINE7,34,APPARTMENT24,SAINTPETERSBURGRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COLON IMPORT LTD\r",
+        "party_id": "                                                            1046613",
+        "address": "TRIDENTCHAMBERS,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CARMEL CHIRCOP\r",
+        "party_id": "                                                            35164M",
+        "address": "211,VALLEYROAD,BIRKIRKARAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREY LYALKO\r",
+        "party_id": "                                                            62NO0999960",
+        "address": "LINE7,34,APPARTMENT24,SAINTPETERSBURGRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREY LYALKO\r",
+        "party_id": "                                                            62NO0999960",
+        "address": "LINE7,34,APPARTMENT24,SAINTPETERSBURGRUSSIANFEDERATION",
+        "nationality": "RUSSIAN"
+      }
+    ]
+  }
+}

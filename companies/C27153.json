@@ -1,0 +1,123 @@
+{
+  "name": "AQUISONS COMPANY LIMITED",
+  "total_issued_shares_value": 806196,
+  "total_authorised_shares_value": 815280.55,
+  "authorised_shares": [
+    {
+      "issued_shares": 346000,
+      "type": "Ordinary",
+      "authorised_share_capital": 349900,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 100,
+      "type": "PreferenceNON-REDEEMABLE",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RICHARD FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355773M",
+        "address": "FIORI,TRIQIL-MENTNA,MQABBAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5/5B,PERALTACOURT,STJULIANSTERRANCEST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5/5B,PERALTACOURT,STJULIANSTERRANCEST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            666759M",
+        "address": "AGAPETRANSFIGURATIONAVENUELIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5/5B,PERALTACOURT,STJULIANSTERRANCEST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            666759M",
+        "address": "AGAPETRANSFIGURATIONAVENUELIJAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EDWARD ENGERER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19437",
+        "address": "72,STRANDPARK,FLAT14,TRIQSANPIJUV,SLIEMASLM1427MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5/5B,PERALTACOURT,STJULIANSTERRANCEST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            666759M",
+        "address": "AGAPETRANSFIGURATIONAVENUELIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JND PROPERTIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5415",
+        "address": "BELAIRPROPERTY,3,ST.GEORGE'SROAD,ST.JULIANSSTJ3208MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 346000
+        }
+      },
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5/5B,PERALTACOURT,ST.JULIANSTERRACE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "NON-REDEEMABLE",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 346100,
+  "address": "Josies Bathroom Centre Naxxar Road,",
+  "company_id": "C 27153",
+  "registration_date": "Oct 25, 2000",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 350000
+}

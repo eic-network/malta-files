@@ -1,0 +1,91 @@
+{
+  "name": "BOMBA BET LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID MELI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253583M",
+        "address": "18/4,WINDSORTERRACE,SLIEMASLM1855MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL CHRISTAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00024338",
+        "address": "8,GEORGIOUSEFERISTREET,KONIAPARK,KONIA8300CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL CHRISTAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00024338",
+        "address": "8,GEORGIOUSEFERISTREET,KONIAPARK,KONIA8300CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN DEBATTISTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10842",
+        "address": "19,STMARKSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL CHRISTAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00024338",
+        "address": "8,GEORGIOUSEFERISTREET,KONIAPARK,KONIA8300CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VALLETTA TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48916",
+        "address": "20/1REPUBLICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "VALLETTA TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48916",
+        "address": "20/1REPUBLICSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLOOR 5, 115A, MSIDA VALLEY ROAD,",
+  "company_id": "C 56310",
+  "registration_date": "May 14, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

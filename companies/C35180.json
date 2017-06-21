@@ -1,0 +1,145 @@
+{
+  "name": "BMW Malta Finance Ltd",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHANIE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402684M",
+        "address": "BLK1,FL4,TRIQCENSUXERRI,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS PELLEKOORN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXR28F819",
+        "address": "CROWNMARINA,BLOCKA,APT9,TA'XBIEXSEAFRONT,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "THOMAS SIEBER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8015151063D",
+        "address": "VIKTORIASTR.23,80803MUNICHGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS PELLEKOORN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXR28F819",
+        "address": "CROWNMARINA,BLOCKA,APT9,TA'XBIEXSEAFRONT,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "THOMAS SIEBER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8015151063D",
+        "address": "VIKTORIASTR.23,80803MUNICHGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS PELLEKOORN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXR28F819",
+        "address": "CROWNMARINA,BLOCKA,APT9,TA'XBIEXSEAFRONT,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "CHRISTOPHER HOLGER PUTH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF08L546G",
+        "address": "T4B08CARAVAGGIOCOURT,TIGNEPOINT,SLIEMAMALTA"
+      },
+      {
+        "name": "ANDREAS ROST\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            LF5ZJ40FN",
+        "address": "FRIENSHIPRING76,NOOTDORP2631MENETHERLANDS"
+      },
+      {
+        "name": "THOMAS SIEBER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            8015151063D",
+        "address": "VIKTORIASTR.23,80803MUNICHGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BMW INTEC BETEILIGUNGS GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            78223",
+        "address": "PETUELRING,130,80809MUNICHGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BMW Malta Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 35173",
+        "address": "5THFLOOR,DEVELOPMENTHOUSE,ST.ANNESTREET,FLORIANAFRN9010MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "5TH FLOOR, DEVELOPMENT HOUSE, ST. ANNE STREET,",
+  "company_id": "C 35180",
+  "registration_date": "Dec 07, 2004",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

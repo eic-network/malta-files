@@ -1,0 +1,75 @@
+{
+  "company_id": "C 49398",
+  "address": "74, TRIQ IL-HAREB,",
+  "name": "BRANKURT II LIMITED",
+  "locality": "GHAXAQ",
+  "status": "",
+  "registration_date": "Apr 15, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "party_id": "                                                            224872M",
+        "address": "74,TRIQIL-HAREB,GHAXAQGXQ1040MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "party_id": "                                                            224872M",
+        "address": "74,TRIQIL-HAREB,GHAXAQGXQ1040MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 25,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MARIA MICALLEF\r",
+        "party_id": "                                                            167571M",
+        "address": "74,TRIQIL-HAREB,GHAXAQGXQ1040MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 25,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "party_id": "                                                            224872M",
+        "address": "74,TRIQIL-HAREB,GHAXAQGXQ1040MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN MICALLEF\r",
+        "party_id": "                                                            224872M",
+        "address": "74,TRIQIL-HAREB,GHAXAQGXQ1040MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

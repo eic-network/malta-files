@@ -1,0 +1,128 @@
+{
+  "name": "B&B SERVICES LIMITED",
+  "total_issued_shares_value": 1167,
+  "total_authorised_shares_value": 1167,
+  "authorised_shares": [
+    {
+      "issued_shares": 1156,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1156,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 11,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 11,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "34/6,BOUVERIESTREET,GZIRAGZR05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            268668M",
+        "address": "19,GARDENSTREET,GZIRAMALTA"
+      },
+      {
+        "name": "NOEL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202269M",
+        "address": "\"CASSARFLATS\",FLT1,POPEURBANUSSTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            268668M",
+        "address": "19,GARDENSTREET,GZIRAMALTA"
+      },
+      {
+        "name": "NOEL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202269M",
+        "address": "\"CASSARFLATS\",FLT1,POPEURBANUSSTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            268668M",
+        "address": "19,GARDENSTREET,GZIRAMALTA"
+      },
+      {
+        "name": "NOEL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202269M",
+        "address": "\"CASSARFLATS\",FLT1,POPEURBANUSSTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PIERRE BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            268668M",
+        "address": "19,GARDENSTREET,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 578
+        }
+      },
+      {
+        "name": "NOEL BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202269M",
+        "address": "\"CASSARFLATS\",FLT1,POPEURBANUSSTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 578
+        }
+      },
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            711457M",
+        "address": "'CHARLANN'ST.VINCENTSTREETHAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 11
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1167,
+  "address": "ISOLAMARE, 34/6,  BOUVERIE STREET,",
+  "company_id": "C 52443",
+  "registration_date": "Apr 01, 2011",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1167
+}

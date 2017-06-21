@@ -1,0 +1,97 @@
+{
+  "name": "AVEN HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 6,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6,
+      "nominal_value_per_share": 100
+    },
+    {
+      "issued_shares": 6,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 6,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLKB,FLT5MOSTAROADATTARDATD1433MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Eric Falzone\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0126027A",
+        "address": "GaetanoCourt,Flat2,TriqPiscopoMacedonia,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JESSICA BALLARIN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            117359A",
+        "address": "GAETANOCOURTNO2,PISCOPOMACEDONIASTREET,XEMXIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JESSICA BALLARIN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            117359A",
+        "address": "GAETANOCOURTNO2,PISCOPOMACEDONIASTREET,XEMXIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JESSICA BALLARIN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            117359A",
+        "address": "GAETANOCOURTNO2,PISCOPOMACEDONIASTREET,XEMXIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Eric Falzone\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            0126027A",
+        "address": "GaetanoCourt,Flat2,TriqPiscopoMacedonia,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 6
+        }
+      },
+      {
+        "name": "JESSICA BALLARIN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            117359A",
+        "address": "GAETANOCOURTNO2,PISCOPOMACEDONIASTREET,XEMXIJAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 6
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12,
+  "address": "TERRACES NO. 1, THE PENTHOUSE SUITE, TRIQ IL-KANNIZZATA,",
+  "company_id": "C 62570",
+  "registration_date": "Nov 08, 2013",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 12
+}

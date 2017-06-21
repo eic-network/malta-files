@@ -1,0 +1,144 @@
+{
+  "name": "BKRVELLA CONSULTING LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 125,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 125,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "SANTAMARIAAPARTMENTS,OLIVESSTREET,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84375M",
+        "address": "7,TRIQIL-MALVIZZ,FGURAPLA18MALTA"
+      },
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215965M",
+        "address": "143,ARCHBISHOPSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "SANTAMARIAAPARTMENTS,OLIVESSTREET,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84375M",
+        "address": "7,TRIQIL-MALVIZZ,FGURAPLA18MALTA"
+      },
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215965M",
+        "address": "143,ARCHBISHOPSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84375M",
+        "address": "7,TRIQIL-MALVIZZ,FGURAPLA18MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "SANTAMARIAAPARTMENTS,OLIVESSTREET,THEGARDENS,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84375M",
+        "address": "7,TRIQIL-MALVIZZ,FGURAPLA18MALTA"
+      },
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215965M",
+        "address": "143,ARCHBISHOPSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215965M",
+        "address": "143,ARCHBISHOPSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "CHARLO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470674M",
+        "address": "SANTAMARIAAPARTMENTS,OLIVESSTREET,THEGARDENS,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "KARL MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84375M",
+        "address": "7,TRIQIL-MALVIZZ,FGURAPLA18MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "143, ARCHBISHOP STREET,",
+  "company_id": "C 30829",
+  "registration_date": "Jan 16, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

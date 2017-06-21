@@ -1,0 +1,70 @@
+{
+  "company_id": "C 73115",
+  "address": "30, KENILWORTH/1 TRIQ SIR AUGUSTUS BARTOLO",
+  "name": "3LITH STUDIO LTD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Nov 18, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARX TRUSTEES LIMITED\r",
+        "party_id": "                                                            C 31448",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI CUGNATA\r",
+        "party_id": "                                                            AV4670027",
+        "address": "34VIAMONTIIBLEIROCCAZZO,SICILY97010ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRIAN FARRUGIA\r",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "company_id": "C 63487",
+  "address": "11, PJAZZETTA FUQ IT-TOMBA,",
+  "name": "BRIAN & CO. LIMITED",
+  "locality": "VICTORIA (GOZO)",
+  "status": "In Dissolution",
+  "registration_date": "Jan 15, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "party_id": "                                                            14975G",
+        "address": "11,PJAZZETTAFUQIT-TOMBA,VICTORIA(GOZO)VCT1600MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "party_id": "                                                            14975G",
+        "address": "11,PJAZZETTAFUQIT-TOMBA,VICTORIA(GOZO)VCT1600MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "party_id": "                                                            14975G",
+        "address": "11,PJAZZETTAFUQIT-TOMBA,VICTORIA(GOZO)VCT1600MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "party_id": "                                                            14975G",
+        "address": "11,PJAZZETTAFUQIT-TOMBA,VICTORIA(GOZO)VCT1600MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "party_id": "                                                            14975G",
+        "address": "11,PJAZZETTAFUQIT-TOMBA,VICTORIA(GOZO)VCT1600MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "DAMIAN BIGENI\r",
+        "party_id": "                                                            4685G",
+        "address": "74/1,GEORGEBORGOLIVIERSTREET,VICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAULIANA SAID\r",
+        "party_id": "                                                            110125",
+        "address": "36,StDminkaStreet,VICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

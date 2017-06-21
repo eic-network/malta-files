@@ -1,0 +1,116 @@
+{
+  "name": "AS Limited",
+  "total_issued_shares_value": 3494.06,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 450,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 450,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1000,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANGELA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686659M",
+        "address": "14,STANGELOSTREET,ST.JULIANSSTJ1113MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANGELA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686659M",
+        "address": "14,STANGELOSTREET,ST.JULIANSSTJ1113MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANGELA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686659M",
+        "address": "14,STANGELOSTREET,ST.JULIANSSTJ1113MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANGELA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686659M",
+        "address": "14,STANGELOSTREET,ST.JULIANSSTJ1113MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELA SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            686659M",
+        "address": "14,STANGELOSTREET,ST.JULIANSSTJ1113MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "SARAH SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153084M",
+        "address": "14ST.ANGELOSTREETST.JULIANSSTJ1113MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 225
+        }
+      },
+      {
+        "name": "THOMAS SULLIVAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            137488M",
+        "address": "14ST.ANGELOSTREETST.JULIANSSTJ1113MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 225
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "14 ST. ANGELO STREET",
+  "company_id": "C 42701",
+  "registration_date": "Oct 30, 2007",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,83 @@
+{
+  "company_id": "C 57533",
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA,",
+  "name": "BRIDGEWATER LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Sep 12, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Fortia Management Limited\r",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Fortia Management Limited\r",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "LATAM INVESTMENTS CV\r",
+        "party_id": "                                                            53577957",
+        "address": "GUSTAVMAHLERPLELN60-P,ITOTOWER,7THFLOOR,AMSTERDAM1082MANETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Fortia Management Limited\r",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Fortia Management Limited\r",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JONATHAN CORRIERI\r",
+        "party_id": "                                                            79180M",
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

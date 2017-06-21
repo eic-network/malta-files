@@ -1,0 +1,59 @@
+{
+  "name": "ALTSTADT TAVERNE LTD",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "URSULA NEPPL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            F6804062",
+        "address": "12RATHAUSSTRASS,4100ARLESGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VINCENT MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            611835M",
+        "address": "12,BALLSTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "URSULA NEPPL\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            F6804062",
+        "address": "12RATHAUSSTRASS,4100ARLESGERMANY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "453, SANTA MARIA ESTATE,",
+  "company_id": "C 13008",
+  "registration_date": "Aug 21, 1991",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

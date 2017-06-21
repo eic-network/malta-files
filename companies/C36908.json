@@ -1,0 +1,134 @@
+{
+  "name": "BIRGUMA HEIGHTS DEVELOPMENTS LIMITED",
+  "total_issued_shares_value": 93174.92,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 15000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116049M",
+        "address": "MEILING,ST.PHILIPSTREET,MGARRMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL CORTIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722256M",
+        "address": "LAFONTANELLA,RIEBUWELLSTREET,RABATMALTA"
+      },
+      {
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116049M",
+        "address": "MEILING,ST.PHILIPSTREET,MGARRMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEL CORTIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722256M",
+        "address": "LAFONTANELLA,RIEBUWELLSTREET,RABATMALTA"
+      },
+      {
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116049M",
+        "address": "MEILING,ST.PHILIPSTREET,MGARRMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL P FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000A45",
+        "address": "22,YUCCA,TRIQL-AWSTRALJA,NAXXARNXR3271MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL CORTIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722256M",
+        "address": "LAFONTANELLA,RIEBUWELLSTREET,RABATMALTA"
+      },
+      {
+        "name": "PAUL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            116049M",
+        "address": "MEILING,ST.PHILIPSTREET,MGARRMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BALLUT BLOCKS SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8360",
+        "address": "WIEDFILEP,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20000
+        }
+      },
+      {
+        "name": "TISCOR CONSTRUCTION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 34559",
+        "address": "LAFONTANELLA,RIEBUWELLSTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604662M",
+        "address": "MORNINGDEW,TRIQSANTAKATERINA,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "MEILING ST PHILIP STREET",
+  "company_id": "C 36908",
+  "registration_date": "Sep 06, 2005",
+  "shares_currency": "EUR",
+  "locality": "MGARR",
+  "status": "",
+  "total_authorised_shares": 40000
+}

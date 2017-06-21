@@ -1,0 +1,114 @@
+{
+  "company_id": "C 17030",
+  "address": "DAR XARMUN, TA' LUVIER STREET,",
+  "name": "BROOKIES CO. LTD",
+  "locality": "MUNXAR (GOZO)",
+  "status": "",
+  "registration_date": "Nov 11, 1994",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 15000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 15000
+    }
+  ],
+  "total_authorised_shares": 15000,
+  "total_authorised_shares_value": 34940.6,
+  "total_issued_shares": 15000,
+  "total_issued_shares_value": 34940.6,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DAVID PORTELLI\r",
+        "party_id": "                                                            32563G",
+        "address": "BRERETON,MERCURYSTREET,XLENDIBAY,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL PORTELLI\r",
+        "party_id": "                                                            6969G",
+        "address": "DARXARMUN,TA'LUVIERSTREET,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID PORTELLI\r",
+        "party_id": "                                                            32563G",
+        "address": "BRERETON,MERCURYSTREET,XLENDIBAY,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PAUL PORTELLI\r",
+        "party_id": "                                                            6969G",
+        "address": "DARXARMUN,TA'LUVIERSTREET,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "ROGER PORTELLI\r",
+        "party_id": "                                                            62239G",
+        "address": "DARXARMUN,TA'LUVIERSTREET,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID PORTELLI\r",
+        "party_id": "                                                            32563G",
+        "address": "BRERETON,MERCURYSTREET,XLENDIBAY,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL PORTELLI\r",
+        "party_id": "                                                            6969G",
+        "address": "DARXARMUN,TA'LUVIERSTREET,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID PORTELLI\r",
+        "party_id": "                                                            32563G",
+        "address": "BRERETON,MERCURYSTREET,XLENDIBAY,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PAUL PORTELLI\r",
+        "party_id": "                                                            6969G",
+        "address": "DARXARMUN,TA'LUVIERSTREET,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID PORTELLI\r",
+        "party_id": "                                                            32563G",
+        "address": "BRERETON,MERCURYSTREET,XLENDIBAY,MUNXAR(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

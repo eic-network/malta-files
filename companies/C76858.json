@@ -1,0 +1,83 @@
+{
+  "name": "ARCTURUS TRADING LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OLEGS TARARINS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4861349",
+        "address": "LIELVARDESSTREET115-29RIGALV-1084LATVIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLEGS TARARINS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4861349",
+        "address": "LIELVARDESSTREET115-29RIGALV-1084LATVIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NATALIJA BERZINA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4503624",
+        "address": "LAIMASSTREET12BALTEZERSGARKALNEMUNICIPALITYLV-2164LATVIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLEGS TARARINS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4861349",
+        "address": "LIELVARDESSTREET115-29RIGALV-1084LATVIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NATALIJA BERZINA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4503624",
+        "address": "LAIMASSTREET12BALTEZERSGARKALNEMUNICIPALITYLV-2164LATVIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 465
+        }
+      },
+      {
+        "name": "OLEGS TARARINS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV4861349",
+        "address": "LIELVARDESSTREET115-29RIGALV-1084LATVIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 700
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "217 SUITE 4 21ST SEPTEMBER AVENUE",
+  "company_id": "C 76858",
+  "registration_date": "Aug 12, 2016",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1165
+}

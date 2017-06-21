@@ -1,0 +1,113 @@
+{
+  "name": "AULUS HOLDINGS LIMITED",
+  "total_issued_shares_value": 321404,
+  "total_authorised_shares_value": 321404,
+  "authorised_shares": [
+    {
+      "issued_shares": 321403,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 321403,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "SASCHA ERHARD ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3760171",
+        "address": "TURMSTRASSE18PFAFFIKONZH8330SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "SASCHA ERHARD ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3760171",
+        "address": "TURMSTRASSE18PFAFFIKONZH8330SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDATD3111MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "SASCHA ERHARD ZUGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3760171",
+        "address": "TURMSTRASSE18PFAFFIKONZH8330SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STOCKSBRIDGE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 80283",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 321403
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 321404,
+  "address": "114, THE STRAND,",
+  "company_id": "C 80285",
+  "registration_date": "Apr 03, 2017",
+  "shares_currency": "USD",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 321404
+}

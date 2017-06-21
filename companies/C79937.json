@@ -1,0 +1,70 @@
+{
+  "name": "Allsaint Malta Holding Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Philippe Toussaint\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN799717",
+        "address": "6RueCharlemagneLuxembourgL-1328LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Philippe Toussaint\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN799717",
+        "address": "6RueCharlemagneLuxembourgL-1328LUXEMBOURG"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "William Schembri\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            62886M",
+        "address": "TheIvies,BlkB,Flt5,MostaRoadATTARDATD1433MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Philippe Toussaint\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN799717",
+        "address": "6RueCharlemagneLuxembourgL-1328LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Allsaint Services S.a.r.l.\r",
+        "nationality": "",
+        "party_id": "                                                            B187256",
+        "address": "10A,RueHenriSchnadtLuxembourg2530LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Terraces No.1, The Penthouse Suite, Triq il-Kannizzata",
+  "company_id": "C 79937",
+  "registration_date": "Apr 11, 2017",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

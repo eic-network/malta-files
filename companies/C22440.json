@@ -1,0 +1,152 @@
+{
+  "name": "AMBASSADOR CLOTHING LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 334,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 334,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 333,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 333,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 333,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 333,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244563M",
+        "address": "\"ROSEBUD\"TRIQIL-BALLUTATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554458M",
+        "address": "NADINE,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "IVAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244563M",
+        "address": "\"ROSEBUD\"TRIQIL-BALLUTATTARDMALTA"
+      },
+      {
+        "name": "TONIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726956M",
+        "address": "'ZINNIA',TRIQIT-TAMAL,THEGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554458M",
+        "address": "NADINE,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "IVAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244563M",
+        "address": "\"ROSEBUD\"TRIQIL-BALLUTATTARDMALTA"
+      },
+      {
+        "name": "TONIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726956M",
+        "address": "'ZINNIA',TRIQIT-TAMAL,THEGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RICHARD J ATTARD & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/30",
+        "address": "39/1,TRIQIZ-ZAGHFRAN,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554458M",
+        "address": "NADINE,TRIQIL-KANNIZZATA,BALZANMALTA"
+      },
+      {
+        "name": "IVAN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            244563M",
+        "address": "\"ROSEBUD\"TRIQIL-BALLUTATTARDMALTA"
+      },
+      {
+        "name": "TONIO CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726956M",
+        "address": "'ZINNIA',TRIQIT-TAMAL,THEGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TONIO CARUANA (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22427",
+        "address": "'ZINNIA',TRIQIT-TAMAL,THEGARDENS,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 334
+        }
+      },
+      {
+        "name": "GEORGE CARUANA (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22428",
+        "address": "NADINE,TRIQIL-KANNIZZATABALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 333
+        }
+      },
+      {
+        "name": "IVAN CARUANA (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22422",
+        "address": "\"ROSEBUD\"TRIQIL-BALLUTATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 333
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "10, THE STRAND,",
+  "company_id": "C 22440",
+  "registration_date": "Jan 26, 1998",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

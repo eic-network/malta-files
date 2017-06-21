@@ -1,0 +1,98 @@
+{
+  "company_id": "C 62951",
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET,",
+  "name": "BREMEN TRADER MARITIME LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 04, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DEBORAH LYNN DAVIS\r",
+        "party_id": "                                                            602123890",
+        "address": "THEHAMPTONS,27,HAMPTONSLANE,SOUTHAMPTONSN02BERMUDA",
+        "nationality": "BERMUDA"
+      },
+      {
+        "name": "ARTHUR EDWARD MORGAN JONES\r",
+        "party_id": "                                                            511003533",
+        "address": "4INWOODDRIVE,LOVERSLANE,PAGETPG05BERMUDA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "JENNIFER MYRTLE KELLY\r",
+        "party_id": "                                                            488051994",
+        "address": "CHINOOK,29,HINSONISLAND,PAGETPG01BERMUDA",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHEMICAL TRADER SHIPPING COMPANY LIMITED\r",
+        "party_id": "                                                            C 51670",
+        "address": "EXCHANGEBUILDINGS,REPUBLICSTREETVALLETTAVLT1117MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DEBORAH LYNN DAVIS\r",
+        "party_id": "                                                            602123890",
+        "address": "THEHAMPTONS,27,HAMPTONSLANE,SOUTHAMPTONSN02BERMUDA",
+        "nationality": "BERMUDA"
+      },
+      {
+        "name": "ARTHUR EDWARD MORGAN JONES\r",
+        "party_id": "                                                            511003533",
+        "address": "4INWOODDRIVE,LOVERSLANE,PAGETPG05BERMUDA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "JENNIFER MYRTLE KELLY\r",
+        "party_id": "                                                            488051994",
+        "address": "CHINOOK,29,HINSONISLAND,PAGETPG01BERMUDA",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DEBORAH LYNN DAVIS\r",
+        "party_id": "                                                            602123890",
+        "address": "THEHAMPTONS,27,HAMPTONSLANE,SOUTHAMPTONSN02BERMUDA",
+        "nationality": "BERMUDA"
+      },
+      {
+        "name": "ARTHUR EDWARD MORGAN JONES\r",
+        "party_id": "                                                            511003533",
+        "address": "4INWOODDRIVE,LOVERSLANE,PAGETPG05BERMUDA",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "JENNIFER MYRTLE KELLY\r",
+        "party_id": "                                                            488051994",
+        "address": "CHINOOK,29,HINSONISLAND,PAGETPG01BERMUDA",
+        "nationality": "AMERICAN"
+      }
+    ]
+  }
+}

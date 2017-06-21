@@ -1,0 +1,115 @@
+{
+  "name": "BI HOLDINGS LTD",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 49957,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49957,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 43,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 43,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "10,BAYAPARTMENTS,FLATNO.6,ST.GEORGESROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487565M",
+        "address": "32,IR-RAMPIL,TRIQIL-PELLIKAN,SANGWANNSGN1905MALTA"
+      },
+      {
+        "name": "BRIAN ZARB ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59973M",
+        "address": "6,DAFFODILAPARTMENTS,TRIQIN-NISSIEG,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487565M",
+        "address": "32,IR-RAMPIL,TRIQIL-PELLIKAN,SANGWANNSGN1905MALTA"
+      },
+      {
+        "name": "BRIAN ZARB ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59973M",
+        "address": "6,DAFFODILAPARTMENTS,TRIQIN-NISSIEG,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN DESIRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10633",
+        "address": "DBS,TRIQL-AKWEDOTT,FLEUR-DE-LYS,BIRKIRKARABKR1976MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IVAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487565M",
+        "address": "32,IR-RAMPIL,TRIQIL-PELLIKAN,SANGWANNSGN1905MALTA"
+      },
+      {
+        "name": "BRIAN ZARB ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59973M",
+        "address": "6,DAFFODILAPARTMENTS,TRIQIN-NISSIEG,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "COMPUNET HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 21611",
+        "address": "6PMBUSINESSCENTRE,TRIQIT-TORRI,SWATAR,BIRKIRKARABKR4012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 49957
+        }
+      },
+      {
+        "name": "BRIAN ZARB ADAMI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59973M",
+        "address": "6,DAFFODILAPARTMENTS,TRIQIN-NISSIEG,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 43
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "32, IR-RAMPIL, TRIQ IL-PELLIKAN,",
+  "company_id": "C 51804",
+  "registration_date": "Jan 26, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 50000
+}

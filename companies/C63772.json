@@ -1,0 +1,97 @@
+{
+  "name": "B&O 2014 LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETER J. GRIFFITHS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175177M",
+        "address": "TAKARAMADLIENAROAD,MADLIENASWIEQISWQ1017MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT EBEJER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10101",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOLID FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            PFLP - 109",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUENAXXARNXR9021MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 1, CASAL NAXARO, LABOUR AVENUE,",
+  "company_id": "C 63772",
+  "registration_date": "Feb 06, 2014",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1500
+}

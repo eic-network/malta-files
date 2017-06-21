@@ -1,0 +1,110 @@
+{
+  "name": "A.I.L. LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 8000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LEONE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163950M",
+        "address": "PARAMOUNTHOUSE31,CHURCHSTREETST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEONE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163950M",
+        "address": "PARAMOUNTHOUSE31,CHURCHSTREETST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LEONE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163950M",
+        "address": "PARAMOUNTHOUSE31,CHURCHSTREETST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEONE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163950M",
+        "address": "PARAMOUNTHOUSE31,CHURCHSTREETST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LEONE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            163950M",
+        "address": "PARAMOUNTHOUSE31,CHURCHSTREETST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8000
+        }
+      },
+      {
+        "name": "ILONA GRECH ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            509480M",
+        "address": "NO.9,BAYLINECOURT,ST.GERALDSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ANNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            709357M",
+        "address": "'PARAMOUNTHOUSE',31,CHURCHSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "255, CONSTITUTION STREET,",
+  "company_id": "C 11156",
+  "registration_date": "Nov 28, 1989",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

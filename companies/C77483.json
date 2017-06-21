@@ -1,0 +1,88 @@
+{
+  "name": "Bet11 Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JIM LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84759942",
+        "address": "SALLERUPSVAGEN9,LGH1302,MALMO21218SWEDEN"
+      },
+      {
+        "name": "GRIGORIOS TSAKIRIS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90632633",
+        "address": "13CLGH1704,SERGELSVAG,MALMO21757SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JIM LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84759942",
+        "address": "SALLERUPSVAGEN9,LGH1302,MALMO21218SWEDEN"
+      },
+      {
+        "name": "GRIGORIOS TSAKIRIS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90632633",
+        "address": "13CLGH1704,SERGELSVAG,MALMO21757SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JIM LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84759942",
+        "address": "SALLERUPSVAGEN9,LGH1302,MALMO21218SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JIM LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84759942",
+        "address": "SALLERUPSVAGEN9,LGH1302,MALMO21218SWEDEN"
+      },
+      {
+        "name": "GRIGORIOS TSAKIRIS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90632633",
+        "address": "13CLGH1704,SERGELSVAG,MALMO21757SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET11 HOLDING LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 77482",
+        "address": "COBALTHOUSE,2NDFLOOR,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO.2, GERALDU FARRUGIA STREET,",
+  "company_id": "C 77483",
+  "registration_date": "Oct 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1200
+}

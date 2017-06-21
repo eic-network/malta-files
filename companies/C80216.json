@@ -1,0 +1,83 @@
+{
+  "name": "BOATRUST CREW SERVICES LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOEL GUY GHILARDI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AA92358",
+        "address": "251,CHEMINTHOMASETPALLANCA06370MOUANSSARTOUXFRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOEL GUY GHILARDI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AA92358",
+        "address": "251,CHEMINTHOMASETPALLANCA06370MOUANSSARTOUXFRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSE CARLOS DE MAGALHAES PEREIRA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            L902034",
+        "address": "RUASENHORDEBRANDARIZ109RCCT4415-072PEROSINHOPORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOEL GUY GHILARDI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AA92358",
+        "address": "251,CHEMINTHOMASETPALLANCA06370MOUANSSARTOUXFRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOATRUST MANAGEMENT LDA\r",
+        "nationality": "",
+        "party_id": "                                                            511106971",
+        "address": "RUANOVADOPINA,NO.4-B,SANTALUIZA,9050-067,FUNCHALMADEIRAPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BOATRUST MANAGEMENT MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 77497",
+        "address": "61,STPAUL'SSTREET,VALLETTAVLT1212MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "61 ST PAUL STREET,",
+  "company_id": "C 80216",
+  "registration_date": "Mar 29, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

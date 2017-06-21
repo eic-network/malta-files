@@ -1,0 +1,75 @@
+{
+  "name": "ASRO & LOVE HOLDINGS LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROLAND FRIEDL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            E08960365",
+        "address": "4POLZERGRASSEGRAZA8010AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROLAND FRIEDL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            E08960365",
+        "address": "4POLZERGRASSEGRAZA8010AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROLAND FRIEDL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            E08960365",
+        "address": "4POLZERGRASSEGRAZA8010AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CCA INTERSERV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35376",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ROLAND FRIEDL\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            E08960365",
+        "address": "4POLZERGRASSEGRAZA8010AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "60/2 MELITA STREET,",
+  "company_id": "C 37159",
+  "registration_date": "Oct 21, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

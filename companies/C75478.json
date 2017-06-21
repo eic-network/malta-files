@@ -1,0 +1,107 @@
+{
+  "name": "BEYOND HORIZONS Investment Holding Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OLIVER GOLZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1V50JHCF",
+        "address": "MITTELWEG142,HAMBURG20148GERMANY"
+      },
+      {
+        "name": "KOSTAS GRODBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            107646A",
+        "address": "9-10,TRIQSANGUZEPP,COSPICUABML1323MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLIVER GOLZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1V50JHCF",
+        "address": "MITTELWEG142,HAMBURG20148GERMANY"
+      },
+      {
+        "name": "KOSTAS GRODBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            107646A",
+        "address": "9-10,TRIQSANGUZEPP,COSPICUABML1323MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0067653A",
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLIVER GOLZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1V50JHCF",
+        "address": "MITTELWEG142,HAMBURG20148GERMANY"
+      },
+      {
+        "name": "KOSTAS GRODBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            107646A",
+        "address": "9-10,TRIQSANGUZEPP,COSPICUABML1323MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OLIVER GOLZ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C1V50JHCF",
+        "address": "MITTELWEG142,HAMBURG20148GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0067653A",
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "48, TRIQ STELLA MARIS,",
+  "company_id": "C 75478",
+  "registration_date": "May 03, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

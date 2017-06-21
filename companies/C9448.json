@@ -1,0 +1,72 @@
+{
+  "name": "BLUESEA MARITIME CO LTD",
+  "total_issued_shares_value": 1164.6,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RICHARD J ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            284453M",
+        "address": "FLAT3,PINE,TAR-RAZZETTCOMPLEX,MILLSTREET,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMBER INC.\r",
+        "nationality": "",
+        "party_id": "                                                            32738",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "CORFE MARITIME CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            23532",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "DALE FINANCE CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            32941",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 9448",
+  "registration_date": "Mar 03, 1988",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

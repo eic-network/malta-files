@@ -1,0 +1,89 @@
+{
+  "name": "ANNABEL HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SIMON ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578864M",
+        "address": "22,STIVALASTREETMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            788735M",
+        "address": "175/6,TOWERROADSLIEMAMALTA"
+      },
+      {
+        "name": "SIMON ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578864M",
+        "address": "22,STIVALASTREETMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            788735M",
+        "address": "175/6,TOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            788735M",
+        "address": "175/6,TOWERROADSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "SIMON ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578864M",
+        "address": "22,STIVALASTREETMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "39 INDUSTRIAL ESTATE",
+  "company_id": "C 10859",
+  "registration_date": "Jul 31, 1989",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 500
+}

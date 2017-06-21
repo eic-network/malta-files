@@ -1,0 +1,70 @@
+{
+  "company_id": "C 36911",
+  "address": "264 MAIN STREET",
+  "name": "brainbox limited",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Sep 07, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 20000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 20000
+    }
+  ],
+  "total_authorised_shares": 20000,
+  "total_authorised_shares_value": 20000,
+  "total_issued_shares": 20000,
+  "total_issued_shares_value": 20000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SABRINA MULLIGAN\r",
+        "party_id": "                                                            126394M",
+        "address": "15TRIQIL-BARRADANAXXARNXR3611MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SABRINA MULLIGAN\r",
+        "party_id": "                                                            126394M",
+        "address": "15TRIQIL-BARRADANAXXARNXR3611MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SABRINA MULLIGAN\r",
+        "party_id": "                                                            126394M",
+        "address": "15TRIQIL-BARRADANAXXARNXR3611MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SABRINA MULLIGAN\r",
+        "party_id": "                                                            126394M",
+        "address": "15TRIQIL-BARRADANAXXARNXR3611MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SABRINA MULLIGAN\r",
+        "party_id": "                                                            126394M",
+        "address": "15TRIQIL-BARRADANAXXARNXR3611MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

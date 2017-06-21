@@ -1,0 +1,115 @@
+{
+  "name": "Applebear Malta Limited",
+  "total_issued_shares_value": 4500,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 4499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT5397125",
+        "address": "CARBONEHOUSE,CARBONEHILL,CUFFLEYHERTFORDSHIREEN64PLUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT5397125",
+        "address": "CARBONEHOUSE,CARBONEHILL,CUFFLEYHERTFORDSHIREEN64PLUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "ANDREW COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT5397125",
+        "address": "CARBONEHOUSE,CARBONEHILL,CUFFLEYHERTFORDSHIREEN64PLUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREW COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PT5397125",
+        "address": "CARBONEHOUSE,CARBONEHILL,CUFFLEYHERTFORDSHIREEN64PLUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4499
+        }
+      },
+      {
+        "name": "BRENDAN COLLINS\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PC9673637",
+        "address": "42,ROWANHOUSE,MESPILESTATESUSSEXROAD,DUBLIN4IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4500,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL AND BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 50146",
+  "registration_date": "Jul 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4500
+}

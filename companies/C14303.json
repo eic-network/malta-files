@@ -1,0 +1,83 @@
+{
+  "name": "BIOMED LABORATORY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            514744M",
+        "address": "304,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            514744M",
+        "address": "304,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JENNIFER PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388862M",
+        "address": "304,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            514744M",
+        "address": "304,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDICAID LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5283",
+        "address": "ST.PHILIPSHOSPITALSANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "FRANK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            514744M",
+        "address": "304,ST.PAUL'SSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "ST. PHILIPS HOSPITAL,",
+  "company_id": "C 14303",
+  "registration_date": "Oct 08, 1992",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

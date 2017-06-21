@@ -1,0 +1,59 @@
+{
+  "total_issued_shares_value": 1164.69,
+  "registration_date": "Sep 23, 1996",
+  "status": "",
+  "locality": "FLORIANA",
+  "name": "BULKWAY SHIPPING LTD",
+  "total_issued_shares": 500,
+  "address": "OFFICE 31, EUROPA CENTRE, 113, ST. FRANCIS STREET,",
+  "company_id": "C 20570",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "3,TARASASHEVCHENKOSTREET,FLAT188,MOSCOWRUSSIANFEDERATION",
+        "party_id": "                                                            0273684",
+        "name": "MIKHAIL A LARCHENKOV\r",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 499,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "SUITE4FOURTHFLOORPEVERILBUILDINGSPEVERILSQUAREDOUGLASISLEOFMAN",
+        "party_id": "",
+        "name": "BURGAU LTD",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "FLAT116,11,SPORTNIVNAYASTREET,DOLGOPRUDNY,MOSCOWRUSSIANFEDERATION",
+        "party_id": "                                                            5632871",
+        "name": "VASSILI VOLKOV\r",
+        "nationality": "RUSSIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "shares_currency": "EUR"
+}

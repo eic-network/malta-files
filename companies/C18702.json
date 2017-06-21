@@ -1,0 +1,122 @@
+{
+  "name": "AMC MARKETING LIMITED",
+  "total_issued_shares_value": 58234.33,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 22500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 22500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            350380M",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            225151M",
+        "address": "MILNERGROVE,AMBERAPT6,MILNERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            563057M",
+        "address": "MILNERGROVE,AMBERAPT.6,MILNERSTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHRISTOPHER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            489386M",
+        "address": "203,FLAT6,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            225151M",
+        "address": "MILNERGROVE,AMBERAPT6,MILNERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL SCIORTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04822",
+        "address": "KISSIMMEE,BLACKSEASTREET,ST.JULIANSSTJ1853MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            225151M",
+        "address": "MILNERGROVE,AMBERAPT6,MILNERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A M C HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7043",
+        "address": "AMCHOUSE,HARDROCKSINDUSTRIALESTATE,BURMARRADROAD,ST.PAUL'SBAYSPB08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 22500
+        }
+      },
+      {
+        "name": "CHRISTOPHER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            489386M",
+        "address": "203,FLAT6,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "MARTINA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461283M",
+        "address": "CALADONIATOWERS,FLAT8,QUI-SI-SANAROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "AMC HOUSE, HARD ROCKS INDUSTRIAL ESTATE, BURMARRAD ROAD, BURMARRAD,",
+  "company_id": "C 18702",
+  "registration_date": "Jun 27, 1995",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 25000
+}

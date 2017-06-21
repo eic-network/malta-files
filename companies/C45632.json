@@ -1,0 +1,96 @@
+{
+  "name": "BKR Property Limited",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51261M",
+        "address": "7,TRIQIL-HABBA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPHINE (K/A JOANNE) BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224169M",
+        "address": "7TRIQIL-HABBASWIEQIMALTA"
+      },
+      {
+        "name": "MICHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51261M",
+        "address": "7,TRIQIL-HABBA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPHINE (K/A JOANNE) BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224169M",
+        "address": "7TRIQIL-HABBASWIEQIMALTA"
+      },
+      {
+        "name": "MICHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51261M",
+        "address": "7,TRIQIL-HABBA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Degiorgio, Brincat & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/16/12",
+        "address": "Anutruf'Suite3Triqtal-HrierebMSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPHINE (K/A JOANNE) BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224169M",
+        "address": "7TRIQIL-HABBASWIEQIMALTA"
+      },
+      {
+        "name": "MICHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51261M",
+        "address": "7,TRIQIL-HABBA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BUSUTTIL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51261M",
+        "address": "7,TRIQIL-HABBA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "7 TRIQ IL-HABBA",
+  "company_id": "C 45632",
+  "registration_date": "Nov 20, 2008",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

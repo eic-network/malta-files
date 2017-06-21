@@ -1,0 +1,83 @@
+{
+  "name": "ARCADIA INTERACTIVE LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 55000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "Ordinary",
+      "authorised_share_capital": 55000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCOIS XAVIER POUPARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            44030107497",
+        "address": "4,RUEROBERTESTIENNEPARIS75008FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCOIS XAVIER POUPARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            44030107497",
+        "address": "4,RUEROBERTESTIENNEPARIS75008FRANCE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCOIS XAVIER POUPARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            44030107497",
+        "address": "4,RUEROBERTESTIENNEPARIS75008FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FRANCOIS XAVIER POUPARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            44030107497",
+        "address": "4,RUEROBERTESTIENNEPARIS75008FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 14999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "103, STRAIT STREET,",
+  "company_id": "C 46183",
+  "registration_date": "Feb 05, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 55000
+}

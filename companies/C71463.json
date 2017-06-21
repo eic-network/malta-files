@@ -1,0 +1,132 @@
+{
+  "company_id": "C 71463",
+  "address": "PENTHOUSE, 62-64, PROGETTA HOUSE, TRIQ IT-TORRI, SWATAR,",
+  "name": "BRAIDA LTD.",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Jul 15, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 100,
+      "issued_shares": 150
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 100000,
+  "total_issued_shares": 150,
+  "total_issued_shares_value": 15000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PER GEORG BRAATHEN\r",
+        "party_id": "                                                            25571416",
+        "address": "FLAT8,61CADOGANSQUARE,LONDONSW1X0HZUNITEDKINGDOM",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "JOSEPH CAPPELLO\r",
+        "party_id": "                                                            81953M",
+        "address": "24,TRIQIL-MUSKATELL,ATTARDATD2730MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TROND-ROGER JOHANNESSEN\r",
+        "party_id": "                                                            30114308",
+        "address": "SKOGVEIEN8B,KOLBOTN1410NORWAY",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "GEIR STORMORKEN\r",
+        "party_id": "                                                            27634424",
+        "address": "DRHOLMSVEI19B,OSLO0787NORWAY",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IDA PERNILLE BRAATHEN\r",
+        "party_id": "                                                            28651452",
+        "address": "FLAT8,61CADOGANSQUARE,LONDONSW1X0HZUNITEDKINGDOM",
+        "nationality": "NORWEGIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 100
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PER GEORG BRAATHEN\r",
+        "party_id": "                                                            25571416",
+        "address": "FLAT8,61CADOGANSQUARE,LONDONSW1X0HZUNITEDKINGDOM",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "JOSEPH CAPPELLO\r",
+        "party_id": "                                                            81953M",
+        "address": "24,TRIQIL-MUSKATELL,ATTARDATD2730MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TROND-ROGER JOHANNESSEN\r",
+        "party_id": "                                                            30114308",
+        "address": "SKOGVEIEN8B,KOLBOTN1410NORWAY",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "GEIR STORMORKEN\r",
+        "party_id": "                                                            27634424",
+        "address": "DRHOLMSVEI19B,OSLO0787NORWAY",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PER GEORG BRAATHEN\r",
+        "party_id": "                                                            25571416",
+        "address": "FLAT8,61CADOGANSQUARE,LONDONSW1X0HZUNITEDKINGDOM",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "JOSEPH CAPPELLO\r",
+        "party_id": "                                                            81953M",
+        "address": "24,TRIQIL-MUSKATELL,ATTARDATD2730MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "TROND-ROGER JOHANNESSEN\r",
+        "party_id": "                                                            30114308",
+        "address": "SKOGVEIEN8B,KOLBOTN1410NORWAY",
+        "nationality": "NORWEGIAN"
+      },
+      {
+        "name": "GEIR STORMORKEN\r",
+        "party_id": "                                                            27634424",
+        "address": "DRHOLMSVEI19B,OSLO0787NORWAY",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH CAPPELLO\r",
+        "party_id": "                                                            81953M",
+        "address": "24,TRIQIL-MUSKATELL,ATTARDATD2730MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "company_id": "C 14798",
+  "address": "'VILLA MARIJA', TA' MENGLIN,",
+  "name": "BOWOOD CONSTRUCTIONS LIMITED",
+  "locality": "ZURRIEQ",
+  "status": "",
+  "registration_date": "Mar 05, 1993",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 25000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 25000
+    }
+  ],
+  "total_authorised_shares": 25000,
+  "total_authorised_shares_value": 58234.32,
+  "total_issued_shares": 25000,
+  "total_issued_shares_value": 58234.32,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PIERRE ABELA\r",
+        "party_id": "                                                            41560M",
+        "address": "VILLAMARIJA,TRIQSANTAKATERINATAL-BUQQARI,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUEL ABELA\r",
+        "party_id": "                                                            197037M",
+        "address": "SACREDHEARTISOURDSTREET,MARSAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PIERRE ABELA\r",
+        "party_id": "                                                            41560M",
+        "address": "VILLAMARIJA,TRIQSANTAKATERINATAL-BUQQARI,ZURRIEQMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE ABELA\r",
+        "party_id": "                                                            41560M",
+        "address": "VILLAMARIJA,TRIQSANTAKATERINATAL-BUQQARI,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE ABELA\r",
+        "party_id": "                                                            41560M",
+        "address": "VILLAMARIJA,TRIQSANTAKATERINATAL-BUQQARI,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE ABELA\r",
+        "party_id": "                                                            41560M",
+        "address": "VILLAMARIJA,TRIQSANTAKATERINATAL-BUQQARI,ZURRIEQMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

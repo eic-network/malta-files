@@ -1,0 +1,97 @@
+{
+  "name": "AROMAQ INTERNATIONAL COMPANY LIMITED",
+  "total_issued_shares_value": 279524.76,
+  "total_authorised_shares_value": 279524.76,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNSGN06MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH P FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            668325M",
+        "address": "'EDINMAR',163,CHURCHAVENUE,PAOLAPLA05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            500953M",
+        "address": "CASADIELJA,TRIQTA'CIAMPRA,BURMARRAD,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            500953M",
+        "address": "CASADIELJA,TRIQTA'CIAMPRA,BURMARRAD,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY DIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            500953M",
+        "address": "CASADIELJA,TRIQTA'CIAMPRA,BURMARRAD,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MEDITERRANEAN COFFEE ENTERPRISE HOLDING LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 25071",
+        "address": "48,SQAQNRU2,TRIQIX-XATT,PIETA'MSD08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120000,
+  "address": "48 SQAQ NRU 2, TRIQ IX-XATT,",
+  "company_id": "C 25330",
+  "registration_date": "Oct 21, 1999",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "In Dissolution",
+  "total_authorised_shares": 120000
+}

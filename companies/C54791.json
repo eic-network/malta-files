@@ -1,0 +1,109 @@
+{
+  "name": "ANNELI LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO GIULIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249854M",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO GIULIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249854M",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      },
+      {
+        "name": "LEENA KATRI ANNELI PERTTILA\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            41389A",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO GIULIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249854M",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      },
+      {
+        "name": "LEENA KATRI ANNELI PERTTILA\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            41389A",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO GIULIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249854M",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      },
+      {
+        "name": "LEENA KATRI ANNELI PERTTILA\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            41389A",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO GIULIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            249854M",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "LEENA KATRI ANNELI PERTTILA\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            41389A",
+        "address": "38,QORMIROAD,BIRKIRKARABKR1840MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "36, QORMI ROAD,",
+  "company_id": "C 54791",
+  "registration_date": "Dec 21, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

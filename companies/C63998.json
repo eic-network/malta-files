@@ -1,0 +1,123 @@
+{
+  "name": "AS HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 306
+        }
+      },
+      {
+        "name": "MARY k/a MARIELLA ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            765457M",
+        "address": "SANANDREACRTBLKC,FLAT7,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 84
+        }
+      },
+      {
+        "name": "NEVILLE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            642882M",
+        "address": "20/21,TRIQIL-MITHNAL-QADIMA,MELLIEHAMLH1347MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 84
+        }
+      },
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 126
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "20, FLAT 5, TRIQ MAUEL DIMECH",
+  "company_id": "C 63998",
+  "registration_date": "Feb 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

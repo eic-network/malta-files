@@ -1,0 +1,70 @@
+{
+  "company_id": "C 72706",
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BUILDINGS, 216, MARINA SEAFRONT,",
+  "name": "BREAKING WAVES CHARTERS LTD.",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Oct 19, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH B. MANGION\r",
+        "party_id": "                                                            099109274",
+        "address": "6,THEDRIVE,ESHER,SURREYKT108DQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PARKWOOD HOLDINGS LTD.\r",
+        "party_id": "                                                            C 69846",
+        "address": "LEVEL4,SUITE8A,ROSAMARINABLDG,216,MARINASEAFRONT,PIETA'PTA9041MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH B. MANGION\r",
+        "party_id": "                                                            099109274",
+        "address": "6,THEDRIVE,ESHER,SURREYKT108DQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH B. MANGION\r",
+        "party_id": "                                                            099109274",
+        "address": "6,THEDRIVE,ESHER,SURREYKT108DQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH B. MANGION\r",
+        "party_id": "                                                            099109274",
+        "address": "6,THEDRIVE,ESHER,SURREYKT108DQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

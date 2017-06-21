@@ -1,0 +1,101 @@
+{
+  "name": "AMATO LIMITED",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MUSTAFA ABOUB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            222350",
+        "address": "ASSIYAHIYA,NO.48,JANZURSTATEOFLIBYA"
+      },
+      {
+        "name": "SAMI AREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            285589",
+        "address": "'CAMILLA'TRIQIL-FRANCIZSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MUSTAFA ABOUB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            222350",
+        "address": "ASSIYAHIYA,NO.48,JANZURSTATEOFLIBYA"
+      },
+      {
+        "name": "SAMI AREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            285589",
+        "address": "'CAMILLA'TRIQIL-FRANCIZSWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SAMI AREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            285589",
+        "address": "'CAMILLA'TRIQIL-FRANCIZSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MUSTAFA ABOUB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            222350",
+        "address": "ASSIYAHIYA,NO.48,JANZURSTATEOFLIBYA"
+      },
+      {
+        "name": "SAMI AREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            285589",
+        "address": "'CAMILLA'TRIQIL-FRANCIZSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MUSTAFA ABOUB\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            222350",
+        "address": "ASSIYAHIYA,NO.48,JANZURSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "SAMI AREBI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            285589",
+        "address": "'CAMILLA'TRIQIL-FRANCIZSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1600,
+  "address": "CAMILLA, TRIQ TAL - FRANCIZ",
+  "company_id": "C 31611",
+  "registration_date": "Jun 17, 2003",
+  "shares_currency": "USD",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1600
+}

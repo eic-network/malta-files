@@ -1,0 +1,83 @@
+{
+  "name": "battaielle Ltd.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Anthony Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            436150M",
+        "address": "66,ChezLaPaix,TriqL-Istazzjon,BIRKIRKARABKR1832MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Anthony Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            436150M",
+        "address": "66,ChezLaPaix,TriqL-Istazzjon,BIRKIRKARABKR1832MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Josef Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473675M",
+        "address": "134,CountryCottage,TriqGuzeEllulMercer,DINGLIDGL1110MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Anthony Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            436150M",
+        "address": "66,ChezLaPaix,TriqL-Istazzjon,BIRKIRKARABKR1832MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Anthony Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            436150M",
+        "address": "66,ChezLaPaix,TriqL-Istazzjon,BIRKIRKARABKR1832MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "Josef Borg\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473675M",
+        "address": "134,CountryCottage,TriqGuzeEllulMercer,DINGLIDGL1110MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "66, Chez La Paix,  Triq L-Istazzjon,",
+  "company_id": "C 50068",
+  "registration_date": "Jul 02, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 20000
+}

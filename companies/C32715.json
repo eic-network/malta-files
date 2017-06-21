@@ -1,0 +1,122 @@
+{
+  "name": "A.M.J. INVESTMENTS PROPERTY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 490,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 490,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428972M",
+        "address": "MIKEHOUSE,ST.CATHERINESTREET,MARSAXLOKKMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFRED FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458141M",
+        "address": "ST.MARY'SFARM,WILGASTREET,MARSAXLOKKMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458141M",
+        "address": "ST.MARY'SFARM,WILGASTREET,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "JEFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428972M",
+        "address": "MIKEHOUSE,ST.CATHERINESTREET,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "MICHAEL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360666M",
+        "address": "VILLAST.DOMNIC,JUNOHEIGHTS,BYZANTINEROAD,MARSAXLOKKMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFRED FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458141M",
+        "address": "ST.MARY'SFARM,WILGASTREET,MARSAXLOKKMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            458141M",
+        "address": "ST.MARY'SFARM,WILGASTREET,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "JEFFREY FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428972M",
+        "address": "MIKEHOUSE,ST.CATHERINESTREET,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 245
+        }
+      },
+      {
+        "name": "MICHAEL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360666M",
+        "address": "VILLAST.DOMNIC,JUNOHEIGHTS,BYZANTINEROAD,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 245
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "NO. 1A, TRIQ GULINO MANISCALCO,",
+  "company_id": "C 32715",
+  "registration_date": "Dec 15, 2003",
+  "shares_currency": "EUR",
+  "locality": "MARSAXLOKK",
+  "status": "",
+  "total_authorised_shares": 500
+}

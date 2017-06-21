@@ -1,0 +1,59 @@
+{
+  "name": "AZIMUT PROJECT RE E.E.I.G",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Plinio PILOTTO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2275783",
+        "address": "ViaAlcideDeGasperin.15LoriaTrevisoITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EUREDIL CONSTRUCTION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48038",
+        "address": "45/1,TRIQL-ISQOFF.S.CARUANA,MSIDAMSD1412MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "Immobilbros Srl\r",
+        "nationality": "",
+        "party_id": "                                                            TV-344881",
+        "address": "ViaKennedy50,RiesePioX(TV)31039ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "45/1, Triq L-Isqof F.S. Caruana,",
+  "company_id": "EEIG 10",
+  "registration_date": "Aug 07, 2012",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

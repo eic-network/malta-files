@@ -1,0 +1,91 @@
+{
+  "name": "AZFIELD Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HWM AUDIT & GOVERNANCE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/05",
+        "address": "189/2,THESTRAND,GZIRAGZR1024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AZFIELD HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64633",
+        "address": "A3TOWERS,BLOCKA3,LEVEL6,312,TRIQIL-KANONKUKARMM.BOLOGNA,PAOLAPLA1211MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MARKIT BUSINESS SOLUTIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60507",
+        "address": "A3TOWERS,BLOCKA3,LEVEL6,312,TRIQIL-KANONKUKARMM.BOLOGNA,PAOLAPLA1211MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "A3 TOWERS, BLOCK A3, LEVEL 6, 312, TRIQ IL-KANONKU KARM M. BOLOGNA,",
+  "company_id": "C 62381",
+  "registration_date": "Oct 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,141 @@
+{
+  "name": "ANDYCO LIMITED",
+  "total_issued_shares_value": 6985.79,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2499,
+      "type": "RedeemablePreference2.5%NON-CUMULATIVE",
+      "authorised_share_capital": 2499,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KEVIN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358870M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOANNA CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281372M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRETNAXXARMALTA"
+      },
+      {
+        "name": "KEVIN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358870M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOANNA CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281372M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRETNAXXARMALTA"
+      },
+      {
+        "name": "KEVIN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358870M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19809",
+        "address": "57,FL3,TRIQSIRGEORGEBORG,SLIEMASLM1960MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOANNA CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281372M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRETNAXXARMALTA"
+      },
+      {
+        "name": "KEVIN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358870M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EVELYN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            111534M",
+        "address": "STANLEY,NO.82,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOANNA CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281372M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRETNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "2.5% NON-CUMULATIVE",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "KEVIN CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            358870M",
+        "address": "ESPERANCE,NO.14,TRIQIN-NIGRET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 498
+        }
+      },
+      {
+        "name": "PATRICK CATANIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325763M",
+        "address": "STANLEY,NO.82,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2999,
+  "address": "82, STANLEY, LABOUR AVENUE",
+  "company_id": "C 32402",
+  "registration_date": "Nov 07, 2003",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 3000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "64 Capital Holding Ltd",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Artur Krzysztof Kuczmowski \r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3338514",
+        "address": "86-300Grudziadz39Am.1MickiewiczaPOLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Artur Krzysztof Kuczmowski \r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3338514",
+        "address": "86-300Grudziadz39Am.1MickiewiczaPOLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Artur Krzysztof Kuczmowski \r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3338514",
+        "address": "86-300Grudziadz39Am.1MickiewiczaPOLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Artur Krzysztof Kuczmowski \r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3338514",
+        "address": "86-300Grudziadz39Am.1MickiewiczaPOLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "T & S Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 75454",
+        "address": "NOELMUSCAT&COTriqL-ImghazelSWIEQISWQ3141MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "Artur Krzysztof Kuczmowski \r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3338514",
+        "address": "86-300Grudziadz39Am.1MickiewiczaPOLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "Noel Muscat & Co. Triq L-Imghazel,",
+  "company_id": "C 75499",
+  "registration_date": "May 13, 2016",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

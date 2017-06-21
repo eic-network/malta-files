@@ -1,0 +1,70 @@
+{
+  "name": "A STAR SHIPPING LIMITED",
+  "total_issued_shares_value": 401200,
+  "total_authorised_shares_value": 2000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 401200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEFANIA FOSSATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3783647",
+        "address": "4,VIAMAZZINI,LUGANO6900SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFANIA FOSSATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3783647",
+        "address": "4,VIAMAZZINI,LUGANO6900SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCESCO APAP BOLOGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12464M",
+        "address": "171OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFANIA FOSSATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3783647",
+        "address": "4,VIAMAZZINI,LUGANO6900SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEFANIA FOSSATI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3783647",
+        "address": "4,VIAMAZZINI,LUGANO6900SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 401200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 401200,
+  "address": "171 OLD BAKERY STREET",
+  "company_id": "C 68190",
+  "registration_date": "Dec 18, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000000
+}

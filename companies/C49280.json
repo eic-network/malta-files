@@ -1,0 +1,78 @@
+{
+  "name": "ARCHEM HOLDINGS LIMITED",
+  "total_issued_shares_value": 2500,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GORDON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            56557M",
+        "address": "VILLAROMANA,TRIQIL-BALTIKU,SANGWANNSGN1881MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN GIORDANO IMBROLL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441077M",
+        "address": "SHOOTINGSTAR,TRIQTA'L-IBRAG,IBRAG,SWIEQISWQ2033MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN GIORDANO IMBROLL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441077M",
+        "address": "SHOOTINGSTAR,TRIQTA'L-IBRAG,IBRAG,SWIEQISWQ2033MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN GIORDANO IMBROLL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441077M",
+        "address": "SHOOTINGSTAR,TRIQTA'L-IBRAG,IBRAG,SWIEQISWQ2033MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POLAT ALI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-UNO.066241",
+        "address": "B10,BLOCK26,34156HANIMELICICEGISOK.NO.1H/26ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "REGENT HOUSE, OFFICE 21,  BISAZZA STREET,",
+  "company_id": "C 49280",
+  "registration_date": "Mar 30, 2010",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

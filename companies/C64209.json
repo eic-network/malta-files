@@ -1,0 +1,89 @@
+{
+  "name": "ALTHANE YACHT LEASING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JAN HENRIK STOCKHAUSEN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0072143A",
+        "address": "VILLABOLOGNASANANTONSTREETATTARDATD1282MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JEAN-JACQUES ANDRE' MARIE HONORE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13CR58470",
+        "address": "3,AVENUEDELAPETITEESPINETTE,BRUXELLES1180BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SAN MICHEL BUILDING, 110, ST. GEORGE'S ROAD,",
+  "company_id": "C 64209",
+  "registration_date": "Mar 14, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

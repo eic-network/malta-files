@@ -1,0 +1,105 @@
+{
+  "name": "APOGEE SOLUTIONS LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KENNETH MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91966M",
+        "address": "1,ST.AGATHA'SALLEY,RABATMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHT,FL12TRIQIL-WARD,MADLIENASWIEQISWQ1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Victor Schranz & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/56",
+        "address": "TheOrchard',LourdesLane,St.George's,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CANDIDE CAPITAL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            73010",
+        "address": "SUITE2,ANSUYAESTATE,REVOLUTIONAVENUE,VICTORIAREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "GROUND FLOOR, PALACE COURT, CHURCH STREET,",
+  "company_id": "C 45997",
+  "registration_date": "Jan 08, 2009",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1250
+}

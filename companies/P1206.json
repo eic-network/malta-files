@@ -1,0 +1,51 @@
+{
+  "name": "ANASTASI PROPERTIES",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "FRANCESCA TABONE ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            452654M",
+        "address": "86,FLAT2MARKITACOURT,TRIQGUZEHOWARDSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "CHRISTOPHER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239082M",
+        "address": "75,VICTORIAROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "86, FLAT 2, MARKITA COURT, TRIQ GUZE HOWARD,",
+  "company_id": "P 1206",
+  "registration_date": "Jun 20, 2009",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 500
+}

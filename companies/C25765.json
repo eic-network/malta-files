@@ -1,0 +1,83 @@
+{
+  "name": "BEROLINA YACHTING LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RICHARD GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            807246M",
+        "address": "147/1,ST.LUCIASTREET,VALLETTAVLT1185MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KLAUS UECKER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252842156",
+        "address": "WARTHESTRABE45,BERLIND-12051GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KLAUS UECKER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252842156",
+        "address": "WARTHESTRABE45,BERLIND-12051GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KLAUS UECKER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252842156",
+        "address": "WARTHESTRABE45,BERLIND-12051GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MONIKA JUANA KUNZE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252842155",
+        "address": "WARTHESTRABE45,BERLIND-12051GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3
+        }
+      },
+      {
+        "name": "KLAUS UECKER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            252842156",
+        "address": "WARTHESTRABE45,BERLIND-12051GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1162
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 25765",
+  "registration_date": "Jan 20, 2000",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

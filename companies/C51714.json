@@ -1,0 +1,62 @@
+{
+  "total_issued_shares_value": 10000,
+  "registration_date": "Jan 19, 2011",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BULK CHINA SHIPPING LTD",
+  "total_issued_shares": 10000,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 51714",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "QUATTROCENTO10QUAIJEANCHARLESREYMONACOMC98000MONACO",
+        "party_id": "                                                            AA1952473",
+        "name": "LUIGI PULCINI\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "QUATTROCENTO10QUAIJEANCHARLESREYMONACOMC98000MONACO",
+        "party_id": "                                                            AA1952473",
+        "name": "LUIGI PULCINI\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "QUATTROCENTO10QUAIJEANCHARLESREYMONACOMC98000MONACO",
+        "party_id": "                                                            AA1952473",
+        "name": "LUIGI PULCINI\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 10000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "198,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "party_id": "                                                            C 52348",
+        "name": "CBC HOLDING LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 10000,
+      "authorised_share_capital": 10000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "shares_currency": "EUR"
+}

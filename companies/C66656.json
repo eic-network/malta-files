@@ -1,0 +1,93 @@
+{
+  "name": "BC NETWORK LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JENS SPARRE BORUP\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202226120",
+        "address": "CALLECASTANO6,29639BENALMADENA,MALAGASPAIN"
+      },
+      {
+        "name": "TIM CHAWES\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            207143283",
+        "address": "HOJEN39,MUNKEBO5330DENMARK"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JENS SPARRE BORUP\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202226120",
+        "address": "CALLECASTANO6,29639BENALMADENA,MALAGASPAIN"
+      },
+      {
+        "name": "TIM CHAWES\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            207143283",
+        "address": "HOJEN39,MUNKEBO5330DENMARK"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JENS SPARRE BORUP\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202226120",
+        "address": "CALLECASTANO6,29639BENALMADENA,MALAGASPAIN"
+      },
+      {
+        "name": "TIM CHAWES\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            207143283",
+        "address": "HOJEN39,MUNKEBO5330DENMARK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JENS SPARRE BORUP\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            202226120",
+        "address": "CALLECASTANO6,29639BENALMADENA,MALAGASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "TIM CHAWES\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            207143283",
+        "address": "HOJEN39,MUNKEBO5330DENMARK",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'SAN JUAN', 116/8, ST. GEORGE'S ROAD,",
+  "company_id": "C 66656",
+  "registration_date": "Sep 10, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

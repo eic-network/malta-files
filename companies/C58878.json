@@ -1,0 +1,57 @@
+{
+  "name": "BALANCE ENERGY LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "G.O.L. ENERGY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58876",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "GNOSIS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56893",
+        "address": "7A,SIRLUIGICAMILLERISTREET,SLIEMASLM1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "7A, SIR LUIGI CAMILLERI STREET,",
+  "company_id": "C 58878",
+  "registration_date": "Jan 07, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

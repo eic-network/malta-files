@@ -1,0 +1,89 @@
+{
+  "name": "BASELINE GLOBAL SERVICES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUELE SORRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0445485",
+        "address": "38,SALINACOURTFLAT3THOMASASHBYSTREETMARSASCALAMSK3272MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BASELINE GLOBAL SERVICES HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64815",
+        "address": "A3TOWERS,BLOCKA3,LEVEL6,312,TRIQIL-KANONKUKARMM.BOLOGNA,PAOLAPLA1211MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MARKIT BUSINESS SOLUTIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60507",
+        "address": "A3TOWERS,BLOCKA3,LEVEL6,312,TRIQIL-KANONKUKARMM.BOLOGNA,PAOLAPLA1211MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "A3 TOWERS, BLOCK A3, LEVEL 6, 312, TRIQ IL-KANONKU KARM M. BOLOGNA,",
+  "company_id": "C 64816",
+  "registration_date": "Apr 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

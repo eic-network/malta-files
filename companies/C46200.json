@@ -1,0 +1,157 @@
+{
+  "name": "BERGER HILL LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SIMON SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            304676M",
+        "address": "17,TRIQSANDIMITRI,GHARB(GOZO)MALTA"
+      },
+      {
+        "name": "DAVID TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659956M",
+        "address": "VILLAATTARD,OSCARTESTASTREET,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAOUF GHALI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            710121107",
+        "address": "62AVENUEKIFISSIASMAROUSSIATHENS15125GREECE"
+      },
+      {
+        "name": "IRVIN RICHTER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            017912208",
+        "address": "54FRIESLANECHERRYHILLNEWJERSEY08003UNITEDSTATES"
+      },
+      {
+        "name": "PETER JOHN ANDREW SKINNER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534808213",
+        "address": "40,STJAMES'SROAD,HAMPTONHILL,HAMPTON,MIDDLESEXTW121DQUNITEDKINGDOM"
+      },
+      {
+        "name": "DEMETRIOS STAMATIS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            545786317",
+        "address": "1508FOXTRAIL,MOUNTAINSIDE,NEWJERSEYNJ07092-1302UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAOUF GHALI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            710121107",
+        "address": "62AVENUEKIFISSIASMAROUSSIATHENS15125GREECE"
+      },
+      {
+        "name": "IRVIN RICHTER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            017912208",
+        "address": "54FRIESLANECHERRYHILLNEWJERSEY08003UNITEDSTATES"
+      },
+      {
+        "name": "PETER JOHN ANDREW SKINNER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534808213",
+        "address": "40,STJAMES'SROAD,HAMPTONHILL,HAMPTON,MIDDLESEXTW121DQUNITEDKINGDOM"
+      },
+      {
+        "name": "DEMETRIOS STAMATIS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            545786317",
+        "address": "1508FOXTRAIL,MOUNTAINSIDE,NEWJERSEYNJ07092-1302UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WALTER RIZZO & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/01",
+        "address": "30,ID-DWEJRA,TRIQIL-GEJZA,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAOUF GHALI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            710121107",
+        "address": "62AVENUEKIFISSIASMAROUSSIATHENS15125GREECE"
+      },
+      {
+        "name": "IRVIN RICHTER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            017912208",
+        "address": "54FRIESLANECHERRYHILLNEWJERSEY08003UNITEDSTATES"
+      },
+      {
+        "name": "PETER JOHN ANDREW SKINNER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534808213",
+        "address": "40,STJAMES'SROAD,HAMPTONHILL,HAMPTON,MIDDLESEXTW121DQUNITEDKINGDOM"
+      },
+      {
+        "name": "DEMETRIOS STAMATIS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            545786317",
+        "address": "1508FOXTRAIL,MOUNTAINSIDE,NEWJERSEYNJ07092-1302UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HILL INTERNATIONAL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45370",
+        "address": "PALAZZOPIETROSTIGES90STRAITSTREETVALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "LOUIS BERGER SAS\r",
+        "nationality": "",
+        "party_id": "                                                            302588801",
+        "address": "86RUEFARMAN,IMMEUBLEEQWATER,ISSY-LES-MOULINEAUX92130FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "PALAZZO PIETRO STIGES, 103, STRAIT STREET,",
+  "company_id": "C 46200",
+  "registration_date": "Feb 09, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

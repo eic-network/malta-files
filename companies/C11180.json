@@ -1,0 +1,73 @@
+{
+  "name": "ANGELIQUE SHIPPING CO LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARIA LADAS",
+        "nationality": "",
+        "party_id": "",
+        "address": "48,POSEIDONOSSTREET,P.PHALIRONATHENSGREECE"
+      },
+      {
+        "name": "DESPINA VLASSAKIS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "2,ARTEMISSIOUSTR.&FLEMINGSQUAREGLYFLADAATHENSGREECE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "RICHARD J ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            284453M",
+        "address": "FLAT3,PINE,TAR-RAZZETTCOMPLEX,MILLSTREET,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTON INVESTMENTS INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "CORFE MARITIME CORPORATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16 VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 11180",
+  "registration_date": "Dec 07, 1989",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

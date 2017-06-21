@@ -1,0 +1,110 @@
+{
+  "company_id": "C 70392",
+  "address": "TA MICHELLE, TRIQ TA' CENC,",
+  "name": "BRIGHT MARKING LTD",
+  "locality": "SANNAT (GOZO)",
+  "status": "",
+  "registration_date": "May 04, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 3000
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "POSTA BALAZS\r",
+        "party_id": "                                                            0122744A",
+        "address": "XWEJNIVIEW,TRIQIL-KACCATURI,ZEBBUG(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BALINT KOLLAR\r",
+        "party_id": "                                                            119008A",
+        "address": "TAMICHELLE,TACENCSTREET,SANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JANOS BAJKO ZOLTAN\r",
+        "party_id": "                                                            026253HA",
+        "address": "BOGYOUTCA8VAC2600HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CSABA CSAJAGI\r",
+        "party_id": "                                                            ZN057015",
+        "address": "GOLYAHIRUTCA6,MARTONVASAR2462HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ZSOLT SZEKELYHIDI\r",
+        "party_id": "                                                            064462IA",
+        "address": "PATAKSETANY120,REMETESZOLOS2090HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BALINT KOLLAR\r",
+        "party_id": "                                                            119008A",
+        "address": "TAMICHELLE,TACENCSTREET,SANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BALINT KOLLAR\r",
+        "party_id": "                                                            119008A",
+        "address": "TAMICHELLE,TACENCSTREET,SANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BALINT KOLLAR\r",
+        "party_id": "                                                            119008A",
+        "address": "TAMICHELLE,TACENCSTREET,SANNAT(GOZO)SNT9040MALTA",
+        "nationality": "HUNGARIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "party_id": "                                                            19131",
+        "address": "5,CORDINA,TRIQL-GHONQA,XAGHRA(GOZO)XRA104MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

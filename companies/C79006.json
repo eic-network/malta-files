@@ -1,0 +1,83 @@
+{
+  "name": "ANADOL LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ELHAM H.S. ZUGHAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791382",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ELHAM H.S. ZUGHAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791382",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELHAM H.S. ZUGHAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791382",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ELHAM H.S. ZUGHAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791382",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WARIEDA H.I. HADDAD\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791383",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "ELHAM H.S. ZUGHAID\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            791382",
+        "address": "61,KRISTYFLAT3,TIGNESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "FLAT 7, NELSON FLATS, DINGLI CIRCUS, SIR ADRIAN DINGLI STREET,",
+  "company_id": "C 79006",
+  "registration_date": "Jan 05, 2017",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5250
+}

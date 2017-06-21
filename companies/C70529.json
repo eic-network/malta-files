@@ -1,0 +1,133 @@
+{
+  "name": "BASTION WEALTH LIMITED",
+  "total_issued_shares_value": 150000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 75000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 75000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANABEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            212280M",
+        "address": "FLAT6,ORCHIDCOURT,TRIQHOMPESCHZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "FRANK SUESS\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4719080",
+        "address": "FOHRENWEG2,DURNTEN8635SWITZERLAND"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "FRANK SUESS\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4719080",
+        "address": "FOHRENWEG2,DURNTEN8635SWITZERLAND"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRENDAN CONLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7558935",
+        "address": "COMINOHOUSE,RATHAROON,BANDON,COUNTYCORKIRELAND"
+      },
+      {
+        "name": "FRANK SUESS\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4719080",
+        "address": "FOHRENWEG2,DURNTEN8635SWITZERLAND"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BFI CAPITAL GROUP AG\r",
+        "nationality": "",
+        "party_id": "                                                            CHE-113.962.771",
+        "address": "BAHNHOFSTRASSE29,ZUG6300SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 75000
+        }
+      },
+      {
+        "name": "BASTION HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33678",
+        "address": "ALPINEHOUSE,NAXXARROAD,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 75000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "ALPINE HOUSE, NAXXAR ROAD,",
+  "company_id": "C 70529",
+  "registration_date": "May 12, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 150000
+}

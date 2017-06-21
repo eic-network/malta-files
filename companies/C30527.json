@@ -1,0 +1,115 @@
+{
+  "name": "APM HOLDINGS LIMITED",
+  "total_issued_shares_value": 17646913.02,
+  "total_authorised_shares_value": 22975119,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000501,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 12987000,
+      "type": "RedeemablePreferenceCUMULATIVE",
+      "authorised_share_capital": 15987000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RICHARD ABDILLA CASTILLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267256M",
+        "address": "\"IL-GIRNA\",NOTABILEROAD,MRIEHEL,BIRKIRKARABKR1870MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      },
+      {
+        "name": "FIONA HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506966M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      },
+      {
+        "name": "FIONA HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506966M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      },
+      {
+        "name": "FIONA HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            506966M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LA TOC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11742",
+        "address": "4,GARDENSTREET,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "CUMULATIVE",
+          "issued_shares": 12987000
+        }
+      },
+      {
+        "name": "CARMELO HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            395765M",
+        "address": "2,IMMACULATECONCEPTIONSTREET,LIJALJA1274MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000501
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 14987501,
+  "address": "\"NO2\" TRIQ IL KUNCIZZJONI",
+  "company_id": "C 30527",
+  "registration_date": "Nov 19, 2002",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 18987000
+}

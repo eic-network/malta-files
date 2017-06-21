@@ -1,0 +1,70 @@
+{
+  "total_issued_shares_value": 1164.69,
+  "registration_date": "Jul 04, 2000",
+  "status": "In Dissolution",
+  "locality": "SAN GWANN",
+  "name": "BROWSEMALTA LIMITED",
+  "total_issued_shares": 500,
+  "address": "'JIREH', TRIQ IL-BIES,",
+  "company_id": "C 26644",
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN07MALTA",
+        "party_id": "                                                            254171M",
+        "name": "CHRISTINE ANN MERCIECA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "MARGHERITA,105,TRIQIL-HEMEL,SWIEQIMALTA",
+        "party_id": "                                                            216159M",
+        "name": "MARY ANN CINI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "MARGHERITA,105,TRIQIL-HEMEL,SWIEQIMALTA",
+        "party_id": "                                                            216159M",
+        "name": "MARY ANN CINI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "address": "26/4,DONRUASTREET,SLIEMAMALTA",
+        "party_id": "                                                            477874M",
+        "name": "DORAN MAGRI DEMAJO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 500,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "NO.152,OFFICENO.9,NAXXARROAD,SANGWANNSGN9030MALTA",
+        "party_id": "                                                            C 18970",
+        "name": "CRV INTERNATIONAL LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "shares_currency": "EUR"
+}

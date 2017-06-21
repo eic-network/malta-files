@@ -1,0 +1,101 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Oct 17, 2016",
+  "status": "",
+  "locality": "MOSTA",
+  "name": "Buildings and Pools Ltd",
+  "total_issued_shares": 1200,
+  "address": "161 Main Street",
+  "company_id": "C 76644",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            AX0210595",
+        "name": "Giuseppe Manenti\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            0155866A",
+        "name": "Emanuele Pagano Mariano\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            AX0210595",
+        "name": "Giuseppe Manenti\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            0155866A",
+        "name": "Emanuele Pagano Mariano\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            0155866A",
+        "name": "Emanuele Pagano Mariano\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            AX0210595",
+        "name": "Giuseppe Manenti\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            0155866A",
+        "name": "Emanuele Pagano Mariano\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 600,
+          "nominal_value_per_share": 1,
+          "class": "Ord",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            AX0210595",
+        "name": "Giuseppe Manenti\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 600,
+          "nominal_value_per_share": 1,
+          "class": "Ord",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "Flat2,MaccarenCourtTriqDunNardMallia,BubaqraZURRIEQMALTA",
+        "party_id": "                                                            0155866A",
+        "name": "Emanuele Pagano Mariano\r",
+        "nationality": "ITALIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "OrdinaryOrd"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

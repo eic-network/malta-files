@@ -1,0 +1,101 @@
+{
+  "name": "AURORA HOLDINGS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANNA PRAVDENKO ALEXANDROU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00195124",
+        "address": "17,KAMPIOU,ATHANASIOS,LIMASSOL4106CYPRUS"
+      },
+      {
+        "name": "MARIA PHYLACTOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00317955",
+        "address": "24A,ERRIKOUIPSEN,LIMASSOL3050CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNA PRAVDENKO ALEXANDROU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00195124",
+        "address": "17,KAMPIOU,ATHANASIOS,LIMASSOL4106CYPRUS"
+      },
+      {
+        "name": "MARIA PHYLACTOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00317955",
+        "address": "24A,ERRIKOUIPSEN,LIMASSOL3050CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RS Attard & Co - Moore Stephens Malta\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/03",
+        "address": "46TIMBERWHARFMARSAMRS1442MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNA PRAVDENKO ALEXANDROU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00195124",
+        "address": "17,KAMPIOU,ATHANASIOS,LIMASSOL4106CYPRUS"
+      },
+      {
+        "name": "MARIA PHYLACTOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00317955",
+        "address": "24A,ERRIKOUIPSEN,LIMASSOL3050CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FINCO TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 13078",
+        "address": "LEVEL5,THEMALLCOMPLEX,THEMALLFLORIANAFRN1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "NORTHERN SHIPPING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2466873",
+        "address": "SUITEB,12THFLOOR,TWOCHINACHEMPLAZA,DESVOEUXRDCENTRALHONGKONGHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "LEVEL 5, THE MALL COMPLEX, THE MALL,",
+  "company_id": "C 24599",
+  "registration_date": "Aug 30, 1994",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

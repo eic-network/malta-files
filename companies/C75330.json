@@ -1,0 +1,75 @@
+{
+  "name": "BALTIC MARITIME LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANN MARIETTE MICHIELS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EK221894",
+        "address": "HULSHOUTSESTEENWEG88HEIST-OP-DEN-BERG2220BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "BEN HENDRIK A. VAN LOO\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN007332",
+        "address": "HULSHOUTSESTEENWEG88HEIST-OP-DEN-BERG2220BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1980
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 75330",
+  "registration_date": "Apr 20, 2016",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

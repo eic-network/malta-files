@@ -1,0 +1,67 @@
+{
+  "name": "ASTRALINE LIMITED",
+  "total_issued_shares_value": 1600,
+  "total_authorised_shares_value": 1600,
+  "authorised_shares": [
+    {
+      "issued_shares": 1600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUNDBERG PER DAVID\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            09414832",
+        "address": "BLK1,MAGENTA,FLT5,TRIQGHARID-DUD,SLIEMASLM05MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PLENEXUS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            147817",
+        "address": "FOTIPITTA13,FLAT103,EGKOMI,NICOSIAP.C.2408CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 16
+        }
+      },
+      {
+        "name": "LARS CHRISTER JOHANSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45774051",
+        "address": "35CGRANSVAGEN,HOLLVIKEN23633SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1584
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1600,
+  "address": "5, PJAZZA TIGNE, TIGNE POINT,",
+  "company_id": "C 35999",
+  "registration_date": "Apr 11, 2005",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1600
+}

@@ -1,0 +1,105 @@
+{
+  "name": "B.T.I. TRADING LTD.",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201373M",
+        "address": "120,ESPOIR,VALLEYSTREET,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IWONA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0312401L",
+        "address": "26,TRIQMARKIZIZIMMERMANNBARBAROSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAVIOUR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72560M",
+        "address": "WARDAMISTIKA,TRIQSANTAKLEMENTINA,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAVIOUR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72560M",
+        "address": "WARDAMISTIKA,TRIQSANTAKLEMENTINA,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SAVIOUR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72560M",
+        "address": "WARDAMISTIKA,TRIQSANTAKLEMENTINA,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TREND GLOBAL CORPORATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            560329",
+        "address": "GENEVAPALACE,WATERFRONTDRIVEROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "CAC FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21817",
+        "address": "FIDUCIARYHOUSE,115,MRIEHELSTREET,BIRKIRKARABKR1647MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "115, ''FIDUCIARY HOUSE'', MRIEHEL STREET,",
+  "company_id": "C 28764",
+  "registration_date": "Oct 05, 2001",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,78 @@
+{
+  "name": "APEX INTERNATIONAL LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEFFEN MALLINOWSKI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21795A",
+        "address": "115,FLAT3,TRIQGHAJNDWIELI,PAOLAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTIN MULLER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            516523313",
+        "address": "BERGSTRASSE9AKEMPEN47906GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFFEN MALLINOWSKI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21795A",
+        "address": "115,FLAT3,TRIQGHAJNDWIELI,PAOLAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT EBEJER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10101",
+        "address": "IL-MUFTIEH,TRIQSANPATRIZJU,ZABBARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTIN MULLER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            516523313",
+        "address": "BERGSTRASSE9AKEMPEN47906GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARTIN MULLER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            516523313",
+        "address": "BERGSTRASSE9AKEMPEN47906GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "CASTAGNA HOUSE, FLAT 5, TRIQ L-ISKAL,",
+  "company_id": "C 37367",
+  "registration_date": "Nov 23, 2005",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

@@ -1,0 +1,51 @@
+{
+  "name": "AST INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "2ND FLOOR, EUROPA CENTRE, ST. ANNE STREET,",
+  "company_id": "C 62739",
+  "registration_date": "Dec 23, 2013",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

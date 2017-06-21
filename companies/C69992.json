@@ -1,0 +1,89 @@
+{
+  "name": "ALUMIER HOLDINGS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 49999999,
+      "nominal_value_per_share": 0.001
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.001
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JASON VELLA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477183M",
+        "address": "21,ALLURE,TRIQIS-SAJF,QORMIQRM5155MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON VELLA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477183M",
+        "address": "21,ALLURE,TRIQIS-SAJF,QORMIQRM5155MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JASON VELLA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477183M",
+        "address": "21,ALLURE,TRIQIS-SAJF,QORMIQRM5155MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON VELLA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477183M",
+        "address": "21,ALLURE,TRIQIS-SAJF,QORMIQRM5155MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALUMIER GROUP HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            121008",
+        "address": "3RDFLOOR,37ESPLANADE,ST.HELIER,JE23QAJERSEY",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999999
+        }
+      },
+      {
+        "name": "JASON VELLA TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477183M",
+        "address": "21ALLURE,TRIQIS-SAJF,QORMIQRM5155MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000000,
+  "address": "SWISS URBAN FACTORY, 5 ST FREDERICK STREET,",
+  "company_id": "C 69992",
+  "registration_date": "Apr 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000000
+}

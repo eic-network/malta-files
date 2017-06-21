@@ -1,0 +1,75 @@
+{
+  "name": "BLACKSWEET HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FILADELFIO BENITO SANTORO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3188836",
+        "address": "GIOIOSAMAREA,VIAFRANCIA,6,MESSINAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FILADELFIO BENITO SANTORO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3188836",
+        "address": "GIOIOSAMAREA,VIAFRANCIA,6,MESSINAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FILADELFIO BENITO SANTORO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3188836",
+        "address": "GIOIOSAMAREA,VIAFRANCIA,6,MESSINAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN J. FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FILADELFIO BENITO SANTORO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3188836",
+        "address": "GIOIOSAMAREA,VIAFRANCIA,6,MESSINAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DOLCENERA, MDINA ROAD,",
+  "company_id": "C 58507",
+  "registration_date": "Dec 06, 2012",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

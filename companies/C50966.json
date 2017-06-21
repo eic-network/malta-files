@@ -1,0 +1,109 @@
+{
+  "name": "4H2O LIMITED",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ETIENNE BONELLO DUPUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408658M",
+        "address": "10,\"AVALON\"TRIQL-ARZNU,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ETIENNE BONELLO DUPUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408658M",
+        "address": "10,\"AVALON\"TRIQL-ARZNU,SANGWANNMALTA"
+      },
+      {
+        "name": "LEONARD GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579259M",
+        "address": "52,\"ID-DURA\"TRIQIL-KOKKA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ETIENNE BONELLO DUPUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408658M",
+        "address": "10,\"AVALON\"TRIQL-ARZNU,SANGWANNMALTA"
+      },
+      {
+        "name": "LEONARD GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579259M",
+        "address": "52,\"ID-DURA\"TRIQIL-KOKKA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "THOMAS DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00A34",
+        "address": "SACREDHEARTFLATS,FL5,SACREDHEARTAVENUE,ST.JULIANSSTJ1430MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ETIENNE BONELLO DUPUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408658M",
+        "address": "10,\"AVALON\"TRIQL-ARZNU,SANGWANNMALTA"
+      },
+      {
+        "name": "LEONARD GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579259M",
+        "address": "52,\"ID-DURA\"TRIQIL-KOKKA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ETIENNE BONELLO DUPUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408658M",
+        "address": "10,\"AVALON\"TRIQL-ARZNU,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "LEONARD GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579259M",
+        "address": "52,\"ID-DURA\"TRIQIL-KOKKA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "4H2O, TRIQ IL-HADDIEMA, ZONA INDUSTRIALI, MRIEHEL",
+  "company_id": "C 50966",
+  "registration_date": "Oct 25, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 250000
+}

@@ -1,0 +1,46 @@
+{
+  "name": "ARENA SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 0,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STELIOS MICHAELIDES",
+        "nationality": "CYPRIOT",
+        "party_id": "",
+        "address": "20,ATHINONSTREET,GLYFADAGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VALLETTA OFFSHORE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 13509",
+        "address": "10,TIMBERWHARF,MARSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "14, MARINA COURT, ABATE RIGORD STREET,",
+  "company_id": "C 22569",
+  "registration_date": "Feb 24, 1998",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

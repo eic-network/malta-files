@@ -1,0 +1,109 @@
+{
+  "name": "BMA LIMITED",
+  "total_issued_shares_value": 5823.43,
+  "total_authorised_shares_value": 5823.43,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353380M",
+        "address": "TAIZE,WIEDIL-QLEJJA,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224382M",
+        "address": "'PERRYCOURT'FLAT8,BLOCKB,BIRKIRKARAROADST.JULIANSMALTA"
+      },
+      {
+        "name": "RICHARD MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            368783M",
+        "address": "'TAIZE'WIEDIL-QLEJJAMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224382M",
+        "address": "'PERRYCOURT'FLAT8,BLOCKB,BIRKIRKARAROADST.JULIANSMALTA"
+      },
+      {
+        "name": "RICHARD MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            368783M",
+        "address": "'TAIZE'WIEDIL-QLEJJAMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RICHARD J ATTARD & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/30",
+        "address": "39/1,TRIQIZ-ZAGHFRAN,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224382M",
+        "address": "'PERRYCOURT'FLAT8,BLOCKB,BIRKIRKARAROADST.JULIANSMALTA"
+      },
+      {
+        "name": "RICHARD MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            368783M",
+        "address": "'TAIZE'WIEDIL-QLEJJAMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATTHEW BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224382M",
+        "address": "'PERRYCOURT'FLAT8,BLOCKB,BIRKIRKARAROADST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "RICHARD MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            368783M",
+        "address": "'TAIZE'WIEDIL-QLEJJAMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "236, MDINA ROAD",
+  "company_id": "C 39698",
+  "registration_date": "Oct 06, 2006",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2500
+}

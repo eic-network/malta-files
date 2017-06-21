@@ -1,0 +1,78 @@
+{
+  "company_id": "C 57504",
+  "address": "2A, DELMAR, APT. 2 TRIQ BRARED",
+  "name": "BPAX LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Sep 10, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "XAVIER RICHELMY\r",
+        "party_id": "                                                            04K145598",
+        "address": "160,RUEVENDOME,LYON69003FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "XAVIER RICHELMY\r",
+        "party_id": "                                                            04K145598",
+        "address": "160,RUEVENDOME,LYON69003FRANCE",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "XAVIER RICHELMY\r",
+        "party_id": "                                                            04K145598",
+        "address": "160,RUEVENDOME,LYON69003FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "XAVIER RICHELMY\r",
+        "party_id": "                                                            04K145598",
+        "address": "160,RUEVENDOME,LYON69003FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "XAVIER RICHELMY\r",
+        "party_id": "                                                            04K145598",
+        "address": "160,RUEVENDOME,LYON69003FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARJOE MUSCAT\r",
+        "party_id": "                                                            10528",
+        "address": "NOTREDAME,TRIQIL-PRUNA,ATTARDATD2760MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

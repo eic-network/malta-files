@@ -1,0 +1,105 @@
+{
+  "name": "ALLOYS & CARBIDE HOLDING LIMITED",
+  "total_issued_shares_value": 3113516,
+  "total_authorised_shares_value": 6000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3113515,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "FLAT1,63C,B'KARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREXTRIQMANUELAGIUS,MADLIENASWIEQISWQ1510MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS TRAPANI GALEA FERIOL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417282M",
+        "address": "6,TRIQIL-FORTIZZATAL-MOSTA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS TRAPANI GALEA FERIOL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417282M",
+        "address": "6,TRIQIL-FORTIZZATAL-MOSTA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS TRAPANI GALEA FERIOL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417282M",
+        "address": "6,TRIQIL-FORTIZZATAL-MOSTA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LINTER GROUP CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            1247605-1-592487",
+        "address": "URBANIZACIONPUNTAPACIFICA,CALLEPUNTACOLON,OCEANIABUSINESSPLAZA,TORRE2000,PISO43PANAMA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3113515
+        }
+      },
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3113516,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL AND BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 43152",
+  "registration_date": "Dec 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 6000000
+}

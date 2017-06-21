@@ -1,0 +1,91 @@
+{
+  "name": "B&B CABINS LIMITED",
+  "total_issued_shares_value": 30048.91,
+  "total_authorised_shares_value": 232937.3,
+  "authorised_shares": [
+    {
+      "issued_shares": 12900,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAUL GIGLIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188271M",
+        "address": "52,HOWARDSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA ROSA K/A MARY ROSE BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188158M",
+        "address": "50,SWAN,TRIQIL-HELSIEN,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA ROSA K/A MARY ROSE BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188158M",
+        "address": "50,SWAN,TRIQIL-HELSIEN,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GERALDINE SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19318",
+        "address": "13,CAPRICE,FLAT2,TRIQL-IMGIEBAH,XEMXIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIA ROSA K/A MARY ROSE BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188158M",
+        "address": "50,SWAN,TRIQIL-HELSIEN,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731155M",
+        "address": "BLOCK4B,FLAT6,TRIQIN-NEWL,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "SEBASTIAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            707054M",
+        "address": "'SWAN',TRIQIL-HELSIEN,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12900,
+  "address": "'SWAN', TRIQ IL-HELSIEN,",
+  "company_id": "C 11299",
+  "registration_date": "Jan 19, 1990",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 100000
+}

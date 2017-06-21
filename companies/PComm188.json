@@ -1,0 +1,51 @@
+{
+  "company_id": "P COMM 188",
+  "address": "ROOM 4, OFFICE 18, BLOCK 19, VINCENTI BLD., STRAIT STREET,",
+  "name": "BRO TECHNICS",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 26, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100,
+      "type": "",
+      "nominal_value_per_share": 1,
+      "issued_shares": 100
+    }
+  ],
+  "total_authorised_shares": 100,
+  "total_authorised_shares_value": 100,
+  "total_issued_shares": 100,
+  "total_issued_shares_value": 100,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "OMEGA MARKETING LTD\r",
+        "party_id": "                                                            16972",
+        "address": "3RDFLOOR,C&HTOWERS,CORNEROFGREATMARLBOROUGHANDGREATGEORGESTREETSROSEAU00152DOMINICA",
+        "nationality": "",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ORBY TRADING LP\r",
+        "party_id": "                                                            SL14129",
+        "address": "69BRUNSWICKSTREETEDINBURGHEH75HTUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 99,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

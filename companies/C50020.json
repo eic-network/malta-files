@@ -1,0 +1,83 @@
+{
+  "name": "BLUEPRINTS INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PATRIZIA PONZALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G181590",
+        "address": "SCOTSHOUSE,FLAT8A,MIKIELANTONVASSALLISTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRIZIA PONZALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G181590",
+        "address": "SCOTSHOUSE,FLAT8A,MIKIELANTONVASSALLISTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRIZIA PONZALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G181590",
+        "address": "SCOTSHOUSE,FLAT8A,MIKIELANTONVASSALLISTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRIZIA PONZALI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G181590",
+        "address": "SCOTSHOUSE,FLAT8A,MIKIELANTONVASSALLISTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUEPRINTS INTERNATIONAL HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1590204",
+        "address": "AKARABLDG,24,DECASTROSTREET,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 50020",
+  "registration_date": "Jun 24, 2010",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

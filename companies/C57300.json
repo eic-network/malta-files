@@ -1,0 +1,109 @@
+{
+  "name": "ASAPP LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 3
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GILBERT ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            529474M",
+        "address": "110,\"ARIZONAFLATS\"/4,STFRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431783M",
+        "address": "44,FLAT5,OLDMINTSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "GILBERT ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            529474M",
+        "address": "110,\"ARIZONAFLATS\"/4,STFRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431783M",
+        "address": "44,FLAT5,OLDMINTSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "GILBERT ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            529474M",
+        "address": "110,\"ARIZONAFLATS\"/4,STFRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK SCALPELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            713862M",
+        "address": "93,EUCHARISTICCONGRESSSTREETMOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JASON ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431783M",
+        "address": "44,FLAT5,OLDMINTSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "GILBERT ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            529474M",
+        "address": "110,\"ARIZONAFLATS\"/4,STFRANCISSTREET,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JASON ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431783M",
+        "address": "44,FLAT5,OLDMINTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "GILBERT ROSS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            529474M",
+        "address": "110,\"ARIZONAFLATS\"/4,STFRANCISSTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "36B, TRIQ INDRI CALLEJA,",
+  "company_id": "C 57300",
+  "registration_date": "Aug 22, 2012",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 500
+}

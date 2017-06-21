@@ -1,0 +1,76 @@
+{
+  "name": "B 4 U Ltd.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMILIANO CARAVELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4110883",
+        "address": "34,ViaUNGHERIATERRASINIPALERMOCAP90049ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MASSIMILIANO CARAVELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4110883",
+        "address": "34,ViaUNGHERIATERRASINIPALERMOCAP90049ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MASSIMILIANO CARAVELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4110883",
+        "address": "34,ViaUNGHERIATERRASINIPALERMOCAP90049ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMILIANO CARAVELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4110883",
+        "address": "34,ViaUNGHERIATERRASINIPALERMOCAP90049ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MASSIMILIANO CARAVELLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4110883",
+        "address": "34,ViaUNGHERIATERRASINIPALERMOCAP90049ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "50 PARISH STREET",
+  "company_id": "C 76688",
+  "registration_date": "Aug 02, 2016",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

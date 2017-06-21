@@ -1,0 +1,83 @@
+{
+  "company_id": "C 37975",
+  "address": "13, CURATE FENECH STREET,",
+  "name": "BRAVO POKER LIMITED",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "registration_date": "Feb 13, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 7500000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 0.01,
+      "issued_shares": 7500000
+    }
+  ],
+  "total_authorised_shares": 7500000,
+  "total_authorised_shares_value": 75000,
+  "total_issued_shares": 7500000,
+  "total_issued_shares_value": 75000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EINAR BOLSTAD\r",
+        "party_id": "                                                            99-LO243816/14",
+        "address": "APARTMENT2162,PORTOMASO,ST.JULIANSMALTA",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRAVO GROUP LIMITED\r",
+        "party_id": "                                                            C 37864",
+        "address": "13,CURATEFENECHSTREET,BIRZEBBUGIABBG2032MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7499999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.01
+        }
+      },
+      {
+        "name": "EINAR BOLSTAD\r",
+        "party_id": "                                                            99-LO243816/14",
+        "address": "APARTMENT2162,PORTOMASO,ST.JULIANSMALTA",
+        "nationality": "NORWEGIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.01
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EINAR BOLSTAD\r",
+        "party_id": "                                                            99-LO243816/14",
+        "address": "APARTMENT2162,PORTOMASO,ST.JULIANSMALTA",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EINAR BOLSTAD\r",
+        "party_id": "                                                            99-LO243816/14",
+        "address": "APARTMENT2162,PORTOMASO,ST.JULIANSMALTA",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EINAR BOLSTAD\r",
+        "party_id": "                                                            99-LO243816/14",
+        "address": "APARTMENT2162,PORTOMASO,ST.JULIANSMALTA",
+        "nationality": "NORWEGIAN"
+      }
+    ]
+  }
+}

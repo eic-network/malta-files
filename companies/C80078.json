@@ -1,0 +1,120 @@
+{
+  "name": "BEBALON LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1198,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1198,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BRITT KRISTINA LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90163774",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      },
+      {
+        "name": "TORD HENRIK LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89893185",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRITT KRISTINA LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90163774",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      },
+      {
+        "name": "TORD HENRIK LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89893185",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TORD HENRIK LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89893185",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRITT KRISTINA LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90163774",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      },
+      {
+        "name": "TORD HENRIK LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89893185",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CEBALON HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            115477",
+        "address": "SUITE925ABLOCK8/9EUROPORTGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1198
+        }
+      },
+      {
+        "name": "BRITT KRISTINA LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            90163774",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "TORD HENRIK LINDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89893185",
+        "address": "47,TA'PHOENIXTRIQBIRBUBAGHARB(GOZO)GRB1450MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "47, TA' PHOENIX  TRIQ BIRBUBA",
+  "company_id": "C 80078",
+  "registration_date": "Mar 27, 2017",
+  "shares_currency": "EUR",
+  "locality": "GHARB (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1200
+}

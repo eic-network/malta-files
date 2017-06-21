@@ -1,0 +1,127 @@
+{
+  "name": "Alvogen Pharma Limited",
+  "total_issued_shares_value": 2709,
+  "total_authorised_shares_value": 338625,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1.3545
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1.3545
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Edin Buljubasic\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            B0458774",
+        "address": "BelmonteHeights,BlockM,Apartment13,DepiroStreet,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TONIO DESIRA BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451963M",
+        "address": "FLAT8,BLOCKB,FALCONHOUSE,HIGHSTREET,SLIEMASLM1544MALTA"
+      },
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A3089928",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A3089928",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TONIO DESIRA BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            451963M",
+        "address": "FLAT8,BLOCKB,FALCONHOUSE,HIGHSTREET,SLIEMASLM1544MALTA"
+      },
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A3089928",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALVOGEN MALTA GROUP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76471",
+        "address": "MALTALIFESCIENCESPARK,BUILDING1LEVEL4,SIRTEMIZAMMITBUILDINGS,SANGWANNINDUSTRIALESTATE,SANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.3545,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ALVOGEN APL B SHARE HOLDINGS LLC\r",
+        "nationality": "",
+        "party_id": "                                                            5858298",
+        "address": "THECORPORATIONTRUSTCOMPANY1209ORANGESTREET,WILMINGTONCOUNTYOFNEWCASTLEDELAWARE19801UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1.3545,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "MALTA LIFE SCIENCES PARK, BUILDING 1, LEVEL 4, SIR TEMI ZAMMIT BUILDINGS, SAN GWANN INDUSTRIAL ESTATE",
+  "company_id": "C 61962",
+  "registration_date": "Sep 19, 2013",
+  "shares_currency": "USD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 250000
+}

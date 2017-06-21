@@ -1,0 +1,89 @@
+{
+  "name": "B.I. PHARMA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "THAI-HOA PHAM\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AZ65346",
+        "address": "3,RUEDUPONTDELODI,PARIS75006FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THAI-HOA PHAM\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AZ65346",
+        "address": "3,RUEDUPONTDELODI,PARIS75006FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "VALHALLANO.19,SQAQNRU2,TRIQSANTAMARIJA,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THAI-HOA PHAM\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AZ65346",
+        "address": "3,RUEDUPONTDELODI,PARIS75006FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B.I. PHARMA GROUP LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 73910",
+        "address": "29,ST.MARYSTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "THAI-HOA PHAM\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            12AZ65346",
+        "address": "3,RUEDUPONTDELODI,PARIS75006FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "29, ST. MARY STREET,",
+  "company_id": "C 75374",
+  "registration_date": "Apr 25, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

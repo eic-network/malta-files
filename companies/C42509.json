@@ -1,0 +1,81 @@
+{
+  "name": "Betwinstar Limited",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARSTEN BORCK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1328014287",
+        "address": "BOGENSTRABE14HAMBURG20144GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARSTEN BORCK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1328014287",
+        "address": "BOGENSTRABE14HAMBURG20144GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARSTEN BORCK\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            1328014287",
+        "address": "BOGENSTRABE14HAMBURG20144GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APOLLO HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42507",
+        "address": "OFFICE84,SUITEA,DOLPHINCOURTA,EMBASSYWAY,TA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "QUICKLINE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38801",
+        "address": "LEVEL5,QUANTUMHOUSE,75,ABATERIGORDSTREETTA'XBIEXXBX1120MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "OFFICE 85, SUITE A, DOLPHIN COURT A EMBASSY WAY,",
+  "company_id": "C 42509",
+  "registration_date": "Oct 04, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2000
+}

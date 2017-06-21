@@ -1,0 +1,104 @@
+{
+  "name": "ARCTIC HORIZON HOLDING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SVERRE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28116071",
+        "address": "IMSLAND,5583,VIKEDALNORWAY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ODD-AGE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            26580775",
+        "address": "PB3,4201,SAUDANORWAY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ODD-AGE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            26580775",
+        "address": "PB3,4201,SAUDANORWAY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ODD-AGE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            26580775",
+        "address": "PB3,4201,SAUDANORWAY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FEHIRDE AS\r",
+        "nationality": "",
+        "party_id": "                                                            996294633",
+        "address": "ERAMETNAERINGSPARK,4200,SAUDANORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "SAUDA HOLDING AS\r",
+        "nationality": "",
+        "party_id": "                                                            981261569",
+        "address": "ERAMETNAERINGSPARK,4200,SAUDANORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "WR HOLDING AS\r",
+        "nationality": "",
+        "party_id": "                                                            996294560",
+        "address": "ERAMETNAERINGSPARK,4200,SAUDANORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "NO. 10, FLAT 3, CAPUA PALACE STREET,",
+  "company_id": "C 64527",
+  "registration_date": "Apr 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

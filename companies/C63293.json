@@ -1,0 +1,91 @@
+{
+  "name": "APLUS HOLDINGS LIMITED",
+  "total_issued_shares_value": 35000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 35000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLENE SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465582M",
+        "address": "48,K.MIFSUDSTREET,PIETA'PTA1553MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLENE SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465582M",
+        "address": "48,K.MIFSUDSTREET,PIETA'PTA1553MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEVIN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444473M",
+        "address": "15,FLAT2,TRIQIL-WARD,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "UHY PACE, GALEA MUSU & CO.\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/52",
+        "address": "MatildaCourt,No2,35,G.CaliStreet,TA'XBIEXXBX1423MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLENE SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465582M",
+        "address": "48,K.MIFSUDSTREET,PIETA'PTA1553MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1000744M",
+        "address": "153,BARCELLONA,JOHNBORGSTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 34650
+        }
+      },
+      {
+        "name": "KEVIN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444473M",
+        "address": "15,FLAT2,TRIQIL-WARD,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 350
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 35000,
+  "address": "OFFICE 6, FRANCESCO BUHAGIAR STREET, C/W CARMEL STREET,",
+  "company_id": "C 63293",
+  "registration_date": "Dec 24, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ASIAN PROGRESS SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ORIENTAL STAR LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "LESCASCADESEDITHCAVELLSTREETPORTLOUISMAURITIUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GANADO TRUSTEES & FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7880",
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ORIENTAL STAR LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "LESCASCADESEDITHCAVELLSTREETPORTLOUISMAURITIUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 19472",
+  "registration_date": "Dec 11, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

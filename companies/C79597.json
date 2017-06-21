@@ -1,0 +1,62 @@
+{
+  "name": "4P LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MULLER UDO JOSEF ENGELHARD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            522064809",
+        "address": "LEYBOLDSTR.42,MARIENBURG,KOLN50968GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171,  OLD BAKERY STREET",
+  "company_id": "C 79597",
+  "registration_date": "Feb 17, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

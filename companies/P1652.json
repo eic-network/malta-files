@@ -1,0 +1,51 @@
+{
+  "name": "BLUE SKIES HOLIDAY HOMES",
+  "total_issued_shares_value": 200,
+  "total_authorised_shares_value": 200,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "Ordinary",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "RUBIN CASINGENA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448674M",
+        "address": "163,FLAT1,MAINSTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MICHAEL GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215878M",
+        "address": "163,FLAT2,MAINSTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200,
+  "address": "45/19 STRAIT STREET",
+  "company_id": "P 1652",
+  "registration_date": "May 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 200
+}

@@ -1,0 +1,83 @@
+{
+  "name": "AVIATECH INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VIKTOR NEKRYLOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            ET860411",
+        "address": "BUILDING6,APARTMENT48,D.APOSTOLASTREET,MYRGOROD,POLTAVAOBLASTUKRAINE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VIKTOR NEKRYLOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            ET860411",
+        "address": "BUILDING6,APARTMENT48,D.APOSTOLASTREET,MYRGOROD,POLTAVAOBLASTUKRAINE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ZERILLI JULIEN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            09PR65297",
+        "address": "39-AVESNIANASTR,KIEV03083UKRAINE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VIKTOR NEKRYLOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            ET860411",
+        "address": "BUILDING6,APARTMENT48,D.APOSTOLASTREET,MYRGOROD,POLTAVAOBLASTUKRAINE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DMYTRO IANISHEVSKYI\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            FB274502",
+        "address": "BUILDING3,PIVNICHNASTREET,VILLAGEGNATIVKA,KYIEVO-SVYATOSHYNSKYIDISTRICTKYIVOBLASTUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "VIKTOR NEKRYLOV\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            ET860411",
+        "address": "BUILDING6,APARTMENT48,D.APOSTOLASTREET,MYRGOROD,POLTAVAOBLASTUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 76904",
+  "registration_date": "Aug 18, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

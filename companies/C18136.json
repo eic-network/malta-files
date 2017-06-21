@@ -1,0 +1,77 @@
+{
+  "name": "AMC ELECTRIC LIMITED",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "AGREDI LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8439",
+        "address": "FLAT32,NAVARINOCOURT,LUZJUJUNCTION,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "GIOVANNI CEFALU\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1678838",
+        "address": "FLAT3,RICHMONDCOURT,6,GHARIL-LEMBISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1300
+        }
+      },
+      {
+        "name": "SIMONE CEFALU\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120056M",
+        "address": "NO.1,SEAVIEWCOURT,ST.NICHOLASSTREET,MARSASCALAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1300
+        }
+      },
+      {
+        "name": "ALBERT MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            718127M",
+        "address": "27,TRIQGORGBORGOLIVIER,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1650
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "FLAT 44, PANORAMIC BUILDINGS, BAY JUNCTION,",
+  "company_id": "C 18136",
+  "registration_date": "Mar 29, 1995",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 50000
+}

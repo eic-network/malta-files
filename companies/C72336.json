@@ -1,0 +1,89 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Sep 23, 2015",
+  "status": "",
+  "locality": "BIRKIRKARA",
+  "name": "BTC MALTA LIMITED",
+  "total_issued_shares": 1200,
+  "address": "LEVEL 3, GASAN CENTRE, MRIEHEL BY-PASS, MRIEHEL,",
+  "company_id": "C 72336",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "GASANCENTRE,LEVEL3,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "party_id": "                                                            C 53684",
+        "name": "ATCO DIRECTORS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "GASANCENTRE,LEVEL3,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "party_id": "                                                            C 53684",
+        "name": "ATCO DIRECTORS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "124,TRIQSANTUROKKU,BIRKIRKARAMALTA",
+        "party_id": "                                                            460701775",
+        "name": "SAMANTHA SNOW\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "GASANCENTRE,LEVEL3,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "party_id": "                                                            C 53684",
+        "name": "ATCO DIRECTORS LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "VANSLINGELANDSTRAAT43,AMSTERDAM1051CGNETHERLANDS",
+        "party_id": "                                                            33217165",
+        "name": "WS BEHEER B.V.\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "1stFLOOR,SIXTYCIRCULARROAD,DOUGLASIM11AEISLEOFMAN",
+        "party_id": "                                                            007657 V",
+        "name": "ABACUS NOMINEES LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199,
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

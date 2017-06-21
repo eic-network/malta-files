@@ -1,0 +1,109 @@
+{
+  "company_id": "C 24710",
+  "address": "189, OUR LADY OF SORROWS STREET,",
+  "name": "BRASILIA COMPANY LIMITED",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jun 15, 1999",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JEAN FARRUGIA\r",
+        "party_id": "                                                            167998M",
+        "address": "FLATNO.4,HEATHMANSIONS,TRIQL-IMGIEBAH,XEMXIJAHEIGHTS,ST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JEAN KARL FARRUGIA\r",
+        "party_id": "                                                            281175M",
+        "address": "THERIDGE,TRIQBIRGUMA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JEAN FARRUGIA\r",
+        "party_id": "                                                            167998M",
+        "address": "FLATNO.4,HEATHMANSIONS,TRIQL-IMGIEBAH,XEMXIJAHEIGHTS,ST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "JEAN KARL FARRUGIA\r",
+        "party_id": "                                                            281175M",
+        "address": "THERIDGE,TRIQBIRGUMA,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN FARRUGIA\r",
+        "party_id": "                                                            167998M",
+        "address": "FLATNO.4,HEATHMANSIONS,TRIQL-IMGIEBAH,XEMXIJAHEIGHTS,ST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JEAN KARL FARRUGIA\r",
+        "party_id": "                                                            281175M",
+        "address": "THERIDGE,TRIQBIRGUMA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEAN FARRUGIA\r",
+        "party_id": "                                                            167998M",
+        "address": "FLATNO.4,HEATHMANSIONS,TRIQL-IMGIEBAH,XEMXIJAHEIGHTS,ST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JEAN KARL FARRUGIA\r",
+        "party_id": "                                                            281175M",
+        "address": "THERIDGE,TRIQBIRGUMA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JEAN KARL FARRUGIA\r",
+        "party_id": "                                                            281175M",
+        "address": "THERIDGE,TRIQBIRGUMA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "party_id": "                                                            19404",
+        "address": "193,URSULINESISTERSSTREET,GUARDAMANGIA,PIETA'PTA1222MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

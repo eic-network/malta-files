@@ -1,0 +1,75 @@
+{
+  "name": "AMALTHEA MARITIME LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB1367556",
+        "address": "227,KIFISSIASAVENUE,KIFISSIAS,ATHENS14561GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB1367556",
+        "address": "227,KIFISSIASAVENUE,KIFISSIAS,ATHENS14561GREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB1367556",
+        "address": "227,KIFISSIASAVENUE,KIFISSIAS,ATHENS14561GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMALTHEA SHIPPING INC.\r",
+        "nationality": "",
+        "party_id": "                                                            C 88928",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "SPYRIDON MINAS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AB1367556",
+        "address": "227,KIFISSIASAVENUE,KIFISSIAS,ATHENS14561GREECE",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS REPUBLIC STREET",
+  "company_id": "C 24839",
+  "registration_date": "Jul 08, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

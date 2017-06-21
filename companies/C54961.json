@@ -1,0 +1,91 @@
+{
+  "name": "AVATURE LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DIMITRI BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            W128314",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIMITRI BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            W128314",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIMITRI BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            W128314",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIMITRI BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            W128314",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACQUELIN ADAMES DE BOYLAN\r",
+        "nationality": "DOMINICAN",
+        "party_id": "                                                            SE1920859",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480
+        }
+      },
+      {
+        "name": "DIMITRI BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            W128314",
+        "address": "CalleCaracasNo.10,Dept.2BMadrid28010SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 720
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 54961",
+  "registration_date": "Jan 10, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,133 @@
+{
+  "name": "ATLAM FINANCE LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 3500,
+      "type": "PreferenceA",
+      "authorised_share_capital": 3500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "name": "VERONIQUE N.J.M. CARETTE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE860176",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      },
+      {
+        "name": "OANA RADU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            61461A",
+        "address": "58,TRIQMONS.LUIGICATANIA,GHARGHURGHR1402MALTA"
+      },
+      {
+        "name": "KOENRAAD R.S. VANDENHOECK\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE187105",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VERONIQUE N.J.M. CARETTE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE860176",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      },
+      {
+        "name": "OANA RADU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            61461A",
+        "address": "58,TRIQMONS.LUIGICATANIA,GHARGHURGHR1402MALTA"
+      },
+      {
+        "name": "KOENRAAD R.S. VANDENHOECK\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE187105",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANICMAR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42540",
+        "address": "58BRIBILS,MONS.LUIGICATANIASTREETGHARGHURGHR1402MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Preference",
+          "class": "A",
+          "issued_shares": 3500
+        }
+      },
+      {
+        "name": "MANICMAR HOLDINGS N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            0892179967",
+        "address": "DIAMANTLAAN24,BRUSSELS1030BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1500
+        }
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "BERNARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281161M",
+        "address": "5,SANSALVATORE,ALFREDGAUCISTREET,ST.JULIANSSTJ1180MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VERONIQUE N.J.M. CARETTE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE860176",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      },
+      {
+        "name": "OANA RADU\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            61461A",
+        "address": "58,TRIQMONS.LUIGICATANIA,GHARGHURGHR1402MALTA"
+      },
+      {
+        "name": "KOENRAAD R.S. VANDENHOECK\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EE187105",
+        "address": "193,ROUTESTMATHIEU,GRASSE06130FRANCE"
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "58, MONS. LUIGI CATANIA STREET,",
+  "company_id": "C 45345",
+  "registration_date": "Oct 14, 2008",
+  "shares_currency": "EUR",
+  "locality": "GHARGHUR",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

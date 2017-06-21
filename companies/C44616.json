@@ -1,0 +1,109 @@
+{
+  "name": "B2M INT. LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MOHAMED BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EJ619773",
+        "address": "AVENUEJEANACCENT40,1160AUDERGHEM1160BELGIUM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HAFIDA BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN553873",
+        "address": "106,CHAUSSEDEDIELEGHEM,JETTEBELGIQUEBRUSSELS1090BELGIUM"
+      },
+      {
+        "name": "MOHAMED BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EJ619773",
+        "address": "AVENUEJEANACCENT40,1160AUDERGHEM1160BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HAFIDA BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN553873",
+        "address": "106,CHAUSSEDEDIELEGHEM,JETTEBELGIQUEBRUSSELS1090BELGIUM"
+      },
+      {
+        "name": "MOHAMED BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EJ619773",
+        "address": "AVENUEJEANACCENT40,1160AUDERGHEM1160BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HAFIDA BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN553873",
+        "address": "106,CHAUSSEDEDIELEGHEM,JETTEBELGIQUEBRUSSELS1090BELGIUM"
+      },
+      {
+        "name": "MOHAMED BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EJ619773",
+        "address": "AVENUEJEANACCENT40,1160AUDERGHEM1160BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BPAM HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44614",
+        "address": "60/2MELITASTREET,VALLETTAVLT1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "HAFIDA BENABDA\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EN553873",
+        "address": "106,CHAUSSEDEDIELEGHEM,JETTEBELGIQUEBRUSSELS1090BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET",
+  "company_id": "C 44616",
+  "registration_date": "Jul 01, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

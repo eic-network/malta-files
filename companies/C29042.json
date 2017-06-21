@@ -1,0 +1,122 @@
+{
+  "name": "BONU GARAGE LIMITED",
+  "total_issued_shares_value": 79897.49,
+  "total_authorised_shares_value": 79897.49,
+  "authorised_shares": [
+    {
+      "issued_shares": 17150,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 17150,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 17150,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 17150,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206062M",
+        "address": "SHALOM,ST.ANTHONYSTR.,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206062M",
+        "address": "SHALOM,ST.ANTHONYSTR.,SANGWANNMALTA"
+      },
+      {
+        "name": "MARIA CONCETTA DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171738M",
+        "address": "6,ST.ANTHONYSTR.,SANGWANNMALTA"
+      },
+      {
+        "name": "PAUL DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470038M",
+        "address": "6,ST.ANTHONYSTR.,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206062M",
+        "address": "SHALOM,ST.ANTHONYSTR.,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206062M",
+        "address": "SHALOM,ST.ANTHONYSTR.,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA CONCETTA DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171738M",
+        "address": "6,ST.ANTHONYSTR.,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8575
+        }
+      },
+      {
+        "name": "PAUL DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470038M",
+        "address": "6,ST.ANTHONYSTR.,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8575
+        }
+      },
+      {
+        "name": "JOSEPH DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206062M",
+        "address": "SHALOM,ST.ANTHONYSTR.,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 17150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 34300,
+  "address": "BONU GARAGE, TRIQ IL-KAPPELLA,",
+  "company_id": "C 29042",
+  "registration_date": "Dec 14, 2001",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 34300
+}

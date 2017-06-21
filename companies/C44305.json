@@ -1,0 +1,115 @@
+{
+  "company_id": "C 44305",
+  "address": "85, ST. JOHN STREET",
+  "name": "36GAMING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 23, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 39999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 39999
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 40000,
+  "total_authorised_shares_value": 40000,
+  "total_issued_shares": 40000,
+  "total_issued_shares_value": 40000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "CHARALAMBOS ORFANIDES\r",
+        "party_id": "                                                            E197660",
+        "address": "14APANAYASKURKOYSTREETLAKATAMEIANICOSIA2303CYPRUS",
+        "nationality": "CYPRIOT"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAGNETA TECHNOLOGIES LIMITED\r",
+        "party_id": "                                                            HE 160955",
+        "address": "KASOU,2MLAKATMEIANICOSIAP.C.2303CYPRUS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 39999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CHARALAMBOS ORFANIDES\r",
+        "party_id": "                                                            E197660",
+        "address": "14APANAYASKURKOYSTREETLAKATAMEIANICOSIA2303CYPRUS",
+        "nationality": "CYPRIOT",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "CHARALAMBOS ORFANIDES\r",
+        "party_id": "                                                            E197660",
+        "address": "14APANAYASKURKOYSTREETLAKATAMEIANICOSIA2303CYPRUS",
+        "nationality": "CYPRIOT"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "CHARALAMBOS ORFANIDES\r",
+        "party_id": "                                                            E197660",
+        "address": "14APANAYASKURKOYSTREETLAKATAMEIANICOSIA2303CYPRUS",
+        "nationality": "CYPRIOT"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "party_id": "                                                            663682M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

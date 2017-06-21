@@ -1,0 +1,99 @@
+{
+  "name": "AQUADOT LTD.",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MATTHEW VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185977M",
+        "address": "1,MAYTREE,TRIQIL-BDIEWA,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185977M",
+        "address": "1,MAYTREE,TRIQIL-BDIEWA,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185977M",
+        "address": "1,MAYTREE,TRIQIL-BDIEWA,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185977M",
+        "address": "1,MAYTREE,TRIQIL-BDIEWA,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LOUISE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293980M",
+        "address": "'PATRITHOUSE',TRIQIL-MILORD,BIDNIJAMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 932
+        }
+      },
+      {
+        "name": "PACIFICO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            719652M",
+        "address": "PATRITHOUSE,TRIQIL-MILORD,BIDNIJA,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 233
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "TA' GLORMU TRIQ IS-SAGRA FAMILJA, BIDNIJA",
+  "company_id": "C 44866",
+  "registration_date": "Aug 06, 2008",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1165
+}

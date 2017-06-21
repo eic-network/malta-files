@@ -1,0 +1,91 @@
+{
+  "name": "AMALIA PROPERTIES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MALCOLM MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233269M",
+        "address": "127,OLDMINTSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "19,M.SAPIANOSTREETSANGWANNSGN1556MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "419,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "419,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARCO MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393883M",
+        "address": "419,MAINSTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VITTORIO BANDERA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA7304889",
+        "address": "SALITAVIARNO4BLUGANO6962SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "ALBERTO DELLA FOGLIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR9866035",
+        "address": "VIABOGGIA15PARADISO6900SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 2, INTERNATIONAL HOUSE,  NAXXAR ROAD,",
+  "company_id": "C 71773",
+  "registration_date": "Aug 07, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

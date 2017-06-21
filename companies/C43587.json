@@ -1,0 +1,83 @@
+{
+  "name": "BESTMED INTERNATIONAL LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 56373",
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 56373",
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFRED TRIGANZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587061M",
+        "address": "138,ALANAWOODS,MAINSTREET,SIGGIEWISGW1302MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 56373",
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "5, ROSA MARINA APARTMENTS, 216, MARINA SEAFRONT,",
+  "company_id": "C 43587",
+  "registration_date": "Feb 18, 2008",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 10000
+}

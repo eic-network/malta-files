@@ -1,0 +1,91 @@
+{
+  "name": "BBP BANDENIA LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FABIO PASTORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5425602",
+        "address": "63,GEORGESTREET,BEDFORDMK403SQUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABIO PASTORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5425602",
+        "address": "63,GEORGESTREET,BEDFORDMK403SQUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FABIO PASTORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5425602",
+        "address": "63,GEORGESTREET,BEDFORDMK403SQUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH SWAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10992",
+        "address": "15,FLAT1,TRIQSANGAKBUXGHAJRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABIO PASTORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5425602",
+        "address": "63,GEORGESTREET,BEDFORDMK403SQUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BBP BANDENIA PLC\r",
+        "nationality": "",
+        "party_id": "                                                            04649808",
+        "address": "HOLLANDHOUSE,GHERKINPIAZZA,1-4BURYSTREET,LONDONEC3A5AWUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1188
+        }
+      },
+      {
+        "name": "FABIO PASTORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5425602",
+        "address": "63,GEORGESTREET,BEDFORDMK403SQUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "64, TRIQ IT-TAGHLIM,",
+  "company_id": "C 73492",
+  "registration_date": "Dec 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

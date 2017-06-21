@@ -1,0 +1,132 @@
+{
+  "company_id": "C 22543",
+  "address": "136, ST CHRISTOPHER STREET,",
+  "name": "BR COMMTRADE INTERNATIONAL LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 18, 1998",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 30700,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 3069
+    }
+  ],
+  "total_authorised_shares": 30700,
+  "total_authorised_shares_value": 30700,
+  "total_issued_shares": 3069,
+  "total_issued_shares_value": 3069,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PAVEL BROTHANEK\r",
+        "party_id": "                                                            1361355",
+        "address": "GANGHOFERSTR,1585716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "CZECH"
+      },
+      {
+        "name": "STEFAN GUTTENBRUNNER\r",
+        "party_id": "                                                            V0317261",
+        "address": "22,RINGHOFFERSTR85716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "AUSTRIAN"
+      },
+      {
+        "name": "RICHARD LUKES\r",
+        "party_id": "                                                            1449051",
+        "address": "STAROLAZENSKA344,15900VELRACHUCHLECZECHREPUBLIC",
+        "nationality": "CZECH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAVEL BROTHANEK\r",
+        "party_id": "                                                            1364355",
+        "address": "GANGHOFERSTR.1585716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "CZECH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1023,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "STEFAN GUTTENBRUNNER\r",
+        "party_id": "                                                            V0317261",
+        "address": "RINGHOFFERSTR.2285716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "AUSTRIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1023,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RICHARD LUKES\r",
+        "party_id": "                                                            1449051",
+        "address": "STAROLAZENSKA34415900VELRACHUCHLECZECHREPUBLIC",
+        "nationality": "CZECH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1023,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAVEL BROTHANEK\r",
+        "party_id": "                                                            1361355",
+        "address": "GANGHOFERSTR,1585716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "CZECH"
+      },
+      {
+        "name": "STEFAN GUTTENBRUNNER\r",
+        "party_id": "                                                            V0317261",
+        "address": "22,RINGHOFFERSTR85716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "AUSTRIAN"
+      },
+      {
+        "name": "RICHARD LUKES\r",
+        "party_id": "                                                            1449051",
+        "address": "STAROLAZENSKA344,15900VELRACHUCHLECZECHREPUBLIC",
+        "nationality": "CZECH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAVEL BROTHANEK\r",
+        "party_id": "                                                            1361355",
+        "address": "GANGHOFERSTR,1585716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "CZECH"
+      },
+      {
+        "name": "STEFAN GUTTENBRUNNER\r",
+        "party_id": "                                                            V0317261",
+        "address": "22,RINGHOFFERSTR85716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "AUSTRIAN"
+      },
+      {
+        "name": "RICHARD LUKES\r",
+        "party_id": "                                                            1449051",
+        "address": "STAROLAZENSKA344,15900VELRACHUCHLECZECHREPUBLIC",
+        "nationality": "CZECH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEFAN GUTTENBRUNNER\r",
+        "party_id": "                                                            V0317261",
+        "address": "22,RINGHOFFERSTR85716UNTERSCHLEISSHEIMGERMANY",
+        "nationality": "AUSTRIAN"
+      }
+    ]
+  }
+}

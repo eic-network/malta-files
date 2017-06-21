@@ -1,0 +1,83 @@
+{
+  "company_id": "C 62556",
+  "address": "NOTRE DAME DE L'EUROPE, FLAT 1, TRIQ SAN PIETRU,",
+  "name": "BOSPHORUS SERVICES LIMITED",
+  "locality": "MGARR",
+  "status": "",
+  "registration_date": "Nov 08, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BASAK KRISTIN DEGIRMENCI\r",
+        "party_id": "                                                            38019A",
+        "address": "23,TRIQF.ASSENZA,SWIEQISWQ2320MALTA",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHANN BALDACCHINO ROMANO\r",
+        "party_id": "                                                            172876M",
+        "address": "JOE'S,TRIQIX-XAGHRA,MARSALFORN,ZEBBUG(GOZO)MFN1143MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "BASAK KRISTIN DEGIRMENCI\r",
+        "party_id": "                                                            38019A",
+        "address": "23,TRIQF.ASSENZA,SWIEQISWQ2320MALTA",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BASAK KRISTIN DEGIRMENCI\r",
+        "party_id": "                                                            38019A",
+        "address": "23,TRIQF.ASSENZA,SWIEQISWQ2320MALTA",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BASAK KRISTIN DEGIRMENCI\r",
+        "party_id": "                                                            38019A",
+        "address": "23,TRIQF.ASSENZA,SWIEQISWQ2320MALTA",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BASAK KRISTIN DEGIRMENCI\r",
+        "party_id": "                                                            38019A",
+        "address": "23,TRIQF.ASSENZA,SWIEQISWQ2320MALTA",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

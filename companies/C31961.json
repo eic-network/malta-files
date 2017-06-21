@@ -1,0 +1,140 @@
+{
+  "name": "B.C. HOLDINGS LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            205857M",
+        "address": "'MARJO'BURMARRADROADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233284M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SHARON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118978M",
+        "address": "FLAT5,MARRAYCOURT,MAGHSARSTREETST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MARIA GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            519480M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MARIO GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233284M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SHARON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118978M",
+        "address": "FLAT5,MARRAYCOURT,MAGHSARSTREETST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MARIA GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            519480M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MARIO GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233284M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHARON CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118978M",
+        "address": "FLAT5,MARRAYCOURT,MAGHSARSTREETST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "MARIA GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            519480M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "MARIO GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            233284M",
+        "address": "MARJOBURMARRADROADST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "MARJO, BURMARRAD ROAD",
+  "company_id": "C 31961",
+  "registration_date": "Aug 21, 2003",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 2000
+}

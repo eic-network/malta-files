@@ -1,0 +1,83 @@
+{
+  "company_id": "C 78568",
+  "address": "L-UFFICCJU NO 11, GROUND FLOOR MISRAH 28 TA' FRAR 1883",
+  "name": "BRO GLOBAL HOLDINGS LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Dec 09, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1166,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1166
+    }
+  ],
+  "total_authorised_shares": 1166,
+  "total_authorised_shares_value": 1166,
+  "total_issued_shares": 1166,
+  "total_issued_shares_value": 1166,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOOR,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARIF ATINC KARACA\r",
+        "party_id": "                                                            U03755648",
+        "address": "26,SOKAKC193ACARKENT,BEYKOZISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 583,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "GOZDE KARACA\r",
+        "party_id": "                                                            U02324551",
+        "address": "26,SOKAKC193ACARKENT,BEYKOZ,ISTANBULTURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 583,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOOR,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOOR,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL ELLUL\r",
+        "party_id": "                                                            72269M",
+        "address": "18,MIRJIEHTRIQTA'STRONKA,SWIEQISWQ1524MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

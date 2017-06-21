@@ -1,0 +1,103 @@
+{
+  "name": "Altern Limited",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 700,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 700,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MATTHEW SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            235487M",
+        "address": "VILLAMARGHERITA,ST.THOMASBAY,MARSASCALAMSK4021MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            235487M",
+        "address": "VILLAMARGHERITA,ST.THOMASBAY,MARSASCALAMSK4021MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEVILLE AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122480M",
+        "address": "'THEWEB',TRIQNERIKSCERRI,KIRKOPKKP1742MALTA"
+      },
+      {
+        "name": "MATTHEW SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            235487M",
+        "address": "VILLAMARGHERITA,ST.THOMASBAY,MARSASCALAMSK4021MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "AIDAN LUNGARO-MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10276",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            235487M",
+        "address": "VILLAMARGHERITA,ST.THOMASBAY,MARSASCALAMSK4021MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATTHEW SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            235487M",
+        "address": "VILLAMARGHERITA,ST.THOMASBAY,MARSASCALAMSK4021MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1300
+        }
+      },
+      {
+        "name": "TRUE QUALITY HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31515",
+        "address": "KW17A,CORRADINOINDUSTRIALESTATE,PAOLAPLA3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 700
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "KW17A, CORRADINO INDUSTRIAL ESTATE,",
+  "company_id": "C 45287",
+  "registration_date": "Oct 07, 2008",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

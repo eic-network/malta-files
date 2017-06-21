@@ -1,0 +1,83 @@
+{
+  "name": "AMIN A LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALFONSO FERRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4482317",
+        "address": "VIAMADRIDN.1,CASAMASSIMA,BARI70010ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFONSO FERRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4482317",
+        "address": "VIAMADRIDN.1,CASAMASSIMA,BARI70010ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFONSO FERRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4482317",
+        "address": "VIAMADRIDN.1,CASAMASSIMA,BARI70010ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFONSO FERRENTINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA4482317",
+        "address": "VIAMADRIDN.1,CASAMASSIMA,BARI70010ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2 MELITA STREET",
+  "company_id": "C 50596",
+  "registration_date": "Sep 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

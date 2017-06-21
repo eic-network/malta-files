@@ -1,0 +1,115 @@
+{
+  "company_id": "C 55584",
+  "address": "5/1, MERCHANTS STREET",
+  "name": "3DZ FRANCHISING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 12, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANGELO SIMEONI\r",
+        "party_id": "                                                            YA0123270",
+        "address": "30A,PJAZZASIRLUIGIPREZIOSI,FLORIANAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VALLETTA HOLDINGS INVESTMENTS LIMITED\r",
+        "party_id": "                                                            9278715",
+        "address": "SUITE303,PRINCESSHOUSE,50-60EASTCASTLESTREET,LONDONWIW8EAUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANGELO SIMEONI\r",
+        "party_id": "                                                            YA0123270",
+        "address": "30A,PJAZZASIRLUIGIPREZIOSI,FLORIANAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANGELO SIMEONI\r",
+        "party_id": "                                                            YA0123270",
+        "address": "30A,PJAZZASIRLUIGIPREZIOSI,FLORIANAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "party_id": "                                                            309780M",
+        "address": "168,MAINSTREET,LIJALJA1509MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ADRIAN FARRUGIA\r",
+        "party_id": "                                                            19024",
+        "address": "7,PAPILLON,TRIQL-INBID,ATTARDATD2621MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

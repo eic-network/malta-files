@@ -1,0 +1,91 @@
+{
+  "name": "ALLIED INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ODETTE DEMICOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            463572M",
+        "address": "'STJOSEPH'KOLAXARASTREETRABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KENNETH CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247065M",
+        "address": "SEBASTIANA,ANGLUMALLIASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KENNETH CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247065M",
+        "address": "SEBASTIANA,ANGLUMALLIASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JEREMY GAMBIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01286",
+        "address": "3,BARAKEE,TRIQIL-HAWT,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KENNETH CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247065M",
+        "address": "SEBASTIANA,ANGLUMALLIASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KENNETH CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247065M",
+        "address": "SEBASTIANA,ANGLUMALLIASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2998
+        }
+      },
+      {
+        "name": "ODETTE DEMICOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            463572M",
+        "address": "'STJOSEPH'KOLAXARASTREETRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "'TELECOM HOUSE' TRIQ IL-MEDITERRAN, THE VILLAGE,",
+  "company_id": "C 15502",
+  "registration_date": "Oct 20, 1993",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 5000
+}

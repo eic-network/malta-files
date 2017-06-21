@@ -1,0 +1,70 @@
+{
+  "company_id": "C 73052",
+  "address": "53 TANKS STREET",
+  "name": "BRIGHT LIMITED",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "registration_date": "Nov 13, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "party_id": "                                                            151255M",
+        "address": "WINDHAVEN,TRIQL-ARZNU,MENSIJA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "party_id": "                                                            151255M",
+        "address": "WINDHAVEN,TRIQL-ARZNU,MENSIJA,SANGWANNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "party_id": "                                                            151255M",
+        "address": "WINDHAVEN,TRIQL-ARZNU,MENSIJA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "party_id": "                                                            151255M",
+        "address": "WINDHAVEN,TRIQL-ARZNU,MENSIJA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "party_id": "                                                            151255M",
+        "address": "WINDHAVEN,TRIQL-ARZNU,MENSIJA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

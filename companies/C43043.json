@@ -1,0 +1,84 @@
+{
+  "name": "AMFin Holding Limited",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERTO MORONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2660832",
+        "address": "20,VIACARNIA,MILANO20132ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFIO ERSILIO MORONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8368471",
+        "address": "VIAFARNETIRODOLFO,MILANOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFIO ERSILIO MORONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8368471",
+        "address": "VIAFARNETIRODOLFO,MILANOITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFIO ERSILIO MORONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8368471",
+        "address": "VIAFARNETIRODOLFO,MILANOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFIO ERSILIO MORONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8368471",
+        "address": "VIAFARNETIRODOLFO,MILANOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "19, ST MARK STREET,",
+  "company_id": "C 43043",
+  "registration_date": "Dec 07, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

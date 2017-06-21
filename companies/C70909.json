@@ -1,0 +1,107 @@
+{
+  "name": "ASHLEIGH ARMSTRONG SERVICES LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DAVID ASHTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706955368",
+        "address": "1566,ROUTEDEMONIAZSAINTCERGUESFR-74140SWITZERLAND"
+      },
+      {
+        "name": "JASON BOUGOURD\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627247745",
+        "address": "578,RTEMANESSIERES,COLLONGESSOUSSALEVE74160FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID ASHTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706955368",
+        "address": "1566,ROUTEDEMONIAZSAINTCERGUESFR-74140SWITZERLAND"
+      },
+      {
+        "name": "JASON BOUGOURD\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627247745",
+        "address": "578,RTEMANESSIERES,COLLONGESSOUSSALEVE74160FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAIRE SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146984M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID ASHTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706955368",
+        "address": "1566,ROUTEDEMONIAZSAINTCERGUESFR-74140SWITZERLAND"
+      },
+      {
+        "name": "JASON BOUGOURD\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            627247745",
+        "address": "578,RTEMANESSIERES,COLLONGESSOUSSALEVE74160FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WATFORD HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54328",
+        "address": "2NDFLOOR,EUROPACENTRE,ST.ANNESTREET,FLORIANAFRN1400MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "85, ST. JOHN STREET",
+  "company_id": "C 70909",
+  "registration_date": "Jun 03, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

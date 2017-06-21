@@ -1,0 +1,114 @@
+{
+  "company_id": "C 58986",
+  "address": "PORTOMASO BUSINESS TOWER, LEVEL 9, PORTOMASO AVENUE,",
+  "name": "BROMWELL HOLDING LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Jan 16, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SEBASTIEN DETRAZ\r",
+        "party_id": "                                                            X0896795",
+        "address": "CHEMINDUVIEUX-PUITS,6,1228PLAN-LES-OUATES,SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIZZI\r",
+        "party_id": "                                                            809353M",
+        "address": "18TRIQIR-ROKONSANLAWRENZ(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHARLES RAPA\r",
+        "party_id": "                                                            921751M",
+        "address": "40,NAYIM,TRIQPHILIPSKIPPON,NAXXARNXR06MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRAYSTONE ASSETS LIMITED\r",
+        "party_id": "                                                            1601519",
+        "address": "263,MainStreet,P.OBox2196,RoadTown,TortolaVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SEBASTIEN DETRAZ\r",
+        "party_id": "                                                            X0896795",
+        "address": "CHEMINDUVIEUX-PUITS,6,1228PLAN-LES-OUATES,SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIZZI\r",
+        "party_id": "                                                            809353M",
+        "address": "18TRIQIR-ROKONSANLAWRENZ(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHARLES RAPA\r",
+        "party_id": "                                                            921751M",
+        "address": "40,NAYIM,TRIQPHILIPSKIPPON,NAXXARNXR06MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SEBASTIEN DETRAZ\r",
+        "party_id": "                                                            X0896795",
+        "address": "CHEMINDUVIEUX-PUITS,6,1228PLAN-LES-OUATES,SWITZERLAND",
+        "nationality": "SWISS"
+      },
+      {
+        "name": "GUIDO MIZZI\r",
+        "party_id": "                                                            809353M",
+        "address": "18TRIQIR-ROKONSANLAWRENZ(GOZO)MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHARLES RAPA\r",
+        "party_id": "                                                            921751M",
+        "address": "40,NAYIM,TRIQPHILIPSKIPPON,NAXXARNXR06MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTOINETTE JOHNSTONE\r",
+        "party_id": "                                                            472181M",
+        "address": "46,WAIKIKI,TRIQANGLUGATT,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG\r",
+        "party_id": "                                                             AB/26/84/01",
+        "address": "FOURTHFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

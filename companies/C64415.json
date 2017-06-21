@@ -1,0 +1,91 @@
+{
+  "name": "A. R. X. INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "16,COLISA,MONS.A.BUHAGIARSTREET,RABATRBT1836MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182264M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "23,\"AZALEA\",TRIQIL-KANADA,SGHAJTAR,NAXXARNXR3242MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "64, EXCALIBUR, B. BONTADINI STREET,",
+  "company_id": "C 64415",
+  "registration_date": "Mar 26, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

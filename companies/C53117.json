@@ -1,0 +1,109 @@
+{
+  "name": "BLACK MAMBA LTD.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEFANO DONINELLI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0692589",
+        "address": "MUSCINO,CASTELSANPIETRO,TICINOCH-6874SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GUIDO BERTONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G135255",
+        "address": "MALINDI,POBOX1055,KILIFIKENYA"
+      },
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUIDO BERTONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G135255",
+        "address": "MALINDI,POBOX1055,KILIFIKENYA"
+      },
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GUIDO BERTONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G135255",
+        "address": "MALINDI,POBOX1055,KILIFIKENYA"
+      },
+      {
+        "name": "MANUELE BIANCHI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            C0644155",
+        "address": "VIAVIGUA,SOA6877,COLDRERIOSWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLEVER HOLDING GROUP SA\r",
+        "nationality": "",
+        "party_id": "                                                            CHE-188.548.361",
+        "address": "PIAZZACIOCCARO6900LUGANOSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1100
+        }
+      },
+      {
+        "name": "GUIDO BERTONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G135255",
+        "address": "MALINDI,GEDEWATAMUKENYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "ROCCO APARTMENTS, FLAT N.3, 21, ST. ELIA STREET,",
+  "company_id": "C 53117",
+  "registration_date": "Jun 14, 2011",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

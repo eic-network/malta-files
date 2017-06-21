@@ -1,0 +1,70 @@
+{
+  "company_id": "C 71341",
+  "address": "93, MILL STREET,",
+  "name": "BRAMANT LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Jul 08, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GODFREY LEONE GANADO\r",
+        "party_id": "                                                            0990361",
+        "address": "9HILLSIDE,TRIQTASTRONKA,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Flindan Limited\r",
+        "party_id": "                                                            1854231",
+        "address": "SecondFloor,GenevaPlace,333,WaterfrontDrive,RoadTown,Tortola,VIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GODFREY LEONE GANADO\r",
+        "party_id": "                                                            0990361",
+        "address": "9HILLSIDE,TRIQTASTRONKA,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GODFREY LEONE GANADO\r",
+        "party_id": "                                                            0990361",
+        "address": "9HILLSIDE,TRIQTASTRONKA,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GODFREY LEONE GANADO\r",
+        "party_id": "                                                            0990361",
+        "address": "9HILLSIDE,TRIQTASTRONKA,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

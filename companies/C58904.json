@@ -1,0 +1,219 @@
+{
+  "name": "ARTISAN FOODS COMPANY LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryF",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "NIKOLAI JOHN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,NAXXARNXR2102MALTA"
+      },
+      {
+        "name": "SEBASTIAN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336083M",
+        "address": "2,TRIQSANTALUCIJA,SQAQNRU.8,NAXXARNXR1580MALTA"
+      },
+      {
+        "name": "ALEX MATTEI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204876M",
+        "address": "5FLAT2,SIRLUIGIPREZIOSISTREETFLORIANAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "NIKOLAI JOHN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,NAXXARNXR2102MALTA"
+      },
+      {
+        "name": "SEBASTIAN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336083M",
+        "address": "2,TRIQSANTALUCIJA,SQAQNRU.8,NAXXARNXR1580MALTA"
+      },
+      {
+        "name": "ALEX MATTEI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204876M",
+        "address": "5FLAT2,SIRLUIGIPREZIOSISTREETFLORIANAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NIKOLAI JOHN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,NAXXARNXR2102MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "NIKOLAI JOHN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,NAXXARNXR2102MALTA"
+      },
+      {
+        "name": "SEBASTIAN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336083M",
+        "address": "2,TRIQSANTALUCIJA,SQAQNRU.8,NAXXARNXR1580MALTA"
+      },
+      {
+        "name": "ALEX MATTEI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204876M",
+        "address": "5FLAT2,SIRLUIGIPREZIOSISTREETFLORIANAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SEBASTIAN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336083M",
+        "address": "2,TRIQSANTALUCIJA,SQAQNRU.8,NAXXARNXR1580MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "MARK CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            250783M",
+        "address": "FLAT3,SITKACOURT,QUI-SI-SANA,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "ALEX MATTEI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204876M",
+        "address": "5FLAT2,SIRLUIGIPREZIOSISTREETFLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "NICK CAMILLERI-PREZIOSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            469971M",
+        "address": "6ALLEY6,BAKERYSTREET,LIJALJA1251MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            751656M",
+        "address": "18,'VILLAMARGHERITA',F.WRYANSTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "NIKOLAI JOHN DE GIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,NAXXARNXR2102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "HARD ROCKS INDUSTRIAL PARK, TRIQ IL-BURMARRAD,",
+  "company_id": "C 58904",
+  "registration_date": "Jan 09, 2013",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

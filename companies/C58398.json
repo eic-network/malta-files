@@ -1,0 +1,97 @@
+{
+  "name": "ALTIUM INVESTMENTS LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FERNANDO MANUEL GODINHO FERNANDES\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N315400",
+        "address": "ALAMEDAALTODABARRA29,OIERAS2780-181PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FERNANDO MANUEL GODINHO FERNANDES\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N315400",
+        "address": "ALAMEDAALTODABARRA29,OIERAS2780-181PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FERNANDO MANUEL GODINHO FERNANDES\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N315400",
+        "address": "ALAMEDAALTODABARRA29,OIERAS2780-181PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19816",
+        "address": "171,CHARLEROI,TRIQTUMASCHETCUTI,ATTARDATD3034MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FERNANDO MANUEL GODINHO FERNANDES\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            N315400",
+        "address": "ALAMEDAALTODABARRA29,OIERAS2780-181PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "N TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 41852",
+        "address": "FLAT14,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXXBX1120MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "N TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 41852",
+        "address": "FLAT14,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXXBX1120MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "FLAT 14, MARINA COURT, ABATE RIGORD STREET,",
+  "company_id": "C 58398",
+  "registration_date": "Nov 28, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 10000
+}

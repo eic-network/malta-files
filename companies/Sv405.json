@@ -1,0 +1,127 @@
+{
+  "name": "AURORA SICAV P.L.C.",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 5000001000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Founder",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "E2S MONITORING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 76033",
+        "address": "259,STPAUL'SSTREET,VALLETTAVLT1213MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ENZO LUIGI FILIPPINI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4314766",
+        "address": "CASAFILIPPINI,BIRONICO6804SWITZERLAND"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0974565",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "ANTHONY V. XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36966G",
+        "address": "93,BAILIFFALLEY,GHAJNSIELEM(GOZO)GSM2040MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ENZO LUIGI FILIPPINI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4314766",
+        "address": "CASAFILIPPINI,BIRONICO6804SWITZERLAND"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0974565",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "ANTHONY V. XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36966G",
+        "address": "93,BAILIFFALLEY,GHAJNSIELEM(GOZO)GSM2040MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ENZO LUIGI FILIPPINI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4314766",
+        "address": "CASAFILIPPINI,BIRONICO6804SWITZERLAND"
+      },
+      {
+        "name": "PAUL MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0974565",
+        "address": "307,UNDERTHECLIFFSTREET,SANTAMARIAESTATEMELLIEHAMLH2745MALTA"
+      },
+      {
+        "name": "ANTHONY V. XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36966G",
+        "address": "93,BAILIFFALLEY,GHAJNSIELEM(GOZO)GSM2040MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ENZO LUIGI FILIPPINI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4314766",
+        "address": "CASAFILIPPINI,BIRONICO6804SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "EROS LOMBARDO\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F2438569",
+        "address": "VIAALLACHIESA7A,SEMENTINACH-6514SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "259, St. Paul's Street,",
+  "company_id": "SV 405",
+  "registration_date": "Mar 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000001000
+}

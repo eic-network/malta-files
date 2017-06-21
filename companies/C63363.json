@@ -1,0 +1,135 @@
+{
+  "name": "BLUESHUTTER LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129151M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129151M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      },
+      {
+        "name": "MICHAEL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9686G",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129151M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      },
+      {
+        "name": "MICHAEL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9686G",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NOUV AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/09",
+        "address": "'KYLE',FLAT6,TRIQIL-MEDITERRAN,THEVILLAGE,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129151M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      },
+      {
+        "name": "MICHAEL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9686G",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCIS TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129151M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400
+        }
+      },
+      {
+        "name": "JOHN PAUL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455880M",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MATTHEW TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            5784G",
+        "address": "1,ST.PAUL'SSQUARE,MDINARBT12MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "MICHAEL TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9686G",
+        "address": "1,ST.PAUL'SSQUARE,MDINAMDN1101MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "1, ST. PAUL'S SQUARE,",
+  "company_id": "C 63363",
+  "registration_date": "Jan 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "MDINA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

@@ -1,0 +1,75 @@
+{
+  "name": "ANTANDROS SHIPPING LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "THEODOROS GIAVRIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI3484613",
+        "address": "39,A.METAXASTREET,GLYFADA,ATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "THEODOROS GIAVRIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI3484613",
+        "address": "39,A.METAXASTREET,GLYFADA,ATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "THEODOROS GIAVRIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI3484613",
+        "address": "39,A.METAXASTREET,GLYFADA,ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLOYD INC.\r",
+        "nationality": "",
+        "party_id": "                                                            Z-50174",
+        "address": "80,BROADSTR.MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "VIATOR INC.\r",
+        "nationality": "",
+        "party_id": "                                                            Z-50175",
+        "address": "80,BROADSTR.MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 25160",
+  "registration_date": "Sep 17, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

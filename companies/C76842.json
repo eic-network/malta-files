@@ -1,0 +1,83 @@
+{
+  "company_id": "C 76842",
+  "address": "72, TRIQ IL-PONT",
+  "name": "3ELEVEN LIMITED",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Aug 12, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GARRETT ZERAFA\r",
+        "party_id": "                                                            429484M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GARRETT ZERAFA\r",
+        "party_id": "                                                            429484M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "STEPHANIE ZERAFA\r",
+        "party_id": "                                                            338284M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GARRETT ZERAFA\r",
+        "party_id": "                                                            429484M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GARRETT ZERAFA\r",
+        "party_id": "                                                            429484M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GARRETT ZERAFA\r",
+        "party_id": "                                                            429484M",
+        "address": "72,TRIQIL-PONTMELLIEHAMLH2300MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

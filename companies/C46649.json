@@ -1,0 +1,109 @@
+{
+  "name": "BLUE SEA INTERNATIONAL LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ABDALLA KAMAL A. MESMARI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685442",
+        "address": "5,DAHRASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AHMED-WALID MAHMOUD ESHWIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            759406",
+        "address": "6,SALAHEDDINSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ABDALLA KAMAL A. MESMARI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685442",
+        "address": "5,DAHRASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AHMED-WALID MAHMOUD ESHWIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            759406",
+        "address": "6,SALAHEDDINSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ABDALLA KAMAL A. MESMARI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685442",
+        "address": "5,DAHRASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AHMED-WALID MAHMOUD ESHWIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            759406",
+        "address": "6,SALAHEDDINSTREETTRIPOLISTATEOFLIBYA"
+      },
+      {
+        "name": "ABDALLA KAMAL A. MESMARI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685442",
+        "address": "5,DAHRASTREETTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHMED-WALID MAHMOUD ESHWIDI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            759406",
+        "address": "6,SALAHEDDINSTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ABDALLA KAMAL A. MESMARI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            685442",
+        "address": "5,DAHRASTREETTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "27, GROGNET STREET,",
+  "company_id": "C 46649",
+  "registration_date": "Apr 16, 2009",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

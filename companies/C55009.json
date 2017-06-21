@@ -1,0 +1,115 @@
+{
+  "name": "ASTERIA MANAGEMENT LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KONRAD ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470783M",
+        "address": "36,ORANGERCRT,APT7,TRIQSANTAKLEMENTINA,ZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KONRAD ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470783M",
+        "address": "36,ORANGERCRT,APT7,TRIQSANTAKLEMENTINA,ZURRIEQMALTA"
+      },
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KONRAD ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470783M",
+        "address": "36,ORANGERCRT,APT7,TRIQSANTAKLEMENTINA,ZURRIEQMALTA"
+      },
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH SWAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10992",
+        "address": "15FLAT1,TRIQSANGAKBU,XGHAJRA,ZABBARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KONRAD ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470783M",
+        "address": "36,ORANGERCRT,APT7,TRIQSANTAKLEMENTINA,ZURRIEQMALTA"
+      },
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "203A, OLD BAKERY STREET,",
+  "company_id": "C 55009",
+  "registration_date": "Jan 13, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

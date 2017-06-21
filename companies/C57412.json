@@ -1,0 +1,78 @@
+{
+  "name": "BM RESOURCES LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEVE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215678M",
+        "address": "LOHOA,BLACKSEASTREET,ST.JULIANSSTJ1853MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            922547M",
+        "address": "'TOSCANA',BLACKSEASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            922547M",
+        "address": "'TOSCANA',BLACKSEASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            922547M",
+        "address": "'TOSCANA',BLACKSEASTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            922547M",
+        "address": "'TOSCANA',BLACKSEASTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "TOSCANA, BLACK SEA STREET,",
+  "company_id": "C 57412",
+  "registration_date": "Aug 31, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

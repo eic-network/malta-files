@@ -1,0 +1,51 @@
+{
+  "name": "BLACK SKORPION SHIPPING LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "TEODORA PAPALIOS",
+        "nationality": "",
+        "party_id": "",
+        "address": "30,ROLANDGARDENS,LONDONSW7ENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "GIAN LUCA ROSSI",
+        "nationality": "",
+        "party_id": "",
+        "address": "7,RUEDUGABIAN,MC98000,MONTECARLOMONACO",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 25768",
+  "registration_date": "Jan 21, 2000",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

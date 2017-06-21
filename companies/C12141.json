@@ -1,0 +1,97 @@
+{
+  "name": "A. B. M. LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528261M",
+        "address": "'ST.MARTIN'ST.PAUL'SSTREETZURRIEQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528261M",
+        "address": "'ST.MARTIN'ST.PAUL'SSTREETZURRIEQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMEN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            248560M",
+        "address": "'CHIMAERA'GIUZEPPIELLULSTREETLUQAMALTA"
+      },
+      {
+        "name": "MARCELLA BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            579776M",
+        "address": "318TRIQTAHTL-IRDUMMELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528261M",
+        "address": "'ST.MARTIN'ST.PAUL'SSTREETZURRIEQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            248560M",
+        "address": "'CHIMAERA'GIUZEPPIELLULSTREETLUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "MARIO BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528261M",
+        "address": "'ST.MARTIN'ST.PAUL'SSTREETZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "SAINT MARTIN ST. PAUL'S STREET",
+  "company_id": "C 12141",
+  "registration_date": "Dec 06, 1990",
+  "shares_currency": "EUR",
+  "locality": "ZURRIEQ",
+  "status": "",
+  "total_authorised_shares": 500
+}

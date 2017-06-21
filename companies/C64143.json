@@ -1,0 +1,160 @@
+{
+  "name": "BLUE MOON INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "MATTHEW FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517483M",
+        "address": "2852,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "MATTHEW FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517483M",
+        "address": "2852,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLT.8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "MATTHEW FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            517483M",
+        "address": "2852,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63998",
+        "address": "55B,TRIQIS-SIDRA,SWIEQISWQ3157MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4500
+        }
+      },
+      {
+        "name": "JOSEPHINE BORG BONACI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            737903",
+        "address": "5,RUEDEPLAISANCE,PARIS75014FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "FB MALTA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64060",
+        "address": "PORTOPALO,30,TIGNESEAFRONT,SLIEMASLM3010MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "RYAN-NEIL DARMANIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326984M",
+        "address": "30,TRIQIL-PREISTORJAXEMXIJAST.PAUL'SBAYSPB4223MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "NORBERT VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            285077M",
+        "address": "TIMESQUARE,1STAVENUEFLAT116,TRIQIL-KULTELLAZZMOSTAMST4402MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "20, FLAT 5, TRIQ MANWEL DIMECH,",
+  "company_id": "C 64143",
+  "registration_date": "Mar 07, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

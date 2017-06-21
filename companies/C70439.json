@@ -1,0 +1,75 @@
+{
+  "name": "AMBER YACHTING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DF MARINE CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39801",
+        "address": "ILPIAZZETTA,A,SUITE21,TOWERROAD,SLIEMASLM1607MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ODINGSELL INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1855635",
+        "address": "ALEMAN,CORDERO,GALINDO&LEETRUST(BVI)LTD5THFLOORRITTERHOUSE,WICKHAMSCAYII,POBOX3175,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "114,  THE STRAND,",
+  "company_id": "C 70439",
+  "registration_date": "May 06, 2015",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

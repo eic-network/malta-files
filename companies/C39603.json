@@ -1,0 +1,91 @@
+{
+  "name": "ANTAG HOLDING LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STUART LAURENCE RAYMOND SOLOMONS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            110622263",
+        "address": "328CRANDONBLVD,SUITE221-B,KEYBISLAYNEFL33149UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STUART LAURENCE RAYMOND SOLOMONS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            110622263",
+        "address": "328CRANDONBLVD,SUITE221-B,KEYBISLAYNEFL33149UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STUART LAURENCE RAYMOND SOLOMONS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            110622263",
+        "address": "328CRANDONBLVD,SUITE221-B,KEYBISLAYNEFL33149UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTOPHER HOLMES\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            032617842",
+        "address": "49,STAMFORDROAD,BOWDON,ALTRINCHAM,CHESHIREWA142JNUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "STUART LAURENCE RAYMOND SOLOMONS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            110622263",
+        "address": "328CRANDONBLVD,SUITE221-B,KEYBISLAYNEFL33149UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "VINCENTI BUILDINGS, SUITE 354, 28/19, STRAIT STREET,",
+  "company_id": "C 39603",
+  "registration_date": "Sep 25, 2006",
+  "shares_currency": "GBP",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

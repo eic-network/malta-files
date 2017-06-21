@@ -1,0 +1,78 @@
+{
+  "total_issued_shares_value": 2499,
+  "registration_date": "Aug 09, 2005",
+  "status": "",
+  "locality": "MARSA",
+  "name": "BTS COMPANY LIMITED",
+  "total_issued_shares": 2499,
+  "address": "NINETEEN TWENTY THREE VALLETTA ROAD",
+  "company_id": "C 36767",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "VIAQUASIMODO,430121MOGLIANOVENETOITALY",
+        "party_id": "                                                            AA3802165",
+        "name": "ALFREDO CALASCIBETTA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "VIAQUASIMODO,430121MOGLIANOVENETOITALY",
+        "party_id": "                                                            AA3802165",
+        "name": "ALFREDO CALASCIBETTA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "VIAQUASIMODO,430121MOGLIANOVENETOITALY",
+        "party_id": "                                                            AA3802165",
+        "name": "ALFREDO CALASCIBETTA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "VIAQUASIMODO,430121MOGLIANOVENETOITALY",
+        "party_id": "                                                            AA3802165",
+        "name": "ALFREDO CALASCIBETTA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "171,CHARLEROI,TRIQTUMASCHETCUTI,ATTARDATD3034MALTA",
+        "party_id": "                                                            19816",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2499,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "VIAQUASIMODO,430121MOGLIANOVENETOITALY",
+        "party_id": "                                                            AA3802165",
+        "name": "ALFREDO CALASCIBETTA\r",
+        "nationality": "ITALIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2499,
+      "authorised_share_capital": 2500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2500,
+  "total_authorised_shares_value": 2500,
+  "shares_currency": "EUR"
+}

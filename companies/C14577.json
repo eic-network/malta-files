@@ -1,0 +1,59 @@
+{
+  "name": "AUTUMN MARITIME LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443781M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEOS (NOMINEES) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE 24937",
+        "address": "TRIBUNEHOUSE,10,SKOPASTREET,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "GEOS SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE 24939",
+        "address": "TRIBUNEHOUSE,10,SKOPASTREET,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 14577",
+  "registration_date": "Dec 31, 1992",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

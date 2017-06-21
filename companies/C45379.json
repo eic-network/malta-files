@@ -1,0 +1,86 @@
+{
+  "name": "BEST C.F.D. Ltd",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258781M",
+        "address": "64/1AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SAMUEL RONDOT\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05RES31360",
+        "address": "AURORA,TRIQTAMARMORASANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAMUEL RONDOT\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05RES31360",
+        "address": "AURORA,TRIQTAMARMORASANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAMUEL RONDOT\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05RES31360",
+        "address": "AURORA,TRIQTAMARMORASANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CIANTAR ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/59",
+        "address": "152/9,NAXXARROAD,SANGWANNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SAMUEL RONDOT\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05RES31360",
+        "address": "AURORA,TRIQTAMARMORASANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CRV INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18970",
+        "address": "NO.152,OFFICENO.9,NAXXARROAD,SANGWANNSGN9030MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "NO 9, TRIQ IL-LUMIJA,",
+  "company_id": "C 45379",
+  "registration_date": "Oct 20, 2008",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

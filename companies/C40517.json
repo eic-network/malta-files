@@ -1,0 +1,75 @@
+{
+  "company_id": "C 40517",
+  "address": "46, Timber Wharf,",
+  "name": "38 PARALLEL iNT'L TRAD. CO. LTD",
+  "locality": "MARSA",
+  "status": "",
+  "registration_date": "Dec 28, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Antonino Cumbo\r",
+        "party_id": "                                                            D377690",
+        "address": "ViaGiovanniXXIII,122-92100AgrigentoITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Antonino Cumbo\r",
+        "party_id": "                                                            D377690",
+        "address": "ViaGiovanniXXIII,122-92100AgrigentoITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "Giacomo Majorini\r",
+        "party_id": "                                                            A226829",
+        "address": "ViaImera50-92100AgrigentoITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Antonino Cumbo\r",
+        "party_id": "                                                            D377690",
+        "address": "ViaGiovanniXXIII,122-92100AgrigentoITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Antonino Cumbo\r",
+        "party_id": "                                                            D377690",
+        "address": "ViaGiovanniXXIII,122-92100AgrigentoITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

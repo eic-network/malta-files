@@ -1,0 +1,97 @@
+{
+  "name": "AS YACHT COMPANY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ROBERT TAYLOR-EAST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531478M",
+        "address": "8,GARDENSSTREETATTARDATD1260MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DESIREE SCHURTER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            50164A",
+        "address": "22/1,STPETER'SFLATS,CARDINALF,SCIBERRASSTREET,VITTORIOSAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Quaestum Corporate Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VillaBolognaSanAntonStreetATTARDATD1282MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Quaestum Corporate Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VillaBolognaSanAntonStreetATTARDATD1282MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Quaestum Corporate Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VillaBolognaSanAntonStreetATTARDATD1282MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PTC Investment Holdings Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            155417 B",
+        "address": "2ndFloorCharlotteHouseCharlotteStreetNassauP.O.BoxN-65BAHAMAS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "Quaestum Corporate Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VillaBolognaSanAntonStreetATTARDATD1282MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "San Michel Building, 2nd Floor, 110, St. George's Road,",
+  "company_id": "C 65233",
+  "registration_date": "Jun 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

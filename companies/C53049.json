@@ -1,0 +1,65 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Jun 03, 2011",
+  "status": "",
+  "locality": "MSIDA",
+  "name": "BUDA INVESTMENT HOLDINGS LTD",
+  "total_issued_shares": 1200,
+  "address": "DOMESTICA BUILDING, FOURTH FLOOR, MSIDA VALLEY ROAD,",
+  "company_id": "C 53049",
+  "involved_parties": {
+    "Auditors": [
+      {
+        "address": "6,FLAT1,TRIQSIRLUIGICAMILLERI,SLIEMASLM1841MALTA",
+        "party_id": "                                                            48102A",
+        "name": "STUART GORDON CRAIG\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "PALMGROVEHOUSE,P.O.BOX438,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "party_id": "                                                            1647471",
+        "name": "BUDA INVESTMENT HOLDINGS LTD\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "VISIONEXCHANGEBUILDINGTERRITORIALSSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "party_id": "                                                            C 56748",
+        "name": "VIRTUE RESOURCES LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199,
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

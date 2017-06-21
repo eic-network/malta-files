@@ -1,0 +1,97 @@
+{
+  "name": "ARCTIC HORIZON LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "WIDAR RODSAS\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25753000",
+        "address": "HOVLAND4208SAUDASJOEN4208NORWAY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SVERRE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28116071",
+        "address": "IMSLAND,5583,VIKEDALNORWAY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SVERRE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28116071",
+        "address": "IMSLAND,5583,VIKEDALNORWAY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SVERRE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28116071",
+        "address": "IMSLAND,5583,VIKEDALNORWAY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARCTIC HORIZON HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64527",
+        "address": "NO.10,FLAT3,CAPUAPALACESTREET,SLIEMASLM1771MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "SVERRE HUSTVEIT\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28116071",
+        "address": "IMSLAND,5583,VIKEDALNORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "NO. 10, FLAT 3, CAPUA PALACE STREET,",
+  "company_id": "C 64529",
+  "registration_date": "Apr 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

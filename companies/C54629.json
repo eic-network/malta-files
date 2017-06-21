@@ -1,0 +1,115 @@
+{
+  "name": "BEHIKE CAPITAL LIMITED",
+  "total_issued_shares_value": 2025000,
+  "total_authorised_shares_value": 2025000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2024999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2024999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "WAYNE PISANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386878M",
+        "address": "TORRITA'CINCLIBIDNIJA,L/OMOSTAMST5112MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR3013MALTA"
+      },
+      {
+        "name": "ROBERT PIERRE CALLENS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CI65352",
+        "address": "RUSAKOVSKAYAST.31,APT.434-441,MOSCOU107113RUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR3013MALTA"
+      },
+      {
+        "name": "ROBERT PIERRE CALLENS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CI65352",
+        "address": "RUSAKOVSKAYAST.31,APT.434-441,MOSCOU107113RUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR3013MALTA"
+      },
+      {
+        "name": "ROBERT PIERRE CALLENS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CI65352",
+        "address": "RUSAKOVSKAYAST.31,APT.434-441,MOSCOU107113RUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT PIERRE CALLENS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14CI65352",
+        "address": "RUSAKOVSKAYAST.31,APT.434-441,MOSCOU107113RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2024999
+        }
+      },
+      {
+        "name": "GRANT THORNTON FIDUCIAIRE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20650",
+        "address": "TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR3013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2025000,
+  "address": "SUITE 3, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR",
+  "company_id": "C 54629",
+  "registration_date": "Dec 06, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2025000
+}

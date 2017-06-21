@@ -1,0 +1,78 @@
+{
+  "name": "AULTON HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUKE FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ZENON ZENONOS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00197842",
+        "address": "12,KIMONOSKALLITHEADALINICOSIA2548CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ZENON ZENONOS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00197842",
+        "address": "12,KIMONOSKALLITHEADALINICOSIA2548CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ZENON ZENONOS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00197842",
+        "address": "12,KIMONOSKALLITHEADALINICOSIA2548CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Mikhail Shishkhanov\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            530175517",
+        "address": "RublevskoeShosseBld.18-3,Flat300,MoscowRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "41, SUITE 1, ST. CHRISTOPHER STREET,",
+  "company_id": "C 69923",
+  "registration_date": "Apr 07, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

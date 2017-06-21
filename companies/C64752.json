@@ -1,0 +1,91 @@
+{
+  "name": "ALMA LIMITED",
+  "total_issued_shares_value": 64000,
+  "total_authorised_shares_value": 64000,
+  "authorised_shares": [
+    {
+      "issued_shares": 64000,
+      "type": "Ordinary",
+      "authorised_share_capital": 64000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANGELO MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            125286M",
+        "address": "9,FONTANELLA,TRIQIX-XAMBEKKMARSAXLOKKMXK1736MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK GUILLAUMIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            746549M",
+        "address": "34,ELPALOMAR,TRIQSALVUBONANNO,SANGWANNSGN1530MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK GUILLAUMIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            746549M",
+        "address": "34,ELPALOMAR,TRIQSALVUBONANNO,SANGWANNSGN1530MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARK GUILLAUMIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            746549M",
+        "address": "34,ELPALOMAR,TRIQSALVUBONANNO,SANGWANNSGN1530MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONELLA LILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E218711",
+        "address": "VIAAGOSTINOBEAZZANO14,TREVISO31100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 32000
+        }
+      },
+      {
+        "name": "RICCARDO MANFRINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA0316336",
+        "address": "VIAPORTAD'AMORE10/BFERRARAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 32000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 64000,
+  "address": "LEVEL 14, PORTOMASO BUSINESS TOWER, PORTOMASO,",
+  "company_id": "C 64752",
+  "registration_date": "Apr 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 64000
+}

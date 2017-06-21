@@ -1,0 +1,117 @@
+{
+  "name": "BDA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "GODFREY SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            636963M",
+        "address": "9,NIGRETSTREET,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BEATA KIJOWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AU1752919",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BEATA KIJOWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AU1752919",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      },
+      {
+        "name": "WIESLAW SKOCZEK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            CAA405223",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BEATA KIJOWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AU1752919",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      },
+      {
+        "name": "WIESLAW SKOCZEK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            CAA405223",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BEATA KIJOWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AU1752919",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      },
+      {
+        "name": "WIESLAW SKOCZEK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            CAA405223",
+        "address": "UL.ZABORSKA28,LESNOPOLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEATA KIJOWSKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AU1752919",
+        "address": "UL.GRANITOWA3/4,WARSAWP.C.02-681POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "WIESLAW SKOCZEK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            CAA405223",
+        "address": "UL.ZABORSKA28,LESNOPOLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "83, ST. PAUL STREET,",
+  "company_id": "C 63456",
+  "registration_date": "Jan 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2400
+}

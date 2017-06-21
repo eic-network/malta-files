@@ -1,0 +1,109 @@
+{
+  "total_issued_shares_value": 10000,
+  "registration_date": "Apr 18, 1988",
+  "status": "",
+  "locality": "SAN GWANN",
+  "name": "BSP INVESTMENTS LTD",
+  "total_issued_shares": 10000,
+  "address": "FLAT 2, 'MERILL COURT', TRIQ IL-FUXA,",
+  "company_id": "C 9575",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "FLATNO.2,MERILLCOURT,FUXASTREET,SANGWANNSGN1308MALTA",
+        "party_id": "                                                            83370M",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "HONEYSUCKLE,TRIQIL-WIZNA,SWIEQISWQ2301MALTA",
+        "party_id": "                                                            268357M",
+        "name": "JOHN J PAPAGIORCOPULO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "FLATNO.2,MERILLCOURT,FUXASTREET,SANGWANNSGN1308MALTA",
+        "party_id": "                                                            83370M",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "FLATNO.2,MERILLCOURT,FUXASTREET,SANGWANNSGN1308MALTA",
+        "party_id": "                                                            83370M",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "HONEYSUCKLE,TRIQIL-WIZNA,SWIEQISWQ2301MALTA",
+        "party_id": "                                                            268357M",
+        "name": "JOHN J PAPAGIORCOPULO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "FLATNO.2,MERILLCOURT,FUXASTREET,SANGWANNSGN1308MALTA",
+        "party_id": "                                                            83370M",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "HONEYSUCKLE,TRIQIL-WIZNA,SWIEQISWQ2301MALTA",
+        "party_id": "                                                            268357M",
+        "name": "JOHN J PAPAGIORCOPULO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "58A,CHEZNOUSTRIQKENTFGURAFGR1555MALTA",
+        "party_id": "                                                            10008",
+        "name": "PIERRE MUSU'\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 5000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "HONEYSUCKLE,TRIQIL-WIZNA,SWIEQISWQ2301MALTA",
+        "party_id": "                                                            C 20092",
+        "name": "FOURTH - C SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 5000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "FLATNO.2,MERILLCOURT,FUXASTREET,SANGWANNSGN1308MALTA",
+        "party_id": "                                                            83370M",
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 10000,
+      "authorised_share_capital": 11647,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 11647,
+  "total_authorised_shares_value": 11647,
+  "shares_currency": "EUR"
+}

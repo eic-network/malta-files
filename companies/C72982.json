@@ -1,0 +1,70 @@
+{
+  "name": "BE Medical Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Badreddin Hossein M Ahmed\r",
+        "nationality": "ANTIGUAN & BARBUDAN",
+        "party_id": "                                                            B012828",
+        "address": "GurgiRoadHaiAlAndalusTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Badreddin Hossein M Ahmed\r",
+        "nationality": "ANTIGUAN & BARBUDAN",
+        "party_id": "                                                            B012828",
+        "address": "GurgiRoadHaiAlAndalusTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Joceline Caruana\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23390M",
+        "address": "16,MerhbaTriqGiovanniSciclunaGHAXAQGXQ1180MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Badreddin Hossein M Ahmed\r",
+        "nationality": "ANTIGUAN & BARBUDAN",
+        "party_id": "                                                            B012828",
+        "address": "GurgiRoadHaiAlAndalusTripoliSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Badreddin Hossein M Ahmed\r",
+        "nationality": "ANTIGUAN & BARBUDAN",
+        "party_id": "                                                            B012828",
+        "address": "GurgiRoadHaiAlAndalusTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Abacus Business Centre, Level 1, Triq Dun Karm, B'Kara Bypass",
+  "company_id": "C 72982",
+  "registration_date": "Nov 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,105 @@
+{
+  "name": "ARISON LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MATTHEW ZAMPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            132683M",
+        "address": "12,FLAT3,RAMIROBARBAROSTREETLIJALJA1451MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARTIN MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120956M",
+        "address": "27,MAGAZINESSTREET,MDINAMDN1201MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Chancery Services Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 45445",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KENNETH WEINSTEIN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GA337815",
+        "address": "WEINRATHTESSAR,1128IOCOROAD,PORTMOODYBCV3H2XICANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "LEVEL 1, LM COMPLEX, BREWERY STREET, MRIEHEL,",
+  "company_id": "C 33280",
+  "registration_date": "Feb 23, 2004",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

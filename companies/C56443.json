@@ -1,0 +1,115 @@
+{
+  "name": "ASW LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FREDERIC VILLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            31678A",
+        "address": "2,CAROBLANE,SIRH.LUKESTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEKSANDER DEMSAR\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0277169",
+        "address": "ULICATUGAVIDMARJA15,KRANJ4000SLOVENIA"
+      },
+      {
+        "name": "SERGEJ SEVER\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0018940",
+        "address": "LJUBLJANSKACESTA12,TRZIN1236SLOVENIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEKSANDER DEMSAR\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0277169",
+        "address": "ULICATUGAVIDMARJA15,KRANJ4000SLOVENIA"
+      },
+      {
+        "name": "SERGEJ SEVER\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0018940",
+        "address": "LJUBLJANSKACESTA12,TRZIN1236SLOVENIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JAMES MATTHEW ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10227A",
+        "address": "27B,TRIQALFREDCAMILLERIATTARDATD1922MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEKSANDER DEMSAR\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0277169",
+        "address": "ULICATUGAVIDMARJA15,KRANJ4000SLOVENIA"
+      },
+      {
+        "name": "SERGEJ SEVER\r",
+        "nationality": "SLOVENIAN",
+        "party_id": "                                                            PB0018940",
+        "address": "LJUBLJANSKACESTA12,TRZIN1236SLOVENIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "INTEGRITAS TRUSTEES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22574",
+        "address": "114/3THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "114/3 THE STRAND",
+  "company_id": "C 56443",
+  "registration_date": "May 24, 2012",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

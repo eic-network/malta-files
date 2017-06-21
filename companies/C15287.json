@@ -1,0 +1,126 @@
+{
+  "name": "AUTO TECHNIK LIMITED",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 2498,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2498,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2498,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2498,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 4,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331175M",
+        "address": "ROMANTICAG.BORGSTREETBIRKIRKARAMALTA"
+      },
+      {
+        "name": "NOEL SIVE EMMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152372M",
+        "address": "'AZALEA',ANT.VALLETTASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331175M",
+        "address": "ROMANTICAG.BORGSTREETBIRKIRKARAMALTA"
+      },
+      {
+        "name": "NOEL SIVE EMMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152372M",
+        "address": "'AZALEA',ANT.VALLETTASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331175M",
+        "address": "ROMANTICAG.BORGSTREETBIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331175M",
+        "address": "ROMANTICAG.BORGSTREETBIRKIRKARAMALTA"
+      },
+      {
+        "name": "NOEL SIVE EMMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152372M",
+        "address": "'AZALEA',ANT.VALLETTASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331175M",
+        "address": "ROMANTICAG.BORGSTREETBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2498
+        }
+      },
+      {
+        "name": "NOEL SIVE EMMANUEL VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152372M",
+        "address": "'AZALEA',ANT.VALLETTASTREET,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2498
+        }
+      },
+      {
+        "name": "SAVIOUR VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1055444M",
+        "address": "MEADOWSWEET,TRIQIL-BLANZUNI,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 4
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "ROMANTICA GORG BORG STREET",
+  "company_id": "C 15287",
+  "registration_date": "Jul 28, 1993",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

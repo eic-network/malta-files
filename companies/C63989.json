@@ -1,0 +1,194 @@
+{
+  "name": "BHC LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 684,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 684,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 516,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 516,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149769M",
+        "address": "51/52,SANTAMARIA,TRIQID-DWIELI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "RYAN FRANCIS MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            483472M",
+        "address": "PETREL,TRIQTAS-SLIEMA,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "MICHAEL SICKLIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72023A",
+        "address": "EUTUXIA,TRIQHADDIN-NIES,ZABBARMALTA"
+      },
+      {
+        "name": "ADRIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84875M",
+        "address": "153,BARCELLONA,JOHNBORGSTREETBIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149769M",
+        "address": "51/52,SANTAMARIA,TRIQID-DWIELI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "RYAN FRANCIS MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            483472M",
+        "address": "PETREL,TRIQTAS-SLIEMA,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "MARK ANTHONY PRICHARD\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            503003511",
+        "address": "43P,DACOUTROSSTREET,SANTAVENERAMALTA"
+      },
+      {
+        "name": "MICHAEL SICKLIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72023A",
+        "address": "EUTUXIA,TRIQHADDIN-NIES,ZABBARMALTA"
+      },
+      {
+        "name": "ADRIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84875M",
+        "address": "153,BARCELLONA,JOHNBORGSTREETBIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            572162M",
+        "address": "1,\"OASIS\"IKLINROADIKLINMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149769M",
+        "address": "51/52,SANTAMARIA,TRIQID-DWIELI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "RYAN FRANCIS MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            483472M",
+        "address": "PETREL,TRIQTAS-SLIEMA,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "MARK ANTHONY PRICHARD\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            503003511",
+        "address": "43P,DACOUTROSSTREET,SANTAVENERAMALTA"
+      },
+      {
+        "name": "MICHAEL SICKLIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72023A",
+        "address": "EUTUXIA,TRIQHADDIN-NIES,ZABBARMALTA"
+      },
+      {
+        "name": "ADRIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84875M",
+        "address": "153,BARCELLONA,JOHNBORGSTREETBIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JONATHAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            149769M",
+        "address": "51/52,SANTAMARIA,TRIQID-DWIELI,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 228
+        }
+      },
+      {
+        "name": "RYAN FRANCIS MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            483472M",
+        "address": "PETREL,TRIQTAS-SLIEMA,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 228
+        }
+      },
+      {
+        "name": "ADRIAN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84875M",
+        "address": "153,BARCELLONA,JOHNBORGSTREETBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 228
+        }
+      },
+      {
+        "name": "PIERRE GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            572162M",
+        "address": "1,\"OASIS\"IKLINROADIKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "MICHAEL SICKLIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72023A",
+        "address": "EUTUXIA,TRIQHADDIN-NIES,ZABBARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 228
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ORANGE GROVE, TRIQ IL-BIRBAL,",
+  "company_id": "C 63989",
+  "registration_date": "Feb 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

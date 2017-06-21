@@ -1,0 +1,78 @@
+{
+  "company_id": "C 34894",
+  "address": "22, ALBATROSS, TRIQ IR-RUSSETT, KAPPARA,",
+  "name": "BREEZE LTD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Oct 29, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARK ANTHONY SAMMUT\r",
+        "party_id": "                                                            403674M",
+        "address": "30,TRIQIS-SNAJJA,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARK ANTHONY SAMMUT\r",
+        "party_id": "                                                            403674M",
+        "address": "30,TRIQIS-SNAJJA,MOSTAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK ANTHONY SAMMUT\r",
+        "party_id": "                                                            403674M",
+        "address": "30,TRIQIS-SNAJJA,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARK ANTHONY SAMMUT\r",
+        "party_id": "                                                            403674M",
+        "address": "30,TRIQIS-SNAJJA,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK ANTHONY SAMMUT\r",
+        "party_id": "                                                            403674M",
+        "address": "30,TRIQIS-SNAJJA,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NIGEL SCERRI\r",
+        "party_id": "                                                            10455",
+        "address": "SOVEREIGNCOURT,BLOCKC,FLAT2,TRIQIL-FIKUS,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

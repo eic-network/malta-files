@@ -1,0 +1,78 @@
+{
+  "name": "ARISTAN HOLDINGS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARLA CARDARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA9712613",
+        "address": "4BVIAROMAGNASIRACUSA96100ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DONATO CARDARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA9080942",
+        "address": "4BVIAROMAGNASIRACUSA96100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DONATO CARDARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA9080942",
+        "address": "4BVIAROMAGNASIRACUSA96100ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DONATO CARDARELLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA9080942",
+        "address": "4BVIAROMAGNASIRACUSA96100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HULL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18295",
+        "address": "CENTRALOFFICEBUILDINGS,BLOCKA,LEVEL1,HALMANNVELLA,MOSTAROAD,LIJALJA9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "72 FREDERICK C. PONSONBY STREET",
+  "company_id": "C 69682",
+  "registration_date": "Mar 23, 2015",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

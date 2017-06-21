@@ -1,0 +1,89 @@
+{
+  "company_id": "C 62353",
+  "address": "26, TRIQ IL-PLUVIERA",
+  "name": "BRAINBROS LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Oct 24, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ULAS UTKU BOZDOGAN\r",
+        "party_id": "                                                            80671A",
+        "address": "BELMONTEHEIGHTS,BLKA,FL7,TREJQETSANT'INJAZJUSLIEMAMALTA",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ULAS UTKU BOZDOGAN\r",
+        "party_id": "                                                            80671A",
+        "address": "BELMONTEHEIGHTS,BLKA,FL7,TREJQETSANT'INJAZJUSLIEMAMALTA",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28TRUQIL-PLUVIERA,SANGWANNSGN1930MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ULAS UTKU BOZDOGAN\r",
+        "party_id": "                                                            80671A",
+        "address": "BELMONTEHEIGHTS,BLKA,FL7,TREJQETSANT'INJAZJUSLIEMAMALTA",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ULAS UTKU BOZDOGAN\r",
+        "party_id": "                                                            80671A",
+        "address": "BELMONTEHEIGHTS,BLKA,FL7,TREJQETSANT'INJAZJUSLIEMAMALTA",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28TRUQIL-PLUVIERA,SANGWANNSGN1930MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

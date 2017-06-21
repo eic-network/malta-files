@@ -1,0 +1,70 @@
+{
+  "company_id": "C 30120",
+  "address": "NO. 9, SPRINGTIME, TRIQ L-IMSAQQFIN, BAHAR IC-CAGHAQ,",
+  "name": "BOSPHOROUS LIMITED",
+  "locality": "NAXXAR",
+  "status": "",
+  "registration_date": "Aug 23, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAMAZAN ERTUGRUL\r",
+        "party_id": "                                                            191900L",
+        "address": "NO.9,SPRINGTIME,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAMAZAN ERTUGRUL\r",
+        "party_id": "                                                            191900L",
+        "address": "NO.9,SPRINGTIME,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAMAZAN ERTUGRUL\r",
+        "party_id": "                                                            191900L",
+        "address": "NO.9,SPRINGTIME,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAMAZAN ERTUGRUL\r",
+        "party_id": "                                                            191900L",
+        "address": "NO.9,SPRINGTIME,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMAZAN ERTUGRUL\r",
+        "party_id": "                                                            191900L",
+        "address": "NO.9,SPRINGTIME,TRIQL-IMSAQQFIN,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

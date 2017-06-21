@@ -1,0 +1,70 @@
+{
+  "company_id": "C 70243",
+  "address": "15, Grognet Street",
+  "name": "BRODIA LTD",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Jun 12, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 100000
+    }
+  ],
+  "total_authorised_shares": 100000,
+  "total_authorised_shares_value": 100000,
+  "total_issued_shares": 100000,
+  "total_issued_shares_value": 100000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Abdulrahman Bashir R El Sherif\r",
+        "party_id": "                                                            435185",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Abdulrahman Bashir R El Sherif\r",
+        "party_id": "                                                            435185",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Abdulrahman Bashir R El Sherif\r",
+        "party_id": "                                                            435185",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Abdulrahman Bashir R El Sherif\r",
+        "party_id": "                                                            435185",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Abdulrahman Bashir R El Sherif\r",
+        "party_id": "                                                            435185",
+        "address": "BenAshoorTripoliSTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

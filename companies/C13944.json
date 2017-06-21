@@ -1,0 +1,97 @@
+{
+  "name": "ARCO (MALTA) LIMITED",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STEVEN NAUDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            628062M",
+        "address": "5,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARLO RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            158771M",
+        "address": "19,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARLO RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            158771M",
+        "address": "19,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARLO RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            158771M",
+        "address": "19,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARLO RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            158771M",
+        "address": "19,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHARON RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381371M",
+        "address": "19,MARINACOURTABATERIGORDSTREETTA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "CARLO RAGONESI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            158771M",
+        "address": "19,MARINACOURT,ABATERIGORDSTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "19 MARINA COURT, ABATE RIGORD STREET",
+  "company_id": "C 13944",
+  "registration_date": "Jun 10, 1992",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

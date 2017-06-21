@@ -1,0 +1,95 @@
+{
+  "name": "ATTSONS HOLDINGS CO. LIMITED",
+  "total_issued_shares_value": 11646.86,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JULIETTE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222366M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140064M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMSD06MALTA"
+      },
+      {
+        "name": "JULIETTE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222366M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROLAN MICALLEF ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            002289",
+        "address": "ME'AGHEMMIERI,LIMITITAR-RABAT,RABATRBT4112MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140064M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMSD06MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEORGE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            140064M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMSD06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "JULIETTE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222366M",
+        "address": "ATTSONSPLACE,FLAT5,TOWERSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "141, Attsons Place, Flat 12 Tower Street",
+  "company_id": "C 11793",
+  "registration_date": "Jul 06, 1990",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

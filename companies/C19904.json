@@ -1,0 +1,59 @@
+{
+  "company_id": "C 19904",
+  "address": "13/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "name": "BOUNTY SHIPPING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 18, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IBRAHIM KARIM",
+        "party_id": "",
+        "address": "EPISCOPRADUNO.4,APT.2,SECTOR2,BUCHARESTROMANIA",
+        "nationality": "ROMANIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IBRAHIM KARIM",
+        "party_id": "",
+        "address": "EPISCOPRADUNO.4,APT.2,SECTOR2,BUCHARESTROMANIA",
+        "nationality": "ROMANIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "SADON KARIM",
+        "party_id": "",
+        "address": "EPISCOPRADU,NO.4,APT.2,SECTOR2,BUCHARESTROMANIA",
+        "nationality": "ROMANIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

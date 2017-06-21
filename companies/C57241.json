@@ -1,0 +1,101 @@
+{
+  "name": "ANNITOR MALTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GUILLERMO HECTOR GIRALT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3221920",
+        "address": "C.DABOSCOROTONDOS.N.,VITTORIA(RG)97019ITALY"
+      },
+      {
+        "name": "MANUEL SANCHEZ GARCIA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAE982601",
+        "address": "GRANVIADELESCORTSCATALANES,0981P0701,BARCELONA08018SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUILLERMO HECTOR GIRALT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3221920",
+        "address": "C.DABOSCOROTONDOS.N.,VITTORIA(RG)97019ITALY"
+      },
+      {
+        "name": "MANUEL SANCHEZ GARCIA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAE982601",
+        "address": "GRANVIADELESCORTSCATALANES,0981P0701,BARCELONA08018SPAIN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GUILLERMO HECTOR GIRALT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3221920",
+        "address": "C.DABOSCOROTONDOS.N.,VITTORIA(RG)97019ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GUILLERMO HECTOR GIRALT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3221920",
+        "address": "C.DABOSCOROTONDOS.N.,VITTORIA(RG)97019ITALY"
+      },
+      {
+        "name": "MANUEL SANCHEZ GARCIA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAE982601",
+        "address": "GRANVIADELESCORTSCATALANES,0981P0701,BARCELONA08018SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GUILLERMO HECTOR GIRALT\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3221920",
+        "address": "C.DABOSCOROTONDOS.N.,VITTORIA(RG)97019ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 540
+        }
+      },
+      {
+        "name": "MANUEL SANCHEZ GARCIA\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAE982601",
+        "address": "GRANVIADELESCORTSCATALANES,0981P0701,BARCELONA08018SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 660
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 3, THEUMA HOUSE, 302, ST. PAUL STREET,",
+  "company_id": "C 57241",
+  "registration_date": "Aug 13, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500000
+}

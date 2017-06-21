@@ -1,0 +1,51 @@
+{
+  "name": "BIR ID-DEHEB HOLDINGS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 2000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 500
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 500,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      },
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 500,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10,
+  "address": "136 ST CHRISTOPHER STREET,",
+  "company_id": "C 24099",
+  "registration_date": "Feb 12, 1999",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

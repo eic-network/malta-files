@@ -1,0 +1,89 @@
+{
+  "name": "ANYWAY DIGITAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO SANTANGELO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3550456",
+        "address": "VIAANTONIOMARINUZZI,49GIBELLINA(TP)91024ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCO SANTANGELO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3550456",
+        "address": "VIAANTONIOMARINUZZI,49GIBELLINA(TP)91024ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCESCO SANTANGELO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3550456",
+        "address": "VIAANTONIOMARINUZZI,49GIBELLINA(TP)91024ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCO SANTANGELO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3550456",
+        "address": "VIAANTONIOMARINUZZI,49GIBELLINA(TP)91024ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MGI FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 38710",
+        "address": "CENTRALBUSINESSCENTRE,ROOM1,LEVEL1,SUITE2,MDINAROAD,ZEBBUGZBG9015MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "UNITECH BUILDING, LEVEL 2 TRIQ IL-KOSTITUZZJONI,",
+  "company_id": "C 80338",
+  "registration_date": "Apr 05, 2017",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

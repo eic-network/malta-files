@@ -1,0 +1,97 @@
+{
+  "name": "Apache Holding Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAOLO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314769",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREA DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314715",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREA DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314715",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "GRANTTHORNTONHOUSE,PRINCESSELIZABETHSTREET,TA'XBIEXXBX1104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            B314715",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VINCENZO DI GRANDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2701857",
+        "address": "VIAALTROVARIANTESS115,16A,MODICA(RA)97015ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 3, SKYPARKS BUSINESS CENTRE, MALTA INTERNATIONAL AIRPORT",
+  "company_id": "C 55920",
+  "registration_date": "Apr 10, 2012",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

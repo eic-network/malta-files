@@ -1,0 +1,109 @@
+{
+  "name": "BONEVALE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GORDON VALENTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170674M",
+        "address": "4,TRIQSANGIRGOR,ZEJTUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "101,LEVEL10,BLOCK17,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GORDON VALENTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170674M",
+        "address": "4,TRIQSANGIRGOR,ZEJTUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "101,LEVEL10,BLOCK17,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GORDON VALENTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170674M",
+        "address": "4,TRIQSANGIRGOR,ZEJTUNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS PADOVANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19203",
+        "address": "IL-KENN,TRIQIL-BAHARL-ISWED,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "101,LEVEL10,BLOCK17,PORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GORDON VALENTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170674M",
+        "address": "4,TRIQSANGIRGOR,ZEJTUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232779M",
+        "address": "101,LEVEL10,BLOCK17,PORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "GORDON VALENTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170674M",
+        "address": "4,TRIQSANGIRGOR,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "52/1, TIGNE SEA FRONT,",
+  "company_id": "C 54427",
+  "registration_date": "Nov 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,95 @@
+{
+  "name": "BIVAMA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREA MANCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR6870808",
+        "address": "VIAGAICOMOMARCOCCHIA74ROME00143ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMANUELE BIANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU9706841",
+        "address": "VIAVITTORIOROSSI6ROME00133ITALY"
+      },
+      {
+        "name": "ANDREA MANCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR6870808",
+        "address": "VIAGAICOMOMARCOCCHIA74ROME00143ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EMANUELE BIANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU9706841",
+        "address": "VIAVITTORIOROSSI6ROME00133ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMANUELE BIANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU9706841",
+        "address": "VIAVITTORIOROSSI6ROME00133ITALY"
+      },
+      {
+        "name": "ANDREA MANCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR6870808",
+        "address": "VIAGAICOMOMARCOCCHIA74ROME00143ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUELE BIANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU9706841",
+        "address": "VIAVITTORIOROSSI6ROME00133ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ANDREA MANCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR6870808",
+        "address": "VIAGAICOMOMARCOCCHIA74ROME00143ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "111/6, ST. LUCIA STREET",
+  "company_id": "C 71319",
+  "registration_date": "Jul 07, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

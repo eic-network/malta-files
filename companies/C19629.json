@@ -1,0 +1,99 @@
+{
+  "company_id": "C 19629",
+  "address": "BELLAVISTA, TRIQ IL-HARRUB, MADLIENA,",
+  "name": "BRAMWELL LIMITED",
+  "locality": "SWIEQI",
+  "status": "In Dissolution",
+  "registration_date": "Jan 11, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IAN ZAMMIT\r",
+        "party_id": "                                                            118258M",
+        "address": "BELLAVISTA,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IAN CARUANA\r",
+        "party_id": "                                                            242369M",
+        "address": "IONIAN,50,DUNMIKIELXERRISTREET,MISRAHKOLA,ATTARDBZN05MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "IAN ZAMMIT\r",
+        "party_id": "                                                            118258M",
+        "address": "BELLAVISTA,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IAN ZAMMIT\r",
+        "party_id": "                                                            118258M",
+        "address": "BELLAVISTA,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IAN ZAMMIT\r",
+        "party_id": "                                                            118258M",
+        "address": "BELLAVISTA,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JACQUELINE ZAMMIT\r",
+        "party_id": "                                                            296464M",
+        "address": "BELLAVISTA,TRIQIL-HARRUB,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "WALTER XUEREB\r",
+        "party_id": "                                                            740648M",
+        "address": "HINTERSEE,118,CAPUCHINSSTREET,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

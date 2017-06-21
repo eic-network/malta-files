@@ -1,0 +1,103 @@
+{
+  "name": "BOLTON INVESTMENTS - MALTA LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503849M",
+        "address": "RAMSES,ANNIBALEPRECASTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILLIAM P BOLTON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            023936731",
+        "address": "56,SUNNINGDALE,GROSSEPOINTESHORES,MI48236,MICHIGANUNITEDSTATES"
+      },
+      {
+        "name": "ANTHONY MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503849M",
+        "address": "RAMSES,ANNIBALEPRECASTREET,LIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WILLIAM P BOLTON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            023936731",
+        "address": "56,SUNNINGDALE,GROSSEPOINTESHORES,MI48236,MICHIGANUNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANCO SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19522",
+        "address": "RHAPSODY,MICHELEBELLANTISTREET,MSIDAMSD1443MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WILLIAM P BOLTON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            023936731",
+        "address": "56,SUNNINGDALE,GROSSEPOINTESHORES,MI48236,MICHIGANUNITEDSTATES"
+      },
+      {
+        "name": "ANTHONY MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503849M",
+        "address": "RAMSES,ANNIBALEPRECASTREET,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIAN KREBS BOLTON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            024229584",
+        "address": "56,SUNNINGDALE,GROSSEPOINTESHORES,MI48236,MICHIGANUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WILLIAM P BOLTON\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            023936731",
+        "address": "56,SUNNINGDALE,GROSSEPOINTESHORES,MI48236,MICHIGANUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "RAMSES, 37, TRIQ ANNIBALE PRECA,",
+  "company_id": "C 21956",
+  "registration_date": "Oct 09, 1997",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 500
+}

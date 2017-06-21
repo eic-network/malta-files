@@ -1,0 +1,93 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "May 28, 2007",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BULK TRIDENT SHIPPING LTD",
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 41487",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "BLUMENWEG,1B,SOTTRUM27367GERMANY",
+        "party_id": "                                                            1689058557",
+        "name": "HEINZ-DIETER CZECH\r",
+        "nationality": "GERMAN"
+      },
+      {
+        "address": "MICHALOWSKIEGO10,71-343,SZCZECINPOLAND",
+        "party_id": "                                                            AH4684162",
+        "name": "BARTOSZ FREILICH\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "BLUMENWEG,1B,SOTTRUM27367GERMANY",
+        "party_id": "                                                            1689058557",
+        "name": "HEINZ-DIETER CZECH\r",
+        "nationality": "GERMAN"
+      },
+      {
+        "address": "MICHALOWSKIEGO10,71-343,SZCZECINPOLAND",
+        "party_id": "                                                            AH4684162",
+        "name": "BARTOSZ FREILICH\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "BLUMENWEG,1B,SOTTRUM27367GERMANY",
+        "party_id": "                                                            1689058557",
+        "name": "HEINZ-DIETER CZECH\r",
+        "nationality": "GERMAN"
+      },
+      {
+        "address": "MICHALOWSKIEGO10,71-343,SZCZECINPOLAND",
+        "party_id": "                                                            AH4684162",
+        "name": "BARTOSZ FREILICH\r",
+        "nationality": "POLISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.4,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "BLUMENWEG,1B,SOTTRUM27367GERMANY",
+        "party_id": "                                                            1689058557",
+        "name": "HEINZ-DIETER CZECH\r",
+        "nationality": "GERMAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 250,
+          "nominal_value_per_share": 2.4,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "MICHALOWSKIEGO10,71-343,SZCZECINPOLAND",
+        "party_id": "                                                            AH4684162",
+        "name": "BARTOSZ FREILICH\r",
+        "nationality": "POLISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.4,
+      "issued_shares": 500,
+      "authorised_share_capital": 500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

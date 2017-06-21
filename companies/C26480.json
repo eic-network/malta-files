@@ -1,0 +1,38 @@
+{
+  "company_id": "C 26480",
+  "address": "198, OLD BAKERY STREET,",
+  "name": "BROOK MARITIME LTD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Jun 01, 2000",
+  "authorised_shares": [],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 0,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VASILIKI KOTZAMPASAKI\r",
+        "party_id": "                                                            I352509",
+        "address": "49,AKTIMIAOULISTREET,18536,PIRAEUSGREECE",
+        "nationality": "GREEK"
+      },
+      {
+        "name": "STEFANIA LEIVADA\r",
+        "party_id": "                                                            A394329",
+        "address": "45,VASILISSISSOFIASAVENUE,ATHENS10676GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "party_id": "                                                            449763M",
+        "address": "198,OLDBAKERYSTREET,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

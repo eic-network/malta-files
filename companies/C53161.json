@@ -1,0 +1,91 @@
+{
+  "name": "ARETE LIMITED",
+  "total_issued_shares_value": 80000,
+  "total_authorised_shares_value": 80000,
+  "authorised_shares": [
+    {
+      "issued_shares": 80000,
+      "type": "Ordinary",
+      "authorised_share_capital": 80000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCIS MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            674761M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCIS MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            674761M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCIS MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            674761M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCIS MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            674761M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCIS MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            674761M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 79933
+        }
+      },
+      {
+        "name": "INGRID MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367766M",
+        "address": "ODYSSEY,22,TRIQIL-PAGUNI,BALZANBZN1640MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 67
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 80000,
+  "address": "22, ODYSSEY, TRIQ IL-PAGUNI,",
+  "company_id": "C 53161",
+  "registration_date": "Jun 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 80000
+}

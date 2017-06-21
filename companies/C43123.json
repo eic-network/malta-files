@@ -1,0 +1,159 @@
+{
+  "name": "BETTY BINGO LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BENGT ALMQVIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            12798379",
+        "address": "GARVARGATAN14STOCKHOLM11221SWEDEN"
+      },
+      {
+        "name": "NILS-AKE FAHLEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45637867",
+        "address": "WALLINGATAN,24,STOCHOLM11124SWEDEN"
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GREEN CODE AB\r",
+        "nationality": "",
+        "party_id": "                                                            556698-3689",
+        "address": "GARVARGATAN14,STOCKHOLM11221SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 620
+        }
+      },
+      {
+        "name": "MAHALO LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 48769",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "PAPPERSKASSEN AB\r",
+        "nationality": "",
+        "party_id": "                                                            556497-9119",
+        "address": "MIDSKOGSGRAND11,STOCKHOLM11543SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 979
+        }
+      },
+      {
+        "name": "VERENA STEINER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            37097A",
+        "address": "HIGHFIELD,APTNO7,SACREDHEARTAVENUE,ST.JULIANSSTJ1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "103, GUARDAMANGIA HILL,",
+  "company_id": "C 43123",
+  "registration_date": "Dec 17, 2007",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 2000
+}

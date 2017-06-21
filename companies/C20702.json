@@ -1,0 +1,59 @@
+{
+  "name": "BAY MARITIME LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GEORGE BOUKIS",
+        "nationality": "",
+        "party_id": "",
+        "address": "20SPARTISSTRKERASTINIGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOBRAL OCEANWAYS CORP.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTRMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 990
+        }
+      },
+      {
+        "name": "GEORGE BOUKIS",
+        "nationality": "",
+        "party_id": "",
+        "address": "20SPARTISSTRKERASTINIGREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "14, MARINA COURT, ABATE RIGORD STREET,",
+  "company_id": "C 20702",
+  "registration_date": "Nov 04, 1996",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1000
+}

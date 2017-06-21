@@ -1,0 +1,116 @@
+{
+  "name": "ARIACO LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 120,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 120,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1080,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1080,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ARIANNE SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            687158M",
+        "address": "FLAT2B,ST.PAULS'MANSIONS,TA'XBIEXSEAFRONT,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARIANNE SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            687158M",
+        "address": "FLAT2B,ST.PAULS'MANSIONS,TA'XBIEXSEAFRONT,TA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARIANNE SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            687158M",
+        "address": "FLAT2B,ST.PAULS'MANSIONS,TA'XBIEXSEAFRONT,TA'XBIEXMALTA"
+      },
+      {
+        "name": "STEPHEN SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            515359M",
+        "address": "FLT2,BLKB,ST.PAUL'SMANSIONS,IX-XATTTA'XBIEX,TA'XBIEXMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARIANNE SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            687158M",
+        "address": "FLAT2B,ST.PAULS'MANSIONS,TA'XBIEXSEAFRONT,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAURICE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            678332M",
+        "address": "53,GORGBORGOLIVIERSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "MARISA GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            735260M",
+        "address": "22,TORRIGAUCISTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "ARIANNE SAMUT TAGLIAFERRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            687158M",
+        "address": "FLAT2B,ST.PAULS'MANSIONS,TA'XBIEXSEAFRONT,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 960
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "DEAN HAMLET APARTHOTEL TRIQ IL-QALIET",
+  "company_id": "C 44162",
+  "registration_date": "May 05, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

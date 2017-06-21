@@ -1,0 +1,78 @@
+{
+  "company_id": "C 60851",
+  "address": "4, TRIQ L-ISQOF PACE,",
+  "name": "BRITANNIA MARITIME SECURITY LIMITED",
+  "locality": "MELLIEHA",
+  "status": "",
+  "registration_date": "Jun 17, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "STUART NIVEN\r",
+        "party_id": "                                                            099030262",
+        "address": "FLAT8,83LANCEFIELDQUAYGLASGOWG38HAUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STUART NIVEN\r",
+        "party_id": "                                                            099030262",
+        "address": "FLAT8,83LANCEFIELDQUAYGLASGOWG38HAUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STUART NIVEN\r",
+        "party_id": "                                                            099030262",
+        "address": "FLAT8,83LANCEFIELDQUAYGLASGOWG38HAUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STUART NIVEN\r",
+        "party_id": "                                                            099030262",
+        "address": "FLAT8,83LANCEFIELDQUAYGLASGOWG38HAUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STUART NIVEN\r",
+        "party_id": "                                                            099030262",
+        "address": "FLAT8,83LANCEFIELDQUAYGLASGOWG38HAUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAUL MIFSUD\r",
+        "party_id": "                                                            10635",
+        "address": "SHAMROCK,TRIQTA'MASRIJA,MELLIEHAMLH1636MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

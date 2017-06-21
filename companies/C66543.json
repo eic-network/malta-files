@@ -1,0 +1,88 @@
+{
+  "name": "BELVIA HOLDING LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IAN CONNOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099139941",
+        "address": "34,QUAIJEANCHARLESREY,EDENSTAR,MONACO98000MONACO"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            528868767",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IAN CONNOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099139941",
+        "address": "34,QUAIJEANCHARLESREY,EDENSTAR,MONACO98000MONACO"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            528868767",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA ANGELA STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61673M",
+        "address": "GOLDBLOCK2,FLAT2,TRIQIS-SNAJJA,MSIDAMSD1113MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IAN CONNOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099139941",
+        "address": "34,QUAIJEANCHARLESREY,EDENSTAR,MONACO98000MONACO"
+      },
+      {
+        "name": "MELVIN JOHN ROBERTS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            528868767",
+        "address": "33,GLENDEAN,FLAT4,TRIQGHARUCASA,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IAN CONNOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099139941",
+        "address": "34,QUAIJEANCHARLESREY,EDENSTAR,MONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "4TH FLOOR, AVENTECH BUILDING ST. JULIAN'S ROAD",
+  "company_id": "C 66543",
+  "registration_date": "Oct 08, 2014",
+  "shares_currency": "USD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 10000
+}

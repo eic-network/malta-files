@@ -1,0 +1,89 @@
+{
+  "name": "BIRCH FIELDS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 499,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MERIAM SARAH DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            020346324",
+        "address": "1,MILLLANE,KINGSTHORPE,NN26AP,NORTHAMPTONUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MERIAM SARAH DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            020346324",
+        "address": "1,MILLLANE,KINGSTHORPE,NN26AP,NORTHAMPTONUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MERIAM SARAH DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            020346324",
+        "address": "1,MILLLANE,KINGSTHORPE,NN26AP,NORTHAMPTONUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MERIAM SARAH DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            020346324",
+        "address": "1,MILLLANE,KINGSTHORPE,NN26AP,NORTHAMPTONUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA DOLORES DARMANIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599463",
+        "address": "47,TRIQTONYPACE,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MERIAM SARAH DICKENS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            020346324",
+        "address": "1,MILLLANE,KINGSTHORPE,NN26AP,NORTHAMPTONUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "48/1, ST. ZACHARY STREET,",
+  "company_id": "C 34444",
+  "registration_date": "Aug 09, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,99 @@
+{
+  "company_id": "C 65515",
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA,",
+  "name": "BRIKKO HOLDINGS LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Jun 06, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 4,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 4
+    },
+    {
+      "authorised_share_capital": 1161,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1161
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARLOS ALBERTO DA COSTA FORTUNAS\r",
+        "party_id": "                                                            L826783",
+        "address": "RUADAFONTE,NO12,BICO,AMARES4720-161PORTUGAL",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "name": "MARTINHO GAMA LEAO\r",
+        "party_id": "                                                            L817092",
+        "address": "RUASDASPALMEIRAS,NO.916,QUNITADAMARINHA,CASCAIS2750-005PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOAO MANUEL GAMA LEAO\r",
+        "party_id": "                                                            L656601",
+        "address": "RUAPROF.MARCELOCAETANO,NO4,BELOURAII,LINHO,SINTRA2710686PORTUGAL",
+        "nationality": "PORTUGUESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MARTINHO GAMA LEAO\r",
+        "party_id": "                                                            L817092",
+        "address": "RUASDASPALMEIRAS,NO.916,QUNITADAMARINHA,CASCAIS2750-005PORTUGAL",
+        "nationality": "PORTUGUESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 116,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARLOS ALBERTO DA COSTA FORTUNAS\r",
+        "party_id": "                                                            L826783",
+        "address": "RUADAFONTE,NO12,BICO,AMARES4720-161PORTUGAL",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "name": "MARTINHO GAMA LEAO\r",
+        "party_id": "                                                            L817092",
+        "address": "RUASDASPALMEIRAS,NO.916,QUNITADAMARINHA,CASCAIS2750-005PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARLOS ALBERTO DA COSTA FORTUNAS\r",
+        "party_id": "                                                            L826783",
+        "address": "RUADAFONTE,NO12,BICO,AMARES4720-161PORTUGAL",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "name": "MARTINHO GAMA LEAO\r",
+        "party_id": "                                                            L817092",
+        "address": "RUASDASPALMEIRAS,NO.916,QUNITADAMARINHA,CASCAIS2750-005PORTUGAL",
+        "nationality": "PORTUGUESE"
+      }
+    ]
+  }
+}

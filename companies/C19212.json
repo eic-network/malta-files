@@ -1,0 +1,83 @@
+{
+  "name": "BILICE SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VITOMIR JURAGA",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "JOSKO JURIC",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "ZORAN KNEZEVIC",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "IVO KRNIC",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "DRAGAN ZRNCEVIC",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "S P HOLDING S A",
+        "nationality": "",
+        "party_id": "",
+        "address": "69ROUTEDESCHLUXEMBOURGLUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 495
+        }
+      },
+      {
+        "name": "S.P. SHIPPING (MALTA) LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 13171",
+        "address": "VALLETTABUILDING,54,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 19212",
+  "registration_date": "Oct 12, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

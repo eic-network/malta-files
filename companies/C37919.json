@@ -1,0 +1,75 @@
+{
+  "name": "ASTEROPE INVESTMENTS LIMITED",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KARL J CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113471M",
+        "address": "144,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KARL J CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113471M",
+        "address": "144,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KARL J CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113471M",
+        "address": "144,ST.MARYSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GABRIELLE BUSUTTL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254075M",
+        "address": "38,GUZEPACESTREET,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "KARL J CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113471M",
+        "address": "144,ST.MARYSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "144, ST. MARY STREET,",
+  "company_id": "C 37919",
+  "registration_date": "Feb 01, 2006",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

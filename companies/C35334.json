@@ -1,0 +1,134 @@
+{
+  "name": "BMS LIMITED",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 520,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 520,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 980,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 980,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      },
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERNARD ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            232284M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 520
+        }
+      },
+      {
+        "name": "SOLANGE ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            339585M",
+        "address": "SANANDREACRT,BLKC,FLAT8,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "MARY k/a MARIELLA ARPA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            765457M",
+        "address": "SANANDREACRTBLKC,FLAT7,TRIQSANTANDRIJA,SWIEQISWQ9026MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 980
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "20, FLAT 5, TRIQ MANWEL DIMECH,",
+  "company_id": "C 35334",
+  "registration_date": "Dec 23, 2004",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

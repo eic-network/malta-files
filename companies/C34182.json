@@ -1,0 +1,101 @@
+{
+  "name": "ANG TRADING LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTINE CAMPION\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500272368",
+        "address": "APARTMENT9014,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "ROBERT LEE WOOLLAM\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500263256",
+        "address": "APARTMENT6011,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTINE CAMPION\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500272368",
+        "address": "APARTMENT9014,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "ROBERT LEE WOOLLAM\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500263256",
+        "address": "APARTMENT6011,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTINE CAMPION\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500272368",
+        "address": "APARTMENT9014,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "ROBERT LEE WOOLLAM\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500263256",
+        "address": "APARTMENT6011,GROSVENORHOUSE,WESTBEACHMARINA,P.O.BOX118500,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PARK STREET LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28603",
+        "address": "81-83ST.PAULSTREETVALLETTAVLT07MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "81-83, ST PAUL STREET,",
+  "company_id": "C 34182",
+  "registration_date": "Jun 23, 2004",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

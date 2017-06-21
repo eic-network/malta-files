@@ -1,0 +1,101 @@
+{
+  "name": "BEAT ROCK LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      },
+      {
+        "name": "RUGGERO VENTURINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126910A",
+        "address": "APARTMENT42,DOLMENCOURT,TRIQIL-KURAZZA,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      },
+      {
+        "name": "RUGGERO VENTURINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126910A",
+        "address": "APARTMENT42,DOLMENCOURT,TRIQIL-KURAZZA,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      },
+      {
+        "name": "RUGGERO VENTURINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126910A",
+        "address": "APARTMENT42,DOLMENCOURT,TRIQIL-KURAZZA,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "RUGGERO VENTURINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            126910A",
+        "address": "APARTMENT42,DOLMENCOURT,TRIQIL-KURAZZA,QAWRA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 76070",
+  "registration_date": "Jun 16, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

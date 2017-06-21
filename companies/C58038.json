@@ -1,0 +1,75 @@
+{
+  "name": "AUJOFA SPORT LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDERSON JAVITE\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            YA191384",
+        "address": "CHUCARRO1061/102,MONTEVIDEOURUGUAY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDERSON JAVITE\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            YA191384",
+        "address": "CHUCARRO1061/102,MONTEVIDEOURUGUAY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDERSON JAVITE\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            YA191384",
+        "address": "CHUCARRO1061/102,MONTEVIDEOURUGUAY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "YANAI COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58034",
+        "address": "SUSANCOURT,B1,TRIQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "ANDERSON JAVITE\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            YA191384",
+        "address": "CHUCARRO1061/102,MONTEVIDEOURUGUAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA,",
+  "company_id": "C 58038",
+  "registration_date": "Oct 29, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

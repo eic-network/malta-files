@@ -1,0 +1,78 @@
+{
+  "name": "API Investments Limited",
+  "total_issued_shares_value": 1800,
+  "total_authorised_shares_value": 1800,
+  "authorised_shares": [
+    {
+      "issued_shares": 1800,
+      "type": "Ordinary",
+      "authorised_share_capital": 1800,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "67,FLAT32,GORGBORGOLIVIERSTREET,ST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KRZYSZTOF POSTRZYGACZ\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED2597367",
+        "address": "RYMARSKASTREET,1,WARSAWPOLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KRZYSZTOF POSTRZYGACZ\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED2597367",
+        "address": "RYMARSKASTREET,1,WARSAWPOLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258781M",
+        "address": "64/1AGITONBUILDING,SUITE3,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KRZYSZTOF POSTRZYGACZ\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED2597367",
+        "address": "RYMARSKASTREET,1,WARSAWPOLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KRZYSZTOF POSTRZYGACZ\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            ED2597367",
+        "address": "RYMARSKASTREET,1,WARSAWPOLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1800,
+  "address": "66, OLD BAKERY STREET,",
+  "company_id": "C 53494",
+  "registration_date": "Jul 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1800
+}

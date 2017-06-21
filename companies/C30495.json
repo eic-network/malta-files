@@ -1,0 +1,101 @@
+{
+  "company_id": "C 30495",
+  "address": "22, TRIQ SAN ANTON,",
+  "name": "BRIKS LTD",
+  "locality": "ATTARD",
+  "status": "",
+  "registration_date": "Nov 01, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRITA HIRSCH\r",
+        "party_id": "                                                            1131239334",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      },
+      {
+        "name": "VOLKER HIRSCH\r",
+        "party_id": "                                                            3528004909",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRITA HIRSCH\r",
+        "party_id": "                                                            1131239334",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "VOLKER HIRSCH\r",
+        "party_id": "                                                            3528004909",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRITA HIRSCH\r",
+        "party_id": "                                                            1131239334",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      },
+      {
+        "name": "VOLKER HIRSCH\r",
+        "party_id": "                                                            3528004909",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRITA HIRSCH\r",
+        "party_id": "                                                            1131239334",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      },
+      {
+        "name": "VOLKER HIRSCH\r",
+        "party_id": "                                                            3528004909",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VOLKER HIRSCH\r",
+        "party_id": "                                                            3528004909",
+        "address": "22,TRIQSANANTON,ATTARDMALTA",
+        "nationality": "GERMAN"
+      }
+    ]
+  }
+}

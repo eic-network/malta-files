@@ -1,0 +1,81 @@
+{
+  "name": "BLUE YACHTING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEVEN PAUL BINCH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            112346931",
+        "address": "HOPWELLHALL,OCKBROOK,DERBYSHIREDE723RWUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEVEN PAUL BINCH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            112346931",
+        "address": "HOPWELLHALL,OCKBROOK,DERBYSHIREDE723RWUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEVEN PAUL BINCH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            112346931",
+        "address": "HOPWELLHALL,OCKBROOK,DERBYSHIREDE723RWUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEVEN PAUL BINCH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            112346931",
+        "address": "HOPWELLHALL,OCKBROOK,DERBYSHIREDE723RWUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "TREVOR LEGGETT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            460041439",
+        "address": "LOWFARMHOUSE,CLAYTONWITHFRICKLEY,DONCASTERDN57DBUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 3, THEUMA HOUSE, 302, ST. PAUL STREET,",
+  "company_id": "C 64218",
+  "registration_date": "Mar 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

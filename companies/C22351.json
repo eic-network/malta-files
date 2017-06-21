@@ -1,0 +1,70 @@
+{
+  "company_id": "C 22351",
+  "address": "66, OLD BAKERY STREET",
+  "name": "BRAHM SHIPPING COMPANY LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jan 06, 1998",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.68,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MESSRS MARITEC NV\r",
+        "party_id": "                                                             0460.094.952",
+        "address": "ERNESTVANDIJCKKAAL10B-2000ANTWERPBELGIUM",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SUDRING HOLDING S.A.\r",
+        "party_id": "                                                            B107508",
+        "address": "147,RUEDEWARKENETTELBRUCKL-9088LUXEMBOURG",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MESSRS MARITEC NV\r",
+        "party_id": "                                                             0460.094.952",
+        "address": "ERNESTVANDIJCKKAAL10B-2000ANTWERPBELGIUM",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MESSRS MARITEC NV\r",
+        "party_id": "                                                             0460.094.952",
+        "address": "ERNESTVANDIJCKKAAL10B-2000ANTWERPBELGIUM",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT TUFIGNO\r",
+        "party_id": "                                                            191657M",
+        "address": "66,OLDBAKERYSTREET,VALLETTAVLT09MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

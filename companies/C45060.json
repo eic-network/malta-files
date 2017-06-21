@@ -1,0 +1,101 @@
+{
+  "name": "ATASTA TELEMARKETING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1.2
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LAURA ALVARADO SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            110380486",
+        "address": "SANTAANACENTRO,DELCICLOGIULLY,300METERSNORTH,200EASTAND75METERSNORTH,SANJOSECOSTARICA"
+      },
+      {
+        "name": "JAIME AVILA SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            602420755",
+        "address": "MOUNTAINVIEWHOMES6SANTABARBARADEHEREDIACOSTARICACOSTARICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAURA ALVARADO SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            110380486",
+        "address": "SANTAANACENTRO,DELCICLOGIULLY,300METERSNORTH,200EASTAND75METERSNORTH,SANJOSECOSTARICA"
+      },
+      {
+        "name": "JAIME AVILA SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            602420755",
+        "address": "MOUNTAINVIEWHOMES6SANTABARBARADEHEREDIACOSTARICACOSTARICA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JAIME AVILA SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            602420755",
+        "address": "MOUNTAINVIEWHOMES6SANTABARBARADEHEREDIACOSTARICACOSTARICA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAURA ALVARADO SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            110380486",
+        "address": "SANTAANACENTRO,DELCICLOGIULLY,300METERSNORTH,200EASTAND75METERSNORTH,SANJOSECOSTARICA"
+      },
+      {
+        "name": "JAIME AVILA SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            602420755",
+        "address": "MOUNTAINVIEWHOMES6SANTABARBARADEHEREDIACOSTARICACOSTARICA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSE ALFREDO ALVARADO CAMPOS\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            D867883",
+        "address": "1KM.NORTHFORBARLAAMISTADBIRRIDESANTABARBARADEHEREDIACOSTARICACOSTARICA",
+        "shares": {
+          "nominal_value_per_share": 1.2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JAIME AVILA SEGURA\r",
+        "nationality": "COSTA RICAN",
+        "party_id": "                                                            602420755",
+        "address": "MOUNTAINVIEWHOMES6SANTABARBARADEHEREDIACOSTARICACOSTARICA",
+        "shares": {
+          "nominal_value_per_share": 1.2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 45060",
+  "registration_date": "Sep 04, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "BLUE GATE SHIPPING CO. LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "SIMON VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215965M",
+        "address": "76TRIQL-GHENIEQEDATTARDATD2661MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MUSTAFA KEMAL USTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U06127114",
+        "address": "BASRIDIRIMLILISOKAK,KORFEZAPT.NO:3,D.6,KALAMIS,KADIKOY,ISTANBUL34726TURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "HUSEYIN UYSAL\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            S01126313",
+        "address": "ALTUNIZADEMAHALLESI,ATIFBEYSOKAK,CAMLIKSITESI,11-EBLOK,DAIRE,USKUDAR,ISTANBUL434662TURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STR.,",
+  "company_id": "C 30555",
+  "registration_date": "Nov 26, 2002",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

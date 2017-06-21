@@ -1,0 +1,89 @@
+{
+  "name": "ANING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            623481M",
+        "address": "'RIHAN',TRIQIL-BALLOTRA,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRIDRIK JOHANNSSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A3092924",
+        "address": "27PARKSIDEPLACECAMBRIDGECB11HQUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1800
+        }
+      },
+      {
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57697",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "CORNERSTONE BUSINESS CENTRE, SUITE 1, LEVEL 2, 16TH SEPTEMBER SQUARE",
+  "company_id": "C 72186",
+  "registration_date": "Sep 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

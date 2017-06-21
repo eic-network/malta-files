@@ -1,0 +1,83 @@
+{
+  "name": "BAIE DE CANNES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEFAN DURINA\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BF1181397",
+        "address": "PUSKINOVA2,STAREMESTOKOSICE04001SLOVAKIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFAN DURINA\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BF1181397",
+        "address": "PUSKINOVA2,STAREMESTOKOSICE04001SLOVAKIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04488",
+        "address": "31OAKHILLAPTSTRIQSCICLUNASLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFAN DURINA\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BF1181397",
+        "address": "PUSKINOVA2,STAREMESTOKOSICE04001SLOVAKIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TURBADO HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            133668",
+        "address": "306,VICTORIAHOUSE,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080
+        }
+      },
+      {
+        "name": "STEFAN DURINA\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            BF1181397",
+        "address": "PUSKINOVA2,STAREMESTO,KOSICE04001SLOVAKIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "8, TRIQ IL-QALB IMQADDSA,",
+  "company_id": "C 64038",
+  "registration_date": "Feb 26, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

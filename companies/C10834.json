@@ -1,0 +1,114 @@
+{
+  "name": "AMICABLE COMMERCIAL COMPANY LIMITED",
+  "total_issued_shares_value": 93174.92,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITA HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54962M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            733959M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA"
+      },
+      {
+        "name": "RITA HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54962M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            733959M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA"
+      },
+      {
+        "name": "RITA HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54962M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            733959M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "RITA HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54962M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "CHRISTOPHER HAMMETT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            578884M",
+        "address": "53HIGHSTREETSLIEMASLM1543MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "1 PARISH STREET",
+  "company_id": "C 10834",
+  "registration_date": "Jul 24, 1989",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

@@ -1,0 +1,125 @@
+{
+  "name": "AmiraKPO Middle East Limited",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 120000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 120000,
+      "nominal_value_per_share": 0.01
+    },
+    {
+      "issued_shares": 80000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 80000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LAWRENCE KAYABLIAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            488786078",
+        "address": "6005ARCHSTONEWAYAPT207ALEXANDRIAVA22310UNITEDSTATES"
+      },
+      {
+        "name": "VICTOR KOEKKOEK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BGHP3C516",
+        "address": "APT3,GEORGEYOUSSEFBUILDING,LEARNINGINSTITUTE,ZOUKAL-KHARABDBAYEHLEBANON"
+      },
+      {
+        "name": "FORD G. NICHOLSON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA728678",
+        "address": "1940,INGLEWOODAVENUE,WESTVANCOUVER,BRITISHCOLUMBIAV7V1Z3CANADA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAWRENCE KAYABLIAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            488786078",
+        "address": "6005ARCHSTONEWAYAPT207ALEXANDRIAVA22310UNITEDSTATES"
+      },
+      {
+        "name": "VICTOR KOEKKOEK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BGHP3C516",
+        "address": "APT3,GEORGEYOUSSEFBUILDING,LEARNINGINSTITUTE,ZOUKAL-KHARABDBAYEHLEBANON"
+      },
+      {
+        "name": "FORD G. NICHOLSON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA728678",
+        "address": "1940,INGLEWOODAVENUE,WESTVANCOUVER,BRITISHCOLUMBIAV7V1Z3CANADA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MURRAY GUINN FLANIGAN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GC377955",
+        "address": "SUITE2103-1189MELVILLESTREET,VANCOUVER,BRITISHCOLUMBIACANADA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAWRENCE KAYABLIAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            488786078",
+        "address": "6005ARCHSTONEWAYAPT207ALEXANDRIAVA22310UNITEDSTATES"
+      },
+      {
+        "name": "VICTOR KOEKKOEK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BGHP3C516",
+        "address": "APT3,GEORGEYOUSSEFBUILDING,LEARNINGINSTITUTE,ZOUKAL-KHARABDBAYEHLEBANON"
+      },
+      {
+        "name": "FORD G. NICHOLSON\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA728678",
+        "address": "1940,INGLEWOODAVENUE,WESTVANCOUVER,BRITISHCOLUMBIAV7V1Z3CANADA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "K&P ATLANTIC LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 53096",
+        "address": "20/1,REPUBLICSTREET,VALLETTAVLT1111MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BABYLON PETROLEUM LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE302938",
+        "address": "THEMISTOKLIDERVI5,ELENIONBUILDING,2NDFLOOR,1066,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 119999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "LEVEL 13, PORTOMASO BUSINESS TOWER, PORTOMASO,",
+  "company_id": "C 57189",
+  "registration_date": "Aug 08, 2012",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1000000000
+}

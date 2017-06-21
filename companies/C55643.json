@@ -1,0 +1,78 @@
+{
+  "name": "AORTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GIOVANNI LEONARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            C507703",
+        "address": "22,VIAGIULIOCESAREGRAZIANI,ROME00166ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI LEONARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            C507703",
+        "address": "22,VIAGIULIOCESAREGRAZIANI,ROME00166ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI LEONARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            C507703",
+        "address": "22,VIAGIULIOCESAREGRAZIANI,ROME00166ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI LEONARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            C507703",
+        "address": "22,VIAGIULIOCESAREGRAZIANI,ROME00166ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIOVANNI LEONARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            C507703",
+        "address": "22,VIAGIULIOCESAREGRAZIANI,ROME00166ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2,  VALLETTA WATERFRONT,",
+  "company_id": "C 55643",
+  "registration_date": "Mar 15, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

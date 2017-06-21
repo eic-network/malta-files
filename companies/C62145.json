@@ -1,0 +1,115 @@
+{
+  "name": "ARZELLA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "PROVIDENCE,104,TRIQIL-QROLL,BIRZEBBUGIABBG2242MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FERNANDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0938806",
+        "address": "VILLAMERHBATRIQGORGZAHRALUQAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "OMAR ALI AREBI GHRADA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            507853",
+        "address": "OMARGHRADAHOUSEABIDRUBASTREET,HILANDALUSTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "OMAR ALI AREBI GHRADA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            507853",
+        "address": "OMARGHRADAHOUSEABIDRUBASTREET,HILANDALUSTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA"
+      },
+      {
+        "name": "OMAR ALI AREBI GHRADA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            507853",
+        "address": "OMARGHRADAHOUSEABIDRUBASTREET,HILANDALUSTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIGIDA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            490763M",
+        "address": "VILLAMERHBA,GORGZAHRASTREET,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "OMAR ALI AREBI GHRADA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            507853",
+        "address": "OMARGHRADAHOUSEABIDRUBASTREET,HILANDALUSTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "40, INDUSTRIAL ESTATE",
+  "company_id": "C 62145",
+  "registration_date": "Oct 08, 2013",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

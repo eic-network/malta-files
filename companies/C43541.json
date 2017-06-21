@@ -1,0 +1,83 @@
+{
+  "name": "AVATAR LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANASTASIA LESNIKOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25227A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANASTASIA LESNIKOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25227A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANASTASIA LESNIKOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25227A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANASTASIA LESNIKOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25227A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAXIM KORENKOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25226A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ANASTASIA LESNIKOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            25227A",
+        "address": "APARTMENT29,BLOCKC,SUSSEXHOUSE,TA'L-IBRAGGROAD,IBRAGG,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "APARTMENT 29, BLOCK C, SUSSEX HOUSE, TA' L-IBRAGG ROAD, IBRAGG,",
+  "company_id": "C 43541",
+  "registration_date": "Feb 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1250
+}

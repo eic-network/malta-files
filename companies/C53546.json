@@ -1,0 +1,133 @@
+{
+  "name": "BLYE CO. LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MIREILLE MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            250084M",
+        "address": "WESTFORESTFLAT4,TRIQIL-KUKKANJA,SANTAVENERAMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "CHANTALLE MALLIA FONDE'\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329786M",
+        "address": "10,JACARANDA,TRIQL-BOSFRU,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MIREILLE MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            250084M",
+        "address": "WESTFORESTFLAT4,TRIQIL-KUKKANJA,SANTAVENERAMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "CHANTALLE MALLIA FONDE'\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329786M",
+        "address": "10,JACARANDA,TRIQL-BOSFRU,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MIREILLE MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            250084M",
+        "address": "WESTFORESTFLAT4,TRIQIL-KUKKANJA,SANTAVENERAMALTA"
+      },
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "CHANTALLE MALLIA FONDE'\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329786M",
+        "address": "10,JACARANDA,TRIQL-BOSFRU,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAY MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19759M",
+        "address": "'BLYE',NAXXARROAD,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "PAULINE CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554460M",
+        "address": "21/9,TIGNESEAFRONT,SLIEMASLM15MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "TRIQ TAL-BALAL,",
+  "company_id": "C 53546",
+  "registration_date": "Aug 04, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 10000
+}

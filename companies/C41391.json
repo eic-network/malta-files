@@ -1,0 +1,101 @@
+{
+  "name": "BIG BLUE LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEKSANDRA JOVCIC\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            0033882A",
+        "address": "FLAT4,'PALMCOURT',TRIQIL-LAMPARA,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "ZORAN RANKOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            0032904A",
+        "address": "FLAT5,'BASTIONVIEW',CENSUXERRISTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEKSANDRA JOVCIC\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            0033882A",
+        "address": "FLAT4,'PALMCOURT',TRIQIL-LAMPARA,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "ZORAN RANKOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            0032904A",
+        "address": "FLAT5,'BASTIONVIEW',CENSUXERRISTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEKSANDRA JOVCIC\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            0033882A",
+        "address": "FLAT4,'PALMCOURT',TRIQIL-LAMPARA,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEKSANDRA JOVCIC\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            0033882A",
+        "address": "FLAT4,'PALMCOURT',TRIQIL-LAMPARA,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "ZORAN RANKOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            0032904A",
+        "address": "FLAT5,'BASTIONVIEW',CENSUXERRISTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEKSANDRA JOVCIC\r",
+        "nationality": "YUGOSLAV",
+        "party_id": "                                                            0033882A",
+        "address": "FLAT4,'PALMCOURT',TRIQIL-LAMPARA,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ZORAN RANKOVIC\r",
+        "nationality": "SERBIAN",
+        "party_id": "                                                            0032904A",
+        "address": "FLAT5,'BASTIONVIEW',CENSUXERRISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "FLAT 4, 'BASTION VIEW', TRIQ CENSU XERRI,",
+  "company_id": "C 41391",
+  "registration_date": "May 16, 2007",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,115 @@
+{
+  "name": "BM&C LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9TIGNESEAFRONTSLIEMASLM3011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9TIGNESEAFRONTSLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ANDREIA PATRICIA BERBERAN FRAGOSO DOS SANTOS SILVA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            11539823/6ZZ0",
+        "address": "RUACIDADESPAULO,251BSAOMARCOS,CACEM2735-656PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9TIGNESEAFRONTSLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ANDREIA PATRICIA BERBERAN FRAGOSO DOS SANTOS SILVA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            11539823/6ZZ0",
+        "address": "RUACIDADESPAULO,251BSAOMARCOS,CACEM2735-656PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "SUITE8,TA'MALLIABUILDINGS,TRIQIN-NEGOZJU,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9TIGNESEAFRONTSLIEMASLM3011MALTA"
+      },
+      {
+        "name": "ANDREIA PATRICIA BERBERAN FRAGOSO DOS SANTOS SILVA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            11539823/6ZZ0",
+        "address": "RUACIDADESPAULO,251BSAOMARCOS,CACEM2735-656PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CBM Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 63972",
+        "address": "THEPLAZACOMMERCIALCENTRE,LEVEL8,SUITE5,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9TIGNESEAFRONTSLIEMASLM3011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PLAZA COMMERCIAL CENTRE LEVEL 8, SUITE 5, BISAZZA STREET",
+  "company_id": "C 64207",
+  "registration_date": "Mar 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

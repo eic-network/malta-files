@@ -1,0 +1,84 @@
+{
+  "name": "BABEL MARKETING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JONATHAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120778M",
+        "address": "NO.33,BEATRIXDORGASTREETATTARDATD1932MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120778M",
+        "address": "NO.33,BEATRIXDORGASTREETATTARDATD1932MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120778M",
+        "address": "NO.33,BEATRIXDORGASTREETATTARDATD1932MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120778M",
+        "address": "NO.33,BEATRIXDORGASTREETATTARDATD1932MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JONATHAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120778M",
+        "address": "NO.33BEATRIX,DORGASTREETATTARDATD1932MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, STUDIO 4, LE MERIDIEN HOTEL & SPA, BALLUTA BAY,",
+  "company_id": "C 62416",
+  "registration_date": "Oct 30, 2013",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

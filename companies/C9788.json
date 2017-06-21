@@ -1,0 +1,83 @@
+{
+  "name": "A & B PROPERTIES LIMITED",
+  "total_issued_shares_value": 209643.57,
+  "total_authorised_shares_value": 209643.57,
+  "authorised_shares": [
+    {
+      "issued_shares": 90000,
+      "type": "Ordinary",
+      "authorised_share_capital": 90000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23358G",
+        "address": "'DEROWELL',OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23358G",
+        "address": "'DEROWELL',OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARMANIN CAUCHI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/78",
+        "address": "75,VJALKOTTONER,FGURAFGR1386MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23358G",
+        "address": "'DEROWELL',OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23358G",
+        "address": "'DEROWELL',OLDRAILWAYTRACK,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 89999
+        }
+      },
+      {
+        "name": "MICHAELANGELA MIZZI\r",
+        "nationality": "",
+        "party_id": "                                                            62160G",
+        "address": "DEROWEL,TRIQIL-LINJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 90000,
+  "address": "ST MARK HEALTH CLINIC CENTRE CLARENCE STREET",
+  "company_id": "C 9788",
+  "registration_date": "Jul 11, 1988",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 90000
+}

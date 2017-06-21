@@ -1,0 +1,91 @@
+{
+  "company_id": "C 59577",
+  "address": "LES CAMILLES, FRANGISKU PISANI STREET,",
+  "name": "BROKER SUPPORT SERVICES LIMITED",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Mar 06, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NADIA FALZON\r",
+        "party_id": "                                                            312077M",
+        "address": "ERIA,P.BRYDONESTREET,SANPAWLTAT-TARGA,NAXXARNXR2320MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FAEU COMMERCIAL BROKER LLC\r",
+        "party_id": "                                                            1108026",
+        "address": "16THFLOOR,U-BORATOWERS,BUSINESSBAY,DUBAIUNITEDARABEMIRATES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ROHANNI INVESTMENTS LIMITED\r",
+        "party_id": "                                                            E 36297",
+        "address": "POBOX170,2NDFLOOR,YELLOW&SONSBUIILDINGS,OFFOLDAIRPORTROAD,GRANDTURKTURKSANDCAICOSISLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NADIA FALZON\r",
+        "party_id": "                                                            312077M",
+        "address": "ERIA,P.BRYDONESTREET,SANPAWLTAT-TARGA,NAXXARNXR2320MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NADIA FALZON\r",
+        "party_id": "                                                            312077M",
+        "address": "ERIA,P.BRYDONESTREET,SANPAWLTAT-TARGA,NAXXARNXR2320MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL FALZON\r",
+        "party_id": "                                                            369576M",
+        "address": "ERIA,P.BRYDONESTREET,SANPAWLTAT-TARGA,NAXXARNXR2320MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

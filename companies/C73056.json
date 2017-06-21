@@ -1,0 +1,101 @@
+{
+  "name": "BOMA LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HIELKE BOOIJINK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BV99PL040",
+        "address": "VEERSTRAAT42-3,1075SWAMSTERDAMNETHERLANDS"
+      },
+      {
+        "name": "ARJAN MASTWIJK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NTRDPK6R4",
+        "address": "1607KATERSTREET,PHILADELPHIA19146PAUNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HIELKE BOOIJINK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BV99PL040",
+        "address": "VEERSTRAAT42-3,1075SWAMSTERDAMNETHERLANDS"
+      },
+      {
+        "name": "ARJAN MASTWIJK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NTRDPK6R4",
+        "address": "1607KATERSTREET,PHILADELPHIA19146PAUNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DESIREE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175178M",
+        "address": "CHAMONIX,KAHWIELASTREET,ZABBARZBR3610MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HIELKE BOOIJINK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            BV99PL040",
+        "address": "VEERSTRAAT42-3,1075SWAMSTERDAMNETHERLANDS"
+      },
+      {
+        "name": "ARJAN MASTWIJK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NTRDPK6R4",
+        "address": "1607KATERSTREET,PHILADELPHIA19146PAUNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOMA TRADING B.V.\r",
+        "nationality": "",
+        "party_id": "                                                            58148612",
+        "address": "VEERSTRAAT42-3,1075SWAMSTERDAMNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "ARJAN MASTWIJK\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NTRDPK6R4",
+        "address": "1607KATERSTREET,PHILADELPHIA19146PAUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "11, TRIQ MONSIGUR INNOCENZ ZAMMIT",
+  "company_id": "C 73056",
+  "registration_date": "Nov 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

@@ -1,0 +1,133 @@
+{
+  "name": "ARRIBACOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157367M",
+        "address": "XANDRIJA,TRIQJEANDELAVALETTE,NAXXARNXR1205MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NIGEL DAVID DOWNTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            516561259",
+        "address": "VALEHOUSE,FLATFORDLANE,EASTBERGHOLT,COLCHESTERCO76UNUNITEDKINGDOM"
+      },
+      {
+        "name": "ERIC AUGUST POMEROY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214813685",
+        "address": "823AMERICAWAY,DELMAR,CALIFORNIA92014UNITEDSTATES"
+      },
+      {
+        "name": "TIMOTHY ROBIN WILLIAMS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500751906",
+        "address": "64,SHEENPARK,RICHMOND,SURREYTW91UPUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NIGEL DAVID DOWNTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            516561259",
+        "address": "VALEHOUSE,FLATFORDLANE,EASTBERGHOLT,COLCHESTERCO76UNUNITEDKINGDOM"
+      },
+      {
+        "name": "ERIC AUGUST POMEROY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214813685",
+        "address": "823AMERICAWAY,DELMAR,CALIFORNIA92014UNITEDSTATES"
+      },
+      {
+        "name": "TIMOTHY ROBIN WILLIAMS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500751906",
+        "address": "64,SHEENPARK,RICHMOND,SURREYTW91UPUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NIGEL DAVID DOWNTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            516561259",
+        "address": "VALEHOUSE,FLATFORDLANE,EASTBERGHOLT,COLCHESTERCO76UNUNITEDKINGDOM"
+      },
+      {
+        "name": "ERIC AUGUST POMEROY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214813685",
+        "address": "823AMERICAWAY,DELMAR,CALIFORNIA92014UNITEDSTATES"
+      },
+      {
+        "name": "TIMOTHY ROBIN WILLIAMS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            500751906",
+        "address": "64,SHEENPARK,RICHMOND,SURREYTW91UPUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARX TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 31448",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "QUANTUM PARTNERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51975",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "30, KENILWORTH/1, TRIQ SIR AUGUSTUS BARTOLO,",
+  "company_id": "C 67171",
+  "registration_date": "Oct 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Aqua free Capital Limited",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "NOEL MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            555747M",
+        "address": "13,DANIELSAMMUTSTREET,LIJAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER DIETER GUBERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            132134974",
+        "address": "BIESTERFELDWEG17HAMBURGGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER DIETER GUBERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            132134974",
+        "address": "BIESTERFELDWEG17HAMBURGGERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER DIETER GUBERAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            132134974",
+        "address": "BIESTERFELDWEG17HAMBURGGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AQUA FREE MEMBRANE TECHNOLOGY GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB 71955",
+        "address": "WARNSTEDTSTRASSE59HAMBURG22525GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "SECA ELECTROPLATING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32796",
+        "address": "UB6INDUSTRIALESTATESANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "ROSEDALE COURT NO. 3, BISHOP CARUANA STREET",
+  "company_id": "C 45099",
+  "registration_date": "Sep 12, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

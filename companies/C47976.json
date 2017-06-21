@@ -1,0 +1,109 @@
+{
+  "name": "Arco Real Estate Management Malta Limited",
+  "total_issued_shares_value": 25530,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 25529,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 199999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUAN CARLOS BOU\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            488809370",
+        "address": "COND.PLAZADELMARAPT.2305,NO.3001ISLAVERDEAVE.,CAROLINA,PUERTORICOPR00979UNITEDSTATES"
+      },
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            450857499",
+        "address": "29,DORADOBEACHEASTDORADOPR00646-2047PUERTORICO"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            450857499",
+        "address": "29,DORADOBEACHEASTDORADOPR00646-2047PUERTORICO"
+      },
+      {
+        "name": "JORGE RUBEN RODRIGUEZ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            208825628",
+        "address": "URB.ESTANCIASDELRIO,30TALLABOA,AGUASBUENAS,PUERTORICO00703-9624UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO NINO PIOVANETTI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            450857499",
+        "address": "29,DORADOBEACHEASTDORADOPR00646-2047PUERTORICO"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARCO REAL PROPERTY HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            WK-190252",
+        "address": "APPLEBYTRUST(CAYMAN)LTD,POBOX1350,CLIFTONHOUSE,75FORTSTREET,GEORGETOWN,GRANDCAYMANCAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25529
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25530,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 47976",
+  "registration_date": "Oct 19, 2009",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 200000
+}

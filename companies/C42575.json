@@ -1,0 +1,91 @@
+{
+  "name": "ANTIPODES Premium Wines Ltd",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHANNA THORSLUND MAJZNER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            SWE10747403",
+        "address": "EDSVIKSVAGEN67DANDERYD18238SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK PHILLIP MAJZNER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            SWE52578181",
+        "address": "EDSVIKSVAGEN67DANDERYD18238SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK PHILLIP MAJZNER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            SWE52578181",
+        "address": "EDSVIKSVAGEN67DANDERYD18238SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JAMES MATTHEW ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10227A",
+        "address": "27B,TRIQALFREDCAMILLERIATTARDATD1922MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARK PHILLIP MAJZNER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            SWE52578181",
+        "address": "EDSVIKSVAGEN67DANDERYD18238SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTIPODES Premium Wines (Holdings) Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 42561",
+        "address": "LEVEL1,TOWERBUSINESSCENTRE,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 199999
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "LEVEL 1, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR",
+  "company_id": "C 42575",
+  "registration_date": "Oct 11, 2007",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

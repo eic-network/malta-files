@@ -1,0 +1,90 @@
+{
+  "name": "AV HOLDINGS LIMITED",
+  "total_issued_shares_value": 2818.54,
+  "total_authorised_shares_value": 3028.18,
+  "authorised_shares": [
+    {
+      "issued_shares": 11,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 11,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1089,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1089,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 110,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 110,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            730056M",
+        "address": "21,'JOSETTE',TRIQL-ISTURJUN,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            730056M",
+        "address": "21,'JOSETTE',TRIQL-ISTURJUN,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            730056M",
+        "address": "21,'JOSETTE',TRIQL-ISTURJUN,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            730056M",
+        "address": "21,'JOSETTE',TRIQL-ISTURJUN,QAWRA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDOARDO COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5062",
+        "address": "JOSETTE,TRIQL-ISTURJUN,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 11
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1210,
+  "address": "CASA ANTONIA, POPE ALEXANDER VII JUNCTION",
+  "company_id": "C 30936",
+  "registration_date": "Feb 04, 2003",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1300
+}

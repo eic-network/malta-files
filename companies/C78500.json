@@ -1,0 +1,107 @@
+{
+  "name": "AMOREIRAS INVESTMENTS LIMITED",
+  "total_issued_shares_value": 3101,
+  "total_authorised_shares_value": 3101,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 31
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      },
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "PEARLCOURT,FL.3,TRIQL-ISPIERASWIEQISWQ3082MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      },
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "PEARLCOURT,FL.3,TRIQL-ISPIERASWIEQISWQ3082MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "PEARLCOURT,FL.3,TRIQL-ISPIERASWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      },
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "PEARLCOURT,FL.3,TRIQL-ISPIERASWIEQISWQ3082MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOAO ANTONIO LIAN\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FO911198",
+        "address": "RDASTRINASN103R/CESQLISBOA1200-857PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 31,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 101,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 78500",
+  "registration_date": "Dec 06, 2016",
+  "shares_currency": "USD",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 101
+}

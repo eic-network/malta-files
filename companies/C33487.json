@@ -1,0 +1,75 @@
+{
+  "name": "BOBO MARINE MALTA LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER MUNZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2745091",
+        "address": "SEESTRASSE32,BOTTIGHOFEN8598SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER MUNZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2745091",
+        "address": "SEESTRASSE32,BOTTIGHOFEN8598SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER MUNZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2745091",
+        "address": "SEESTRASSE32,BOTTIGHOFEN8598SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOBO MARINE AG\r",
+        "nationality": "",
+        "party_id": "                                                            CH-440.3.001.693-5",
+        "address": "SEESTRASSE32,BOTTIGHOFEN8598SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "PETER MUNZ\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X2745091",
+        "address": "SEESTRASSE32,BOTTIGHOFEN8598SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "APARTMENT 22/82, PORTOMASO FLATS,",
+  "company_id": "C 33487",
+  "registration_date": "Mar 22, 2004",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 500
+}

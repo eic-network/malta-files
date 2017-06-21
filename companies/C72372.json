@@ -1,0 +1,107 @@
+{
+  "name": "BAY TRADERS LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DANNY LEON KELLER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            111739295",
+        "address": "4,COURTNEYPLACEBOWDONALTRINCHAMCHESHIREWA143QTUNITEDKINGDOM"
+      },
+      {
+        "name": "DANNY LIEFMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            108608070",
+        "address": "51,OLDHALLROAD,SALFORDM747JFUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DANNY LEON KELLER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            111739295",
+        "address": "4,COURTNEYPLACEBOWDONALTRINCHAMCHESHIREWA143QTUNITEDKINGDOM"
+      },
+      {
+        "name": "DANNY LIEFMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            108608070",
+        "address": "51,OLDHALLROAD,SALFORDM747JFUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DANNY LEON KELLER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            111739295",
+        "address": "4,COURTNEYPLACEBOWDONALTRINCHAMCHESHIREWA143QTUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DANNY LEON KELLER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            111739295",
+        "address": "4,COURTNEYPLACEBOWDONALTRINCHAMCHESHIREWA143QTUNITEDKINGDOM"
+      },
+      {
+        "name": "DANNY LIEFMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            108608070",
+        "address": "51,OLDHALLROAD,SALFORDM747JFUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DANNY LEON KELLER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            111739295",
+        "address": "4,COURTNEYPLACEBOWDONALTRINCHAMCHESHIREWA143QTUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "DANNY LIEFMAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            108608070",
+        "address": "51,OLDHALLROAD,SALFORDM747JFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "115B, SUITE 3, OLD MINT STREET,",
+  "company_id": "C 72372",
+  "registration_date": "Sep 24, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

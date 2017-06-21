@@ -1,0 +1,147 @@
+{
+  "name": "ATILUS LTD",
+  "total_issued_shares_value": 1000300,
+  "total_authorised_shares_value": 1000300,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 800000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 800000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 200000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRICK BRISCOE WHITE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            214296M",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAURAS BUTKEVICIUS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22248671",
+        "address": "VINGRIUSTREET,6A-3VILNIUSLITHUANIA"
+      },
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAURAS BUTKEVICIUS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22248671",
+        "address": "VINGRIUSTREET,6A-3VILNIUSLITHUANIA"
+      },
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LAURAS BUTKEVICIUS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22248671",
+        "address": "VINGRIUSTREET,6A-3VILNIUSLITHUANIA"
+      },
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STICHTING NOVITUS\r",
+        "nationality": "",
+        "party_id": "                                                            60599499",
+        "address": "HERIKERBERWEG238,LUNAARENA,AMSTERDAMZUIDOOST1101CMNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ONE FAMILY TRUST COMPANY LTD, in its capacity as trustee of the \"Indicum Trust\"\r",
+        "nationality": "",
+        "party_id": "                                                            50050",
+        "address": "MINTFLOWERPLACE,4THFLOOR,8PAR-LAVILLEROAD,HAMILTON,HM08BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 400000
+        }
+      },
+      {
+        "name": "ONE FAMILY TRUST COMPANY LTD, in its capacity as trustee of the \"Viridis Trust\"\r",
+        "nationality": "",
+        "party_id": "                                                            50050",
+        "address": "MINTFLOWERPLACE,4THFLOOR,8PAR-LAVILLEROAD,HAMILTON,HM08BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 400000
+        }
+      },
+      {
+        "name": "NERIJUS NUMAVICIUS\r",
+        "nationality": "LITHUANIAN",
+        "party_id": "                                                            22500204",
+        "address": "ORMONDEHOUSE,47ASHLEYPARKAVENUE,WALTON-ON-THAMESKT131ESUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 200000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000300,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 67809",
+  "registration_date": "Nov 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1000300
+}

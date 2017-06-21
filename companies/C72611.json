@@ -1,0 +1,89 @@
+{
+  "name": "BLUEBECK LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KRISTIANNE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            551188M",
+        "address": "SARAJANE,VALLETTAROAD,ATTARDATD9052MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GOLDBECK LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            012788V",
+        "address": "2NDFLOOR,STMARY'SCOURT,20HILLSTREET,DOUGLASIM11EUISLEOFMAN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "PADBURY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            067616C",
+        "address": "2NDFLOOR,STMARY'SCOURT,20HILLSTREET,DOUGLASIM11EUISLEOFMAN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "REGENT HOUSE, 52, FIFTH FLOOR, BISAZZA STREET,",
+  "company_id": "C 72611",
+  "registration_date": "Oct 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

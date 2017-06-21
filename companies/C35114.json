@@ -1,0 +1,83 @@
+{
+  "name": "ASMAR SHIPPING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 3
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAY MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            345954M",
+        "address": "SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "SUITE 2, INTERNATIONAL HOUSE, NAXXAR ROAD,",
+  "company_id": "C 35114",
+  "registration_date": "Nov 14, 1996",
+  "shares_currency": "USD",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1000
+}

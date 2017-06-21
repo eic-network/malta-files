@@ -1,0 +1,88 @@
+{
+  "name": "APICIUS COMPANY LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAYNE ANN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            347202L",
+        "address": "19,ST.ANTHONYSTREET,MARSASCALAZBR11MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN P FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            519684M",
+        "address": "19,ST.ANTHONYSTREET,MARSASCALAZBR11MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPHER FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            616562M",
+        "address": "19,STANTHONYSTREET,MARSASCALAZBR11MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTOPHER FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            616562M",
+        "address": "19,STANTHONYSTREET,MARSASCALAZBR11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "JAYNE ANN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            347202L",
+        "address": "19,ST.ANTHONYSTREET,MARSASCALAZBR11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "JONATHAN P FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            519684M",
+        "address": "19,ST.ANTHONYSTREET,MARSASCALAZBR11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "RESTAURANT CHRISTOPHER'S, TA' XBIEX MARINA,",
+  "company_id": "C 31985",
+  "registration_date": "Aug 27, 2003",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 2000
+}

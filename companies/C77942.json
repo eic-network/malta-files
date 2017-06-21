@@ -1,0 +1,122 @@
+{
+  "name": "B.E.G LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FL12TRIQIL-WARD,MADLIENASWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46697",
+        "address": "PALACECOURT,CHURCHSTREET,ST.JULIANSSTJ3049MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "W.I.C. - WORLD INTERNATIONAL CORPORATION LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 77940",
+        "address": "GROUNDFLOOR,PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "GIUSEPPE COLANGELO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8472697",
+        "address": "VIAARENADIVERONA2,STATTE(TA)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "LUIGI DE LORENZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA0750571",
+        "address": "VIASANNICOLA9,GRAFFIGNANO(VT)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "MASSIMO DIDONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5037494",
+        "address": "VIABRENTA22,GALLERIAVENETA(PD)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "MARCO RAMPON\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV2973734",
+        "address": "VIA2GIUGNO6,TORRIDIQUARTESOLO(VI)36040ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "GROUND FLOOR, PALACE COURT, CHURCH STREET",
+  "company_id": "C 77942",
+  "registration_date": "Nov 04, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

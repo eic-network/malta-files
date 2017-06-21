@@ -1,0 +1,59 @@
+{
+  "name": "BAY ONE LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ROBERT ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352858M",
+        "address": "5/5,GORGBORGOLIVIERSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SULEIMAN HASSAN ALI Y KHREBISH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            550266195",
+        "address": "5/2,MERCHANTSSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "ANTON CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290545M",
+        "address": "IVYCORNERS,MONS.EMANUELDEBONOSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "5/2, MERCHANTS STREET,",
+  "company_id": "C 21647",
+  "registration_date": "Jul 11, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

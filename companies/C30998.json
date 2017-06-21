@@ -1,0 +1,86 @@
+{
+  "name": "BARB HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "BEPPE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "SHAMROCKNO.2,PALMSTREET,ST.JULIANSSTJ1933MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRICIA ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198063M",
+        "address": "ANKROTT,TRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRICIA ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198063M",
+        "address": "ANKROTT,TRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRICIA ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198063M",
+        "address": "ANKROTT,TRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PATRICIA ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198063M",
+        "address": "ANKROTT,TRIQIS-SEJJIEHSWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATRICIA ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198063M",
+        "address": "ANKROTT,TRIQIS-SEJJIEHSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "STUDIO 1, CHELSEA COURT, TRIQ IL-QASAM",
+  "company_id": "C 30998",
+  "registration_date": "Feb 18, 2003",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

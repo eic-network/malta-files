@@ -1,0 +1,83 @@
+{
+  "name": "AMASTA MALTA LTD",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMO DI GIOVAMBATTISTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0341672",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MASSIMO DI GIOVAMBATTISTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0341672",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MASSIMO DI GIOVAMBATTISTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0341672",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMO DI GIOVAMBATTISTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0341672",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GIUSEPPA AMATO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT8974135",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      },
+      {
+        "name": "MASSIMO DI GIOVAMBATTISTA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS0341672",
+        "address": "VIAMARDELLACINA142,ROME00144ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "19, TRIQ IL KAPPELLA,",
+  "company_id": "C 76520",
+  "registration_date": "Jul 20, 2016",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1300
+}

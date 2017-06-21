@@ -1,0 +1,97 @@
+{
+  "name": "AUSTEN BAY LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ABIGAIL EATON RICHARDS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            436484M",
+        "address": "COUREDEGESU,FLAT1,TRIQIL-BELTVALLETTA,QORMIMALTA"
+      },
+      {
+        "name": "STEPHEN FREDERICK GRIFFITHS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            29640A",
+        "address": "42,MARILEL,TRIQANTONMANWELCARUANA,BAHARIC-CAGHAQNAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SOVEREIGN DIRECTORS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58495",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SOVEREIGN DIRECTORS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58495",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SOVEREIGN DIRECTORS (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58495",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "VALLEY TOWERS, SUITE 5, VALLEY ROAD,",
+  "company_id": "C 33639",
+  "registration_date": "Apr 01, 2004",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

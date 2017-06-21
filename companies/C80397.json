@@ -1,0 +1,101 @@
+{
+  "name": "AMSHOLD LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 9,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9,
+      "nominal_value_per_share": 100
+    },
+    {
+      "issued_shares": 6,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 6,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "WALTER CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            130666M",
+        "address": "EVERGLADES,DONALDHARRISONSMITHSTREET,NAXXARNXR4414MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WALTER CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            130666M",
+        "address": "EVERGLADES,DONALDHARRISONSMITHSTREET,NAXXARNXR4414MALTA"
+      },
+      {
+        "name": "JEAN-PHILIPPE ALAIN KRAFFT\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1492992",
+        "address": "AV.DEMONTBENON2,LAUSANNECH-1003SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARY ANNE INGUANEZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            634781M",
+        "address": "12,STJAMESSTREET,SIGGIEWISGW1607MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WALTER CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            130666M",
+        "address": "EVERGLADES,DONALDHARRISONSMITHSTREET,NAXXARNXR4414MALTA"
+      },
+      {
+        "name": "JEAN-PHILIPPE ALAIN KRAFFT\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1492992",
+        "address": "AV.DEMONTBENON2,LAUSANNECH-1003SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43957",
+        "address": "19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9
+        }
+      },
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 43957",
+        "address": "19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 6
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15,
+  "address": "LEICESTER COURT, SUITE 2, EDGAR BERNARD STREET,",
+  "company_id": "C 80397",
+  "registration_date": "Apr 10, 2017",
+  "shares_currency": "CHF",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 15
+}

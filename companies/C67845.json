@@ -1,0 +1,461 @@
+{
+  "name": "ARGENTAN FINANCE LIMITED",
+  "total_issued_shares_value": 9300127.1,
+  "total_authorised_shares_value": 9300285,
+  "authorised_shares": [
+    {
+      "issued_shares": 5300000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5300000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1271000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2850000,
+      "nominal_value_per_share": 0.0001
+    },
+    {
+      "issued_shares": 4000000,
+      "type": "Preference",
+      "authorised_share_capital": 4000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22B,TRIQHEMEL,SWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "FLAT20,DIAMONDHILLAPT,TRIQSANTAMARGERITA,SANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22B,TRIQHEMEL,SWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "FLAT20,DIAMONDHILLAPT,TRIQSANTAMARGERITA,SANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22B,TRIQHEMEL,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM BECKER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            706318384",
+        "address": "22B,TRIQHEMEL,SWIEQIMALTA"
+      },
+      {
+        "name": "DAVID MAGRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255885M",
+        "address": "SOLEIL,TRIQIZ-ZEKKUK,BALZANBZN1080MALTA"
+      },
+      {
+        "name": "EUGENE WARRINGTON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            512160M",
+        "address": "FLAT20,DIAMONDHILLAPT,TRIQSANTAMARGERITA,SANGWANNMALTA"
+      },
+      {
+        "name": "JULIAN WEBSTER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            761248464",
+        "address": "ASTLEYHOUSE,30MARKETPLACE,FARINGDON,OXFORDSHIRESN77HUUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "135 EQUITY INVESTMENTS LLC\r",
+        "nationality": "",
+        "party_id": "                                                            602-509-236",
+        "address": "1201THIRDAVENUE,FLOOR49,SEATTLEWASHINGTONUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 36040
+        }
+      },
+      {
+        "name": "AVOBONE N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            11781 (0)",
+        "address": "LANDHUISJOONCHI,KAYARICHARDJ.BEAUJONZ/NCURACAO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 235705
+        }
+      },
+      {
+        "name": "BELFORT INVESTMENT ADVISORS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1061462",
+        "address": "POBox311RoadTownTortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 71001
+        }
+      },
+      {
+        "name": "BENTLEY TRUST (MALTA) LIMITED AS TRUSTEE OF THE HUGUENOT CAPITAL TRUST\r",
+        "nationality": "",
+        "party_id": "                                                            C 30842",
+        "address": "LEVEL7,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 151367
+        }
+      },
+      {
+        "name": "ETHEL POINT LIMITED PARTNERSHIP\r",
+        "nationality": "",
+        "party_id": "                                                            1119",
+        "address": "POBOX79,26,ESPLANADE,STHELIERJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 108119
+        }
+      },
+      {
+        "name": "HURRICANE INVESTMENTS LLC\r",
+        "nationality": "",
+        "party_id": "                                                            L13000176597",
+        "address": "1300,BENFRANKLINDRIVE,UNIT608,SARASOTA,FL34236UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 36040
+        }
+      },
+      {
+        "name": "MONETTI PTY. LTD\r",
+        "nationality": "",
+        "party_id": "                                                            003784058",
+        "address": "27,COOLONGROAD,VAUCLUSE,NSW2030AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 108119
+        }
+      },
+      {
+        "name": "SNBF FAMILY LIMITED PARTNERSHIP\r",
+        "nationality": "",
+        "party_id": "                                                            27-4416764",
+        "address": "369,WAREHAMROAD,MARION,MA02738UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 144159
+        }
+      },
+      {
+        "name": "TAYNTON HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54536",
+        "address": "LEVEL7,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2828463
+        }
+      },
+      {
+        "name": "RODNEY CHARLES BEELER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            457228313",
+        "address": "57EDELAWAREPLUNIT3405,CHICAGOIL60611UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 72079
+        }
+      },
+      {
+        "name": "WILLIAM DILLON BEST\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            M5542272",
+        "address": "53,FAIRFAXROAD,BELLEVUEHILL,NSW2023AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 108119
+        }
+      },
+      {
+        "name": "ANGUS ROBERT CHAMPION DE CRESPIGNY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N8425710",
+        "address": "215,EAST95THSTREET,NO27M,NEWYORK,NY10128-4087UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7208
+        }
+      },
+      {
+        "name": "GEORGINA MELANIE CHAMPION DE CRESPIGNY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N9242366",
+        "address": "1,EDWARDTERRACE,GILBERTONSA5081AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 14416
+        }
+      },
+      {
+        "name": "JAMES JOHN CHAMPION DE CRESPIGNY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            PE0373117",
+        "address": "71/190,ALBERTSTREET,EASTMELBOURNE,VIC3002,AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 21624
+        }
+      },
+      {
+        "name": "LACHLAN THOMAS CHAMPION DE CRESPIGNY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4075945",
+        "address": "AVCNSORODRIGUESALVES780,AP103VILAMARIANA,SAOPAOLOBRAZIL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7208
+        }
+      },
+      {
+        "name": "ROBERT JAMES CHAMPION DE CRESPIGNY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4047794",
+        "address": "THEMANOR,FIFIELD,CHIPPINGNORTON,OXFORDSHIRE,OX76HH,UNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7208
+        }
+      },
+      {
+        "name": "SCOBIE DICKINSON WARD\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            488311115",
+        "address": "FLATA7/F,HATTONHOUSE,15KOTEWALLROAD,HONGKONGHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 57664
+        }
+      },
+      {
+        "name": "PETER JOHN FREEMAN\r",
+        "nationality": "ENGLISH",
+        "party_id": "                                                            511324732",
+        "address": "21,LINGFIELDROAD,LONDON,SW194QD,UNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 430400
+        }
+      },
+      {
+        "name": "ASHOK PETER JACOB\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E3026176",
+        "address": "55,VICTORIAROAD,BELLEVUEHILL,NSW2023AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 144159
+        }
+      },
+      {
+        "name": "KONRAD RUDOLF KRUGER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            521961437",
+        "address": "2,SEAGATEROAD,RIVERSIDE,CT06878UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 84939
+        }
+      },
+      {
+        "name": "STEVEN MARTIN LEFKOWITZ\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            527513900",
+        "address": "56,CUSHMANROADSCARSDALE,NEWYORK,10583UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 360397
+        }
+      },
+      {
+        "name": "JOHN F MCCORMACK\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            481244641",
+        "address": "404,APT3N,RIVERSIDEDRIVE,RIVERSIDEDRIVENY10025UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 72079
+        }
+      },
+      {
+        "name": "JOSEPH AND KAREN NIEHAUS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            473491731",
+        "address": "2459,PACIFICAVENUE,SANFRANCISCO,CA94115UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 108119
+        }
+      },
+      {
+        "name": "NICHOLAS RANSLEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            510956243",
+        "address": "37A,ALLEYNPARKLONDONSE218ATUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 27704
+        }
+      },
+      {
+        "name": "ANDREW NASH WEBBER\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            711347953",
+        "address": "HOUSE48,SHEUNGSZEWAN,CLEARWATERBAY,NEWTERRITORIES,HONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 57664
+        }
+      },
+      {
+        "name": "TAZEWELL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1929905",
+        "address": "TRIDENTCHAMBERS,ROADTOWN,TORTOLAPOBOX146VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.0001,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1271000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10571000,
+  "address": "LEVEL 7, PORTOMASO BUSINESS TOWER,",
+  "company_id": "C 67845",
+  "registration_date": "Dec 01, 2014",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 12150000
+}

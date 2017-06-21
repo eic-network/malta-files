@@ -1,0 +1,115 @@
+{
+  "name": "ARIES INVESTMENTS LIMITED",
+  "total_issued_shares_value": 80001600,
+  "total_authorised_shares_value": 80001600,
+  "authorised_shares": [
+    {
+      "issued_shares": 80001599,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 80001599,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "HENRI MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143565M",
+        "address": "T6F2,FAVRAYCOURT,TIGNEPOINTTP01,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DWI PRASETYO SUSENO\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4043492",
+        "address": "110,JACKSONAVEWINTHROPWA6150AUSTRALIA"
+      },
+      {
+        "name": "GAMAL HENDRAWAN WANENGPATI\r",
+        "nationality": "INDONESIAN",
+        "party_id": "                                                            U549109",
+        "address": "JL.KEMANGANGGREK3,BLOCKAONO.28RT11/RW36,KEMANGPRATAMA2BEKASI-JABAR17116INDONESIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DWI PRASETYO SUSENO\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4043492",
+        "address": "110,JACKSONAVEWINTHROPWA6150AUSTRALIA"
+      },
+      {
+        "name": "GAMAL HENDRAWAN WANENGPATI\r",
+        "nationality": "INDONESIAN",
+        "party_id": "                                                            U549109",
+        "address": "JL.KEMANGANGGREK3,BLOCKAONO.28RT11/RW36,KEMANGPRATAMA2BEKASI-JABAR17116INDONESIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SAVIOUR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03688",
+        "address": "WARDAMISTIKA,12,TRIQSANTAKLEMENTINA,ZURRIEQZRQ2471MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DWI PRASETYO SUSENO\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4043492",
+        "address": "110,JACKSONAVEWINTHROPWA6150AUSTRALIA"
+      },
+      {
+        "name": "GAMAL HENDRAWAN WANENGPATI\r",
+        "nationality": "INDONESIAN",
+        "party_id": "                                                            U549109",
+        "address": "JL.KEMANGANGGREK3,BLOCKAONO.28RT11/RW36,KEMANGPRATAMA2BEKASI-JABAR17116INDONESIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WINCHESTER INVESTMENT HOLDINGS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            066419",
+        "address": "OliajiTradeCentre1stFloor,VictoriaREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80001599
+        }
+      },
+      {
+        "name": "PT BERAU COAL ENERGY TBK\r",
+        "nationality": "",
+        "party_id": "                                                            09.05.1.51.53852",
+        "address": "MenaraBatavia,30thFloor,Jl.K.H.MasMansyur,Kav.126,Jakarta10220INDONESIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 80001600,
+  "address": "CAMILLERI PREZIOSI, LEVEL 2,  VALLETTA BUILDINGS, SOUTH STREET",
+  "company_id": "C 38910",
+  "registration_date": "Jun 14, 2006",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 80001600
+}

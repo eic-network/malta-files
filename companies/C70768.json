@@ -1,0 +1,97 @@
+{
+  "name": "ARIANE RESOURCES GROUP LIMITED",
+  "total_issued_shares_value": 8000,
+  "total_authorised_shares_value": 80000,
+  "authorised_shares": [
+    {
+      "issued_shares": 799,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 7999,
+      "nominal_value_per_share": 10
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KEITH VICTOR GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            448184M",
+        "address": "7,BLOSSOM,DUNGWANNBARBARASTREET,TARXIENMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FJV FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23197",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 799
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 800,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 70768",
+  "registration_date": "May 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 8000
+}

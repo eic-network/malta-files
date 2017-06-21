@@ -1,0 +1,101 @@
+{
+  "company_id": "C 57819",
+  "address": "6/5, SIR WILLIAM REID STREET",
+  "name": "BOWATER HOLOGRAPHICS (MALTA) LTD",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Oct 09, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NICOLAS VANSITTART BOWATER\r",
+        "party_id": "                                                            GBR206980837",
+        "address": "WINDMILLDOWN,CHERITONBISHOP,EXETER,DEVONEX66JJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICOLAS VANSITTART BOWATER\r",
+        "party_id": "                                                            GBR206980837",
+        "address": "WINDMILLDOWN,CHERITONBISHOP,EXETER,DEVONEX66JJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICOLAS VANSITTART BOWATER\r",
+        "party_id": "                                                            GBR206980837",
+        "address": "WINDMILLDOWN,CHERITONBISHOP,EXETER,DEVONEX66JJUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/8,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NEIL CROSSEY\r",
+        "party_id": "                                                            0425071M",
+        "address": "86,TRIQIL-BARBAGANNKAPPARASANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "BELLA VENEZIA CO. LIMITED",
+  "total_issued_shares_value": 75000,
+  "total_authorised_shares_value": 75000,
+  "authorised_shares": [
+    {
+      "issued_shares": 75000,
+      "type": "Ordinary",
+      "authorised_share_capital": 75000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRIZIA AGUZZONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU2626471",
+        "address": "JASMINECOURTFL.2,ANTONIOSCIORTINOSTREET,MSIDAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRIZIA AGUZZONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU2626471",
+        "address": "JASMINECOURTFL.2,ANTONIOSCIORTINOSTREET,MSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRIZIA AGUZZONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU2626471",
+        "address": "JASMINECOURTFL.2,ANTONIOSCIORTINOSTREET,MSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PATRIZIA AGUZZONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU2626471",
+        "address": "JASMINECOURTFL.2,ANTONIOSCIORTINOSTREET,MSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATRIZIA AGUZZONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU2626471",
+        "address": "JASMINECOURTFL.2,ANTONIOSCIORTINOSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 67500
+        }
+      },
+      {
+        "name": "Gregorio Foraboschi\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            150155A",
+        "address": "Jasmine,Fl2AntonioSciortinoStreetMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 75000,
+  "address": "BELLA VENEZIA, THE QUAY, TRIQ ABATE RIGOURD,",
+  "company_id": "C 67701",
+  "registration_date": "Nov 20, 2014",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 75000
+}

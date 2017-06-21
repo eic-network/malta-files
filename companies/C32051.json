@@ -1,0 +1,148 @@
+{
+  "name": "A. B. ENTERPRISES LTD",
+  "total_issued_shares_value": 5899097.52,
+  "total_authorised_shares_value": 6988119,
+  "authorised_shares": [
+    {
+      "issued_shares": 770745,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 770745,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1761738,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2229255,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALFRED BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536131M",
+        "address": "177,FLAT7TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFRED BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536131M",
+        "address": "177,FLAT7TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536131M",
+        "address": "177,FLAT7TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254453M",
+        "address": "2,P.P.CASTAGNASTREET,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "MARIA CONCETTA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146130M",
+        "address": "177,FLAT7,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HLB FALZON & FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/14",
+        "address": "12,CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAFRN1060MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFRED BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536131M",
+        "address": "177,FLAT7TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALFRED BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            536131M",
+        "address": "177,FLAT7TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 385412
+        }
+      },
+      {
+        "name": "MARIA CONCETTA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146130M",
+        "address": "177,FLAT7,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 385333
+        }
+      },
+      {
+        "name": "CASTAGNA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 12408",
+        "address": "MULHOUSE,NO.1,TRIQIT-TORRIWEJTER,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 587246
+        }
+      },
+      {
+        "name": "JMD LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11784",
+        "address": "ST.JOSEPH,TRIQIL-KONTIR.BARBARO,ATTARDATD1202MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 587246
+        }
+      },
+      {
+        "name": "M B LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 11789",
+        "address": "'PALMGATE'TRIQIL-KONTIR.BARBAROATTARDATD1203MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 587246
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2532483,
+  "address": "177, FLAT 7, TOWER ROAD,",
+  "company_id": "C 32051",
+  "registration_date": "Sep 10, 2003",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 3000000
+}

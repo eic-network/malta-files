@@ -1,0 +1,83 @@
+{
+  "company_id": "C 67524",
+  "address": "NO. 38, SUITE 2, INTERNATIONAL HOUSE, NAXXAR ROAD,",
+  "name": "BRIGHT SUNSHINE GENERAL TRADING COMPANY LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Nov 07, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ESAM SWISSI MOHAMED ELALWE\r",
+        "party_id": "                                                            483177",
+        "address": "AINZARASTREET,ALFORNAJAREA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRI-MER SERVICES LIMITED\r",
+        "party_id": "                                                            C 36968",
+        "address": "NO.38,SUITE2,INTERNATIONALHOUSE,NAXXARROAD,SANGWANNSGN9032MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ESAM SWISSI MOHAMED ELALWE\r",
+        "party_id": "                                                            483177",
+        "address": "AINZARASTREET,ALFORNAJAREA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ESAM SWISSI MOHAMED ELALWE\r",
+        "party_id": "                                                            483177",
+        "address": "AINZARASTREET,ALFORNAJAREA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ESAM SWISSI MOHAMED ELALWE\r",
+        "party_id": "                                                            483177",
+        "address": "AINZARASTREET,ALFORNAJAREA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ESAM SWISSI MOHAMED ELALWE\r",
+        "party_id": "                                                            483177",
+        "address": "AINZARASTREET,ALFORNAJAREA,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

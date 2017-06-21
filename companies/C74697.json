@@ -1,0 +1,107 @@
+{
+  "name": "BETBOX LIMITED",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 199999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 199999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RICHARD H. AKITT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            621209090",
+        "address": "THECEDARS,17ODINSWAY,BALLAKILLOWEYIM94BQISLEOFMAN"
+      },
+      {
+        "name": "JACOB ADRIAAN VISSER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            42045A",
+        "address": "KASBLOBLO27TRIQMAMOZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RICHARD H. AKITT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            621209090",
+        "address": "THECEDARS,17ODINSWAY,BALLAKILLOWEYIM94BQISLEOFMAN"
+      },
+      {
+        "name": "JACOB ADRIAAN VISSER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            42045A",
+        "address": "KASBLOBLO27TRIQMAMOZEBBUGMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JACOB ADRIAAN VISSER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            42045A",
+        "address": "KASBLOBLO27TRIQMAMOZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RICHARD H. AKITT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            621209090",
+        "address": "THECEDARS,17ODINSWAY,BALLAKILLOWEYIM94BQISLEOFMAN"
+      },
+      {
+        "name": "JACOB ADRIAAN VISSER\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            42045A",
+        "address": "KASBLOBLO27TRIQMAMOZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETWAY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39710",
+        "address": "9,EMPIRESTADIUMSTREET,GZIRAGZR1300MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 199999
+        }
+      },
+      {
+        "name": "CYBERGAMING CONSULTANTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39457",
+        "address": "8,SIRTEMIZAMMITSTREET,TA'XBIEXXBX1011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "9, Empire Stadium Street,",
+  "company_id": "C 74697",
+  "registration_date": "Mar 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

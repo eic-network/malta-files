@@ -1,0 +1,133 @@
+{
+  "company_id": "C 56709",
+  "address": "BLUE HARBOUR BUSINESS CENTRE, LEVEL 1, SECTOR L, TA' XBIEX YACHT MARINA,",
+  "name": "BROTHERS HOLDING LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Jun 19, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 100,
+      "issued_shares": 200
+    }
+  ],
+  "total_authorised_shares": 200,
+  "total_authorised_shares_value": 20000,
+  "total_issued_shares": 200,
+  "total_issued_shares_value": 20000,
+  "shares_currency": "DKK",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CARL BEK-NIELSEN\r",
+        "party_id": "                                                            208006841",
+        "address": "JENDARATAESTATE,36009TELUKINTAN,PERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "MARTIN LAUGE BEK-NIELSEN\r",
+        "party_id": "                                                            207672654",
+        "address": "JENARATAESTATE,36009TELUKINTANPERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "JOHN ALLEN GOODWIN\r",
+        "party_id": "                                                            099139663",
+        "address": "BEREHOUSECHURCHFARNBARNS,CHURCHLANE,PRIVETTIHAMPSHIREGU343PBUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "NADARAJAN S. RASIAH\r",
+        "party_id": "                                                            A32230993",
+        "address": "2,JALANBRP3/3D,SUNWAYRAHMANPUTRA,SUNGAIBULOHSELANGOR40150MALAYSIA",
+        "nationality": "MALAYSIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARL BEK-NIELSEN\r",
+        "party_id": "                                                            208006841",
+        "address": "JENDARATAESTATE,36009TELUKINTAN,PERAKMALAYSIA",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 100
+        }
+      },
+      {
+        "name": "MARTIN LAUGE BEK-NIELSEN\r",
+        "party_id": "                                                            207672654",
+        "address": "JENARATAESTATE,36009TELUKINTANPERAKMALAYSIA",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 100
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARL BEK-NIELSEN\r",
+        "party_id": "                                                            208006841",
+        "address": "JENDARATAESTATE,36009TELUKINTAN,PERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "MARTIN LAUGE BEK-NIELSEN\r",
+        "party_id": "                                                            207672654",
+        "address": "JENARATAESTATE,36009TELUKINTANPERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "NADARAJAN S. RASIAH\r",
+        "party_id": "                                                            A32230993",
+        "address": "2,JALANBRP3/3D,SUNWAYRAHMANPUTRA,SUNGAIBULOHSELANGOR40150MALAYSIA",
+        "nationality": "MALAYSIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARL BEK-NIELSEN\r",
+        "party_id": "                                                            208006841",
+        "address": "JENDARATAESTATE,36009TELUKINTAN,PERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "MARTIN LAUGE BEK-NIELSEN\r",
+        "party_id": "                                                            207672654",
+        "address": "JENARATAESTATE,36009TELUKINTANPERAKMALAYSIA",
+        "nationality": "DANISH"
+      },
+      {
+        "name": "NADARAJAN S. RASIAH\r",
+        "party_id": "                                                            A32230993",
+        "address": "2,JALANBRP3/3D,SUNWAYRAHMANPUTRA,SUNGAIBULOHSELANGOR40150MALAYSIA",
+        "nationality": "MALAYSIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "WALTER CUTAJAR\r",
+        "party_id": "                                                            130666M",
+        "address": "EVERGLADES,DONALDHARRISONSMITHSTREET,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

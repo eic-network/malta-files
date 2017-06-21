@@ -1,0 +1,115 @@
+{
+  "name": "B.G. ITEC LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RALPH PULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386174M",
+        "address": "4,ST.MICHAEL,GUZEGALEASTREETQORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAMIEN FIOTT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79775M",
+        "address": "323,STPAUL'SROAD,NAXXARNXR4012MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "PAOLO SARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5875980",
+        "address": "13,RUEALDRINGENLUXEMBOURGL-1118LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "PAOLO SARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5875980",
+        "address": "13,RUEALDRINGENLUXEMBOURGL-1118LUXEMBOURG"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      },
+      {
+        "name": "PAOLO SARDI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA5875980",
+        "address": "13,RUEALDRINGENLUXEMBOURGL-1118LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUEGREEN HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 71996",
+        "address": "NO.188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "ITEC- TECNOLOGIE E IMPIANTI SPA\r",
+        "nationality": "",
+        "party_id": "                                                            11808070152",
+        "address": "98/A,VIAMAZZINI,NOVILIGURE(AL)CAP15067ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "188, 21ST SEPTEMBER AVENUE,",
+  "company_id": "C 73117",
+  "registration_date": "Nov 18, 2015",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "In Dissolution",
+  "total_authorised_shares": 10000
+}

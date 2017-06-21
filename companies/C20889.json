@@ -1,0 +1,91 @@
+{
+  "name": "AMABILE ZAMMIT & SONS LTD",
+  "total_issued_shares_value": 5823.43,
+  "total_authorised_shares_value": 5823.43,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AMATA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            56662G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMABILE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38563G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMABILE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38563G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AMABILE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38563G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMABILE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38563G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "AMATA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            56662G",
+        "address": "42,TRIQIL-KAPUCCINI,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "42, TRIQ IL-KAPUCCINI,",
+  "company_id": "C 20889",
+  "registration_date": "Dec 19, 1996",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 2500
+}

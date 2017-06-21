@@ -1,0 +1,78 @@
+{
+  "name": "BACKHAM HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LUKE FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL KENNETH SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33260M",
+        "address": "36,CATHEDRALSTREETSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATS INGE NILS DELLHAM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82788540",
+        "address": "PRACADACALIFORNIAN4B7DSESIMBRA2970-760PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, LM COMPLEX BREWERY STREET, MRIEHEL",
+  "company_id": "C 66088",
+  "registration_date": "Jul 22, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

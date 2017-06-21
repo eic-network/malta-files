@@ -1,0 +1,93 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Mar 03, 2014",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BSI THURLOE LIMITED",
+  "total_issued_shares": 1500,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 64092",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "FLAT1,7-8,RATHBONEPLACE,LONDONW1T1HMUNITEDKINGDOM",
+        "party_id": "                                                            YA4484989",
+        "name": "FRANCESCO CARRUBA\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "20,BOULEVARDDESUISSE,MONACOMONACO",
+        "party_id": "                                                            F573975",
+        "name": "PAOLO MAZZA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "FLAT1,7-8,RATHBONEPLACE,LONDONW1T1HMUNITEDKINGDOM",
+        "party_id": "                                                            YA4484989",
+        "name": "FRANCESCO CARRUBA\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "20,BOULEVARDDESUISSE,MONACOMONACO",
+        "party_id": "                                                            F573975",
+        "name": "PAOLO MAZZA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "FLAT1,7-8,RATHBONEPLACE,LONDONW1T1HMUNITEDKINGDOM",
+        "party_id": "                                                            YA4484989",
+        "name": "FRANCESCO CARRUBA\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "address": "20,BOULEVARDDESUISSE,MONACOMONACO",
+        "party_id": "                                                            F573975",
+        "name": "PAOLO MAZZA\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1499,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJUROMARSHALLISLANDS",
+        "party_id": "                                                            59296",
+        "name": "BERKELEY SHIPPING INC\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "party_id": "                                                            C 17138",
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 1500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

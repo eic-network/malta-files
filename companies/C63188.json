@@ -1,0 +1,57 @@
+{
+  "name": "ASTRO SPORTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "BRUNO GERALDES DE MACEDO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            10660407",
+        "address": "RUADORAIO3012ANDAR,4710-923,BRAGAPORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "IL PIAZZETTA A, SUITE 21, TOWER ROAD,",
+  "company_id": "C 63188",
+  "registration_date": "Dec 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

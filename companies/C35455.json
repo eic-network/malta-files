@@ -1,0 +1,75 @@
+{
+  "name": "BLUE DREAM SHIPPING LTD",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BULENT KEKLIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N736537",
+        "address": "VATANSTR.2/5,GAGLAYANISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BULENT KEKLIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N736537",
+        "address": "VATANSTR.2/5,GAGLAYANISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BULENT KEKLIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N736537",
+        "address": "VATANSTR.2/5,GAGLAYANISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHMET GUR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N736536",
+        "address": "VATANSTR.2/5,GAGLAYANISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 440
+        }
+      },
+      {
+        "name": "BULENT KEKLIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-N736537",
+        "address": "VATANSTR.2/5,GAGLAYANISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 560
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "29, CHURCH STREET",
+  "company_id": "C 35455",
+  "registration_date": "Jan 11, 2005",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

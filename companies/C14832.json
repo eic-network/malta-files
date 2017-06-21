@@ -1,0 +1,72 @@
+{
+  "name": "BALFAR DEVELOPERS LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SAVIOUR FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429848M",
+        "address": "'SAJLEMAR'MUNQARROADZURRIEQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            611659M",
+        "address": "JOESALL,TRIQMATTEOLOSALIBA,ZURRIEQZRQ02MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "ANTHONY CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191052M",
+        "address": "NOTREMAISON,GUZEBONNICISTREET,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 167
+        }
+      },
+      {
+        "name": "SAVIOUR FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429848M",
+        "address": "'SAJLEMAR'MUNQARROADZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 166
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "JOESALL TRIQ MATTEO SALIBA",
+  "company_id": "C 14832",
+  "registration_date": "Mar 12, 1993",
+  "shares_currency": "EUR",
+  "locality": "ZURRIEQ",
+  "status": "",
+  "total_authorised_shares": 500
+}

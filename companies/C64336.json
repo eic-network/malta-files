@@ -1,0 +1,70 @@
+{
+  "company_id": "C 64336",
+  "address": "43A/1, ST.PAUL'S BUILDINGS, WEST STREET,",
+  "name": "3D PIONEER SYSTEMS MALTA I LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 21, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXANDROS TSINGOS\r",
+        "party_id": "                                                            AI1192835",
+        "address": "FRIZISTREET13,ATHENSGR11524GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3D PIONEER SYSTEMS MALTA (HOLDING) LTD\r",
+        "party_id": "                                                            C 64335",
+        "address": "43A/1,SAINTPAUL'SBUILDINGS,WESTSTREETVALLETTAVLT1532MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDROS TSINGOS\r",
+        "party_id": "                                                            AI1192835",
+        "address": "FRIZISTREET13,ATHENSGR11524GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDROS TSINGOS\r",
+        "party_id": "                                                            AI1192835",
+        "address": "FRIZISTREET13,ATHENSGR11524GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXANDROS TSINGOS\r",
+        "party_id": "                                                            AI1192835",
+        "address": "FRIZISTREET13,ATHENSGR11524GREECE",
+        "nationality": "GREEK"
+      }
+    ]
+  }
+}

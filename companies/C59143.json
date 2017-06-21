@@ -1,0 +1,78 @@
+{
+  "name": "AUREA L&G TRADING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "REUBEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            182869M",
+        "address": "236,ST.PAULSTREET,VALLETTAVLT1215MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIUSEPPA ADAMO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G347869",
+        "address": "N.2VIAUMBRIATRAPANI91026ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIUSEPPA ADAMO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G347869",
+        "address": "N.2VIAUMBRIATRAPANI91026ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WALTER RIZZO & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/01",
+        "address": "30,ID-DWEJRA,TRIQIL-GEJZA,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIUSEPPA ADAMO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            G347869",
+        "address": "N.2VIAUMBRIATRAPANI91026ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AUREA L&G HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58970",
+        "address": "20/1,REPUBLICSTREETVALLETTAVLT1111MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "20/1, REPUBLIC STREET",
+  "company_id": "C 59143",
+  "registration_date": "Jan 30, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

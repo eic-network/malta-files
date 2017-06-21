@@ -1,0 +1,83 @@
+{
+  "name": "A&G LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARNAS AKBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04344490",
+        "address": "BASAKSEHIR4.ETAP2,KISIM,FESELEGENSOKAK.S76.BSAKSEHIR,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNAS AKBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04344490",
+        "address": "BASAKSEHIR4.ETAP2,KISIM,FESELEGENSOKAK.S76.BSAKSEHIR,ISTANBULTURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ERKAN GULMEZOGLU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02597888",
+        "address": "MIMARSINANBATIKOYMAH.,IBRAHIMZADECAD.SINANOBAA-2/86,D:12BUYUKCEKMECE,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARNAS AKBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04344490",
+        "address": "BASAKSEHIR4.ETAP2,KISIM,FESELEGENSOKAK.S76.BSAKSEHIR,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARNAS AKBAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U04344490",
+        "address": "BASAKSEHIR4.ETAP2,KISIM,FESELEGENSOKAK.S76.BSAKSEHIR,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 825
+        }
+      },
+      {
+        "name": "ERKAN GULMEZOGLU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02597888",
+        "address": "MIMARSINANBATIKOYMAH.,IBRAHIMZADECAD.SINANOBAA-2/86,D:12BUYUKCEKMECE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 675
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 56794",
+  "registration_date": "Jun 26, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

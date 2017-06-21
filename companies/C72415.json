@@ -1,0 +1,62 @@
+{
+  "company_id": "C 72415",
+  "address": "147/1, ST. LUCIA STREET",
+  "name": "BRIGHT NAVIGATION LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Sep 25, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CHRISTOS KEHAYAS\r",
+        "party_id": "                                                            AN2350448",
+        "address": "94,POSEIDONOSAV.&2NIKISSTREET,GLYFADA16675GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HARDY FINANCE CO.\r",
+        "party_id": "                                                            C-85943",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOS KEHAYAS\r",
+        "party_id": "                                                            AN2350448",
+        "address": "94,POSEIDONOSAV.&2NIKISSTREET,GLYFADA16675GREECE",
+        "nationality": "GREEK"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOS KEHAYAS\r",
+        "party_id": "                                                            AN2350448",
+        "address": "94,POSEIDONOSAV.&2NIKISSTREET,GLYFADA16675GREECE",
+        "nationality": "GREEK"
+      }
+    ]
+  }
+}

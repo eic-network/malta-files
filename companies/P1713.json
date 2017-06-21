@@ -1,0 +1,51 @@
+{
+  "name": "BODY LOGIC BY ALEXIA AND ROWINA",
+  "total_issued_shares_value": 60000,
+  "total_authorised_shares_value": 60000,
+  "authorised_shares": [
+    {
+      "issued_shares": 60000,
+      "type": "",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ALEXANDRA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49182M",
+        "address": "HORIZONVIEW,FLAT2TRIQL-ETNAMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "ROWINA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49282M",
+        "address": "HORIZONVIEW,FLAT1TRIQL-ETNAMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 30000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 60000,
+  "address": "SHOP NO 2 SAINT PAUL STREET",
+  "company_id": "P 1713",
+  "registration_date": "Apr 07, 2017",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 60000
+}

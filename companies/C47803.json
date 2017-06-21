@@ -1,0 +1,109 @@
+{
+  "name": "APPETITE VENDING LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN GOMEZ BLANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405474M",
+        "address": "14,PATRIG.A.BONELLISTREET,RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MELVIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401788M",
+        "address": "KENSINGTON,TRIQIL-KONVOJTA'SANTAMARIJA,MQABBAMALTA"
+      },
+      {
+        "name": "ADRIAN GOMEZ BLANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405474M",
+        "address": "14,PATRIG.A.BONELLISTREET,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MELVIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401788M",
+        "address": "KENSINGTON,TRIQIL-KONVOJTA'SANTAMARIJA,MQABBAMALTA"
+      },
+      {
+        "name": "ADRIAN GOMEZ BLANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405474M",
+        "address": "14,PATRIG.A.BONELLISTREET,RABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MELVIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401788M",
+        "address": "KENSINGTON,TRIQIL-KONVOJTA'SANTAMARIJA,MQABBAMALTA"
+      },
+      {
+        "name": "ADRIAN GOMEZ BLANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405474M",
+        "address": "14,PATRIG.A.BONELLISTREET,RABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MELVIN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401788M",
+        "address": "KENSINGTON,TRIQIL-KONVOJTA'SANTAMARIJA,MQABBAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "ADRIAN GOMEZ BLANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405474M",
+        "address": "14,PATRIG.A.BONELLISTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "NAGGAR STREET,",
+  "company_id": "C 47803",
+  "registration_date": "Sep 25, 2009",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

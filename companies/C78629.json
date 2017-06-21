@@ -1,0 +1,83 @@
+{
+  "company_id": "C 78629",
+  "address": "VILLA AURORA, 14-16 PRINCESS ELIZABETH STREET,",
+  "name": "BOW HOLDING LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Dec 14, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 3,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOANNE SPITERI\r",
+        "party_id": "                                                            345561M",
+        "address": "9/8,PEARLCOURT,VICTORDENAROSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAIS MANSIMOV\r",
+        "party_id": "                                                            C00137576",
+        "address": "APT46A,SALAMZADASTR.,BAKUCITY,AZERBAIJAN",
+        "nationality": "AZERBAIJANI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 3
+        }
+      },
+      {
+        "name": "MUBARIZ MANSIMOV\r",
+        "party_id": "                                                            C00575555",
+        "address": "MAYARESIDENCE,F-BOKD:10,ETILER,BESIKTAS,ISTANBULTURKEY",
+        "nationality": "AZERBAIJANI",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 3
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOANNE SPITERI\r",
+        "party_id": "                                                            345561M",
+        "address": "9/8,PEARLCOURT,VICTORDENAROSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOANNE SPITERI\r",
+        "party_id": "                                                            345561M",
+        "address": "9/8,PEARLCOURT,VICTORDENAROSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOANNE SPITERI\r",
+        "party_id": "                                                            345561M",
+        "address": "9/8,PEARLCOURT,VICTORDENAROSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

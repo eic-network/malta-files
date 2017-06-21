@@ -1,0 +1,75 @@
+{
+  "name": "ANDROS MARITIME COMPANY LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BAXIVANOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AA1291102",
+        "address": "89AKTIMIAOULIPIRAEUS18538GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN BAXIVANOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AA1291102",
+        "address": "89AKTIMIAOULIPIRAEUS18538GREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BAXIVANOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AA1291102",
+        "address": "89AKTIMIAOULIPIRAEUS18538GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DELNICE MARITIME CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            C 23762",
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "J.B. SOROTTO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3229",
+        "address": "EXCHANGEBLDGS,REPUBLICSTR,VALLETTAVLT05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS REPUBLIC STREET",
+  "company_id": "C 11174",
+  "registration_date": "Dec 05, 1989",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

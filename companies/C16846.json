@@ -1,0 +1,103 @@
+{
+  "name": "B.D. ATHERSON ASSOCIATES LIMITED",
+  "total_issued_shares_value": 13976.24,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANNE HERSEY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185259M",
+        "address": "THEPENNYWELL,2,TRIQIL-FORGA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FREDERICK J WILSON\r",
+        "nationality": "",
+        "party_id": "                                                            4134A",
+        "address": "THEPENNYWELL,2,TRIQIL-FORGA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FREDERICK J WILSON\r",
+        "nationality": "",
+        "party_id": "                                                            4134A",
+        "address": "THEPENNYWELL,2,TRIQIL-FORGA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PETER DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04487",
+        "address": "ANUTRUF,FLAT3,TAL-HRIEREBROAD,MSIDAMSD1675MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FREDERICK J WILSON\r",
+        "nationality": "",
+        "party_id": "                                                            4134A",
+        "address": "THEPENNYWELL,2,TRIQIL-FORGA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE HERSEY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185259M",
+        "address": "THEPENNYWELL,2,TRIQIL-FORGA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "PAULA CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175388M",
+        "address": "2,GLORYFLATS,TRIQIL-KAPUCCINI,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "'THE PENNYWELL' ,2, TRIQ IL-FORGA,",
+  "company_id": "C 16846",
+  "registration_date": "Oct 07, 1994",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 10000
+}

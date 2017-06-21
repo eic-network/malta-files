@@ -1,0 +1,62 @@
+{
+  "company_id": "C 63056",
+  "address": "MAYFLOWER COURT, APT. 8, ST. ALOYSIUS STREET,",
+  "name": "BOXCONT SHIPPING AND TRADING COMPANY LTD",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Dec 11, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HAKAN CEVIK\r",
+        "party_id": "                                                            S00614257",
+        "address": "SAHRAYICEDITMAHALLESI,TUCCARBASISOKAK,BALCAYAPARTMANINO11D35,SAHRAYICEDID-KADIKOY,ISTANBUL34734TURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HAKAN CEVIK\r",
+        "party_id": "                                                            S00614257",
+        "address": "SAHRAYICEDITMAHALLESI,TUCCARBASISOKAK,BALCAYAPARTMANINO11D35,SAHRAYICEDID-KADIKOY,ISTANBUL34734TURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HAKAN CEVIK\r",
+        "party_id": "                                                            S00614257",
+        "address": "SAHRAYICEDITMAHALLESI,TUCCARBASISOKAK,BALCAYAPARTMANINO11D35,SAHRAYICEDID-KADIKOY,ISTANBUL34734TURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HAKAN CEVIK\r",
+        "party_id": "                                                            S00614257",
+        "address": "SAHRAYICEDITMAHALLESI,TUCCARBASISOKAK,BALCAYAPARTMANINO11D35,SAHRAYICEDID-KADIKOY,ISTANBUL34734TURKEY",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

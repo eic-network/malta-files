@@ -1,0 +1,96 @@
+{
+  "name": "ASL ONLINE HOLDING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HERMANN HEINZ KRESSE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            83256A",
+        "address": "86,MAINSTREETST.JULIANSSTJ1015MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HERMANN HEINZ KRESSE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            83256A",
+        "address": "86,MAINSTREETST.JULIANSSTJ1015MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "HERMANN HEINZ KRESSE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            83256A",
+        "address": "86,MAINSTREETST.JULIANSSTJ1015MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HERMANN HEINZ KRESSE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            83256A",
+        "address": "86,MAINSTREETST.JULIANSSTJ1015MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDRE PETER VOLKER HAGEMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L74XHKJV5",
+        "address": "SEBASTIANSTR.93KOLN50735GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 705
+        }
+      },
+      {
+        "name": "SVEN HRICAJ\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L79WRPJ83",
+        "address": "FRANKFURTERSTRASSE105SIEGBURGGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 435
+        }
+      },
+      {
+        "name": "LARS KEMMERLING\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L74XCLX17",
+        "address": "WEIERSTR.39SIEGBURG53721GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 360
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "86, MAIN STREET,",
+  "company_id": "C 74928",
+  "registration_date": "Mar 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

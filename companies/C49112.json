@@ -1,0 +1,109 @@
+{
+  "name": "AMBROGIO CO. LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 120,
+      "type": "Ordinary",
+      "authorised_share_capital": 120,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANNE MARIE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66379M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNE MARIE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66379M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNE MARIE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66379M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNE MARIE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66379M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABIGAIL MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326902M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8
+        }
+      },
+      {
+        "name": "ANNE MARIE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66379M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 96
+        }
+      },
+      {
+        "name": "JAKE MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            38308M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8
+        }
+      },
+      {
+        "name": "MATTHEW MACKAY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67998M",
+        "address": "FLEUR,36B,TRIQINDRICALLEJA,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120,
+  "address": "FLEUR, 36B, TRIQ INDRI CALLEJA,",
+  "company_id": "C 49112",
+  "registration_date": "Mar 16, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 120
+}

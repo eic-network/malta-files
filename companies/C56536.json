@@ -1,0 +1,103 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Jun 01, 2012",
+  "status": "In Dissolution",
+  "locality": "VALLETTA",
+  "name": "BUENAVENTURA INVESTMENTS LIMITED",
+  "total_issued_shares": 1200,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 56536",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "168,MAINSTREET,LIJALJA1509MALTA",
+        "party_id": "                                                            309780M",
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "address": "45,'ELDORADO',GUZEPPICARUANASTREET,TAL-VIRTU',RABATRBT2672MALTA",
+        "party_id": "                                                            389980M",
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Liquidators": [
+      {
+        "address": "49,FLAT2,AMERYSTREET,SLIEMAMALTA",
+        "party_id": "                                                            55384M",
+        "name": "KURT CATANIA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46934",
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA",
+        "party_id": "                                                            C 46932",
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199,
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BIZMA HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "INGELA BIRGITTA OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34715050",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "INGELA BIRGITTA OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34715050",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      },
+      {
+        "name": "PER GREGOR PATRIK OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45638098",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "INGELA BIRGITTA OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34715050",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      },
+      {
+        "name": "PER GREGOR PATRIK OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45638098",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "INGELA BIRGITTA OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34715050",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      },
+      {
+        "name": "PER GREGOR PATRIK OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45638098",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INGELA BIRGITTA OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34715050",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PER GREGOR PATRIK OLSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            45638098",
+        "address": "MUSSERONVAGEN851029436SOLVESBERGSWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 21, ROOM 6, CHARLES COURT, ST. LUKE'S ROAD,",
+  "company_id": "C 49203",
+  "registration_date": "Mar 25, 2010",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

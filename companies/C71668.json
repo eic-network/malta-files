@@ -1,0 +1,89 @@
+{
+  "name": "BLUECODE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Ziprex Limited\r",
+        "nationality": "",
+        "party_id": "                                                            1853916",
+        "address": "PalmGroveHousePOBOX438RoadTownTortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Ziprex Limited\r",
+        "nationality": "",
+        "party_id": "                                                            1853916",
+        "address": "PalmGroveHousePOBOX438RoadTownTortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Giuseppe Disabato\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA7456886",
+        "address": "ViaLondraN34Altamura70022ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Ziprex Limited\r",
+        "nationality": "",
+        "party_id": "                                                            1853916",
+        "address": "PalmGroveHousePOBOX438RoadTownTortolaVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Ziprex Limited\r",
+        "nationality": "",
+        "party_id": "                                                            1853916",
+        "address": "PalmGroveHousePOBOX438RoadTownTortolaVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "Simona Turco\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            141104A",
+        "address": "BeatriceFlat5Triqil-MonsinjurDandriaMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 2, ONSITE BUILDINGS, VALLEY ROAD",
+  "company_id": "C 71668",
+  "registration_date": "Jul 30, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

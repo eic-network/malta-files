@@ -1,0 +1,107 @@
+{
+  "name": "ARPHAN SCC P.L.C.",
+  "total_issued_shares_value": 47000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 46999,
+      "type": "OrdinaryCOREA",
+      "authorised_share_capital": 46999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryCOREB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLINT CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294283M",
+        "address": "WOODPECKER,TRIQGUZEMUSCATAZZOPARDI,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA"
+      },
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHARED COMMUNITY FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            PFLP-115",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "CORE B",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SHARED VALUE FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            PFLP-116",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINATA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "CORE A",
+          "issued_shares": 46999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 47000,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA",
+  "company_id": "C 74634",
+  "registration_date": "Mar 02, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 50000
+}

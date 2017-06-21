@@ -1,0 +1,83 @@
+{
+  "company_id": "C 46768",
+  "address": "WHITEHALL MANSIONS - LEVEL 2, TA' XBIEX SEAFRONT,",
+  "name": "BRELLINGTON YACHTING LIMITED",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "May 07, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARKO JUG-DUJAKOVIC\r",
+        "party_id": "                                                            003830054",
+        "address": "TRSCANSKA57,21000,SPLITCROATIA",
+        "nationality": "CROAT"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RICHARD CAPPADONNA\r",
+        "party_id": "                                                            506029531",
+        "address": "425NESPANISHTRL,BOCARATONFL33432-4139,UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "IGOR ZUNKOVIC\r",
+        "party_id": "                                                            PB0104932",
+        "address": "GOUZHLAN,NO.118,DUBAIUNITEDARABEMIRATES",
+        "nationality": "SLOVENIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARKO JUG-DUJAKOVIC\r",
+        "party_id": "                                                            003830054",
+        "address": "TRSCANSKA57,21000,SPLITCROATIA",
+        "nationality": "CROAT"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARKO JUG-DUJAKOVIC\r",
+        "party_id": "                                                            003830054",
+        "address": "TRSCANSKA57,21000,SPLITCROATIA",
+        "nationality": "CROAT"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "WILHELMUS ADRIANUS WOESTENBURG\r",
+        "party_id": "                                                            NXDRHD9P4",
+        "address": "25,CATHEDRALSTREET,WYNNCOURT,APARTMENT6,SLIEMASLM1525MALTA",
+        "nationality": "DUTCH"
+      }
+    ]
+  }
+}

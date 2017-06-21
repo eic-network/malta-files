@@ -1,0 +1,70 @@
+{
+  "company_id": "C 76136",
+  "address": "'ANUTRUF', SUITE 3, TRIQ TAL-HRIEREB,",
+  "name": "BRAWOX LTD",
+  "locality": "MSIDA",
+  "status": "",
+  "registration_date": "Jun 22, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SECIL ALTUN\r",
+        "party_id": "                                                            U07598442",
+        "address": "MEYDANKAVAGIMAH.1608SK,HADRIANUSEVLERIABLOK13A/17MURATPASA,ANTALYATURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SECIL ALTUN\r",
+        "party_id": "                                                            U07598442",
+        "address": "MEYDANKAVAGIMAH.1608SK,HADRIANUSEVLERIABLOK13A/17MURATPASA,ANTALYATURKEY",
+        "nationality": "TURKISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SECIL ALTUN\r",
+        "party_id": "                                                            U07598442",
+        "address": "MEYDANKAVAGIMAH.1608SK,HADRIANUSEVLERIABLOK13A/17MURATPASA,ANTALYATURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SECIL ALTUN\r",
+        "party_id": "                                                            U07598442",
+        "address": "MEYDANKAVAGIMAH.1608SK,HADRIANUSEVLERIABLOK13A/17MURATPASA,ANTALYATURKEY",
+        "nationality": "TURKISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SECIL ALTUN\r",
+        "party_id": "                                                            U07598442",
+        "address": "MEYDANKAVAGIMAH.1608SK,HADRIANUSEVLERIABLOK13A/17MURATPASA,ANTALYATURKEY",
+        "nationality": "TURKISH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "ASAP BUSINESS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Giovanni Battista Forte\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            107709A",
+        "address": "10,PalmSpringsMansionsFlat2,PaceStreet,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMMANUELE PONZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3776706",
+        "address": "VIABOGLIASCO,N.38,ROMEITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMMANUELE PONZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3776706",
+        "address": "VIABOGLIASCO,N.38,ROMEITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PAULIANA SAID\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110125",
+        "address": "36,StDminkaStreet,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EMMANUELE PONZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3776706",
+        "address": "VIABOGLIASCO,N.38,ROMEITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMMANUELE PONZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3776706",
+        "address": "VIABOGLIASCO,N.38,ROMEITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE LEVEL 2, ONSITE BUILDING, VALLEY ROAD,",
+  "company_id": "C 66251",
+  "registration_date": "Aug 04, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,83 @@
+{
+  "name": "ALLEVEN LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARIA CELIA FORNER AGUADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XD224592",
+        "address": "28ENNISMOREGARDENSMEWS,SOUTHKENSINGTON,LONDONSFW71HZUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA CELIA FORNER AGUADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XD224592",
+        "address": "28ENNISMOREGARDENSMEWS,SOUTHKENSINGTON,LONDONSFW71HZUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA CELIA FORNER AGUADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XD224592",
+        "address": "28ENNISMOREGARDENSMEWS,SOUTHKENSINGTON,LONDONSFW71HZUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA CELIA FORNER AGUADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XD224592",
+        "address": "28ENNISMOREGARDENSMEWS,SOUTHKENSINGTON,LONDONSFW71HZUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARIA CELIA FORNER AGUADO\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XD224592",
+        "address": "28ENNISMOREGARDENSMEWS,SOUTHKENSINGTON,LONDONSFW71HZUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VALLEY TOWERS, SUITE 5, VALLEY ROAD,",
+  "company_id": "C 63452",
+  "registration_date": "Jan 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,106 @@
+{
+  "name": "AXIORY EUROPE LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JAKUB NYTRA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            38351250",
+        "address": "KLESU1081,BRNO-MODRICE66442CZECHREPUBLIC"
+      },
+      {
+        "name": "FILIP REHOR\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39030776",
+        "address": "NOVODVORSKA3053FRYDEK-MISTEK73801CZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAKUB NYTRA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            38351250",
+        "address": "KLESU1081,BRNO-MODRICE66442CZECHREPUBLIC"
+      },
+      {
+        "name": "FILIP REHOR\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39030776",
+        "address": "NOVODVORSKA3053FRYDEK-MISTEK73801CZECHREPUBLIC"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAKUB NYTRA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            38351250",
+        "address": "KLESU1081,BRNO-MODRICE66442CZECHREPUBLIC"
+      },
+      {
+        "name": "FILIP REHOR\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39030776",
+        "address": "NOVODVORSKA3053FRYDEK-MISTEK73801CZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID KASPER\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            40356251",
+        "address": "HAMERNICKA1093FRYDLANTNADOSTRAVICI73911CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "JAKUB NYTRA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            38351250",
+        "address": "KLESU1081,BRNO-MODRICE66442CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "FILIP REHOR\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39030776",
+        "address": "NOVODVORSKA3053FRYDEK-MISTEK73801CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SAN JUAN, 116/8, ST. GEORGE'S ROAD,",
+  "company_id": "C 57448",
+  "registration_date": "Sep 05, 2012",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

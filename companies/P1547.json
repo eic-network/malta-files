@@ -1,0 +1,51 @@
+{
+  "name": "BELLA COMINO PLEASURE CRUISES",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JOSEPH BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32964G",
+        "address": "SEAVIEW,CORDINASTREETGHAJNSIELEM(GOZO)GSM2018MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "PAUL BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11492G",
+        "address": "66,TRIQDUNALWIGMIZZIGHARB(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "SEAVEIW, CORDINA STREET",
+  "company_id": "P 1547",
+  "registration_date": "Nov 26, 2014",
+  "shares_currency": "EUR",
+  "locality": "GHAJNSIELEM (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1000
+}

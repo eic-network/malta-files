@@ -1,0 +1,127 @@
+{
+  "name": "Betsy Investor's Group, Ltd.",
+  "total_issued_shares_value": 350000,
+  "total_authorised_shares_value": 750000,
+  "authorised_shares": [
+    {
+      "issued_shares": 70,
+      "type": "Ordinary",
+      "authorised_share_capital": 150,
+      "nominal_value_per_share": 5000
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN KUHN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            113541599",
+        "address": "1211BLOOMFIELDSTREET,HOBOKENNJ07030UNITEDSTATES"
+      },
+      {
+        "name": "PAUL VARJAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214771461",
+        "address": "60EAST8THSTREET,APT.24J,NEWYORKNY10003UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN KUHN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            113541599",
+        "address": "1211BLOOMFIELDSTREET,HOBOKENNJ07030UNITEDSTATES"
+      },
+      {
+        "name": "PAUL VARJAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214771461",
+        "address": "60EAST8THSTREET,APT.24J,NEWYORKNY10003UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN KUHN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            113541599",
+        "address": "1211BLOOMFIELDSTREET,HOBOKENNJ07030UNITEDSTATES"
+      },
+      {
+        "name": "PAUL VARJAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214771461",
+        "address": "60EAST8THSTREET,APT.24J,NEWYORKNY10003UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RAYMOND CHARLES BACCALA\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            468130094",
+        "address": "17CASTLEHILLDRIVE,COUNTRYVIEWMARLBORO,MARLBORONJ07746UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 5000,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "JOHN KUHN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            113541599",
+        "address": "1211BLOOMFIELDSTREET,HOBOKENNJ07030UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 5000,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "SILVESTRO SPILABOTTE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            449264493",
+        "address": "8,MILLBROOKCOURT,DIXHILLS,NY11746UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 5000,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "PAUL VARJAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            214771461",
+        "address": "60EAST8THSTREET,APT.24J,NEWYORKNY10003UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 5000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 70,
+  "address": "60/2, MELITA STREET",
+  "company_id": "C 58581",
+  "registration_date": "Dec 12, 2012",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 150
+}

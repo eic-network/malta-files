@@ -1,0 +1,65 @@
+{
+  "name": "APEX MARINE CORPORATION LIMITED",
+  "total_issued_shares_value": 1164,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HABEEB AHAMED MUBARAK",
+        "nationality": "",
+        "party_id": "",
+        "address": "P.O.BOX55409,DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "AHMED HUSAIN LAFIR",
+        "nationality": "",
+        "party_id": "",
+        "address": "P.O.BOX55409,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HABEEB AHAMED MUBARAK",
+        "nationality": "",
+        "party_id": "",
+        "address": "P.O.BOX55409,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "AHMED HUSAIN LAFIR",
+        "nationality": "",
+        "party_id": "",
+        "address": "P.O.BOX55409,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET,",
+  "company_id": "C 33813",
+  "registration_date": "Apr 28, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

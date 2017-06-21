@@ -1,0 +1,78 @@
+{
+  "name": "BOAM LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "66,TRIQANT.SCHEMBRI,KAPPARASANGWANNSGN4235MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "66,TRIQANT.SCHEMBRI,KAPPARASANGWANNSGN4235MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "66,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4235MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID LAWRENCE GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10413",
+        "address": "78,KOSI-KOTTRIQGUZE'ELLULMERCERQORMIQRM2685MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "66,TRIQANT.SCHEMBRI,KAPPARASANGWANNSGN4235MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FORTEQ LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60094",
+        "address": "LEVEL3,THEFORUM,CONSTITUTIONSTREET,MOSTAMST9051MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "Level 2, The Forum, Constitution Street,",
+  "company_id": "C 43569",
+  "registration_date": "Feb 14, 2008",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

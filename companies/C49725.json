@@ -1,0 +1,97 @@
+{
+  "name": "ARETROP LIMITED",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SANTO S. PORTERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73607L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SANTO S. PORTERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73607L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SANTO S. PORTERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73607L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA"
+      },
+      {
+        "name": "CHRISTINE PORTERA MEYER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136707L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "UHY PACE, GALEA MUSU & CO.\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/52",
+        "address": "MatildaCourt,No2,35,G.CaliStreet,TA'XBIEXXBX1423MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SANTO S. PORTERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73607L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTINE PORTERA MEYER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136707L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "SANTO S. PORTERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73607L",
+        "address": "12HIGHRIDGEGALATASTREET,ST.ANDREWSSWIEQISWQ1242MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99900
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "4, The Agora, Flat 4 Triq L Ahwa Galea",
+  "company_id": "C 49725",
+  "registration_date": "May 21, 2010",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

@@ -1,0 +1,83 @@
+{
+  "name": "BARTOLI TRADING CO. LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IVAN BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495662M",
+        "address": "102/2,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IVAN BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495662M",
+        "address": "102/2,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH CAMILLERI BOWMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            298251M",
+        "address": "6,PONDEROSACOURT,MRABATSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495662M",
+        "address": "102/2,SPINOLAROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERIC BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            469359M",
+        "address": "SERENE,ST.RITASTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "IVAN BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            495662M",
+        "address": "102/2,SPINOLAROAD,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "RL 8B, INDUSTRIAL ESTATE, RICASOLI,",
+  "company_id": "C 20903",
+  "registration_date": "Dec 20, 1996",
+  "shares_currency": "EUR",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

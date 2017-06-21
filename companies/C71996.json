@@ -1,0 +1,83 @@
+{
+  "name": "BLUEGREEN HOLDINGS LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAMIEN FIOTT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            795556",
+        "address": "323,STPAUL'SROAD,NAXXARNXR4012MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MASSIMILIANO MARCO PAGANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3101686",
+        "address": "VIAGENEROSO5,LUGANOCH-6900SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JORG GEROLD BUCHERER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1800787",
+        "address": "HECKENREIDSTRASSE12MEGGEN6045SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30000
+        }
+      },
+      {
+        "name": "CARLO GIOVANNI LUIGI MAHLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4093848",
+        "address": "CASAVECCHIAVIAALBOSCO27CASSINAD'AGNO6990SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "NO. 188, 21ST SEPTEMBER AVENUE,",
+  "company_id": "C 71996",
+  "registration_date": "Aug 24, 2015",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 50000
+}

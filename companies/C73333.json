@@ -1,0 +1,102 @@
+{
+  "name": "BOOKIE SOFTWARE LTD",
+  "total_issued_shares_value": 1322.38,
+  "total_authorised_shares_value": 1322.38,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1.0579
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1.058
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQSANFRANGIST'ASSISI,BAHARIC-CAGHAQNAXXARNXR5250MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIRECTA MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 44604",
+        "address": "203A,OLDBAKERYSTREET,VALLETTAVLT1453MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B8 HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1896561",
+        "address": "OMCCHAMBERS,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1.0579,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "SUFORE TRADING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            HE34882",
+        "address": "PRODROMOU,751STFLOOR,FLAT/OFFICE101,STROVOLOSNICOSIA2063CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1.0579,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.058,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 73333",
+  "registration_date": "Dec 01, 2015",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

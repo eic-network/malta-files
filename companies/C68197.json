@@ -1,0 +1,91 @@
+{
+  "name": "AUTRADE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DIETER JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3232977",
+        "address": "8,ALTESTADTGRENZEKLAGENFURTAMWORTHERSEEA-9020AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIETER JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3232977",
+        "address": "8,ALTESTADTGRENZEKLAGENFURTAMWORTHERSEEA-9020AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DIETER JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3232977",
+        "address": "8,ALTESTADTGRENZEKLAGENFURTAMWORTHERSEEA-9020AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG & ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/21",
+        "address": "A3TOWERS,BLOCKA3,LEVEL12,TRIQL-ARKATAPAOLAPLA1211MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIETER JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3232977",
+        "address": "8,ALTESTADTGRENZEKLAGENFURTAMWORTHERSEEA-9020AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DIETER JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P3232977",
+        "address": "8,ALTESTADTGRENZEKLAGENFURTAMWORTHERSEEA-9020AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "KLAUS JERNEJ\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P8120397",
+        "address": "125,GORTSCHITZTALSTRASSE,MAGDALENSBERG9064AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "152, SUITE NR. 7, NAXXAR ROAD,",
+  "company_id": "C 68197",
+  "registration_date": "Dec 18, 2014",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,59 @@
+{
+  "name": "BLUE CREST SHIPPING LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GABRIEL PETRIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T246008",
+        "address": "6,POSSIDONOSAVENUE,KALLITHEA,ATHENS17674GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GANADO TRUSTEES & FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7880",
+        "address": "171OLDBAKERYSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ROCKET MARINE INC",
+        "nationality": "",
+        "party_id": "",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLAND,MAJURO96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 30690",
+  "registration_date": "Dec 19, 2002",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

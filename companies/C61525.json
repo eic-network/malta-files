@@ -1,0 +1,78 @@
+{
+  "name": "AS GLOBAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 12,
+      "type": "Ordinary",
+      "authorised_share_capital": 12,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "BRADY SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            387887M",
+        "address": "1,NIRVANA,TRIQIL-KURVETTI,PAOLAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIANO CURNIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8595117",
+        "address": "VIAMERCOLE4VACALLOSWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIANO CURNIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8595117",
+        "address": "VIAMERCOLE4VACALLOSWITZERLAND"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIANO CURNIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8595117",
+        "address": "VIAMERCOLE4VACALLOSWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIANO CURNIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU8595117",
+        "address": "VIAMERCOLE4VACALLOSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12,
+  "address": "40, VILLA FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 61525",
+  "registration_date": "Aug 09, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 12
+}

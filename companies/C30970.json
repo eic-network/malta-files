@@ -1,0 +1,84 @@
+{
+  "name": "BATTLE LIMITED",
+  "total_issued_shares_value": 82511.05,
+  "total_authorised_shares_value": 83857.43,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 34922,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 35000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN SPITERI DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            391958M",
+        "address": "29MISRAHKARLUDIACONOZEJTUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANNA MARIA SPITERI DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380861M",
+        "address": "29,MISRAHKARLUDIACONO,ZEJTUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANNA MARIA SPITERI DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380861M",
+        "address": "29,MISRAHKARLUDIACONO,ZEJTUNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48005",
+        "address": "5/2,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANNA MARIA SPITERI DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380861M",
+        "address": "29,MISRAHKARLUDIACONO,ZEJTUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNA MARIA SPITERI DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            380861M",
+        "address": "29,MISRAHKARLUDIACONO,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 35422,
+  "address": "29, CARLO DIACONO SQUARE",
+  "company_id": "C 30970",
+  "registration_date": "Feb 12, 2003",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 36000
+}

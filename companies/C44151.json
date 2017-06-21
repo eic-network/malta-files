@@ -1,0 +1,67 @@
+{
+  "company_id": "C 44151",
+  "address": "13, CURATE FENECH STREET,",
+  "name": "BRAND IN EVENT LTD",
+  "locality": "BIRZEBBUGIA",
+  "status": "",
+  "registration_date": "May 02, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MERCURY MANAGEMENT LIMITED\r",
+        "party_id": "                                                            C 28103",
+        "address": "13,CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "METAPRIME GROUP LIMITED\r",
+        "party_id": "                                                            C 43709",
+        "address": "13CURATEFENECHSTREETBIRZEBBUGIAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA ANNA ZERBINI\r",
+        "party_id": "                                                            B517844",
+        "address": "VIAGIOVANNIXXIII,6,I-27010,GIUSSAGO,PAVIAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIA ANNA ZERBINI\r",
+        "party_id": "                                                            B517844",
+        "address": "VIAGIOVANNIXXIII,6,I-27010,GIUSSAGO,PAVIAITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

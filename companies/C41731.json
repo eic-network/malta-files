@@ -1,0 +1,83 @@
+{
+  "name": "A T T Holdings Limited",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "60,MATERBONICONSILIISTREET,PAOLAPLA06MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "60,MATERBONICONSILIISTREET,PAOLAPLA06MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "60,MATERBONICONSILIISTREET,PAOLAPLA06MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "60,MATERBONICONSILIISTREET,PAOLAPLA06MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "F & F TRUST SERVICES LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 20796",
+        "address": "CASAFLORIANI,PIETROFLORIANISTREET,FLORIANAVLT14MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "JOSEPH TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252869M",
+        "address": "60,MATERBONICONSILIISTREET,PAOLAPLA06MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "112, PEBBLES, TRIQ IL-GALLINA, KAPPARA",
+  "company_id": "C 41731",
+  "registration_date": "Jun 27, 2007",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,83 @@
+{
+  "name": "ANTHONY TONNA & CO LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MONIQUE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            477664M",
+        "address": "QUEENSGATE,FLAT3,TRIQIL-QASAM,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670353M",
+        "address": "1,GIANNIBENCINISTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JEREMY GAMBIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01286",
+        "address": "3,BARAKEE,TRIQIL-HAWT,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670353M",
+        "address": "1,GIANNIBENCINISTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A.T. HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28372",
+        "address": "185/2,RUED'ARGENS,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "ANTHONY TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670353M",
+        "address": "1,GIANNIBENCINISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "'SECURITY HOUSE' 185/2, RUE D'ARGENS,",
+  "company_id": "C 12585",
+  "registration_date": "Apr 22, 1991",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

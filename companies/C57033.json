@@ -1,0 +1,97 @@
+{
+  "name": "BETTING ENTERTAINMENT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARILYN MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            383088M",
+        "address": "35,MANNARINOROADBIRKIRKARABKR9080MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183165M",
+        "address": "THEPENTHOUSE,CAROLINACOURTGUZEPPICALISTREETTA'XBIEXXBX1425MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIANCARLO TUMINO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            70126A",
+        "address": "SAVOYGARDENSBLKK,FL13,TRIQD'ARGENS,GZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JUXEK LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            8891762",
+        "address": "SUITE303,PRINCESSHOUSE50-60EASTCASTELSTREETLONDONW1W8EAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "SALVATORE PACE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            135711A",
+        "address": "K13,SAVOYGARDENS,BLKF,FL5TRIQD'ARGENSGZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PLAZA COMPLEX, SUITE 1, LEVEL 4, BISAZZA STREET,",
+  "company_id": "C 57033",
+  "registration_date": "Jul 23, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

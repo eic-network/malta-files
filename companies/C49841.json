@@ -1,0 +1,97 @@
+{
+  "name": "BETTING AND GAMING LIMITED",
+  "total_issued_shares_value": 240000,
+  "total_authorised_shares_value": 240000,
+  "authorised_shares": [
+    {
+      "issued_shares": 239999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 239999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIPPE WARZEE\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            28471A",
+        "address": "1,TRIQL-IZBARKTAL-FRANCIZI,BAHARIC-CAGHAQ,NAXXARNXR5050MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IOSIF GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467180M",
+        "address": "31,NIRVANA,ALFREDOCACHIAZAMMITSTREET,ZEJTUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IOSIF GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467180M",
+        "address": "31,NIRVANA,ALFREDOCACHIAZAMMITSTREET,ZEJTUNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAILEY AUDIT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/105",
+        "address": "SUITE3,1STFLOOR,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAVLT1103MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IOSIF GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            467180M",
+        "address": "31,NIRVANA,ALFREDOCACHIAZAMMITSTREET,ZEJTUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETTING AND GAMING (HOLDINGS) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49835",
+        "address": "SUITE21,ROOM3,CHARLESCOURT,ST.LUKE'SROAD,PIETA'PTA1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 239999
+        }
+      },
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 240000,
+  "address": "SUITE 21, ROOM 4, CHARLES COURT, ST. LUKE'S ROAD,",
+  "company_id": "C 49841",
+  "registration_date": "Jun 04, 2010",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 240000
+}

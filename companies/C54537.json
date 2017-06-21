@@ -1,0 +1,99 @@
+{
+  "name": "BABORRE LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "KARL SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42682M",
+        "address": "78,ALTOMONTE,TRIQL-GHOLJIET,MELLIEHAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "PROVIDENCE,104,TRIQIL-QROLL,BIRZEBBUGIABBG2242MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "PROVIDENCE,104,TRIQIL-QROLL,BIRZEBBUGIABBG2242MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "PROVIDENCE,104,TRIQIL-QROLL,BIRZEBBUGIABBG2242MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHEN BALZAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            263970M",
+        "address": "PROVIDENCE,104,TRIQIL-QROLL,BIRZEBBUGIABBG2242MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ACT ADVISORY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 65093",
+        "address": "'VILLAMALITAH'PLOT15,MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BARNABA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53686",
+        "address": "VILLAMALITAHMEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "VILLA MALITAH, MEDITERRANEAN STREET, THE VILLAGE,",
+  "company_id": "C 54537",
+  "registration_date": "Nov 28, 2011",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 4500
+}

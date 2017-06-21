@@ -1,0 +1,83 @@
+{
+  "name": "BEIRUT SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ADRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54056M",
+        "address": "5/2,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MERHI ABOU MERHI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL0070007",
+        "address": "MAJDELYON,VILLAABOUMERHI,SAIDA22826LEBANON"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MERHI ABOU MERHI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL0070007",
+        "address": "MAJDELYON,VILLAABOUMERHI,SAIDA22826LEBANON"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MERHI ABOU MERHI\r",
+        "nationality": "LEBANESE",
+        "party_id": "                                                            RL0070007",
+        "address": "MAJDELYON,VILLAABOUMERHI,SAIDA22826LEBANON"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHA HOLDING LIBAN SAL\r",
+        "nationality": "",
+        "party_id": "                                                             1211",
+        "address": "BOURJHAMMOUD,HARBOYANCENTRE,BEIRUTLEBANON",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "M.A.M HOLDING LIBAN SAL\r",
+        "nationality": "",
+        "party_id": "                                                             1212",
+        "address": "BOURJHAMMOUD,HARBOYANCENTREBEIRUTLIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "198, OLD BAKERY STREET,",
+  "company_id": "C 40936",
+  "registration_date": "Mar 08, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

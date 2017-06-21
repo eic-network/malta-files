@@ -1,0 +1,90 @@
+{
+  "name": "ALPHA PRIME INTERNATIONAL LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SYED SAEED ATHAR",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "",
+        "address": "P.O.BOX4619,DUBAISAUDIARABIA"
+      },
+      {
+        "name": "ABDUL FATTAH",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "",
+        "address": "P.O.BOX4619,DUBAISAUDIARABIA"
+      },
+      {
+        "name": "MAHMOOD BAQI MOULVI",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "",
+        "address": "P.O.BOX4619,DUBAISAUDIARABIA"
+      },
+      {
+        "name": "SADIQ ALI PANJWANI",
+        "nationality": "PAKISTANI",
+        "party_id": "",
+        "address": "NO.B204,BELLEVIEWAPARTMENT,BL5,CLIFTON,KARACHIPAKISTAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SYED SAEED ATHAR",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "",
+        "address": "P.O.BOX4619,DUBAISAUDIARABIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 110
+        }
+      },
+      {
+        "name": "ABDUL FATTAH",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "",
+        "address": "P.O.BOX4619,DUBAISAUDIARABIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 265
+        }
+      },
+      {
+        "name": "SADIQ ALI PANJWANI",
+        "nationality": "PAKISTANI",
+        "party_id": "",
+        "address": "NO.B204,BELLEVIEWAPARTMENT,BL5,CLIFTON,KARACHIPAKISTAN",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 27910",
+  "registration_date": "Mar 20, 2001",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

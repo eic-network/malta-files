@@ -1,0 +1,54 @@
+{
+  "name": "AVANTI TRADING INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 100
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHANN NOUZA\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            A0227205",
+        "address": "PLAZADEARAGON10-9PLANTAZARAGOZAE50004SPAIN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHANN NOUZA\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            A0227205",
+        "address": "PLAZADEARAGON10-9PLANTAZARAGOZAE50004SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHANN NOUZA\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            A0227205",
+        "address": "PLAZADEARAGON10-9PLANTAZARAGOZAE50004SPAIN",
+        "shares": {
+          "nominal_value_per_share": 100,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "136, ST.CHRISTOPHER STREET",
+  "company_id": "C 24582",
+  "registration_date": "May 18, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 200
+}

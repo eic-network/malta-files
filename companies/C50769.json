@@ -1,0 +1,185 @@
+{
+  "name": "ALURWIND LTD",
+  "total_issued_shares_value": 2400,
+  "total_authorised_shares_value": 2400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "TONIO FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            255373M",
+        "address": "MADLIENAVILLAGE,APT8002,FORTROAD,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALDO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            592140M",
+        "address": "36,TORRILANZONSTREETMENSIJASANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66160G",
+        "address": "REBBIEHATRIQGHAJNTUTAKERCEM(GOZO)KCM1265MALTA"
+      },
+      {
+        "name": "ALESSANDRO URSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            28179A",
+        "address": "86ALLEY,OFFBELVEDERESTREET,QALA(GOZO)MALTA"
+      },
+      {
+        "name": "ALDO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            592140M",
+        "address": "36,TORRILANZONSTREETMENSIJASANGWANNMALTA"
+      },
+      {
+        "name": "RYAN XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14779G",
+        "address": "TA'LONZA,FLAT2,TRIQIL-PARSOTT,XAGHRA(GOZO)XRA2205MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66160G",
+        "address": "REBBIEHATRIQGHAJNTUTAKERCEM(GOZO)KCM1265MALTA"
+      },
+      {
+        "name": "ALESSANDRO URSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            28179A",
+        "address": "86ALLEY,OFFBELVEDERESTREET,QALA(GOZO)MALTA"
+      },
+      {
+        "name": "ALDO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            592140M",
+        "address": "36,TORRILANZONSTREETMENSIJASANGWANNMALTA"
+      },
+      {
+        "name": "RYAN XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14779G",
+        "address": "TA'LONZA,FLAT2,TRIQIL-PARSOTT,XAGHRA(GOZO)XRA2205MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            66160G",
+        "address": "REBBIEHATRIQGHAJNTUTAKERCEM(GOZO)KCM1265MALTA"
+      },
+      {
+        "name": "ALESSANDRO URSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            28179A",
+        "address": "86ALLEY,OFFBELVEDERESTREET,QALA(GOZO)MALTA"
+      },
+      {
+        "name": "ALDO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            592140M",
+        "address": "36,TORRILANZONSTREETMENSIJASANGWANNMALTA"
+      },
+      {
+        "name": "RYAN XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14779G",
+        "address": "TA'LONZA,FLAT2,TRIQIL-PARSOTT,XAGHRA(GOZO)XRA2205MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIE ODILE BUSSAC\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            28178A",
+        "address": "86ALLEY,OFFBELVEDERESTREET,QALA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 576
+        }
+      },
+      {
+        "name": "ALESSANDRO URSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            28179A",
+        "address": "86ALLEY,OFFBELVEDERESTREET,QALA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 576
+        }
+      },
+      {
+        "name": "ALDO VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            592140M",
+        "address": "36,TORRILANZONSTREETMENSIJASANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 48
+        }
+      },
+      {
+        "name": "ECONETIQUE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46843",
+        "address": "XEWKIJAINDUSTRIALESTATE,XEWKIJA(GOZO)XWK3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2400,
+  "address": "86 ALLEY, OFF BELVEDERE STREET,",
+  "company_id": "C 50769",
+  "registration_date": "Oct 04, 2010",
+  "shares_currency": "EUR",
+  "locality": "QALA (GOZO)",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2400
+}

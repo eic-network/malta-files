@@ -1,0 +1,87 @@
+{
+  "name": "A M F CONTRACTORS LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MAY MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317156M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GODWIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208754M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MAY MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317156M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GODWIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208754M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "MAY MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317156M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GODWIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            208754M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2800
+        }
+      },
+      {
+        "name": "MAY MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317156M",
+        "address": "SARINAFARMBIDNIJAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "TRIQ GANU",
+  "company_id": "C 14955",
+  "registration_date": "Apr 20, 1993",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

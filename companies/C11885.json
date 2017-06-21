@@ -1,0 +1,95 @@
+{
+  "name": "APEX SYSTEMS LIMITED",
+  "total_issued_shares_value": 4658.74,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534687M",
+        "address": "'CROSSBOWHOUSE',78,COSPICUAROAD,PAOLAPLA1902MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554958M",
+        "address": "109,MAINSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARIO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534051M",
+        "address": "'FLEURETTES',GERRYZAMMITSTREET,MSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554958M",
+        "address": "109,MAINSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "MARIO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534051M",
+        "address": "'FLEURETTES',GERRYZAMMITSTREET,MSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554958M",
+        "address": "109,MAINSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "MARIO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            534051M",
+        "address": "'FLEURETTES',GERRYZAMMITSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "109, MAIN STREET,",
+  "company_id": "C 11885",
+  "registration_date": "Aug 30, 1990",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

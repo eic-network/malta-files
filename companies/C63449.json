@@ -1,0 +1,109 @@
+{
+  "name": "ASTONE GROUP LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CORINNE FARRUGIA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113983M",
+        "address": "RIVENDELLMONS.MIKIELAZZOPARDISTREETMOSTAMST2403MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANK CHETCUTI DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236269M",
+        "address": "5,AROHALANESLIEMAMALTA"
+      },
+      {
+        "name": "MICHAL KOSAC\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            EA352372",
+        "address": "P.JILEMNICKEHO4-5/10,0185NOVADUBNICASLOVAKIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRANK CHETCUTI DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236269M",
+        "address": "5,AROHALANESLIEMAMALTA"
+      },
+      {
+        "name": "MICHAL KOSAC\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            EA352372",
+        "address": "P.JILEMNICKEHO4-5/10,0185NOVADUBNICASLOVAKIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KRESTON MC MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/37",
+        "address": "SUITE1,141,BALZANVALLEYBALZANBZN1404MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANK CHETCUTI DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236269M",
+        "address": "5,AROHALANESLIEMAMALTA"
+      },
+      {
+        "name": "MICHAL KOSAC\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            EA352372",
+        "address": "P.JILEMNICKEHO4-5/10,0185NOVADUBNICASLOVAKIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAL KOSAC\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            EA352372",
+        "address": "P.JILEMNICKEHO4-5/10,0185NOVADUBNICASLOVAKIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "FILIP POSTAVKA\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            111254397",
+        "address": "MJR.KASLIKA2065,ROZTOKY25263CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "20, CANNON ROAD,",
+  "company_id": "C 63449",
+  "registration_date": "Jan 10, 2014",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

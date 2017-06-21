@@ -1,0 +1,97 @@
+{
+  "name": "AQUA HOLDING CO LTD",
+  "total_issued_shares_value": 2000000,
+  "total_authorised_shares_value": 2000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PHILIP MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            491681M",
+        "address": "GRACELAND,ZIRSTREET,ATTARDATD1741MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIP MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            491681M",
+        "address": "GRACELAND,ZIRSTREET,ATTARDATD1741MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURO ATTOLINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3660178",
+        "address": "VIAMURATGIOACCHINO32,MILANITALY"
+      },
+      {
+        "name": "PHILIP MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            491681M",
+        "address": "GRACELAND,ZIRSTREET,ATTARDATD1741MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PHILIP MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            491681M",
+        "address": "GRACELAND,ZIRSTREET,ATTARDATD1741MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHEMI S.P.A.\r",
+        "nationality": "",
+        "party_id": "                                                            REA926575",
+        "address": "VIADEILAVORATORI54,CINISELLOBALSAMO20092ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999999
+        }
+      },
+      {
+        "name": "MAURO ATTOLINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3660178",
+        "address": "VIAMURATGIOACCHINO32,MILANITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000000,
+  "address": "GRACELAND, ZIR STREET,",
+  "company_id": "C 57058",
+  "registration_date": "Jul 25, 2012",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 2000000
+}

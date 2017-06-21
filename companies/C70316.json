@@ -1,0 +1,80 @@
+{
+  "name": "BOOK MOUNTAIN LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDREAS HERMANN STEFAN BODMER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3057414",
+        "address": "ALLMENDSTRASSE26KUSNACHTZURICH8700SWITZERLAND"
+      },
+      {
+        "name": "ARIS APOSTOLOS ZIROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0709202",
+        "address": "CHEASEACLOTERARVINS68/3LAPUNT-CHAMUES-CH7522SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREAS HERMANN STEFAN BODMER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3057414",
+        "address": "ALLMENDSTRASSE26KUSNACHTZURICH8700SWITZERLAND"
+      },
+      {
+        "name": "ARIS APOSTOLOS ZIROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0709202",
+        "address": "CHEASEACLOTERARVINS68/3LAPUNT-CHAMUES-CH7522SWITZERLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREAS HERMANN STEFAN BODMER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3057414",
+        "address": "ALLMENDSTRASSE26KUSNACHTZURICH8700SWITZERLAND"
+      },
+      {
+        "name": "ARIS APOSTOLOS ZIROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AI0709202",
+        "address": "CHEASEACLOTERARVINS68/3LAPUNT-CHAMUES-CH7522SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREAS HERMANN STEFAN BODMER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X3057414",
+        "address": "ALLMENDSTRASSE26KUSNACHTZURICH8700SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SEA BREEZE, G. CALI STREET",
+  "company_id": "C 70316",
+  "registration_date": "Apr 28, 2015",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

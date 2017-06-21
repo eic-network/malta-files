@@ -1,0 +1,70 @@
+{
+  "company_id": "C 78730",
+  "address": "93, MILL STREET,",
+  "name": "BP RISK SOLUTIONS LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Dec 19, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BARRY VICTOR PAULL\r",
+        "party_id": "                                                            518384377",
+        "address": "SITIODALOMBADA,CX671-TBOLIQUEIME8100-078PORTUGAL",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARRY VICTOR PAULL\r",
+        "party_id": "                                                            518384377",
+        "address": "SITIODALOMBADA,CX671-TBOLIQUEIME8100-078PORTUGAL",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BARRY VICTOR PAULL\r",
+        "party_id": "                                                            518384377",
+        "address": "SITIODALOMBADA,CX671-TBOLIQUEIME8100-078PORTUGAL",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BARRY VICTOR PAULL\r",
+        "party_id": "                                                            518384377",
+        "address": "SITIODALOMBADA,CX671-TBOLIQUEIME8100-078PORTUGAL",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BARRY VICTOR PAULL\r",
+        "party_id": "                                                            518384377",
+        "address": "SITIODALOMBADA,CX671-TBOLIQUEIME8100-078PORTUGAL",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

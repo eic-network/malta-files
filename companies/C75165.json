@@ -1,0 +1,119 @@
+{
+  "name": "AZOM LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "JOAO CORREIA Y ALBERTY MOREIRA DE ANDRADE\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M576615",
+        "address": "AV.DEANGOLA.MAPUTO1956MOZAMBIQUE"
+      },
+      {
+        "name": "MIGUEL ANTONIO GUIMARAES ALBERTY\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M572545",
+        "address": "AV.DEANGOLA,MAPUTO1965MOZAMBIQUE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "JOAO CORREIA Y ALBERTY MOREIRA DE ANDRADE\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M576615",
+        "address": "AV.DEANGOLA.MAPUTO1956MOZAMBIQUE"
+      },
+      {
+        "name": "MIGUEL ANTONIO GUIMARAES ALBERTY\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M572545",
+        "address": "AV.DEANGOLA,MAPUTO1965MOZAMBIQUE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FREDERICO DORIA MONTEIRO DE GOUVEIA E SILVA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            P195215",
+        "address": "41,CATHEDRALSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "JOAO CORREIA Y ALBERTY MOREIRA DE ANDRADE\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M576615",
+        "address": "AV.DEANGOLA.MAPUTO1956MOZAMBIQUE"
+      },
+      {
+        "name": "MIGUEL ANTONIO GUIMARAES ALBERTY\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M572545",
+        "address": "AV.DEANGOLA,MAPUTO1965MOZAMBIQUE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOAO CORREIA Y ALBERTY MOREIRA DE ANDRADE\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M576615",
+        "address": "AV.DEANGOLA.MAPUTO1956MOZAMBIQUE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "MIGUEL ANTONIO GUIMARAES ALBERTY\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M572545",
+        "address": "AV.DEANGOLA,MAPUTO1965MOZAMBIQUE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "89, ST. JOHN STREET,",
+  "company_id": "C 75165",
+  "registration_date": "Apr 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

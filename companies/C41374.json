@@ -1,0 +1,108 @@
+{
+  "name": "Asamer Libya Limited",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      },
+      {
+        "name": "ROBERT GRAHAM SOLOMON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4115213",
+        "address": "8,FREDERICKSTR.IPSWICH4305AUSTRALIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      },
+      {
+        "name": "ROBERT GRAHAM SOLOMON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4115213",
+        "address": "8,FREDERICKSTR.IPSWICH4305AUSTRALIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      },
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH MARY FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            362849M",
+        "address": "27,PANORAMA,BATTERYSTREET,SANTAVENERASVR1430MALTA"
+      },
+      {
+        "name": "ROBERT GRAHAM SOLOMON\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4115213",
+        "address": "8,FREDERICKSTR.IPSWICH4305AUSTRALIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LIBYA CEMENT HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            HS-293851",
+        "address": "HARNEYSSERVICES(CAYMAN)LIMITED,4THFLOOR,HARBOURPLACE,103SOUTHCHURCHSTREET,GEORGETOWNKY1-1002CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 41374",
+  "registration_date": "May 14, 2007",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 10000
+}

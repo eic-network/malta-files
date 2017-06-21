@@ -1,0 +1,96 @@
+{
+  "company_id": "C 7904",
+  "address": "MERCURY HOUSE, 125, OLD MINT STREET,",
+  "name": "BROBOK LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Company Status",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FABIO GRIMA\r",
+        "party_id": "                                                            206173M",
+        "address": "193,TRIQVINCENZOCIAPPARA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RAYMOND GRIMA\r",
+        "party_id": "                                                            34071M",
+        "address": "170,TRIQIL-FORTIZZA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FABIO GRIMA\r",
+        "party_id": "                                                            206173M",
+        "address": "193,TRIQVINCENZOCIAPPARA,MELLIEHAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RAYMOND GRIMA\r",
+        "party_id": "                                                            34071M",
+        "address": "170,TRIQIL-FORTIZZA,MELLIEHAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABIO GRIMA\r",
+        "party_id": "                                                            206173M",
+        "address": "193,TRIQVINCENZOCIAPPARA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RAYMOND GRIMA\r",
+        "party_id": "                                                            34071M",
+        "address": "170,TRIQIL-FORTIZZA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABIO GRIMA\r",
+        "party_id": "                                                            206173M",
+        "address": "193,TRIQVINCENZOCIAPPARA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RAYMOND GRIMA\r",
+        "party_id": "                                                            34071M",
+        "address": "170,TRIQIL-FORTIZZA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FABIO GRIMA\r",
+        "party_id": "                                                            206173M",
+        "address": "193,TRIQVINCENZOCIAPPARA,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

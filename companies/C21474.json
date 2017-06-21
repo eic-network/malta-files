@@ -1,0 +1,83 @@
+{
+  "name": "BALBI ENTERPRISES LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "KANTRA,KANTRABEACH,TA'CENC,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "KANTRA,KANTRABEACH,TA'CENC,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "KANTRA,KANTRABEACH,TA'CENC,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "KANTRA,KANTRABEACH,TA'CENC,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BALBI (1860) LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 21361",
+        "address": "12,MARIANCOURT,DEPIROSTREET,SLIEMASLM2033MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "PIERRE MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433259M",
+        "address": "KANTRA,KANTRABEACH,TA'CENC,SANNAT(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SUITE 12, MARIAN COURT, DEPIRO STREET,",
+  "company_id": "C 21474",
+  "registration_date": "May 30, 1997",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

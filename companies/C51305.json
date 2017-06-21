@@ -1,0 +1,109 @@
+{
+  "name": "A.C.I. LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTINE BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            453783M",
+        "address": "ORIANA,FLAT3,TRIQL-GHENEB,ZEBBUGZBG1520MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331484M",
+        "address": "ORIANA,FLAT3,TRIQL-GHENEB,ZEBBUGZBG1520MALTA"
+      },
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359253M",
+        "address": "32THEHAVENICILIOCALLEJASTREETZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331484M",
+        "address": "ORIANA,FLAT3,TRIQL-GHENEB,ZEBBUGZBG1520MALTA"
+      },
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359253M",
+        "address": "32THEHAVENICILIOCALLEJASTREETZEBBUGMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEVILLE TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11118",
+        "address": "Office137TriqA.CaligariZABBARZBR2809MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            331484M",
+        "address": "ORIANA,FLAT3,TRIQL-GHENEB,ZEBBUGZBG1520MALTA"
+      },
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359253M",
+        "address": "32THEHAVENICILIOCALLEJASTREETZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARTOLO BROTHERS HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65983",
+        "address": "B&BCONSTRUCTION,SANTAMARIJASTREET,MAGHTABNAXXARNXR6515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ANTHONY PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359253M",
+        "address": "32ICILIOCALLEJASTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "B & B CONSTRUCTION LTD SANTA MARIJA STREET, MAGHTAB",
+  "company_id": "C 51305",
+  "registration_date": "Apr 07, 2011",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 5000
+}

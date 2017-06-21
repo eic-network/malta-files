@@ -1,0 +1,89 @@
+{
+  "name": "BONGU MEDIA MALTA LIMITED",
+  "total_issued_shares_value": 1400,
+  "total_authorised_shares_value": 1400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1399,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1399,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JANET KATHLEEN NARODETSKY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            79067A",
+        "address": "1332,PENDERGARDENS,IVOMUSCATAZZOPARDISTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JANET KATHLEEN NARODETSKY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            79067A",
+        "address": "1332,PENDERGARDENS,IVOMUSCATAZZOPARDISTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXANDER NARODETSKY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            445905562",
+        "address": "1332,PENDERGARDENS,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JANET KATHLEEN NARODETSKY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            79067A",
+        "address": "1332,PENDERGARDENS,IVOMUSCATAZZOPARDISTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JANET KATHLEEN NARODETSKY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            79067A",
+        "address": "1332,PENDERGARDENS,IVOMUSCATAZZOPARDISTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1399
+        }
+      },
+      {
+        "name": "ALEXANDER NARODETSKY\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            445905562",
+        "address": "1332,PENDERGARDENS,TRIQIVOMUSCATAZZOPARDI,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1400,
+  "address": "1224, PENDER GARDENS, TRIQ IVO MUSCAT AZZOPARDI",
+  "company_id": "C 54291",
+  "registration_date": "Nov 02, 2011",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1400
+}

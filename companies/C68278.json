@@ -1,0 +1,89 @@
+{
+  "name": "ART FINDERS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIO CARLO CURADI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YB0395167",
+        "address": "VIACASTELMORRONE,5,MILAN20129ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIO CARLO CURADI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YB0395167",
+        "address": "VIACASTELMORRONE,5,MILAN20129ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIO CARLO CURADI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YB0395167",
+        "address": "VIACASTELMORRONE,5,MILAN20129ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, SUITE 5, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR",
+  "company_id": "C 68278",
+  "registration_date": "Dec 22, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

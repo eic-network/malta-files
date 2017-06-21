@@ -1,0 +1,125 @@
+{
+  "name": "APOLLO IFINA SICAV P.L.C.",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 2000100,
+  "authorised_shares": [
+    {
+      "issued_shares": 99,
+      "type": "FounderA",
+      "authorised_share_capital": 99,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "FounderB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SAM BRATCHIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            461724589",
+        "address": "THEMAPLES,SCHOOLLANE,PRIORSMARSTON,WARWICKSHIRECV477RRUNITEDKINGDOM"
+      },
+      {
+        "name": "CRAIG WETTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            517826372",
+        "address": "HIGHTREES,THEGLEN,SALTFORD,BATHBS313JPUNITEDKINGDOM"
+      },
+      {
+        "name": "LAURA ZORDAN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1847754",
+        "address": "THEPALMS,FLAT3,TRIQKGALEABIRKIRKARABKR1805MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAM BRATCHIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            461724589",
+        "address": "THEMAPLES,SCHOOLLANE,PRIORSMARSTON,WARWICKSHIRECV477RRUNITEDKINGDOM"
+      },
+      {
+        "name": "CRAIG WETTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            517826372",
+        "address": "HIGHTREES,THEGLEN,SALTFORD,BATHBS313JPUNITEDKINGDOM"
+      },
+      {
+        "name": "LAURA ZORDAN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1847754",
+        "address": "THEPALMS,FLAT3,TRIQKGALEABIRKIRKARABKR1805MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DIANE SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417381M",
+        "address": "15,TRIQSANGUZEPP,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAM BRATCHIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            461724589",
+        "address": "THEMAPLES,SCHOOLLANE,PRIORSMARSTON,WARWICKSHIRECV477RRUNITEDKINGDOM"
+      },
+      {
+        "name": "CRAIG WETTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            517826372",
+        "address": "HIGHTREES,THEGLEN,SALTFORD,BATHBS313JPUNITEDKINGDOM"
+      },
+      {
+        "name": "LAURA ZORDAN\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT1847754",
+        "address": "THEPALMS,FLAT3,TRIQKGALEABIRKIRKARABKR1805MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APOLLO MULTI ASSET MANAGEMENT LLP\r",
+        "nationality": "",
+        "party_id": "                                                            OC339180",
+        "address": "THECHARTHOUSE,2,EFFINGHAMROAD,REIGATE,SURREYRH27JNUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "A",
+          "issued_shares": 99
+        }
+      },
+      {
+        "name": "SAM BRATCHIE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            461724589",
+        "address": "THEMAPLES,SCHOOLLANE,PRIORSMARSTON,WARWICKSHIRECV477RRUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "9/4, BRITANNIA HOUSE, OLD BAKERY STREET,",
+  "company_id": "SV 448",
+  "registration_date": "Mar 30, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000100
+}

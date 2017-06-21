@@ -1,0 +1,101 @@
+{
+  "name": "BOREAL UNITED LIMITED",
+  "total_issued_shares_value": 6986,
+  "total_authorised_shares_value": 34930,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 0.6986
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDIO MORANDI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1106456",
+        "address": "WULFLINGERSTRASSE9,WINTERTHUR,8400SWITZERLAND"
+      },
+      {
+        "name": "RENE MULLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4060046",
+        "address": "SEEMATTSTRASSE32,POSTFACH422,CHAM6330SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CLAUDIO MORANDI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1106456",
+        "address": "WULFLINGERSTRASSE9,WINTERTHUR,8400SWITZERLAND"
+      },
+      {
+        "name": "RENE MULLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4060046",
+        "address": "SEEMATTSTRASSE32,POSTFACH422,CHAM6330SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "THOMAS JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20873A",
+        "address": "168,STCHRISTOPHERSTREET,VALLETTAVLT1467MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDIO MORANDI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1106456",
+        "address": "WULFLINGERSTRASSE9,WINTERTHUR,8400SWITZERLAND"
+      },
+      {
+        "name": "RENE MULLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X4060046",
+        "address": "SEEMATTSTRASSE32,POSTFACH422,CHAM6330SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TAIGA ATLAS PLC\r",
+        "nationality": "",
+        "party_id": "                                                            C 52333",
+        "address": "168,ST.CHRISTOPHERSTREET,VALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.6986,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "CLAUDIO MORANDI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X1106456",
+        "address": "WULFLINGERSTRASSE9,WINTERTHUR,8400SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 0.6986,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "168, ST. CHRISTOPHER STREET,",
+  "company_id": "C 71472",
+  "registration_date": "Jun 18, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

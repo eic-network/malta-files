@@ -1,0 +1,83 @@
+{
+  "company_id": "C 37850",
+  "address": "168, ST. CHRISTOPHER STREET,",
+  "name": "Broadgate Capital Group Limited",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jan 20, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1302,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1302
+    }
+  ],
+  "total_authorised_shares": 1302,
+  "total_authorised_shares_value": 1302,
+  "total_issued_shares": 1302,
+  "total_issued_shares_value": 1302,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HENRIK KOCH-JENSEN\r",
+        "party_id": "                                                            101509589",
+        "address": "VIRU-VLAJAK6-47,TALLIN10153ESTONIA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESTDOMUS GROUP OU\r",
+        "party_id": "                                                            11988227",
+        "address": "PIKK11-2,TALLINN10123ESTONIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1301,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "HENRIK KOCH-JENSEN\r",
+        "party_id": "                                                            101509589",
+        "address": "VIRU-VLAJAK6-47,TALLIN10153ESTONIA",
+        "nationality": "DANISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HENRIK KOCH-JENSEN\r",
+        "party_id": "                                                            101509589",
+        "address": "VIRU-VLAJAK6-47,TALLIN10153ESTONIA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HENRIK KOCH-JENSEN\r",
+        "party_id": "                                                            101509589",
+        "address": "VIRU-VLAJAK6-47,TALLIN10153ESTONIA",
+        "nationality": "DANISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID GRISCTI\r",
+        "party_id": "                                                            465869M",
+        "address": "FLAT2,LOWNDESPARKC,TRIQALFREDGAUCI,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

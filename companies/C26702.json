@@ -1,0 +1,140 @@
+{
+  "name": "ALLIANCE CRUISES LIMITED",
+  "total_issued_shares_value": 1747.03,
+  "total_authorised_shares_value": 1747.03,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAMES MARCUS PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511372M",
+        "address": "SHANGRI-LA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CECIL PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            310630M",
+        "address": "ROSEVILLESTANTHONYSTREET,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CECIL PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            310630M",
+        "address": "ROSEVILLESTANTHONYSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "JAMES MARCUS PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511372M",
+        "address": "SHANGRI-LA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA"
+      },
+      {
+        "name": "MALCOLM HUGO PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596654M",
+        "address": "HIMALAYA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CECIL PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            310630M",
+        "address": "ROSEVILLESTANTHONYSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "JAMES MARCUS PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511372M",
+        "address": "SHANGRI-LA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA"
+      },
+      {
+        "name": "MALCOLM HUGO PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596654M",
+        "address": "HIMALAYA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MALCOLM HUGO PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596654M",
+        "address": "HIMALAYA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "IAN A PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321362M",
+        "address": "TIBET,ONORATOBRESSTREETTA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JAMES MARCUS PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511372M",
+        "address": "SHANGRI-LA,SIRTEMIZAMMITAVENUE,TA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 750,
+  "address": "13, ABATE RIGORD STR.,",
+  "company_id": "C 26702",
+  "registration_date": "Jul 14, 2000",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 750
+}

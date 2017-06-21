@@ -1,0 +1,83 @@
+{
+  "name": "BHT LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GUENTHER DOTZAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            951624579",
+        "address": "CARL-THEODOR-STRASSE54,MUENCHEN80803GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUENTHER DOTZAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            951624579",
+        "address": "CARL-THEODOR-STRASSE54,MUENCHEN80803GERMANY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFONS OLIVER LUDWIG SCHWARTE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C7P083MN5",
+        "address": "36,WOODBERRYWAY,N120HGLONDONUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GUENTHER DOTZAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            951624579",
+        "address": "CARL-THEODOR-STRASSE54,MUENCHEN80803GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GUENTHER DOTZAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            951624579",
+        "address": "CARL-THEODOR-STRASSE54,MUENCHEN80803GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "ALFONS SCHWARTE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0138162A",
+        "address": "143,FLEURDELYSROAD,BIRKIRKARABKR9066MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "143, FLEUR-DE-LYS ROAD",
+  "company_id": "C 62942",
+  "registration_date": "Dec 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

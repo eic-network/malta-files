@@ -1,0 +1,181 @@
+{
+  "name": "BLUE SAILS HOLDINGS LIMITED",
+  "total_issued_shares_value": 10524,
+  "total_authorised_shares_value": 10524,
+  "authorised_shares": [
+    {
+      "issued_shares": 2631,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2631,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2631,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2631,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2631,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 2631,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2631,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 2631,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45750M",
+        "address": "MARANDELLE,XINTILLSTREET,TARXIENMALTA"
+      },
+      {
+        "name": "FREDERICK FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            865750M",
+        "address": "\"LASPHER\",TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS A PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            986249M",
+        "address": "'AIDENGROVE',SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "74,HOWARDSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45750M",
+        "address": "MARANDELLE,XINTILLSTREET,TARXIENMALTA"
+      },
+      {
+        "name": "FREDERICK FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            865750M",
+        "address": "\"LASPHER\",TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS A PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            986249M",
+        "address": "'AIDENGROVE',SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "74,HOWARDSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN MARK PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726944M",
+        "address": "78,'TAMARISK',PRINCESSELIZABETHSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45750M",
+        "address": "MARANDELLE,XINTILLSTREET,TARXIENMALTA"
+      },
+      {
+        "name": "FREDERICK FRENDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            865750M",
+        "address": "\"LASPHER\",TRIQWIEDID-DIS,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "FRANCIS A PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            986249M",
+        "address": "'AIDENGROVE',SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "TANCRED TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793652M",
+        "address": "74,HOWARDSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AOH LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 30641",
+        "address": "'MARANDELLE,XINTILLSTREET,TARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2631
+        }
+      },
+      {
+        "name": "ANCHOR OILS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30500",
+        "address": "10,TIMBERWHARF,MARSAMRS1443MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2631
+        }
+      },
+      {
+        "name": "STALS ENTERPRISES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5852",
+        "address": "STALSENTERPRISESLIMITED,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 2631
+        }
+      },
+      {
+        "name": "Virtu Holdings Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 30642",
+        "address": "VIRTU,TAXBIEXTERRACE,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 2631
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10524,
+  "address": "10A, TIMBER WHARF,",
+  "company_id": "C 51490",
+  "registration_date": "Dec 21, 2010",
+  "shares_currency": "USD",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 10524
+}

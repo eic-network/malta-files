@@ -1,0 +1,109 @@
+{
+  "name": "BALANCE LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FELIX SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731053M",
+        "address": "6,ST.VALENTINESTREET,BALZANBZN06MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FELIX SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731053M",
+        "address": "6,ST.VALENTINESTREET,BALZANBZN06MALTA"
+      },
+      {
+        "name": "STEVE SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119279M",
+        "address": "FLATA,NO.10,SAVOYTERRACE,TRIQHILDERBRANDOAKS,GZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FELIX SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731053M",
+        "address": "6,ST.VALENTINESTREET,BALZANBZN06MALTA"
+      },
+      {
+        "name": "STEVE SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119279M",
+        "address": "FLATA,NO.10,SAVOYTERRACE,TRIQHILDERBRANDOAKS,GZIRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FELIX SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731053M",
+        "address": "6,ST.VALENTINESTREET,BALZANBZN06MALTA"
+      },
+      {
+        "name": "STEVE SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119279M",
+        "address": "FLATA,NO.10,SAVOYTERRACE,TRIQHILDERBRANDOAKS,GZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HEPAN LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10500",
+        "address": "'MIRT19'MSAPIANOSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "FELIX SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            731053M",
+        "address": "6,ST.VALENTINESTREET,BALZANBZN06MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "6, ST. VALENTINE STREET,",
+  "company_id": "C 17946",
+  "registration_date": "Mar 03, 1995",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

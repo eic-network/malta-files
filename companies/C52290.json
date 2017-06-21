@@ -1,0 +1,99 @@
+{
+  "name": "ASCALON HOLDINGS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "FLAT1,63C,B'KARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DIANA BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            121685M",
+        "address": "CARMENACOURT,FL12,TRIQIL-QALBMQADDSA,ST.JULIANSSTJ1431MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "UNITED INTERNATIONAL MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46947",
+        "address": "LEVEL6-SUITE1,THEPLAZACOMMERCIALCENTRE,BISAZZASTREET,SLIEMASLM1640MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "UNITED INTERNATIONAL MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46947",
+        "address": "LEVEL6-SUITE1,THEPLAZACOMMERCIALCENTRE,BISAZZASTREET,SLIEMASLM1640MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "UHY PACE, GALEA MUSU & CO.\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/52",
+        "address": "MatildaCourt,No2,35,G.CaliStreet,TA'XBIEXXBX1423MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "UNITED INTERNATIONAL MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46947",
+        "address": "LEVEL6-SUITE1,THEPLAZACOMMERCIALCENTRE,BISAZZASTREET,SLIEMASLM1640MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILIPPE BINDELS\r",
+        "nationality": "LUXEMBOURGESE",
+        "party_id": "                                                            G1F28U1",
+        "address": "1,RUEDEGENETS,MONACOMC98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "DENNIS BOSJE\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NUD7927C7",
+        "address": "3,RUEBOXEPUL,STEINFORTL-8447LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 6 - SUITE 1, THE PLAZA COMMERCIAL CENTRE, BISAZZA STREET,",
+  "company_id": "C 52290",
+  "registration_date": "Mar 16, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

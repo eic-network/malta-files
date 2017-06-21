@@ -1,0 +1,89 @@
+{
+  "name": "BLUE WHALE LIMITED",
+  "total_issued_shares_value": 6001,
+  "total_authorised_shares_value": 6001,
+  "authorised_shares": [
+    {
+      "issued_shares": 6000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMONA PISCOPO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            201178M",
+        "address": "BLOCK12APT11,VJALPORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AMICORP SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54088",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRETA'XBIEXYACHTMARINATA'XBIEXXBX1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMICORP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44003",
+        "address": "LEVEL1,BLUEHARBOURBUSINESSCENTRE,TA'XBIEXYACHTMARINA,TA'XBIEXXBX1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 6000
+        }
+      },
+      {
+        "name": "SUKRU EVRENGUN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            BLBP5PDJ4",
+        "address": "ZAHRINGERSTRASSE27ZURICH8001SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6001,
+  "address": "51, TA' XBIEX SEAFRONT",
+  "company_id": "C 59139",
+  "registration_date": "Feb 18, 2013",
+  "shares_currency": "USD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 6001
+}

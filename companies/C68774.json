@@ -1,0 +1,83 @@
+{
+  "name": "ARQ in Tax Limited",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58299",
+        "address": "LEVEL1,SUITENO.5,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "FLAT1,DAFFODILCOURT,TRIQL-IMGHAZEL,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SUITE 5, LEVEL 1, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 68774",
+  "registration_date": "Jan 27, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,51 @@
+{
+  "name": "A C'S STEEL WORKS",
+  "total_issued_shares_value": 200,
+  "total_authorised_shares_value": 200,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ADAM GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234284M",
+        "address": "'CHURCHHILLCOURT',BLOCKA,FLAT22,VJALIR-RIHAN,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "CHRISTIAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19581M",
+        "address": "\"REGINACOELIS\",FLATNO.2LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200,
+  "address": "\"KENWORTH\", TRIQ IZ-ZNUBER,",
+  "company_id": "P 1267",
+  "registration_date": "Jun 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200
+}

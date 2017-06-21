@@ -1,0 +1,107 @@
+{
+  "name": "ANTINVEST COMPANY LIMITED",
+  "total_issued_shares_value": 64057.76,
+  "total_authorised_shares_value": 64057.76,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GODWIN XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293255M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDBZN05MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GODWIN XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293255M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDBZN05MALTA"
+      },
+      {
+        "name": "MARY ERMANNA XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49854M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JUDITH CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19804",
+        "address": "SATINWOOD,TRIQIL-GARZELLA,MELLIEHAMLH1563MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GODWIN XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293255M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDBZN05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GODWIN XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            293255M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDBZN05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "MARY ERMANNA XERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49854M",
+        "address": "L-GHAMAR,TRIQIL-LINJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 27500,
+  "address": "L-GHAMAR, TRIQ IL-LINJA,",
+  "company_id": "C 23702",
+  "registration_date": "Nov 19, 1998",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 27500
+}

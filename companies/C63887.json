@@ -1,0 +1,97 @@
+{
+  "name": "ALTER DOMUS TRUSTEE SERVICES (MALTA) LIMITED",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 14999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 14999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VICTORIA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321575M",
+        "address": "FLAT5,BLOCKB,TRIQTA'MEZZI,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTER DOMUS (HOLDING) MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62843",
+        "address": "VISIONEXCHANGEBUILDING,TERRITORIALSSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 14999
+        }
+      },
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFEN,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL",
+  "company_id": "C 63887",
+  "registration_date": "Feb 17, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 15000
+}

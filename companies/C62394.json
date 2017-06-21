@@ -1,0 +1,83 @@
+{
+  "name": "AMAZING LEASING LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EDMOND ZAMMIT LAFERLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294476M",
+        "address": "103,PALAZZOPIETROSTIGES,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NAVILUX MANAGEMENT S.A.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B 118878",
+        "address": "25,ROUTED'ESCH,LUXEMBOURGL-1470LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NAVILUX MANAGEMENT S.A.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B 118878",
+        "address": "25,ROUTED'ESCH,LUXEMBOURGL-1470LUXEMBOURG"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NAVILUX MANAGEMENT S.A.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B 118878",
+        "address": "25,ROUTED'ESCH,LUXEMBOURGL-1470LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SINO WIN INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            801459",
+        "address": "CENTENNIALBUILDING,926CHEUNGSHAWANROAD,KOWLOONHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "VENDOME NOMINEES SERVICES INC.\r",
+        "nationality": "",
+        "party_id": "                                                            1008411",
+        "address": "AKARABUILDING,24DECASTROSTREET,WICKHAMSCAY1,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 62394",
+  "registration_date": "Oct 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

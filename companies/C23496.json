@@ -1,0 +1,83 @@
+{
+  "name": "ARDORAN LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DOUGLAS HENDERSON BAIN REID\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            027851717",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLENGLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DOUGLAS HENDERSON BAIN REID\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            027851717",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLENGLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DOUGLAS HENDERSON BAIN REID\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            027851717",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLENGLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DOUGLAS HENDERSON BAIN REID\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            027851717",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLENGLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DOUGLAS HENDERSON BAIN REID\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            027851717",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "JESSIE WALKER REID\r",
+        "nationality": "",
+        "party_id": "                                                            0000001x",
+        "address": "15,CHETWOODAVENUEGREATCROSBYLIVERPOOLUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "FIRST FLOOR, REGENCY HOUSE REPUBLIC STREET",
+  "company_id": "C 23496",
+  "registration_date": "Sep 29, 1998",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

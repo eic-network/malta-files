@@ -1,0 +1,91 @@
+{
+  "name": "AVIEMORE LIMITED",
+  "total_issued_shares_value": 1400,
+  "total_authorised_shares_value": 1400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1400,
+      "type": "Ordinary",
+      "authorised_share_capital": 1400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ALEX J MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            615256M",
+        "address": "9,SANSTEFANO,TRIQIL-FJAMMA,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            668325M",
+        "address": "'EDINMAR',163,CHURCHAVENUEPAOLAPLA05MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59335G",
+        "address": "208/8,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59335G",
+        "address": "208/8,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59335G",
+        "address": "208/8,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1399
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1400,
+  "address": "48, SQAQ NRU 2, TRIQ IX-XATT,",
+  "company_id": "C 36387",
+  "registration_date": "Jun 10, 2005",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1400
+}

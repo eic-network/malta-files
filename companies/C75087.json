@@ -1,0 +1,89 @@
+{
+  "name": "ATLANTIS SERVICE COMPANY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOORMISRAH28TA'FRAR1883,BIRKIRKARABKR1501MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOORMISRAH28TA'FRAR1883,BIRKIRKARABKR1501MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72269M",
+        "address": "18,MIRJIEH,TRIQTA'STRONKA,MADLIENA,SWIEQISWQ1524MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11,L-UFFICCJI,GROUNDFLOORMISRAH28TA'FRAR1883,BIRKIRKARABKR1501MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALI BURAK AKDEMIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01380762",
+        "address": "FENERBACHEMAHMUNIRNURETTINSELCUKCDSABANCIKORUST6,BLNO.6,K1D1,KADIKOYISTANBUL(ANADOLU)34726TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "ARETI FIDUCIARY SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 41572",
+        "address": "NO.11L-UFFICCJI,GROUNDFLOORMISRAH28TA'FRAR1883,BIRKIRKARABKR1501MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "NO. 11, L-UFFICCJI - GROUND FLOOR MISRAH 28 TA' FRAR 1883",
+  "company_id": "C 75087",
+  "registration_date": "Apr 04, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

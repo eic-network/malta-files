@@ -1,0 +1,97 @@
+{
+  "name": "BON BON COMPANY LIMITED",
+  "total_issued_shares_value": 45000,
+  "total_authorised_shares_value": 45000,
+  "authorised_shares": [
+    {
+      "issued_shares": 45000,
+      "type": "Ordinary",
+      "authorised_share_capital": 45000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITIENNE AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264475M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229573M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229573M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA"
+      },
+      {
+        "name": "RITIENNE AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            264475M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARK AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229573M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARK AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229573M",
+        "address": "LACHAMPIGNON,TRIQDUNGUZEPPAQUILINA,SIGGIEWISGW1771MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 44993
+        }
+      },
+      {
+        "name": "VICTOR AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            711045M",
+        "address": "MARKANNHOUSE,ST.VINCENTSTREET,HAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 45000,
+  "address": "LA CHAMPIGNON, TRIQ DUN GUZEPP AQUILINA,",
+  "company_id": "C 18683",
+  "registration_date": "Jun 22, 1995",
+  "shares_currency": "EUR",
+  "locality": "SIGGIEWI",
+  "status": "",
+  "total_authorised_shares": 45000
+}

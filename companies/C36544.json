@@ -1,0 +1,85 @@
+{
+  "name": "BetWitch Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASSET SELECT ADVISORY ESTABLISHMENT\r",
+        "nationality": "",
+        "party_id": "                                                            FL-0002.249.852-0",
+        "address": "TANZPLATZ15SCHAAN9494GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "INNISTON LTD\r",
+        "nationality": "",
+        "party_id": "                                                            46,629",
+        "address": "60MARKETSQUAREBELIZECITYBELIZE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 392
+        }
+      },
+      {
+        "name": "STRATEGA-OST BETEILINGUNGEN AG\r",
+        "nationality": "",
+        "party_id": "                                                            57HRB13115",
+        "address": "HOCHSTADENSTR,11NEUSS41469GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 612
+        }
+      },
+      {
+        "name": "CLAUDINE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            587274M",
+        "address": "HANNEWIJARABANEMEL,L/ORABATRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 195
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "258 CANNON ROAD",
+  "company_id": "C 36544",
+  "registration_date": "Jun 30, 2005",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

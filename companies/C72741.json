@@ -1,0 +1,102 @@
+{
+  "name": "ALLWOODS AND STEEL (OPERATIONS) LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PHILIP BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123055M",
+        "address": "GOLDNEY,TRIQIL-KARENZA,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PHILIP BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123055M",
+        "address": "GOLDNEY,TRIQIL-KARENZA,BALZANMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185187M",
+        "address": "27,TRIQIL-MIXTLA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIP BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123055M",
+        "address": "GOLDNEY,TRIQIL-KARENZA,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KARL BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            185187M",
+        "address": "27,TRIQIL-MIXTLA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "PHILIP BUGEJJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0302988M",
+        "address": "GOLDNEYTRIQIL-KARENZABALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "PHILIP BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            123055M",
+        "address": "GOLDNEY,TRIQIL-KARENZA,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 60
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "29, GOLDNEY TRIQ IL-KARENZA",
+  "company_id": "C 72741",
+  "registration_date": "Oct 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

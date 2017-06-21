@@ -1,0 +1,130 @@
+{
+  "total_issued_shares_value": 500000,
+  "registration_date": "Jan 19, 2015",
+  "status": "",
+  "locality": "ZEBBUG",
+  "name": "BUGEJA & DESIRA LTD.",
+  "total_issued_shares": 500000,
+  "address": "BILOM, NEW STREET IN MDINA ROAD,",
+  "company_id": "C 68640",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "IR-RAZZETTTAL-PALAZZIL-KALKARATAL-BAHRIJARABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "MORNINGDEWSANTAKATERINA,RABATRBT3210MALTA",
+        "party_id": "                                                            406491M",
+        "name": "LAURA BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "IR-RAZZETTTAL-PALAZZIL-KALKARATAL-BAHRIJARABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "IR-RAZZETTTAL-PALAZZIL-KALKARATAL-BAHRIJARABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "party_id": "                                                            AB/26/84/61",
+        "name": "NEXIA BT\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 87500,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "MORNINGDEW,TA'SANTAKATERINA,RABATMALTA",
+        "party_id": "                                                            406491M",
+        "name": "LAURA BARTOLO\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 87500,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "FLAT5,'VERDALAHEIGHTS'TRIQINGUANEZ,RABATRBT2416MALTA",
+        "party_id": "                                                            399588M",
+        "name": "GILBERT BUGEJA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 175000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "IR-RAZZETTTAL-PALAZZIL-KALKARATAL-BAHRIJARABATMALTA",
+        "party_id": "                                                            604662M",
+        "name": "MICHAEL BUGEJA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 75000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "GARDENPLACE,FLAT3,TRIQIL-MENSIJA,ST.JULIANSSTJ1965MALTA",
+        "party_id": "                                                            48684M",
+        "name": "DARREN DESIRA\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 75000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "55,TRIQSTREJNU,ZEJTUNZTN4903MALTA",
+        "party_id": "                                                            394280M",
+        "name": "MARIO DESIRA\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 500000,
+      "authorised_share_capital": 500000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 500000,
+  "total_authorised_shares_value": 500000,
+  "shares_currency": "EUR"
+}

@@ -1,0 +1,78 @@
+{
+  "company_id": "C 36110",
+  "address": "C 3006, BALLUTA TERRACE, ST. JULIAN'S RAMP,",
+  "name": "BRAMBER LIMITED",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Apr 28, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PETER CARBONARO\r",
+        "party_id": "                                                            150060M",
+        "address": "33,IMMACULATECONCEPTIONSTREET,LIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOVEREIGN TRUST (MALTA) LIMITED\r",
+        "party_id": "                                                            C 26143",
+        "address": "VALLEYTOWERSSUITE5,VALLEYROAD,BIRKIRKARABKR9022MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER CARBONARO\r",
+        "party_id": "                                                            150060M",
+        "address": "33,IMMACULATECONCEPTIONSTREET,LIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER CARBONARO\r",
+        "party_id": "                                                            150060M",
+        "address": "33,IMMACULATECONCEPTIONSTREET,LIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT TAYLOR-EAST\r",
+        "party_id": "                                                            531478M",
+        "address": "8,TRIQIL-GONNA,ATTARDATD1260MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

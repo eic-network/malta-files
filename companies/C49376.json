@@ -1,0 +1,115 @@
+{
+  "name": "BETCLIC ENTERPRISES LIMITED",
+  "total_issued_shares_value": 50004,
+  "total_authorised_shares_value": 50004,
+  "authorised_shares": [
+    {
+      "issued_shares": 50003,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 50003,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DEIRDRE MAHER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PC3280662",
+        "address": "'PETRUS'TRIQILBAHARL-ISWED,ST.JULIANSSTJ1852MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL KRISTIAN CHOPIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525152961",
+        "address": "NO11,SYRANA,FLAT7,TRIQKARMGALEA,SLIEMASLM1935MALTA"
+      },
+      {
+        "name": "Lars Peter Sjoberg\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86840074",
+        "address": "Flat20,93,OldCollegeStreet,SLIEMASLM1379MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL KRISTIAN CHOPIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525152961",
+        "address": "NO11,SYRANA,FLAT7,TRIQKARMGALEA,SLIEMASLM1935MALTA"
+      },
+      {
+        "name": "Lars Peter Sjoberg\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86840074",
+        "address": "Flat20,93,OldCollegeStreet,SLIEMASLM1379MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL KRISTIAN CHOPIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525152961",
+        "address": "NO11,SYRANA,FLAT7,TRIQKARMGALEA,SLIEMASLM1935MALTA"
+      },
+      {
+        "name": "Lars Peter Sjoberg\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86840074",
+        "address": "Flat20,93,OldCollegeStreet,SLIEMASLM1379MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANGAS INVESTMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46184",
+        "address": "LEVEL3,TAGLIAFERROBUSINESSCENTRE,GAIETYLANE,SLIEMASLM1551MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50003
+        }
+      },
+      {
+        "name": "EURO GAMING INVESTMENT SA\r",
+        "nationality": "",
+        "party_id": "                                                            B138216",
+        "address": "8-10RUEMATHIASHARDTLUXEMBOURGL-1717LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50004,
+  "address": "LEVEL 4, TAGLIAFERRO BUSINESS CENTRE, GAIETY LANE,",
+  "company_id": "C 49376",
+  "registration_date": "Apr 13, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50004
+}

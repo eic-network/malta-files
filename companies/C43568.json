@@ -1,0 +1,86 @@
+{
+  "name": "AMBER HOLDING LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "PAMELA MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417181M",
+        "address": "35/1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "LEVEL2,'THEFORUM'CONSTITUTIONSTREETMOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "LEVEL2,'THEFORUM'CONSTITUTIONSTREETMOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "LEVEL2,'THEFORUM'CONSTITUTIONSTREETMOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID LAWRENCE GRIMA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10413",
+        "address": "78,KOSI-KOTTRIQGUZE'ELLULMERCERQORMIQRM2685MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAMON PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            396573M",
+        "address": "LEVEL2,'THEFORUM'CONSTITUTIONSTREETMOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FORTEQ LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60094",
+        "address": "LEVEL3,THEFORUM,CONSTITUTIONSTREET,MOSTAMST9051MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "LEVEL 2, THE FORUM, CONSTITUTION STREET",
+  "company_id": "C 43568",
+  "registration_date": "Feb 14, 2008",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

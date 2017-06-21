@@ -1,0 +1,156 @@
+{
+  "name": "A H DEVELOPMENT LIMITED",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 600000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 450000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DINO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            223679M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "JEAN CARLO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86086M",
+        "address": "IR-RELLU,TRIQLAPSI,SIGGIEWIMALTA"
+      },
+      {
+        "name": "LAWRENCE FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443040M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "MARK GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229483M",
+        "address": "235,SLIEMAROAD,KAPPARA,SANGWANNSGN4413MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DINO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            223679M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "JEAN CARLO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86086M",
+        "address": "IR-RELLU,TRIQLAPSI,SIGGIEWIMALTA"
+      },
+      {
+        "name": "LAWRENCE FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443040M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "MARK GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229483M",
+        "address": "235,SLIEMAROAD,KAPPARA,SANGWANNSGN4413MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            26183M",
+        "address": "239,TRIQIL-KBIRA,BALZANBZN1256MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DINO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            223679M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "JEAN CARLO FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86086M",
+        "address": "IR-RELLU,TRIQLAPSI,SIGGIEWIMALTA"
+      },
+      {
+        "name": "LAWRENCE FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443040M",
+        "address": "70/8,TRIQIT-TORRI,SLIEMAMALTA"
+      },
+      {
+        "name": "MARK GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229483M",
+        "address": "235,SLIEMAROAD,KAPPARA,SANGWANNSGN4413MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TAMARAC LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 6169",
+        "address": "FINOBUILDINGSINDUSTRIALESTATE,MRIEHELQORMIQRM09MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "ANNABELLE CARUANA GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            296480M",
+        "address": "'MILESTONE',TRIQIS-SAJFTASANMARTIN,BAHRIJA,RABATRBT6013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1667
+        }
+      },
+      {
+        "name": "MARK GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            229483M",
+        "address": "235,SLIEMAROAD,KAPPARA,SANGWANNSGN4413MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3333
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "FINO BUILDINGS, INDUSTRIAL ESTATE, MRIEHEL,",
+  "company_id": "C 62691",
+  "registration_date": "Nov 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 600000
+}

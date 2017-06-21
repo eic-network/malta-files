@@ -1,0 +1,101 @@
+{
+  "name": "BEAUTY STYLE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADISA BALDACCHINO\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            54162A",
+        "address": "26,TA'BERRIKA,TRIQIL-MAQDESTA'GUNU,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "SALVATRICE MARISA SILVANA PETRALIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            64312A",
+        "address": "PORTOMASO31506,VJALPORTOMASO,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADISA BALDACCHINO\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            54162A",
+        "address": "26,TA'BERRIKA,TRIQIL-MAQDESTA'GUNU,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "SALVATRICE MARISA SILVANA PETRALIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            64312A",
+        "address": "PORTOMASO31506,VJALPORTOMASO,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADISA BALDACCHINO\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            54162A",
+        "address": "26,TA'BERRIKA,TRIQIL-MAQDESTA'GUNU,MARSAXLOKKMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADISA BALDACCHINO\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            54162A",
+        "address": "26,TA'BERRIKA,TRIQIL-MAQDESTA'GUNU,MARSAXLOKKMALTA"
+      },
+      {
+        "name": "SALVATRICE MARISA SILVANA PETRALIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            64312A",
+        "address": "PORTOMASO31506,VJALPORTOMASO,PACEVILLE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADISA BALDACCHINO\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            54162A",
+        "address": "26,TA'BERRIKA,TRIQIL-MAQDESTA'GUNU,MARSAXLOKKMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SALVATRICE MARISA SILVANA PETRALIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            64312A",
+        "address": "PORTOMASO31506,VJALPORTOMASO,PACEVILLE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "17, FLAT 3, GREYSTONE, TRIQ CLARISSI",
+  "company_id": "C 71225",
+  "registration_date": "Jun 26, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

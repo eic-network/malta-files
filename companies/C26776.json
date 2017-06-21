@@ -1,0 +1,84 @@
+{
+  "total_issued_shares_value": 1167.02,
+  "registration_date": "Aug 01, 2000",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BULK TRADE INTERNATIONAL LIMITED",
+  "total_issued_shares": 501,
+  "address": "5/2, MERCHANTS STREET,",
+  "company_id": "C 26776",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            F813007",
+        "name": "SYED WARASAT HUSSAIN\r",
+        "nationality": ""
+      },
+      {
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            C016615",
+        "name": "ALAY JAWAID ZAIDI\r",
+        "nationality": ""
+      },
+      {
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            B494001",
+        "name": "SYED WAQAR HAIDER ZAIDI\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 167,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            F813007",
+        "name": "SYED WARASAT HUSSAIN\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 167,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            C016615",
+        "name": "ALAY JAWAID ZAIDI\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 167,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "1-AANCHORHOUSEIII,15CZAMZAM,4THCOMMERCIALLANE,KARACHIDHAPAKISTAN",
+        "party_id": "                                                            B494001",
+        "name": "SYED WAQAR HAIDER ZAIDI\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 501,
+      "authorised_share_capital": 501,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 501,
+  "total_authorised_shares_value": 1167.02,
+  "shares_currency": "EUR"
+}

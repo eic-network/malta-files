@@ -1,0 +1,101 @@
+{
+  "name": "A WINNING HAND LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1480,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1480,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER DUFFY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            S133926",
+        "address": "10STUARTCLOSE,TUNBRIDGEWELLS,KENTTN25PJUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER DUFFY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            S133926",
+        "address": "10STUARTCLOSE,TUNBRIDGEWELLS,KENTTN25PJUNITEDKINGDOM"
+      },
+      {
+        "name": "PAUL LEESE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            33831A",
+        "address": "FLAT4,24,CATHEDRALSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER DUFFY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            S133926",
+        "address": "10STUARTCLOSE,TUNBRIDGEWELLS,KENTTN25PJUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Casino-for-me Holding Ltd N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            99465",
+        "address": "P.O.BOX6052,CURACAONETHERLANDSANTILLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "ALEXANDER DUFFY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            S133926",
+        "address": "10STUARTCLOSE,TUNBRIDGEWELLS,KENTTN25PJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 10
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SKY APARTMENTS, BLOCK A, FLAT 177-179, MARINA STREET,",
+  "company_id": "C 40479",
+  "registration_date": "Dec 28, 2006",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1500
+}

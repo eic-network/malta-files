@@ -1,0 +1,78 @@
+{
+  "name": "ASTO NOVAC LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERT CAUCHI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            751862M",
+        "address": "92,PRINCESSCOURTFLATNO.5,TRIQSANGWANNTAS-SALIB,TA'XBIEXXBX1412MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HANS-JOSEF STOLLMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5003730985",
+        "address": "PEARCESTREET12,DOUBLEBAY,SYDNEYNSW2028AUSTRALIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HANS-JOSEF STOLLMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5003730985",
+        "address": "PEARCESTREET12,DOUBLEBAY,SYDNEYNSW2028AUSTRALIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CIANTAR ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/59",
+        "address": "152/9,NAXXARROAD,SANGWANNMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HANS-JOSEF STOLLMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5003730985",
+        "address": "PEARCESTREET12,DOUBLEBAY,SYDNEYNSW2028AUSTRALIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HANS-JOSEF STOLLMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5003730985",
+        "address": "PEARCESTREET12,DOUBLEBAY,SYDNEYNSW2028AUSTRALIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "152/NO.9, NAXXAR ROAD,",
+  "company_id": "C 35215",
+  "registration_date": "Dec 14, 2004",
+  "shares_currency": "GBP",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

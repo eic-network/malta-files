@@ -1,0 +1,97 @@
+{
+  "name": "AMPHORA INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 12000,
+  "authorised_shares": [
+    {
+      "issued_shares": 932,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 932,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 233,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 233,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAMES ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527085M",
+        "address": "12,THEAZTEC,S.CANNATACISTREETSWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YVONNE ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659861M",
+        "address": "12,THEAZTECS.CANNATACISTREET,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YVONNE ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659861M",
+        "address": "12,THEAZTECS.CANNATACISTREET,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YVONNE ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659861M",
+        "address": "12,THEAZTECS.CANNATACISTREET,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMES ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            527085M",
+        "address": "12,THEAZTEC,S.CANNATACISTREETSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 233
+        }
+      },
+      {
+        "name": "YVONNE ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            659861M",
+        "address": "12,THEAZTECS.CANNATACISTREET,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 699
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "AMPHORA TRAVEL TESTAFERRATA STREET,",
+  "company_id": "C 13163",
+  "registration_date": "Oct 04, 1991",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 12000
+}

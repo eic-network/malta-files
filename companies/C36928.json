@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 1250,
+  "registration_date": "Sep 13, 2005",
+  "status": "",
+  "locality": "FLORIANA",
+  "name": "BRUINS CONSORTIUM LTD.",
+  "total_issued_shares": 1250,
+  "address": "CASA FLORIANI, PIETRO FLORIANI STREET",
+  "company_id": "C 36928",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "FALT16,NO.14AR,OURYWAY,LONDONSW181HQUNITEDKINGDOM",
+        "party_id": "                                                            302078641",
+        "name": "HAROLD BANDOH\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "FALT16,NO.14AR,OURYWAY,LONDONSW181HQUNITEDKINGDOM",
+        "party_id": "                                                            302078641",
+        "name": "HAROLD BANDOH\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "FALT16,NO.14AR,OURYWAY,LONDONSW181HQUNITEDKINGDOM",
+        "party_id": "                                                            302078641",
+        "name": "HAROLD BANDOH\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "FALT16,NO.14AR,OURYWAY,LONDONSW181HQUNITEDKINGDOM",
+        "party_id": "                                                            302078641",
+        "name": "HAROLD BANDOH\r",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "party_id": "                                                            C 35376",
+        "name": "CCA INTERSERV LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1249,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "FALT16,NO.14AR,OURYWAY,LONDONSW181HQUNITEDKINGDOM",
+        "party_id": "                                                            302078641",
+        "name": "HAROLD BANDOH\r",
+        "nationality": "BRITISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250,
+      "authorised_share_capital": 1250,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "shares_currency": "EUR"
+}

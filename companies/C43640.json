@@ -1,0 +1,75 @@
+{
+  "name": "BARDOT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KERRIE ANNE NAPLES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            JQ272530",
+        "address": "10655239STMAPLERIDGEBCV2WOB3CANADA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KERRIE ANNE NAPLES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            JQ272530",
+        "address": "10655239STMAPLERIDGEBCV2WOB3CANADA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KERRIE ANNE NAPLES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            JQ272530",
+        "address": "10655239STMAPLERIDGEBCV2WOB3CANADA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "KERRIE ANNE NAPLES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            JQ272530",
+        "address": "10655239STMAPLERIDGEBCV2WOB3CANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 43640",
+  "registration_date": "Feb 22, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

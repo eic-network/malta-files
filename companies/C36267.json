@@ -1,0 +1,51 @@
+{
+  "company_id": "C 36267",
+  "address": "18/2, SOUTH STREET",
+  "name": "BREEZE A. MARINE LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 24, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DOWNTOWN SERVICES LTD.\r",
+        "party_id": "                                                            Z-11220",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "NORTON TRADING LTD\r",
+        "party_id": "                                                            C-107300",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ]
+  }
+}

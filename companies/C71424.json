@@ -1,0 +1,84 @@
+{
+  "name": "BET2FLY LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "Ordinary",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 0.3
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IVAN GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            93967M",
+        "address": "35,FL6,TRIQSANFEDERIKU,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LEZGIN SERIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            89132186",
+        "address": "TUSSMOTEVAGEN207BENSKEDE12264SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEZGIN SERIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            89132186",
+        "address": "TUSSMOTEVAGEN207BENSKEDE12264SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDRA ROSENQVIST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84225282",
+        "address": "BRANTABACKEN21A,TRANGSUND14266SWEDEN"
+      },
+      {
+        "name": "LEZGIN SERIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            89132186",
+        "address": "TUSSMOTEVAGEN207BENSKEDE12264SWEDEN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEZGIN SERIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            89132186",
+        "address": "TUSSMOTEVAGEN207BENSKEDE12264SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET2TRAVEL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 71420",
+        "address": "COBALTHOUSE,2NDFLOOR,NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.3,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "COBALT HOUSE, 2ND FLOOR, NOTABILE ROAD, MRIEHEL,",
+  "company_id": "C 71424",
+  "registration_date": "Jul 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100000
+}

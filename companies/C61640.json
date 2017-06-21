@@ -1,0 +1,78 @@
+{
+  "name": "ATOMEX LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389254M",
+        "address": "28,YASMINETRIQIL-QASAB,MENSIJASANGWANNSGN1718MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VLADIMIRS BALANENKOVS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV5310246",
+        "address": "KR.VALDEMARAIELA37A-14ARIGALV-1010LATVIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VLADIMIRS BALANENKOVS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV5310246",
+        "address": "KR.VALDEMARAIELA37A-14ARIGALV-1010LATVIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALEXANDER VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10454",
+        "address": "FLAT2,KANGAROOFLATS,SALVUAQUILINASTREET,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VLADIMIRS BALANENKOVS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV5310246",
+        "address": "KR.VALDEMARAIELA37A-14ARIGALV-1010LATVIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PRIMERO INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 61151",
+        "address": "217SUITE421STSEPTEMBERAVENUENAXXARNXR1013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "217 SUITE 4, 21ST SEPTEMBER AVENUE",
+  "company_id": "C 61640",
+  "registration_date": "Aug 21, 2013",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1250
+}

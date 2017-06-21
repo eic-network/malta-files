@@ -1,0 +1,103 @@
+{
+  "company_id": "C 38553",
+  "address": "56, FRANCESCO BUHAGIAR STREET,",
+  "name": "BRIDGE MALTA LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Apr 26, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    },
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JEAN LAWLER\r",
+        "party_id": "                                                            P103481619",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "STEPHEN LAWLER\r",
+        "party_id": "                                                            P103898564",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEPHEN LAWLER\r",
+        "party_id": "                                                            P103898564",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "JEAN LAWLER\r",
+        "party_id": "                                                            P103481619",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEPHEN LAWLER\r",
+        "party_id": "                                                            P103898564",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEPHEN LAWLER\r",
+        "party_id": "                                                            P103898564",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHEN LAWLER\r",
+        "party_id": "                                                            P103898564",
+        "address": "26,MOSSBANKROADST.HELENSWA117DEENGLAND",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JONATHAN DESIRA\r",
+        "party_id": "                                                            10633",
+        "address": "L'AMOURTOUJOURSFIKUSSTREETATTARDATD2922MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

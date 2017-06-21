@@ -1,0 +1,83 @@
+{
+  "name": "BELMONT INTERNATIONAL CO. LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOSEPH EL SADIG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            317390M",
+        "address": "FLAT2,ALLSEASONS,TRIQIN-NAGGARMOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN G. DACOUTROS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422641M",
+        "address": "45,EASTSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YOLANDA DACOUTROS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352444M",
+        "address": "45,EASTSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YOLANDA DACOUTROS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352444M",
+        "address": "45,EASTSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "J.G.D. LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 6542",
+        "address": "45,EASTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JOHN G. DACOUTROS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            422641M",
+        "address": "45,EASTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "45, EAST STREET,",
+  "company_id": "C 10993",
+  "registration_date": "Oct 03, 1989",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

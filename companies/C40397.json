@@ -1,0 +1,70 @@
+{
+  "company_id": "C 40397",
+  "address": "440, ZABBAR ROAD,",
+  "name": "BRANDS DISTRIBUTION EUROPE LTD",
+  "locality": "FGURA",
+  "status": "",
+  "registration_date": "Dec 21, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FATHI BOUGHAMI\r",
+        "party_id": "                                                            9108A",
+        "address": "440,ZABBARROAD,FGURAMALTA",
+        "nationality": "TUNISIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FATHI BOUGHAMI\r",
+        "party_id": "                                                            9108A",
+        "address": "440,ZABBARROAD,FGURAMALTA",
+        "nationality": "TUNISIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FATHI BOUGHAMI\r",
+        "party_id": "                                                            9108A",
+        "address": "440,ZABBARROAD,FGURAMALTA",
+        "nationality": "TUNISIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FATHI BOUGHAMI\r",
+        "party_id": "                                                            9108A",
+        "address": "440,ZABBARROAD,FGURAMALTA",
+        "nationality": "TUNISIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FATHI BOUGHAMI\r",
+        "party_id": "                                                            9108A",
+        "address": "440,ZABBARROAD,FGURAMALTA",
+        "nationality": "TUNISIAN"
+      }
+    ]
+  }
+}

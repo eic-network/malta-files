@@ -1,0 +1,376 @@
+{
+  "name": "ATLAS HOLDINGS LIMITED",
+  "total_issued_shares_value": 5325479.48,
+  "total_authorised_shares_value": 11530395,
+  "authorised_shares": [
+    {
+      "issued_shares": 825100,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 825100,
+      "nominal_value_per_share": 1.281155
+    },
+    {
+      "issued_shares": 1420800,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1420800,
+      "nominal_value_per_share": 1.281155
+    },
+    {
+      "issued_shares": 1121100,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1121100,
+      "nominal_value_per_share": 1.281155
+    },
+    {
+      "issued_shares": 333000,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 333000,
+      "nominal_value_per_share": 1.281155
+    },
+    {
+      "issued_shares": 456780,
+      "type": "OrdinaryF",
+      "authorised_share_capital": 456780,
+      "nominal_value_per_share": 1.281155
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22CHARLOTTALLEYGHARGHURMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "WALTER CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            65339M",
+        "address": "15,NEWTONROAD,IL-KORTINMELLIEHAMALTA"
+      },
+      {
+        "name": "ALBERT FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760840M",
+        "address": "PANTOK,THEGARDENSST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            322151M",
+        "address": "VILLATRAMUNTANA,DAHLETIL-GIBJUN,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLAST.JULIANSSTJ04MALTA"
+      },
+      {
+        "name": "BRIAN VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            767843M",
+        "address": "TULI,TRIQWIEDGHOLLIEQA,SANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQILLBICSWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            697244M",
+        "address": "BROCKLANDTRIQIT-TAMALST.JULIANSMALTA"
+      },
+      {
+        "name": "LAWRENCE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12456M",
+        "address": "26,THECORNERHOUSE,TRIQIL-BRAMEL,SWIEQISTJ04MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "WALTER CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            65339M",
+        "address": "15,NEWTONROAD,IL-KORTINMELLIEHAMALTA"
+      },
+      {
+        "name": "ALBERT FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760840M",
+        "address": "PANTOK,THEGARDENSST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            322151M",
+        "address": "VILLATRAMUNTANA,DAHLETIL-GIBJUN,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLAST.JULIANSSTJ04MALTA"
+      },
+      {
+        "name": "BRIAN VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            767843M",
+        "address": "TULI,TRIQWIEDGHOLLIEQA,SANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQILLBICSWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            697244M",
+        "address": "BROCKLANDTRIQIT-TAMALST.JULIANSMALTA"
+      },
+      {
+        "name": "LAWRENCE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12456M",
+        "address": "26,THECORNERHOUSE,TRIQIL-BRAMEL,SWIEQISTJ04MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22,CHARLOTTEALLEY,GHARGHURMALTA"
+      },
+      {
+        "name": "WALTER CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            65339M",
+        "address": "15,NEWTONROAD,IL-KORTINMELLIEHAMALTA"
+      },
+      {
+        "name": "ALBERT FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760840M",
+        "address": "PANTOK,THEGARDENSST.JULIANSMALTA"
+      },
+      {
+        "name": "JOHN FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            322151M",
+        "address": "VILLATRAMUNTANA,DAHLETIL-GIBJUN,SANPAWLTAT-TARGANAXXARMALTA"
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329955M",
+        "address": "L-IMREKKNA,TREJQAAMCASSOLAST.JULIANSSTJ04MALTA"
+      },
+      {
+        "name": "BRIAN VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            767843M",
+        "address": "TULI,TRIQWIEDGHOLLIEQA,SANGWANNMALTA"
+      },
+      {
+        "name": "MATTHEW VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447969M",
+        "address": "7,TRIQILLBICSWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT VON BROCKDORFF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            697244M",
+        "address": "BROCKLANDTRIQIT-TAMALST.JULIANSMALTA"
+      },
+      {
+        "name": "LAWRENCE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12456M",
+        "address": "26,THECORNERHOUSE,TRIQIL-BRAMEL,SWIEQISTJ04MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WALTER CAMILLERI MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3388",
+        "address": "47-50,TA'XBIEXSEAFRONT,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 791800
+        }
+      },
+      {
+        "name": "CATHERINE CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126265M",
+        "address": "22CHARLOTTALLEYGHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 33300
+        }
+      },
+      {
+        "name": "ALBERT FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            760840M",
+        "address": "PANTOK,THEGARDENSST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 825100
+        }
+      },
+      {
+        "name": "JOHN FORMOSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            322151M",
+        "address": "VILLATRAMUNTANA,DAHLETIL-GIBJUN,SANPAWLTAT-TARGANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 595700
+        }
+      },
+      {
+        "name": "BROCKLAND HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22311",
+        "address": "\"BROCKLAND\"TRIQIT-TAMALST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1121100
+        }
+      },
+      {
+        "name": "ALF. MIZZI & SONS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 203",
+        "address": "ZACHARYHOUSE,MARSAINDUSTRIALESTATE,MARSAHMR15MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 114195
+        }
+      },
+      {
+        "name": "ARVA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22310",
+        "address": "'TULI'TRIQWIEDGHOLLIEQA,KAPPARASANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 333000
+        }
+      },
+      {
+        "name": "EARLI LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 8094",
+        "address": "237,FLEURDELYSROADBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 54243
+        }
+      },
+      {
+        "name": "PALICO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 9727",
+        "address": "15,'CASADEICARI'STVALENTINESSTREET,BALZANBZN1501MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 5709
+        }
+      },
+      {
+        "name": "SAFACO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15411",
+        "address": "29N.P.TABONESTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 54243
+        }
+      },
+      {
+        "name": "SIGA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 5768",
+        "address": "18/3,M.A.VASSALLISTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.281155,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 228390
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4156780,
+  "address": "47-50, TA ' XBIEX SEA FRONT",
+  "company_id": "C 23431",
+  "registration_date": "Sep 11, 1998",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 9000000
+}

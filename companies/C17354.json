@@ -1,0 +1,91 @@
+{
+  "name": "APEX BUSINESS SERVICES LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARMEN CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42262G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMEN CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42262G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSEPH CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "5,GHONQASTREET,XAGHRA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "APEX BUSINESS SERVICES, LEVEL 3, TIGRIJA PALAZZ, TRIQ IR-REPUBLIKA,",
+  "company_id": "C 17354",
+  "registration_date": "Dec 28, 1994",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 500
+}

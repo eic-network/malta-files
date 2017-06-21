@@ -1,0 +1,70 @@
+{
+  "name": "ARISTA INVESTMENTS LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DE KOCK VAN ZYL\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            438695041",
+        "address": "CHOISYROAD,SUMMERHOLIDAYSGUESTHOUSE,POSTEDEFLACQMAURITIUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DE KOCK VAN ZYL\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            438695041",
+        "address": "CHOISYROAD,SUMMERHOLIDAYSGUESTHOUSE,POSTEDEFLACQMAURITIUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KSI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/43",
+        "address": "31,CHARLESCOURT,LEVEL3,FLAT12,ST.LUKE'SROAD,G'MANGIAHAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DE KOCK VAN ZYL\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            438695041",
+        "address": "CHOISYROAD,SUMMERHOLIDAYSGUESTHOUSE,POSTEDEFLACQMAURITIUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DE KOCK VAN ZYL\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            438695041",
+        "address": "CHOISYROAD,SUMMERHOLIDAYSGUESTHOUSE,POSTEDEFLACQMAURITIUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VILLA GAUCI MDINA ROAD",
+  "company_id": "C 54717",
+  "registration_date": "Dec 15, 2011",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

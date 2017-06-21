@@ -1,0 +1,117 @@
+{
+  "name": "AVANT LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "LISA MARIE BROOKE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338387M",
+        "address": "ANGELUS,TRIQIT-TRUX,GHARB(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GUY KURKJIAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            20370A",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GUY KURKJIAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            20370A",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      },
+      {
+        "name": "MARIA KURKJIAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            882549M",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUY KURKJIAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            20370A",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      },
+      {
+        "name": "MARIA KURKJIAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            882549M",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02986",
+        "address": "EXEDRA,SACREDHEARTSTREET,FONTANA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GUY KURKJIAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            20370A",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      },
+      {
+        "name": "MARIA KURKJIAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            882549M",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GUY KURKJIAN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            20370A",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "MARIA KURKJIAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            882549M",
+        "address": "57,TRUXSTREET,GHARB(GOZO)GRB1324MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "57, TRIQ TRUX,",
+  "company_id": "C 47899",
+  "registration_date": "Oct 09, 2009",
+  "shares_currency": "EUR",
+  "locality": "GHARB (GOZO)",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

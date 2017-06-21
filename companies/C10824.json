@@ -1,0 +1,95 @@
+{
+  "name": "A.N.G. BORG LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 1397.62,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GAETANO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            418464M",
+        "address": "'LOCHANSIDE',TAL-BALALROAD,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GAETANO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            418464M",
+        "address": "'LOCHANSIDE',TAL-BALALROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "NICHOLAS BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34259M",
+        "address": "104,TRIQTAL-BRAG,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "GRANTTHORNTONHOUSE,PRINCESSELIZABETHSTREET,TA'XBIEXXBX1104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GAETANO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            418464M",
+        "address": "'LOCHANSIDE',TAL-BALALROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "NICHOLAS BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34259M",
+        "address": "104,TRIQTAL-BRAG,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GAETANO BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            418464M",
+        "address": "'LOCHANSIDE',TAL-BALALROAD,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "NICHOLAS BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34259M",
+        "address": "104,TRIQTAL-BRAG,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "A.N.G. TAL-BALAL RD.",
+  "company_id": "C 10824",
+  "registration_date": "Jul 19, 1989",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 600
+}

@@ -1,0 +1,144 @@
+{
+  "name": "BIZ CAB LTD",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VALERY BOLLIER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            55298A",
+        "address": "164,APARTMENT25,TOWERROAD,SLIEMASLM1603MALTA"
+      },
+      {
+        "name": "BENJAMIN CARLOTTI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03KD68060",
+        "address": "89,ST.ELENASTREET,SLIEMASLM2134MALTA"
+      },
+      {
+        "name": "RYAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222583M",
+        "address": "62,TRIQGUZEGALEAQORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VALERY BOLLIER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            55298A",
+        "address": "164,APARTMENT25,TOWERROAD,SLIEMASLM1603MALTA"
+      },
+      {
+        "name": "BENJAMIN CARLOTTI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03KD68060",
+        "address": "89,ST.ELENASTREET,SLIEMASLM2134MALTA"
+      },
+      {
+        "name": "RYAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222583M",
+        "address": "62,TRIQGUZEGALEAQORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BENJAMIN CARLOTTI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03KD68060",
+        "address": "89,ST.ELENASTREET,SLIEMASLM2134MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VALERY BOLLIER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            55298A",
+        "address": "164,APARTMENT25,TOWERROAD,SLIEMASLM1603MALTA"
+      },
+      {
+        "name": "BENJAMIN CARLOTTI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            03KD68060",
+        "address": "89,ST.ELENASTREET,SLIEMASLM2134MALTA"
+      },
+      {
+        "name": "RYAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222583M",
+        "address": "62,TRIQGUZEGALEAQORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CLE DE VOUTE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1807557",
+        "address": "9B,AMTELBUILDING,148DESVOEUXROADCENTRAL,CENTRALHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "CYGNE NOIR LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1862598",
+        "address": "9B,AMTELBUILDING,148DESVOEUXROADCENTRAL,CENTRALHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "RYAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            222583M",
+        "address": "62,TRIQGUZEGALEAQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "89, ST ELENA STREET,",
+  "company_id": "C 78873",
+  "registration_date": "Dec 27, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

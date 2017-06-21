@@ -1,0 +1,59 @@
+{
+  "name": "ANED MARITIME LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDOUARD OGIEVITCH",
+        "nationality": "RUSSIAN",
+        "party_id": "",
+        "address": "5STARSHINOVABUILDFLAT6FEODOSIACRIMEAFEODOSIACRIMEAUKRAINE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VERA GAVRILOVA",
+        "nationality": "",
+        "party_id": "",
+        "address": "5STARSHINOVABUILDFLAT5FEODOSIACRIMEAUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "EDOUARD OGIEVITCH",
+        "nationality": "RUSSIAN",
+        "party_id": "",
+        "address": "5STARSHINOVABUILDFLAT6FEODOSIACRIMEAFEODOSIACRIMEAUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 19084",
+  "registration_date": "Sep 19, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

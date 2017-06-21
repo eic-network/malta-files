@@ -1,0 +1,91 @@
+{
+  "name": "BLUE DANUBE HOLDING LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BORIS MILLER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4662382",
+        "address": "WIENERBERGSTRASSE11,VIENNA1100AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BORIS MILLER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4662382",
+        "address": "WIENERBERGSTRASSE11,VIENNA1100AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BORIS MILLER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4662382",
+        "address": "WIENERBERGSTRASSE11,VIENNA1100AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IMMOEAST ALLEGRO BETEILIGUNGS GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN 264063 d",
+        "address": "WIENERBERGSTRASSE11,VIENNA1100AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "IMMOEAST PROJEKT CYGNUS HOLDING GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            FN 277133 z",
+        "address": "WIENERBERGSTRASSE11,VIENNA1100AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "22/13, STRAIT STREET,",
+  "company_id": "C 39818",
+  "registration_date": "Oct 25, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

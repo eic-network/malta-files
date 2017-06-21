@@ -1,0 +1,95 @@
+{
+  "name": "AQUA FINANCIALS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MANFORD MARTIN MPONDA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N4313453",
+        "address": "UNIT4/22-24,DUFFST.,CRANBOURNEVIC3977AUSTRALIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MANFORD MARTIN MPONDA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N4313453",
+        "address": "UNIT4/22-24,DUFFST.,CRANBOURNEVIC3977AUSTRALIA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "167,MAINSTREET,LIJALJA1509MALTA"
+      },
+      {
+        "name": "FRANCO FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            389980M",
+        "address": "8,DUSOLEIL,TRIQIL-BIRWINA,MELLIEHAMLH2543MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANFORD MARTIN MPONDA\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            N4313453",
+        "address": "UNIT4/22-24,DUFFST.,CRANBOURNEVIC3977AUSTRALIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AQUAFIN LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            22327 IBC 2014",
+        "address": "TRUSTHOUSE,112,BONADIESTREET,KINGSTOWNSAINTVINCENTANDTHEGRENADINES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "FIDES CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46934",
+        "address": "5/1,MERCHANTSSTREETVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/1, MERCHANTS STREET,",
+  "company_id": "C 57590",
+  "registration_date": "Sep 18, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Nov 05, 2014",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BUBBLE LIMITED",
+  "total_issued_shares": 1200,
+  "address": "40, VILLA FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 67473",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "CH.DELABOULE,13,CONFIGNON1232SWITZERLAND",
+        "party_id": "                                                            C1518481",
+        "name": "JACOPO RIVARA\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "CH.DELABOULE,13,CONFIGNON1232SWITZERLAND",
+        "party_id": "                                                            C1518481",
+        "name": "JACOPO RIVARA\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "B4,VILLASOPHORA,TRIQIZ-ZEBBUG,SANTAMARIAESTATE,MELLIEHAMLH2720MALTA",
+        "party_id": "                                                            235892M",
+        "name": "ROXANNE CACHIA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "CH.DELABOULE,13,CONFIGNON1232SWITZERLAND",
+        "party_id": "                                                            C1518481",
+        "name": "JACOPO RIVARA\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1188,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "3RDFLOOR,VALLARINO,ELVIRAMENDEZSTREET,PANAMACITY,PANAMA",
+        "party_id": "                                                            60826",
+        "name": "BLUE ANGEL DADDY FOUNDATION\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 12,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "40,VILLAFAIRHOLME,SIRAUGUSTUSBARTOLOSTREET,TA'XBIEXXBX1095MALTA",
+        "party_id": "                                                            C 43504",
+        "name": "CREDENCE HOLDINGS LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

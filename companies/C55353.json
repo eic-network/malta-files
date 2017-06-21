@@ -1,0 +1,115 @@
+{
+  "name": "BELAIR ST. JULIANS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5,PERALTACOURTFLAT5B,IR-RAMPATA'SANGILJAN,ST.JULIANSSTJ1062MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5,PERALTACOURTFLAT5B,IR-RAMPATA'SANGILJAN,ST.JULIANSSTJ1062MALTA"
+      },
+      {
+        "name": "IAN CASOLANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            220974M",
+        "address": "2,SPINIOLA,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5,PERALTACOURTFLAT5B,IR-RAMPATA'SANGILJAN,ST.JULIANSSTJ1062MALTA"
+      },
+      {
+        "name": "IAN CASOLANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            220974M",
+        "address": "2,SPINIOLA,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            478174M",
+        "address": "5,PERALTACOURTFLAT5B,IR-RAMPATA'SANGILJAN,ST.JULIANSSTJ1062MALTA"
+      },
+      {
+        "name": "IAN CASOLANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            220974M",
+        "address": "2,SPINIOLA,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BELAIR REAL ESTATE LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 1961",
+        "address": "48/49QUAYSIDE,MSIDAROADGZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "AQUISON HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55000",
+        "address": "BELAIRPROPERTY,3,ST.GEORGE'SROAD,ST.JULIANSSTJ3208MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3/4, ST. GEORGE'S ROAD,",
+  "company_id": "C 55353",
+  "registration_date": "Feb 20, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4500
+}

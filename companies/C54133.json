@@ -1,0 +1,141 @@
+{
+  "name": "BONANZA LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "UWE SCHOENFELD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            288106970",
+        "address": "KARL-LIEBKNECHT-STREET148,GLIENICKLE16548GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VERTICAL GROUP HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52240",
+        "address": "DMAX&ASSOCIATESCATLANE,SWATAR,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "UWE SCHOENFELD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            288106970",
+        "address": "KARL-LIEBKNECHT-STREET148,GLIENICKLE16548GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VERTICAL GROUP HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52240",
+        "address": "DMAX&ASSOCIATESCATLANE,SWATAR,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "UWE SCHOENFELD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            288106970",
+        "address": "KARL-LIEBKNECHT-STREET148,GLIENICKLE16548GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VERTICAL GROUP HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52240",
+        "address": "DMAX&ASSOCIATESCATLANE,SWATAR,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "UWE SCHOENFELD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            288106970",
+        "address": "KARL-LIEBKNECHT-STREET148,GLIENICKLE16548GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADAM LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 61698",
+        "address": "DMAX&ASSOCIATES,CATLANE,SWATAR,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "LITTLE JOE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55538",
+        "address": "DMAXBUSINESSCENTRE,CATLANE,SWATAR,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 687
+        }
+      },
+      {
+        "name": "VERTICAL GROUP HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 52240",
+        "address": "DMAX&ASSOCIATESCATLANE,SWATAR,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 537
+        }
+      },
+      {
+        "name": "UWE SCHOENFELD\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            288106970",
+        "address": "KARL-LIEBKNECHT-STREET148,GLIENICKLE16548GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "DMAX & ASSOCIATES, CAT LANE, SWATAR,",
+  "company_id": "C 54133",
+  "registration_date": "Oct 14, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

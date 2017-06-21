@@ -1,0 +1,159 @@
+{
+  "name": "A.G. INVESTMENTS LIMITED",
+  "total_issued_shares_value": 349405.95,
+  "total_authorised_shares_value": 349405.95,
+  "authorised_shares": [
+    {
+      "issued_shares": 30000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 120000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 120000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            673062M",
+        "address": "VILLASANTANNA,TRIQIL-FERROVIJA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217670M",
+        "address": "HOGARTRIQIL-BETTIJAATTARDMALTA"
+      },
+      {
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            673062M",
+        "address": "VILLASANTANNA,TRIQIL-FERROVIJA,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JACQUELINE AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604061M",
+        "address": "20,TRIQIL-GHASEL,SANTAMARGERITA,MOSTAMALTA"
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217670M",
+        "address": "HOGARTRIQIL-BETTIJAATTARDMALTA"
+      },
+      {
+        "name": "EMANUELA ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580434M",
+        "address": "'WARDA'TRIQL-INKURUNAZZJONI,MOSTAMALTA"
+      },
+      {
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            673062M",
+        "address": "VILLASANTANNA,TRIQIL-FERROVIJA,ATTARDMALTA"
+      },
+      {
+        "name": "SIMON ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151864M",
+        "address": "SHAGRI-LA,TRIQIL-KARTOCC,ST.ANDREWS,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MGI MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/26",
+        "address": "351/7,ZABBARROAD,FGURAFGR1016MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217670M",
+        "address": "HOGARTRIQIL-BETTIJAATTARDMALTA"
+      },
+      {
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            673062M",
+        "address": "VILLASANTANNA,TRIQIL-FERROVIJA,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACQUELINE AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            604061M",
+        "address": "20,TRIQIL-GHASEL,SANTAMARGERITA,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "ALEXANDER ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            217670M",
+        "address": "HOGARTRIQIL-BETTIJAATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "LEONARD ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            673062M",
+        "address": "VILLASANTANNA,TRIQIL-FERROVIJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "SIMON ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151864M",
+        "address": "SHAGRI-LA,TRIQIL-KARTOCC,ST.ANDREWS,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "ZAMCO BUILDING, MILL STREET,",
+  "company_id": "C 9964",
+  "registration_date": "Sep 28, 1988",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 150000
+}

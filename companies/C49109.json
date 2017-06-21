@@ -1,0 +1,91 @@
+{
+  "name": "BECA HOLDINGS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CMM MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 35755",
+        "address": "LEVEL2WEST,MERCURYTOWER,THEEXCHANGEFINANCIALANDBUSINESSCENTRE,ELIAZAMMITSTREET,ST.JULIANSSTJ3155MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARLA ALEXANDRA COREIA DE SOUSA BERNARDINO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            J502516",
+        "address": "AVENIDAMIGUELTORGA,12,11BLISBON1070-373PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "PAULO ALEXANDRE DOS SANTOS CARDEIRA GOMES\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            J115403",
+        "address": "26,FLATD,LOWERSLOANESTREET,LONDONSW1W8BJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9001
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "LEVEL 2 WEST, MERCURY TOWER, THE EXCHANGE FINANCIAL AND BUSINESS CENTRE, ELIA ZAMMIT STREET,",
+  "company_id": "C 49109",
+  "registration_date": "Mar 15, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 10000
+}

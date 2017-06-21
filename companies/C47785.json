@@ -1,0 +1,152 @@
+{
+  "name": "BOON TRADING INTERNATIONAL LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 525,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 525,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 525,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 525,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 450,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 450,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL NEWMAN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            HD743115",
+        "address": "SUITE908,90612THAVENUESWCALGARY,ALBERTAT2R1K7CANADA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL NEWMAN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            HD743115",
+        "address": "SUITE908,90612THAVENUESWCALGARY,ALBERTAT2R1K7CANADA"
+      },
+      {
+        "name": "PAVAN SINGH\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GA157097",
+        "address": "200125THAVENUE,SWCALGARY,ALBERTAT2T1A6CANADA"
+      },
+      {
+        "name": "RUSSELL LAWRENCE SNYDER\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA861364",
+        "address": "1000LINCOLNROAD,SUITE250,MIAMIBEACH,FLORIDA33139UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL NEWMAN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            HD743115",
+        "address": "SUITE908,90612THAVENUESWCALGARY,ALBERTAT2R1K7CANADA"
+      },
+      {
+        "name": "PAVAN SINGH\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GA157097",
+        "address": "200125THAVENUE,SWCALGARY,ALBERTAT2T1A6CANADA"
+      },
+      {
+        "name": "RUSSELL LAWRENCE SNYDER\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA861364",
+        "address": "1000LINCOLNROAD,SUITE250,MIAMIBEACH,FLORIDA33139UNITEDSTATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL NEWMAN\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            HD743115",
+        "address": "SUITE908,90612THAVENUESWCALGARY,ALBERTAT2R1K7CANADA"
+      },
+      {
+        "name": "PAVAN SINGH\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GA157097",
+        "address": "200125THAVENUE,SWCALGARY,ALBERTAT2T1A6CANADA"
+      },
+      {
+        "name": "RUSSELL LAWRENCE SNYDER\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA861364",
+        "address": "1000LINCOLNROAD,SUITE250,MIAMIBEACH,FLORIDA33139UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BUFFALO SHEPARD LTD\r",
+        "nationality": "",
+        "party_id": "                                                            2017406956",
+        "address": "SUITE101,5004ELBOWDRIVESW,CALGARY,ALBERTACANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 525
+        }
+      },
+      {
+        "name": "PAVAN SINGH LTD\r",
+        "nationality": "",
+        "party_id": "                                                            2017407004",
+        "address": "SUITE101,5004ELBOWDREIVESW,CALGARY,ALBERTACANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 525
+        }
+      },
+      {
+        "name": "RUSSELL SNYDER LTD\r",
+        "nationality": "",
+        "party_id": "                                                            2017406980",
+        "address": "SUITE101,5004ELBOWDRIVESW,CALGARY,ALBERTACANADA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "REGENT HOUSE, 52, FIFTH FLOOR BISAZZA STREET",
+  "company_id": "C 47785",
+  "registration_date": "Sep 22, 2009",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

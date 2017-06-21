@@ -1,0 +1,107 @@
+{
+  "name": "BERDEN SHIPPING AND TRADING CO. LTD.",
+  "total_issued_shares_value": 2101165,
+  "total_authorised_shares_value": 2101165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.33
+    },
+    {
+      "issued_shares": 2100000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2100000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SALIH ZEKI CAKIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U605867",
+        "address": "RAUFPASAHANISOK,CAMLICAKONAKLARINO8/8,ACIBADEMISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALIH ZEKI CAKIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U605867",
+        "address": "RAUFPASAHANISOK,CAMLICAKONAKLARINO8/8,ACIBADEMISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALIH ZEKI CAKIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U605867",
+        "address": "RAUFPASAHANISOK,CAMLICAKONAKLARINO8/8,ACIBADEMISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAGRI CIHAN CAKIR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            329945",
+        "address": "F.K.GOKAYCAD,OKULSOK,ALTUNIZADESIT,BLOCKD19K4,ALTUNIZADE-USKUDARISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 360
+        }
+      },
+      {
+        "name": "ZIYA ALP GULAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-T538182",
+        "address": "MESAA/6,ALTINUZADE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 90
+        }
+      },
+      {
+        "name": "CETIN SEVEN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            723663",
+        "address": "F.K.GOKAYCAD,OKULSOK,ALTUNIZADESIT,ABLOCKD19K4,ALTUNIZADE-USKUDARISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "NUR DENIZCILIK SANAYI VE TICARET LTD STI\r",
+        "nationality": "",
+        "party_id": "                                                            110720",
+        "address": "FAHRETTINKERIMGOKAYCAD.OKULSOK.,ALTUNIZADESITESIA-BLOKNOK4.D.19,USKUDARISTANBUL34662TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2100500,
+  "address": "198, OLD BAKERY STREET",
+  "company_id": "C 33745",
+  "registration_date": "Apr 19, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2100500
+}

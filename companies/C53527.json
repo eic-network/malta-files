@@ -1,0 +1,75 @@
+{
+  "name": "BONZAI SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "147/1,ST.LUCIASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "147/1,ST.LUCIASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN A GAUCI-MAISTRE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            33448M",
+        "address": "147/1,ST.LUCIASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GOLDEN APPLES SHIPPING CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            48500",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLANDMAJURO96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SUNNY BAY MARINE INC.\r",
+        "nationality": "",
+        "party_id": "                                                            49153",
+        "address": "TRUSTCOMPANYCOMPLEX,AJELTAKEROAD,AJELTAKEISLANDMAJURO96960MARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "147/1 ST. LUCIA STREET",
+  "company_id": "C 53527",
+  "registration_date": "Aug 02, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

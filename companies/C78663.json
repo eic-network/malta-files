@@ -1,0 +1,83 @@
+{
+  "name": "ANITA CONSULTING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FEDERICA FRANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AX5730835",
+        "address": "VIADELLAMACCHIARELLAN.61ROME00119ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FEDERICA FRANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AX5730835",
+        "address": "VIADELLAMACCHIARELLAN.61ROME00119ITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAOLO PROTEO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5530071",
+        "address": "VIAARMANDOARMUZZIN.6,ROME,00122ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FEDERICA FRANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AX5730835",
+        "address": "VIADELLAMACCHIARELLAN.61ROME00119ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FEDERICA FRANCUCCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AX5730835",
+        "address": "VIADELLAMACCHIARELLAN.61ROME00119ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PAOLO PROTEO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR5530071",
+        "address": "VIAARMANDOARMUZZIN.6,ROME,00122ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE LEVEL2, ONSITE BUILDINGS, VALLEY ROAD",
+  "company_id": "C 78663",
+  "registration_date": "Dec 16, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

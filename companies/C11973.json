@@ -1,0 +1,83 @@
+{
+  "name": "BLUE ANGEL LTD",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258977M",
+        "address": "ESTEREL,TONIBAJJADASQUARE,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329254M",
+        "address": "DORISORATORYSTREETNAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329254M",
+        "address": "DORISORATORYSTREETNAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            807849M",
+        "address": "'PEARL',LABOURAVE.,NAXXARNXR9021MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSEPH VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            329254M",
+        "address": "DORISORATORYSTREETNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "'DORIS' ORATORY STR",
+  "company_id": "C 11973",
+  "registration_date": "Oct 10, 1990",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 5000
+}

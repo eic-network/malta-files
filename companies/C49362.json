@@ -1,0 +1,109 @@
+{
+  "name": "AURUM DUE LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERTO AUGUGLIARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            68676M",
+        "address": "6,TRIQIS-SALVATUR,ATTARDATD1543MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIO AUGUGLIARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204478M",
+        "address": "EQUINOX,TRIQIZ-ZNUBER,C/WOLEANDERSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "KHALED M. IBRAHIM BEN NASAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            30716A",
+        "address": "EMERSONCOURT5,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIO AUGUGLIARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204478M",
+        "address": "EQUINOX,TRIQIZ-ZNUBER,C/WOLEANDERSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "KHALED M. IBRAHIM BEN NASAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            30716A",
+        "address": "EMERSONCOURT5,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIO AUGUGLIARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204478M",
+        "address": "EQUINOX,TRIQIZ-ZNUBER,C/WOLEANDERSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "KHALED M. IBRAHIM BEN NASAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            30716A",
+        "address": "EMERSONCOURT5,TRIQIL-KTAJJEN,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONIO AUGUGLIARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            204478M",
+        "address": "EQUINOX,TRIQIZ-ZNUBER,C/WOLEANDERSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1125
+        }
+      },
+      {
+        "name": "KHALED M. IBRAHIM BEN NASAN\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            30716A",
+        "address": "EMERSONCOURT5,TRIQIL-KTAJJEN,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "EQUINOX,  TRIQ IZ-ZNUBER, C/W OLEANDER STREET,",
+  "company_id": "C 49362",
+  "registration_date": "Apr 12, 2010",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 1500
+}

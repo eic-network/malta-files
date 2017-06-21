@@ -1,0 +1,91 @@
+{
+  "name": "ARGUS INTERNATIONAL LTD",
+  "total_issued_shares_value": 93174.92,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALESSANDRO MONGILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8955560",
+        "address": "10,VIAIGEAROMEITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RENATO MONGILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR2235914",
+        "address": "223,VIEDELLE7CHIESE,ROMAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RENATO MONGILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR2235914",
+        "address": "223,VIEDELLE7CHIESE,ROMAITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19124",
+        "address": "24,JANINE,TRIQL-GHARBIEL,SWIEQISWQ3250MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RENATO MONGILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR2235914",
+        "address": "223,VIEDELLE7CHIESE,ROMAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SECURITY SERVICE MALTA LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 20791",
+        "address": "9,TRIQIN-NARCIS,SANGWANNSGN2061MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39999
+        }
+      },
+      {
+        "name": "ALESSANDRO MONGILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8955560",
+        "address": "10,VIAIGEAROMEITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "9, TRIQ IN-NARCIS,",
+  "company_id": "C 29304",
+  "registration_date": "Feb 13, 2002",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 40000
+}

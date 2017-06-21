@@ -1,0 +1,107 @@
+{
+  "company_id": "C 74700",
+  "address": "41, SUITE I,  ST CHRISTOPHER STREET,",
+  "name": "BORON LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 08, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    },
+    {
+      "authorised_share_capital": 1200,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 0.01,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 2400,
+  "total_authorised_shares_value": 1212,
+  "total_issued_shares": 2400,
+  "total_issued_shares_value": 1212,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LUKE FRENDO\r",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MICHAEL FRENDO\r",
+        "party_id": "                                                            515955M",
+        "address": "2,MRAMMITI,LOURDESLANE,SWIEQISWQ3335MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREY OGANDZHANYANTS\r",
+        "party_id": "                                                            506319252",
+        "address": "5HAYSMEWSLONDONWIJ5PUUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 299,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "BERYLLIUM LIMITED\r",
+        "party_id": "                                                            C 74681",
+        "address": "41,SUITE1,ST.CHRISTOPHERSTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 901,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUKE FRENDO\r",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MICHAEL FRENDO\r",
+        "party_id": "                                                            515955M",
+        "address": "2,MRAMMITI,LOURDESLANE,SWIEQISWQ3335MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUKE FRENDO\r",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MICHAEL FRENDO\r",
+        "party_id": "                                                            515955M",
+        "address": "2,MRAMMITI,LOURDESLANE,SWIEQISWQ3335MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUKE FRENDO\r",
+        "party_id": "                                                            202586M",
+        "address": "34,CHURCHSTREET,SLIEMASLM1185MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

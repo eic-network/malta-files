@@ -1,0 +1,72 @@
+{
+  "name": "BLUE ICE REEFER SERVICES LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MAJID KACHOUH",
+        "nationality": "",
+        "party_id": "",
+        "address": "A.ZAIMISTREET.CHRISTIANACOURT1,3RDFLOORFLAT8LIMASSOLCYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WILLIAM WADIH DAGHER",
+        "nationality": "",
+        "party_id": "",
+        "address": "ARCHMAKARIOSAVENUEP.LORDOSCENTRE,BLKB,4THFLOOR,FLAT402LIMASSOLCYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "MARK KACHOUH",
+        "nationality": "",
+        "party_id": "",
+        "address": "AZAIMISTREETCHRISTIANACOURT,3RDFLOOR,FLATBLIMASSOLCYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "KAMAL KAMEL RAZZOUK",
+        "nationality": "",
+        "party_id": "",
+        "address": "GR.XENOPOULOUSTREETELEGANTHOUSEFLATNO303LIMASSOLCYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 18017",
+  "registration_date": "Mar 14, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

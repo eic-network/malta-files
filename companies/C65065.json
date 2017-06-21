@@ -1,0 +1,91 @@
+{
+  "name": "A & M BUSINESS COMPANY LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CARMELO MARTORANA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111867A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRIZIA ANTOCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111860A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRIZIA ANTOCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111860A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PATRIZIA ANTOCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111860A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PATRIZIA ANTOCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111860A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900
+        }
+      },
+      {
+        "name": "CARMELO MARTORANA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            111867A",
+        "address": "TRIQTA'MARMORA2,HYACINTH,ST.JULIANSSTJ1831MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "2, HYACINTH, TRIQ TA' MARMORA",
+  "company_id": "C 65065",
+  "registration_date": "May 09, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

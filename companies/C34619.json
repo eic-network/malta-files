@@ -1,0 +1,114 @@
+{
+  "name": "BLUE BEAR LTD.",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCESCO APAP BOLOGNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            12464M",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROGER BUGEJA TESTAFERRATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299174M",
+        "address": "SANTAMARIA,SAGHJTARROAD,MOSTAMST3315MALTA"
+      },
+      {
+        "name": "TOBIAS JAN GUNNAR SJOBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86795138",
+        "address": "GUTERSTRASSE2,6005,LUZERNSWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROGER BUGEJA TESTAFERRATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299174M",
+        "address": "SANTAMARIA,SAGHJTARROAD,MOSTAMST3315MALTA"
+      },
+      {
+        "name": "TOBIAS JAN GUNNAR SJOBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86795138",
+        "address": "GUTERSTRASSE2,6005,LUZERNSWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROGER BUGEJA TESTAFERRATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            299174M",
+        "address": "SANTAMARIA,SAGHJTARROAD,MOSTAMST3315MALTA"
+      },
+      {
+        "name": "TOBIAS JAN GUNNAR SJOBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86795138",
+        "address": "GUTERSTRASSE2,6005,LUZERNSWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERTIL ERIC HULT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81445156",
+        "address": "HALDENSTRASSE4,LUZERN6006SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 34619",
+  "registration_date": "Sep 17, 2004",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

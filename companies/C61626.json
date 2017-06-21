@@ -1,0 +1,97 @@
+{
+  "company_id": "C 61626",
+  "address": "PRODOMO OFFICES 68 GEORGE BORG OLIVIER STREET",
+  "name": "Brainstream Ltd",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Aug 21, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2999
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "total_issued_shares": 3000,
+  "total_issued_shares_value": 3000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NETTY SKOK FARRUGIA\r",
+        "party_id": "                                                            12365A",
+        "address": "FLAT3,'SAPPHIRECOURT',TRIQIL-BARRIERA,BALZANMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRAINSTREAM HOLDING LTD\r",
+        "party_id": "                                                            C 62510",
+        "address": "PRODOMOOFFICES,68GEORGEBORGOLIVIERSTREET,ST.JULIANSSTJ1081MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PRIMEI FIDUCIARY LTD.\r",
+        "party_id": "                                                            C 43957",
+        "address": "19,ST.MARKSTREET,VALLETTAVLT1362MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NETTY SKOK FARRUGIA\r",
+        "party_id": "                                                            12365A",
+        "address": "FLAT3,'SAPPHIRECOURT',TRIQIL-BARRIERA,BALZANMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NETTY SKOK FARRUGIA\r",
+        "party_id": "                                                            12365A",
+        "address": "FLAT3,'SAPPHIRECOURT',TRIQIL-BARRIERA,BALZANMALTA",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JESSICA VICTORIA FARRUGIA\r",
+        "party_id": "                                                            366904L",
+        "address": "SAVOYLIVING,FLAT8,VIANISTREET,SLIEMASLM1255MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "32,SOVEREIGNBUILDING,ZAGHFRANROADATTARDATD9012MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

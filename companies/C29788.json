@@ -1,0 +1,109 @@
+{
+  "name": "AZTECA TRADING LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEANNELLE CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511887M",
+        "address": "192/5,GIRASOLECOURT,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT06MALTA"
+      },
+      {
+        "name": "KENNETH MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            807248M",
+        "address": "11,MUSEUMESPLANADE,RABATRBT1200MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT06MALTA"
+      },
+      {
+        "name": "KENNETH MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            807248M",
+        "address": "11,MUSEUMESPLANADE,RABATRBT1200MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT06MALTA"
+      },
+      {
+        "name": "KENNETH MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            807248M",
+        "address": "11,MUSEUMESPLANADE,RABATRBT1200MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AZTECA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 29767",
+        "address": "25,STRAITSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT06MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "35, STRAIT STREET,",
+  "company_id": "C 29788",
+  "registration_date": "May 28, 2002",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

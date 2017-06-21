@@ -1,0 +1,107 @@
+{
+  "name": "BLUEFORT LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MIRKO BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444486M",
+        "address": "11,MONDELICE,TRIQIL-FAXXINA,SWIEQIMALTA"
+      },
+      {
+        "name": "EDWARD BORG GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474486M",
+        "address": "50,ID-DARTAS-SIGRA,TRIQL-ARZNU,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MIRKO BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444486M",
+        "address": "11,MONDELICE,TRIQIL-FAXXINA,SWIEQIMALTA"
+      },
+      {
+        "name": "EDWARD BORG GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474486M",
+        "address": "50,ID-DARTAS-SIGRA,TRIQL-ARZNU,SANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD BORG GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474486M",
+        "address": "50,ID-DARTAS-SIGRA,TRIQL-ARZNU,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MIRKO BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444486M",
+        "address": "11,MONDELICE,TRIQIL-FAXXINA,SWIEQIMALTA"
+      },
+      {
+        "name": "EDWARD BORG GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474486M",
+        "address": "50,ID-DARTAS-SIGRA,TRIQL-ARZNU,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDWARD BORG GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            474486M",
+        "address": "50,ID-DARTAS-SIGRA,TRIQL-ARZNU,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "MIRKO BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            444486M",
+        "address": "11,MONDELICE,TRIQIL-FAXXINA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "DRAGONARA BUSINESS CENTRE DRAGONARA ROAD,",
+  "company_id": "C 66163",
+  "registration_date": "Jul 28, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

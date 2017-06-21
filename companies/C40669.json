@@ -1,0 +1,141 @@
+{
+  "name": "ATLANTIS HOLIDAYS LIMITED",
+  "total_issued_shares_value": 52000,
+  "total_authorised_shares_value": 52000,
+  "authorised_shares": [
+    {
+      "issued_shares": 41600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 41600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHANIA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000577G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15275G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "STEPHANIA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000577G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15275G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "STEPHANIA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000577G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PARKER RANDALL TURNER\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/65",
+        "address": "13,TRIQIL-KURATFENECH,BIRZEBBUGIABBG2032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15275G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "STEPHANIA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000577G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCES FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            30853G",
+        "address": "VILLABELLAVISTA,TRIQIL-WILEGQALA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20800
+        }
+      },
+      {
+        "name": "GODFERY FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            97746G",
+        "address": "VILLABELLAVISTA,TRIQIL-WILEGQALA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20800
+        }
+      },
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15275G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5200
+        }
+      },
+      {
+        "name": "STEPHANIA AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000577G",
+        "address": "'CITADELCOURT',FLAT3,CASTLESTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 52000,
+  "address": "ATLANTIS DIVING CENTRE, QOLLA STREET, MARSALFORN BAY,",
+  "company_id": "C 40669",
+  "registration_date": "Jan 26, 2007",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG (GOZO)",
+  "status": "",
+  "total_authorised_shares": 52000
+}

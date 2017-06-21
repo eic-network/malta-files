@@ -1,0 +1,91 @@
+{
+  "name": "B.T.I. LIMITED",
+  "total_issued_shares_value": 93174.92,
+  "total_authorised_shares_value": 93174.92,
+  "authorised_shares": [
+    {
+      "issued_shares": 40000,
+      "type": "Ordinary",
+      "authorised_share_capital": 40000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHELLE VASSALLO FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            469478M",
+        "address": "'FLAMINGO',HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENT FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            679652M",
+        "address": "'FLAMINGO',HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VINCENT FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            679652M",
+        "address": "'FLAMINGO',HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            679652M",
+        "address": "'FLAMINGO',HOPESTREET,MOSTAMST03MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "V.F. Group Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 12944",
+        "address": "17,MARKETSTREET,FLORIANAFRN1081MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39990
+        }
+      },
+      {
+        "name": "VINCENT FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            679652M",
+        "address": "'FLAMINGO',HOPESTREET,MOSTAMST03MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 40000,
+  "address": "17, MARKET STREET,",
+  "company_id": "C 15035",
+  "registration_date": "May 10, 1993",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 40000
+}

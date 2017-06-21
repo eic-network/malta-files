@@ -1,0 +1,143 @@
+{
+  "name": "7478+C&K Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALESSANDRO DE SANTIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2281917",
+        "address": "SAFFIERTSTRAAT16ROTTERDAM3051XVNETHERLANDS"
+      },
+      {
+        "name": "KERSTIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0482379M",
+        "address": "132,MARSAMXETTROAD,VALLETTAMALTA"
+      },
+      {
+        "name": "FEDERICO PAMPIGNOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8310431",
+        "address": "GRAAFFLORISTRAAT35/B,ROTTERDDAM3032CBNETHERLANDS"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALESSANDRO DE SANTIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2281917",
+        "address": "SAFFIERTSTRAAT16ROTTERDAM3051XVNETHERLANDS"
+      },
+      {
+        "name": "KERSTIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0482379M",
+        "address": "132,MARSAMXETTROAD,VALLETTAMALTA"
+      },
+      {
+        "name": "FEDERICO PAMPIGNOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8310431",
+        "address": "GRAAFFLORISTRAAT35/B,ROTTERDDAM3032CBNETHERLANDS"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KERSTIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0482379M",
+        "address": "132,MARSAMXETTROAD,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALESSANDRO DE SANTIS\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA2281917",
+        "address": "SAFFIERTSTRAAT16ROTTERDAM3051XVNETHERLANDS"
+      },
+      {
+        "name": "KERSTIN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0482379M",
+        "address": "132,MARSAMXETTROAD,VALLETTAMALTA"
+      },
+      {
+        "name": "FEDERICO PAMPIGNOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8310431",
+        "address": "GRAAFFLORISTRAAT35/B,ROTTERDDAM3032CBNETHERLANDS"
+      },
+      {
+        "name": "CHRISTIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546971M",
+        "address": "387,TRIQIL-PALM,MELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "7478 HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 72219",
+        "address": "27,ST.GEORGE'SSTREETGZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "C and K Holdings Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 72224",
+        "address": "27,ST.GEORGE'SSTREETGZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "27, ST. GEORGE'S STREET,",
+  "company_id": "C 72227",
+  "registration_date": "Sep 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

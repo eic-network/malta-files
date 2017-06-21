@@ -1,0 +1,62 @@
+{
+  "name": "BEENDER MARINE LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            04FE47448",
+        "address": "9,RUEDEL'AMIRAUTE,CARTHAGE2016TUNISIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            04FE47448",
+        "address": "9,RUEDEL'AMIRAUTE,CARTHAGE2016TUNISIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SLIM BOURICHA\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            04FE47448",
+        "address": "9,RUEDEL'AMIRAUTE,CARTHAGE2016TUNISIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEENDER LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            535712",
+        "address": "OMARHODGEBUILDING,WICKHAMSCAYI,P.O.BOX362,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "54, ST. CHRISTOPHER STREET,",
+  "company_id": "C 47795",
+  "registration_date": "Sep 24, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

@@ -1,0 +1,143 @@
+{
+  "name": "AURALEA LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JEREMY J DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45376M",
+        "address": "55,TRIQIX-XAGHRATA'BARRA,MELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVOR ROBERT MEERSMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-8211230-88",
+        "address": "HOOGSTRAAT15ABOX4ANTWERP2000BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVOR ROBERT MEERSMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-8211230-88",
+        "address": "HOOGSTRAAT15ABOX4ANTWERP2000BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVOR ROBERT MEERSMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-8211230-88",
+        "address": "HOOGSTRAAT15ABOX4ANTWERP2000BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERNARD ANDREA L. DHONT\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-9585068-18",
+        "address": "KAPELLENHOFLAAN20ZOERSEL2980BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "CARL PETER GRANFELT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PU6601198",
+        "address": "SININARHENTIE12B9ESPOO02650FINLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 833
+        }
+      },
+      {
+        "name": "ARMAND JOSEPH M. KIEKENS\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-8845601-79",
+        "address": "RINGLAAN32SCHILDE2970BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "SAMI KRISTIAN MAKINEN\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PZ6781084",
+        "address": "HAMEENTIE4A2HELSINKI00530FINLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 833
+        }
+      },
+      {
+        "name": "DAVOR ROBERT MEERSMAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            591-8211230-88",
+        "address": "HOOGSTRAAT15ABOX4ANTWERP2000BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "TEEMU SAKARI TERAS\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PR6569965",
+        "address": "SANIAISKUJA4K43HELSINKI00730FINLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 834
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT",
+  "company_id": "C 69659",
+  "registration_date": "Mar 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

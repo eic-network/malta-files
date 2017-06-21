@@ -1,0 +1,88 @@
+{
+  "name": "AURORA I YACHTING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DMITRIY VLADIMIROVICH CHEVANIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51NO4943017",
+        "address": "POSLEDNIYPEREULOKH,20,FLAT5MOSCOW107045RFRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DMITRIY VLADIMIROVICH CHEVANIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51NO4943017",
+        "address": "POSLEDNIYPEREULOKH,20,FLAT5MOSCOW107045RFRUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DMITRIY VLADIMIROVICH CHEVANIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51NO4943017",
+        "address": "POSLEDNIYPEREULOKH,20,FLAT5MOSCOW107045RFRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DMITRIY VLADIMIROVICH CHEVANIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51NO4943017",
+        "address": "POSLEDNIYPEREULOKH,20,FLAT5MOSCOW107045RFRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "ELENA DANILOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716768567",
+        "address": "FRYAZINOVSKAYASTREET,HOUSE32,FLATNO.219,VOLOGDARUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "NATALIIA DANILOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716815612",
+        "address": "FRYAZINOVSKAYASTREET,HOUSE32,FLATNO.219,VOLOGDARUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5/2 MERCHANTS STREET",
+  "company_id": "C 55488",
+  "registration_date": "Feb 29, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

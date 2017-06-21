@@ -1,0 +1,105 @@
+{
+  "name": "3TNTS SOLUTIONS LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RUTH AGIUS SCICLUNA BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            91478M",
+        "address": "12,PRINTEMPS,TRIQID-DARTAL-KLERU,BIRKIRKARABKR1821MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OMAR VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55679M",
+        "address": "70,THEREDEEMER,TRIQIS-SIENJA,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS BIANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386288M",
+        "address": "18,BELTA,SLIPWAYSTREET,MARSASCALAMSK2134MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICHOLAS BIANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386288M",
+        "address": "18,BELTA,SLIPWAYSTREET,MARSASCALAMSK2134MALTA"
+      },
+      {
+        "name": "OMAR VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55679M",
+        "address": "70,THEREDEEMER,TRIQIS-SIENJA,ATTARDMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10004",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNHMR1880MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS BIANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386288M",
+        "address": "18,BELTA,SLIPWAYSTREET,MARSASCALAMSK2134MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NICHOLAS BIANCO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386288M",
+        "address": "18,BELTA,SLIPWAYSTREET,MARSASCALAMSK2134MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "OMAR VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55679M",
+        "address": "70,THEREDEEMER,TRIQIS-SIENJA,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18, BELTA, SLIPWAY STREET,",
+  "company_id": "C 49049",
+  "registration_date": "Mar 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 600
+}

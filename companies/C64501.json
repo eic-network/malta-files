@@ -1,0 +1,97 @@
+{
+  "name": "AN T -OILENACH SERVICES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NIKITA CUSCHIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            39386M",
+        "address": "FLAT19,IVYMANSIONS,TRIQL-IMGHAZEL,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SHARON O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PW9936134",
+        "address": "REENMEENWEST,GLENGARRIF,CO.CORKIRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SHARON O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PW9936134",
+        "address": "REENMEENWEST,GLENGARRIF,CO.CORKIRELAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SHARON O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PW9936134",
+        "address": "REENMEENWEST,GLENGARRIF,CO.CORKIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAMES BRIAN O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PU8609363",
+        "address": "REENMEENWEST,GLENGARRIF,CO.CORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "SHARON O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PW9936134",
+        "address": "REENMEENWEST,GLENGARRIF,CO.CORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 599
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1ST FLOOR, SUITE 3, CENTRAL BUSINESS CENTRE, MDINA ROAD,",
+  "company_id": "C 64501",
+  "registration_date": "Apr 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1500
+}

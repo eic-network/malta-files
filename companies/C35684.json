@@ -1,0 +1,75 @@
+{
+  "name": "American Investments Limited",
+  "total_issued_shares_value": 2500,
+  "total_authorised_shares_value": 2500,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MEHMET MUSTAFA KEMAL YALMAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            277731",
+        "address": "ATASEHIRBLVD.38ADAATA3/3PLAZAKAT:8D:69ATASEHIRISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MEHMET MUSTAFA KEMAL YALMAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            277731",
+        "address": "ATASEHIRBLVD.38ADAATA3/3PLAZAKAT:8D:69ATASEHIRISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MEHMET MUSTAFA KEMAL YALMAN\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            277731",
+        "address": "ATASEHIRBLVD.38ADAATA3/3PLAZAKAT:8D:69ATASEHIRISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMRA BARIS ORDEKCIOGLU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            318294",
+        "address": "KASAPSK.ALTINAYISMRK.NO:10/8ESENTEPE34394ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 40,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      },
+      {
+        "name": "MUSTAFA SAVAS ORDEKCIOGLU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            315307",
+        "address": "KASAPSK.ALTINQYISMRK.NO.10/8ESENTEPE34394ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 40,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2500,
+  "address": "217, TRIQ IL-PARILJA,",
+  "company_id": "C 35684",
+  "registration_date": "Feb 17, 2005",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 2500
+}

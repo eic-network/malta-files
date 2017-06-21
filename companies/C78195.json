@@ -1,0 +1,144 @@
+{
+  "name": "BLACKLEY INVESTMENTS LIMITED",
+  "total_issued_shares_value": 210000,
+  "total_authorised_shares_value": 220000,
+  "authorised_shares": [
+    {
+      "issued_shares": 70000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 70000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 70000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 70000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 70000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 70000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "243C,FLAT2,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "ALAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401872M",
+        "address": "2443PORTOMASOST.JULIANSMALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,FLAT1,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "243C,FLAT2,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "ALAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401872M",
+        "address": "2443PORTOMASOST.JULIANSMALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,FLAT1,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "243C,FLAT2,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "243C,FLAT2,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "ALAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401872M",
+        "address": "2443PORTOMASOST.JULIANSMALTA"
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,FLAT1,TRIQL-IMRADEN,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEVILLE AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326871M",
+        "address": "243C,FLAT2,TOWERROADSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 70000
+        }
+      },
+      {
+        "name": "ALAN BONNICI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            401872M",
+        "address": "2443PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 70000
+        }
+      },
+      {
+        "name": "RUBEN MAGRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            292872M",
+        "address": "18,FLAT1,TRIQL-IMRADEN,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 70000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 210000,
+  "address": "1A,  TRIQ WIED GHOMOR,",
+  "company_id": "C 78195",
+  "registration_date": "Nov 18, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 220000
+}

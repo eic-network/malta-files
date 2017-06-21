@@ -1,0 +1,59 @@
+{
+  "name": "BESA HOLDINGS LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "EDWARD ENGERER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19437",
+        "address": "72,STRANDPARK,FLAT14,TRIQSANPIJUV,SLIEMASLM1427MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BLUE SKY INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2104623",
+        "address": "CARRIBBEANSUITE,THEVALLEY,ANGUILLATV111PVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "SKYONE GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1388602",
+        "address": "OFFSHOREINCORPORATIONSCENTRE,P.O.BOX957,ROADTOWN,TORTOLA,VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "26, GHAR ID-DUD STREET",
+  "company_id": "C 42184",
+  "registration_date": "Aug 21, 2007",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

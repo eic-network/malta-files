@@ -1,0 +1,127 @@
+{
+  "name": "Atlantic Engineering Limited",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352677M",
+        "address": "FLAT2,APOLLO,DOMMAUROINGUANEZSTREET,BIRKIRKARABKR4813MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EXECUTIVE CONSULTANTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45444",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARLOS MANUEL DE SOUSA DE MENESES FALCAO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M313137",
+        "address": "AVENIDADORESTELO50LISBON1400-315PORTUGAL"
+      },
+      {
+        "name": "JOSE` FRANCISCO FIGUEIRA VERDELHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M267013",
+        "address": "AVENIDADASFORCASARMADAS,133-QTA,MILFLORES,LOTEC,14ESQ.,LISBON1600-081PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EXECUTIVE CONSULTANTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45444",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARLOS MANUEL DE SOUSA DE MENESES FALCAO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M313137",
+        "address": "AVENIDADORESTELO50LISBON1400-315PORTUGAL"
+      },
+      {
+        "name": "JOSE` FRANCISCO FIGUEIRA VERDELHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M267013",
+        "address": "AVENIDADASFORCASARMADAS,133-QTA,MILFLORES,LOTEC,14ESQ.,LISBON1600-081PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EXECUTIVE CONSULTANTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 45444",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "CARLOS MANUEL DE SOUSA DE MENESES FALCAO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M313137",
+        "address": "AVENIDADORESTELO50LISBON1400-315PORTUGAL"
+      },
+      {
+        "name": "JOSE` FRANCISCO FIGUEIRA VERDELHO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M267013",
+        "address": "AVENIDADASFORCASARMADAS,133-QTA,MILFLORES,LOTEC,14ESQ.,LISBON1600-081PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CMF-SGPS, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            510285210",
+        "address": "AVENIDADORESTELO50LISBON1400-315PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JFV-S.G.P.S., S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            510285856",
+        "address": "AVENIDADORESTELO50LISBON1400-315PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 3, SKY PARKS BUSINESS CENTRE, MALTA INTERNATIONAL AIRPORT,",
+  "company_id": "C 57665",
+  "registration_date": "Sep 26, 2012",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 1000000
+}

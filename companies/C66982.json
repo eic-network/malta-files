@@ -1,0 +1,101 @@
+{
+  "name": "BABA KEBAP LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SATILMIS IHTIYAR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            115421A",
+        "address": "STANDREWS,FL4,TRIQA.M.VALPERGA,FGURAMALTA"
+      },
+      {
+        "name": "YORDANKA DIMITROVA IVANOVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            47301A",
+        "address": "TA'STERFACRT,FL3,TRIQIT-TEMPJUTA'L-IMRAMMA,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SATILMIS IHTIYAR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            115421A",
+        "address": "STANDREWS,FL4,TRIQA.M.VALPERGA,FGURAMALTA"
+      },
+      {
+        "name": "YORDANKA DIMITROVA IVANOVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            47301A",
+        "address": "TA'STERFACRT,FL3,TRIQIT-TEMPJUTA'L-IMRAMMA,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "YORDANKA DIMITROVA IVANOVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            47301A",
+        "address": "TA'STERFACRT,FL3,TRIQIT-TEMPJUTA'L-IMRAMMA,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SATILMIS IHTIYAR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            115421A",
+        "address": "STANDREWS,FL4,TRIQA.M.VALPERGA,FGURAMALTA"
+      },
+      {
+        "name": "YORDANKA DIMITROVA IVANOVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            47301A",
+        "address": "TA'STERFACRT,FL3,TRIQIT-TEMPJUTA'L-IMRAMMA,SANNAT(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SATILMIS IHTIYAR\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            115421A",
+        "address": "STANDREWS,FL4,TRIQA.M.VALPERGA,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "YORDANKA DIMITROVA IVANOVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            47301A",
+        "address": "TA'STERFACRT,FL3,TRIQIT-TEMPJUTA'L-IMRAMMA,SANNAT(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "TA' STERFA CRT., FL 3, TRIQ IT-TEMPJU TA' L-IMRAMMA,",
+  "company_id": "C 66982",
+  "registration_date": "Oct 07, 2014",
+  "shares_currency": "EUR",
+  "locality": "SANNAT (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1500
+}

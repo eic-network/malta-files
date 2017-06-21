@@ -1,0 +1,140 @@
+{
+  "name": "a+ INVESTMENTS LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37264M",
+        "address": "ID-DARIL-BAJDA,BUSKETTROAD,BUSKETT,RABATRBT2708MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TONIO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332065M",
+        "address": "20,SALMAR,GALANTONVASSALLOSTREET,SANTAVENERASVR1900MALTA"
+      },
+      {
+        "name": "JOSEPH CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37264M",
+        "address": "ID-DARIL-BAJDA,BUSKETTROAD,BUSKETT,RABATRBT2708MALTA"
+      },
+      {
+        "name": "IVAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            454466M",
+        "address": "13,SHANTI,TRIQIN-NAFRA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TONIO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332065M",
+        "address": "20,SALMAR,GALANTONVASSALLOSTREET,SANTAVENERASVR1900MALTA"
+      },
+      {
+        "name": "JOSEPH CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37264M",
+        "address": "ID-DARIL-BAJDA,BUSKETTROAD,BUSKETT,RABATRBT2708MALTA"
+      },
+      {
+        "name": "IVAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            454466M",
+        "address": "13,SHANTI,TRIQIN-NAFRA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRANT THORNTON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/22",
+        "address": "SUITE3,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TONIO BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332065M",
+        "address": "20,SALMAR,GALANTONVASSALLOSTREET,SANTAVENERASVR1900MALTA"
+      },
+      {
+        "name": "JOSEPH CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37264M",
+        "address": "ID-DARIL-BAJDA,BUSKETTROAD,BUSKETT,RABATRBT2708MALTA"
+      },
+      {
+        "name": "IVAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            454466M",
+        "address": "13,SHANTI,TRIQIN-NAFRA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CTB Investments Company Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 35643",
+        "address": "53,MEDITERRANEANBUILDING,ABATERIGORDSTREET,TA'XBIEXXBX1122MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 950
+        }
+      },
+      {
+        "name": "JOSEPH CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            37264M",
+        "address": "ID-DARIL-BAJDA,BUSKETTROAD,BUSKETT,RABATRBT2708MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 950
+        }
+      },
+      {
+        "name": "IVAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            454466M",
+        "address": "13,SHANTI,TRIQIN-NAFRA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "53, MEDITERRANEAN BUILDING, ABATE RIGORD STREET,",
+  "company_id": "C 64807",
+  "registration_date": "Apr 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

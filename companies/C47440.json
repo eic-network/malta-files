@@ -1,0 +1,83 @@
+{
+  "company_id": "C 47440",
+  "address": "103, STRAIT STREET,",
+  "name": "BRIDGES AND ROADS INTERNATIONAL LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jul 30, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 41300,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 41300
+    }
+  ],
+  "total_authorised_shares": 41300,
+  "total_authorised_shares_value": 41300,
+  "total_issued_shares": 41300,
+  "total_issued_shares_value": 41300,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JUAN LOUREDA ALBERCA\r",
+        "party_id": "                                                            BF403198",
+        "address": "RONDADEMONTEALTONUMBER46,1STFLOORAPT.8,ACORUNA15002SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PUENTES Y CALZADAS INTERNACIONAL, S.L\r",
+        "party_id": "                                                            TAX ID S.L B-70151444",
+        "address": "SIGUEIRO,CARRETERADELAESTACION,MUNICIPIODEOROSO,LACORUNA15.888SPAIN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 41299,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PUENTES Y CALZADAS, GRUPO DE EMPRESAS, S.A.\r",
+        "party_id": "                                                            A-15027147",
+        "address": "SIGUEIRO,CARRETERADELAESTACION,MUNICIPIODEOROSO,LACORUNA15.888SPAIN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUAN LOUREDA ALBERCA\r",
+        "party_id": "                                                            BF403198",
+        "address": "RONDADEMONTEALTONUMBER46,1STFLOORAPT.8,ACORUNA15002SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JUAN LOUREDA ALBERCA\r",
+        "party_id": "                                                            BF403198",
+        "address": "RONDADEMONTEALTONUMBER46,1STFLOORAPT.8,ACORUNA15002SPAIN",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

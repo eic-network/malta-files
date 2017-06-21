@@ -1,0 +1,89 @@
+{
+  "name": "BEECHWOOD LIMITED",
+  "total_issued_shares_value": 116468.65,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 49000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 49000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424369M",
+        "address": "SUNNYLODGEFLAT2PISCOPOMACEDONIASTR,XEMXIJAHEIGHTSST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424369M",
+        "address": "SUNNYLODGEFLAT2PISCOPOMACEDONIASTR,XEMXIJAHEIGHTSST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424369M",
+        "address": "SUNNYLODGEFLAT2PISCOPOMACEDONIASTR,XEMXIJAHEIGHTSST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424369M",
+        "address": "SUNNYLODGEFLAT2PISCOPOMACEDONIASTR,XEMXIJAHEIGHTSST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMANUEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            797847M",
+        "address": "318,TRIQTATAHTL-IRDUM,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "JOSEPH GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424369M",
+        "address": "SUNNYLODGEFLAT2PISCOPOMACEDONIASTR,XEMXIJAHEIGHTSST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 49000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "FACTORY A55 INDUSTRIAL ESTATE",
+  "company_id": "C 11458",
+  "registration_date": "Mar 09, 1990",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

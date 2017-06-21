@@ -1,0 +1,275 @@
+{
+  "company_id": "C 32056",
+  "address": "38-42, MILE END AVENUE,",
+  "name": "BRINCAT'S HOLDINGS LIMITED",
+  "locality": "HAMRUN",
+  "status": "",
+  "registration_date": "Sep 11, 2003",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryC",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryD",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryE",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 198,
+      "type": "OrdinaryF",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 198
+    },
+    {
+      "authorised_share_capital": 12,
+      "type": "OrdinaryG",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 12
+    },
+    {
+      "authorised_share_capital": 144400,
+      "type": "RedeemablePreference",
+      "nominal_value_per_share": 2.33,
+      "issued_shares": 144400
+    }
+  ],
+  "total_authorised_shares": 160000,
+  "total_authorised_shares_value": 372800,
+  "total_issued_shares": 145600,
+  "total_issued_shares_value": 339248,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANSINA ABELA\r",
+        "party_id": "                                                            79051M",
+        "address": "'CASAABELA'GALANTONVASSALLISTREET,SANTAVENERASVR1903MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERNARD EDMOND BRINCAT\r",
+        "party_id": "                                                            162383M",
+        "address": "74,'CASABRINCAT'TRIQIL-PARILJASANTAVENERAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTINE BRINCAT\r",
+        "party_id": "                                                            686459M",
+        "address": "29,LOGGIA,TRIQTAL-MIELAH,HIGHRIDGE,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOSETTE BRINCAT\r",
+        "party_id": "                                                            502163M",
+        "address": "30,MILEENDAVENUE,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DORIS MANGION\r",
+        "party_id": "                                                            235752M",
+        "address": "VICTORIAREGGIEMILLERSTREETGZIRAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARY ANN MASSA\r",
+        "party_id": "                                                            616849M",
+        "address": "23,ROLANDOCRTFLT8,HIGHSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO BRINCAT\r",
+        "party_id": "                                                            828854M",
+        "address": "'CASABRINCAT'TRIQIL-PARLIJA,SANTAVENERAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "GREGORY BRINCAT\r",
+        "party_id": "                                                            330860M",
+        "address": "29,LOGGIA,TRIQTAL-MIELAH,MADLIENA.SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "DORIS MANGION\r",
+        "party_id": "                                                            235752M",
+        "address": "VICTORIAREGGIEMILLERSTREETGZIRAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "FRANSINA ABELA\r",
+        "party_id": "                                                            79051M",
+        "address": "'CASAABELA'GALANTONVASSALLISTREET,SANTAVENERASVR1903MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "JOSETTE BRINCAT\r",
+        "party_id": "                                                            502163M",
+        "address": "30,MILEENDAVENUE,HAMRUNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      },
+      {
+        "name": "MARY ANN MASSA\r",
+        "party_id": "                                                            616849M",
+        "address": "23,ROLANDOCRTFLT8,HIGHSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 198,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.33
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANSINA ABELA\r",
+        "party_id": "                                                            79051M",
+        "address": "'CASAABELA'GALANTONVASSALLISTREET,SANTAVENERASVR1903MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERNARD EDMOND BRINCAT\r",
+        "party_id": "                                                            162383M",
+        "address": "74,'CASABRINCAT'TRIQIL-PARILJASANTAVENERAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTINE BRINCAT\r",
+        "party_id": "                                                            686459M",
+        "address": "29,LOGGIA,TRIQTAL-MIELAH,HIGHRIDGE,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOSETTE BRINCAT\r",
+        "party_id": "                                                            502163M",
+        "address": "30,MILEENDAVENUE,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DORIS MANGION\r",
+        "party_id": "                                                            235752M",
+        "address": "VICTORIAREGGIEMILLERSTREETGZIRAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARY ANN MASSA\r",
+        "party_id": "                                                            616849M",
+        "address": "23,ROLANDOCRTFLT8,HIGHSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANSINA ABELA\r",
+        "party_id": "                                                            79051M",
+        "address": "'CASAABELA'GALANTONVASSALLISTREET,SANTAVENERASVR1903MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "BERNARD EDMOND BRINCAT\r",
+        "party_id": "                                                            162383M",
+        "address": "74,'CASABRINCAT'TRIQIL-PARILJASANTAVENERAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "CHRISTINE BRINCAT\r",
+        "party_id": "                                                            686459M",
+        "address": "29,LOGGIA,TRIQTAL-MIELAH,HIGHRIDGE,MADLIENA,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "JOSETTE BRINCAT\r",
+        "party_id": "                                                            502163M",
+        "address": "30,MILEENDAVENUE,HAMRUNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DORIS MANGION\r",
+        "party_id": "                                                            235752M",
+        "address": "VICTORIAREGGIEMILLERSTREETGZIRAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARY ANN MASSA\r",
+        "party_id": "                                                            616849M",
+        "address": "23,ROLANDOCRTFLT8,HIGHSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BERNARD EDMOND BRINCAT\r",
+        "party_id": "                                                            162383M",
+        "address": "74,'CASABRINCAT'TRIQIL-PARILJASANTAVENERAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL P FENECH\r",
+        "party_id": "                                                            000A45",
+        "address": "22,YUCCA,TRIQL-AWSTRALJA,NAXXARNXR3271MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "name": "AREZZO INVESTMENTS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "PASCHALIHILLVIEW,GARDENVILLAS,REG0/42424,VILLA2,PEYPAPHOSCYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "COSTAS HADJIMICHALAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E404128",
+        "address": "6A,ARISTOTELOUSSTREETPALOURIOTISSANICOSIA1056CYPRUS"
+      },
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "PASCHALIHILLVIEW,GARDENVILLAS,REG0/42424,VILLA2,PEYPAPHOSCYPRUS"
+      },
+      {
+        "name": "LISBETH SUNDFELDT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            114804A",
+        "address": "FLAT8,LIONS'COURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "COSTAS HADJIMICHALAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E404128",
+        "address": "6A,ARISTOTELOUSSTREETPALOURIOTISSANICOSIA1056CYPRUS"
+      },
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "PASCHALIHILLVIEW,GARDENVILLAS,REG0/42424,VILLA2,PEYPAPHOSCYPRUS"
+      },
+      {
+        "name": "LISBETH SUNDFELDT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            114804A",
+        "address": "FLAT8,LIONS'COURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUCIENNE CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19837",
+        "address": "FIRBANKTRIQW.M.THACKERAYNAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "COSTAS HADJIMICHALAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E404128",
+        "address": "6A,ARISTOTELOUSSTREETPALOURIOTISSANICOSIA1056CYPRUS"
+      },
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "PASCHALIHILLVIEW,GARDENVILLAS,REG0/42424,VILLA2,PEYPAPHOSCYPRUS"
+      },
+      {
+        "name": "LISBETH SUNDFELDT\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            114804A",
+        "address": "FLAT8,LIONS'COURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARNE MIKAEL JACOBSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85655847",
+        "address": "STENALDERSVAGEN3,ASTORP26532SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "CYMAPLUS MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 60724",
+        "address": "IVYMANSIONSC,TRIQIL-QASAM,SWIEQISWQ3026MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "175, LEVEL 1, INDEPENDENCE AVENUE",
+  "company_id": "C 61185",
+  "registration_date": "Aug 16, 2013",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

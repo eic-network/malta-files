@@ -1,0 +1,78 @@
+{
+  "name": "AROHA LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DECLAN COTTER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0013310",
+        "address": "33CARRICKBRENNANLAWN,MONKSTOWNCO.,DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 51263",
+  "registration_date": "Nov 26, 2010",
+  "shares_currency": "USD",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

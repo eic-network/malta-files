@@ -1,0 +1,86 @@
+{
+  "company_id": "C 51150",
+  "address": "217 SUITE 4, 21ST SEPTEMBER AVENUE,",
+  "name": "BOUNUM LIMITED",
+  "locality": "NAXXAR",
+  "status": "In Dissolution",
+  "registration_date": "Nov 15, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1501,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1501
+    }
+  ],
+  "total_authorised_shares": 1501,
+  "total_authorised_shares_value": 1501,
+  "total_issued_shares": 1501,
+  "total_issued_shares_value": 1501,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B&C BROCKDORFF AND COMPANY INTERNATIONAL CONSULTANTS LIMITED\r",
+        "party_id": "                                                            C 33304",
+        "address": "No.217Suite421stSeptemberAvenueNAXXARNXR1013MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1501,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EDWARD ZAMMIT\r",
+        "party_id": "                                                            389254M",
+        "address": "NO.217,SUITE4,21STSEPTEMBERAVENUE,NAXXARNXR1013MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28,TRIQIL-PLUVIERA,SANGWANNSGN1930MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

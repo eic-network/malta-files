@@ -1,0 +1,159 @@
+{
+  "name": "BOFFA ENTERPRISES LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 498,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1992,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIO BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157555M",
+        "address": "ATLANTISJOANNGARDENSTARXIENMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157555M",
+        "address": "ATLANTISJOANNGARDENSTARXIENMALTA"
+      },
+      {
+        "name": "ROSE BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            708935M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      },
+      {
+        "name": "JOSEPH BOFFA SNR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183332M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIO BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157555M",
+        "address": "ATLANTISJOANNGARDENSTARXIENMALTA"
+      },
+      {
+        "name": "ROSE BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            708935M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      },
+      {
+        "name": "JOSEPH BOFFA SNR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183332M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GATT GALEA & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/31",
+        "address": "VILLALAPALMA,1,ST.ANTHONYSTREET,MOSTAMST3100MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157555M",
+        "address": "ATLANTISJOANNGARDENSTARXIENMALTA"
+      },
+      {
+        "name": "ROSE BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            708935M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      },
+      {
+        "name": "JOSEPH BOFFA SNR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183332M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH BOFFA SNR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            183332M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ROSE BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            708935M",
+        "address": "148,GMFRAANTOINNEDEPAULESQR.,PAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "HEIRS OF JOSEPH BOFFA JNR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            447560M",
+        "address": "'KINGOFKINGS'JOANNGARDENS,TARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 249
+        }
+      },
+      {
+        "name": "MARIO BOFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            157555M",
+        "address": "ATLANTISJOANNGARDENSTARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 249
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "19, GM FRA ANTOINE DE PAULE SQR.,",
+  "company_id": "C 36514",
+  "registration_date": "Jun 27, 2005",
+  "shares_currency": "EUR",
+  "locality": "PAOLA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

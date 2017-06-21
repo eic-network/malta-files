@@ -1,0 +1,78 @@
+{
+  "name": "ATLANTIC SHIPPING LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 46.587467
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXANDROS AGOUDIMOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "81,IROONPOLYTECHNIOUSTREETPIRAEUSGREECE"
+      },
+      {
+        "name": "DEMETRIOS AGOUDIMOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "81,IROONPOLYTECHNIOUSTREET,PIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDROS AGOUDIMOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "81IROOMPOLYTECHNIOUSTRPIRAEUSGREECE",
+        "shares": {
+          "nominal_value_per_share": 46.587467,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "ANNA AGOUDIMOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "81,IROONPOLYTECHNICOUSTREET,PIRAEUSGREECE",
+        "shares": {
+          "nominal_value_per_share": 46.587467,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "DEMETRIOS AGOUDIMOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "81,IROONPOLYTECHNIOUSTREET,PIRAEUSGREECE",
+        "shares": {
+          "nominal_value_per_share": 46.587467,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 9366",
+  "registration_date": "Jan 28, 1988",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

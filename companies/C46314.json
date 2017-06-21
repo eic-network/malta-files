@@ -1,0 +1,151 @@
+{
+  "company_id": "C 46314",
+  "address": "TA' QALI CRAFT VILLAGE, TA' QALI",
+  "name": "BRISTOW POTTERIES LIMITED",
+  "locality": "ATTARD",
+  "status": "",
+  "registration_date": "Feb 27, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 56555,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 56555
+    },
+    {
+      "authorised_share_capital": 45245,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 45245
+    }
+  ],
+  "total_authorised_shares": 101800,
+  "total_authorised_shares_value": 101800,
+  "total_issued_shares": 101800,
+  "total_issued_shares_value": 101800,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LARA DUNBAR COUSIN\r",
+        "party_id": "                                                            427579M",
+        "address": "7,KAANAPALI,TRIQL-ISPONSUN,KAPPARA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ADRIAN GRIMA\r",
+        "party_id": "                                                            574747M",
+        "address": "78,KILAMANI,TRIQIT-TIBEN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALAN GRIMA\r",
+        "party_id": "                                                            143283M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,MISRAHKOLA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK GRIMA\r",
+        "party_id": "                                                            594255M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN GRIMA\r",
+        "party_id": "                                                            574747M",
+        "address": "78,KILAMANI,TRIQIT-TIBEN,SWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 56555,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MARK GRIMA\r",
+        "party_id": "                                                            594255M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,ATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 45245,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LARA DUNBAR COUSIN\r",
+        "party_id": "                                                            427579M",
+        "address": "7,KAANAPALI,TRIQL-ISPONSUN,KAPPARA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ADRIAN GRIMA\r",
+        "party_id": "                                                            574747M",
+        "address": "78,KILAMANI,TRIQIT-TIBEN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALAN GRIMA\r",
+        "party_id": "                                                            143283M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,MISRAHKOLA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK GRIMA\r",
+        "party_id": "                                                            594255M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LARA DUNBAR COUSIN\r",
+        "party_id": "                                                            427579M",
+        "address": "7,KAANAPALI,TRIQL-ISPONSUN,KAPPARA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ADRIAN GRIMA\r",
+        "party_id": "                                                            574747M",
+        "address": "78,KILAMANI,TRIQIT-TIBEN,SWIEQIMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALAN GRIMA\r",
+        "party_id": "                                                            143283M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,MISRAHKOLA,ATTARDMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARK GRIMA\r",
+        "party_id": "                                                            594255M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK GRIMA\r",
+        "party_id": "                                                            594255M",
+        "address": "32/34,POOLEHOUSE,TRIQL-GHARIX,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARJOE MUSCAT\r",
+        "party_id": "                                                            10528",
+        "address": "NOTREDAME,TRIQIL-PRUNA,ATTARDATD2760MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

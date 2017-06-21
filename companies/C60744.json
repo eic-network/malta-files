@@ -1,0 +1,91 @@
+{
+  "company_id": "C 60744",
+  "address": "5, ROSA MARINA BLDG. 216, MARINA SEAFRONT,",
+  "name": "BORRELLI TRADE LIMITED",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jun 10, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 600,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2,
+      "issued_shares": 600
+    }
+  ],
+  "total_authorised_shares": 600,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 600,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CLAUDIO BORRELLI\r",
+        "party_id": "                                                            YA1249132",
+        "address": "OCEANDRIVETERRACE,BLOCKC,FLAT10,QAWRAROAD,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA TERESA AMATEIS\r",
+        "party_id": "                                                            AA2622346",
+        "address": "STR.CAMPOLUNGO,14,VITERBO01100ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2
+        }
+      },
+      {
+        "name": "CLAUDIO BORRELLI\r",
+        "party_id": "                                                            YA1249132",
+        "address": "OCEANDRIVETERRACE,BLOCKC,FLAT10,QAWRAROAD,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 590,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CLAUDIO BORRELLI\r",
+        "party_id": "                                                            YA1249132",
+        "address": "OCEANDRIVETERRACE,BLOCKC,FLAT10,QAWRAROAD,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CLAUDIO BORRELLI\r",
+        "party_id": "                                                            YA1249132",
+        "address": "OCEANDRIVETERRACE,BLOCKC,FLAT10,QAWRAROAD,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAUDIO BORRELLI\r",
+        "party_id": "                                                            YA1249132",
+        "address": "OCEANDRIVETERRACE,BLOCKC,FLAT10,QAWRAROAD,QAWRA,ST.PAUL'SBAYMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAKER TILLY SANT\r",
+        "party_id": "                                                            AB/26/84/28",
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

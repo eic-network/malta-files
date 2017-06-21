@@ -1,0 +1,86 @@
+{
+  "name": "BDEUCE LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "SIMON CIANTAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            385466M",
+        "address": "152/9,NAXXARROAD,SANGWANNSGN9030MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "EVA MARIA HULT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            52396A",
+        "address": "65A,FL5TRIQSANTROFIMUSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EVA MARIA HULT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            52396A",
+        "address": "65A,FL5TRIQSANTROFIMUSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EVA MARIA HULT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            52396A",
+        "address": "65A,FL5TRIQSANTROFIMUSLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10530",
+        "address": "RAMSEY,FLAT1,TRIQFRAFERDMATTEI,ZEBBUGZBG1130MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EVA MARIA HULT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            52396A",
+        "address": "65A,FL5TRIQSANTROFIMUSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EVA MARIA HULT\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            52396A",
+        "address": "65A,FL5TRIQSANTROFIMUSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 3, 64/1, AGITON BUILDING, ST. ANTHONY STREET,",
+  "company_id": "C 52407",
+  "registration_date": "Mar 29, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

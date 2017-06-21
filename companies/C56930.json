@@ -1,0 +1,115 @@
+{
+  "name": "ARTIO CORPORATE SERVICES LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WDM INTERNATIONAL\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/63",
+        "address": "35FLAT1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEVIN VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543373M",
+        "address": "128,TRIQSANTALUCIJA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SUITE 4, LEVEL 2, PARKLANE BUSINESS CENTRE, MOUNTBATTEN STREET,",
+  "company_id": "C 56930",
+  "registration_date": "Jul 12, 2012",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 5000
+}

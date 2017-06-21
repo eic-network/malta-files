@@ -1,0 +1,156 @@
+{
+  "name": "BLUE BAR LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "WARREN FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554883M",
+        "address": "43,INGUANEZSTREET,RABATMALTA"
+      },
+      {
+        "name": "ADRIAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580385M",
+        "address": "ROSE,MELITASTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLES ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            382567M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      },
+      {
+        "name": "PHYLLIS ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            376982M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WARREN FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554883M",
+        "address": "43,INGUANEZSTREET,RABATMALTA"
+      },
+      {
+        "name": "ADRIAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580385M",
+        "address": "ROSE,MELITASTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLES ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            382567M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      },
+      {
+        "name": "PHYLLIS ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            376982M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580385M",
+        "address": "ROSE,MELITASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WARREN FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554883M",
+        "address": "43,INGUANEZSTREET,RABATMALTA"
+      },
+      {
+        "name": "ADRIAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580385M",
+        "address": "ROSE,MELITASTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "CHARLES ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            382567M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      },
+      {
+        "name": "PHYLLIS ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            376982M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARLES AND PHYLLIS ZAHRA (SHARES HELD JOINTLY)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            382567M",
+        "address": "WARDAHOUSETRIQL-GHAQDAQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "WARREN FALZON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            554883M",
+        "address": "43,INGUANEZSTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 375
+        }
+      },
+      {
+        "name": "ADRIAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            580385M",
+        "address": "ROSE,MELITASTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 375
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "36,  SIR ERIN SERRACINO INGLOTT STREET,",
+  "company_id": "C 77809",
+  "registration_date": "Oct 26, 2016",
+  "shares_currency": "EUR",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

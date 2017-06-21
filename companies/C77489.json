@@ -1,0 +1,70 @@
+{
+  "company_id": "C 77489",
+  "address": "MALTA LIFE SCIENCES PARK,  BUILDING 2, LEVEL 0",
+  "name": "BOSTON BIOPHARMA EUROPE HOLDINGS LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Oct 05, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "AHMAD HASHEM\r",
+        "party_id": "                                                            481579303",
+        "address": "14065,CRABAPPLELAKEDRIVE,ROSWELLGA30076UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOSTON BIOPHARMA LLC\r",
+        "party_id": "                                                            16059647",
+        "address": "2300,LAKEVIEWPARKWAY,SUITE700,ALPHARETTAGA30009UNITEDSTATES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AHMAD HASHEM\r",
+        "party_id": "                                                            481579303",
+        "address": "14065,CRABAPPLELAKEDRIVE,ROSWELLGA30076UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AHMAD HASHEM\r",
+        "party_id": "                                                            481579303",
+        "address": "14065,CRABAPPLELAKEDRIVE,ROSWELLGA30076UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "AHMAD HASHEM\r",
+        "party_id": "                                                            481579303",
+        "address": "14065,CRABAPPLELAKEDRIVE,ROSWELLGA30076UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ]
+  }
+}

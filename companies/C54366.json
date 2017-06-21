@@ -1,0 +1,128 @@
+{
+  "name": "ANTONIA CRUISES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393855M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393855M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN PAUL GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            130685M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      },
+      {
+        "name": "JOSEPH GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393855M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      },
+      {
+        "name": "JUSTIN GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            159783M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "23,SOUTHHOUSE,HOMPESCHROAD,FGURAFGR2010MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393855M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            393855M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "JOHN PAUL GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            130685M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "JUSTIN GHEITI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            159783M",
+        "address": "FLAT1,BLKF,BIEBB,FUQTAL-HAWLI,VITTORIOSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 1, BLK F, BIEB B FUQ TAL-HAWLI",
+  "company_id": "C 54366",
+  "registration_date": "Nov 10, 2011",
+  "shares_currency": "EUR",
+  "locality": "VITTORIOSA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

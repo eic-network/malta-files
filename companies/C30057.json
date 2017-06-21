@@ -1,0 +1,78 @@
+{
+  "name": "A.B.B.S. LTD",
+  "total_issued_shares_value": 1001164.52,
+  "total_authorised_shares_value": 1004658.57,
+  "authorised_shares": [
+    {
+      "issued_shares": 429800,
+      "type": "Ordinary",
+      "authorised_share_capital": 431300,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHEN THAKE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            650258M",
+        "address": "NO68/69,MELITASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            699157M",
+        "address": "ARJUZA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            699157M",
+        "address": "ARJUZA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            699157M",
+        "address": "ARJUZA,VJALMILBRAE,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATTARD BROS CO. LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 3599",
+        "address": "MIKESAND,INDUSTRIALZONE,ATTARDATD4000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 429800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 429800,
+  "address": "MIKESAND, INDUSTRIAL ZONE,",
+  "company_id": "C 30057",
+  "registration_date": "Aug 02, 2002",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 431300
+}

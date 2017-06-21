@@ -1,0 +1,120 @@
+{
+  "name": "ANTICA ROMA LTD",
+  "total_issued_shares_value": 12000,
+  "total_authorised_shares_value": 90000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 30000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 8000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 60000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JESMOND PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259768M",
+        "address": "165,ST.JOSEPHHIGHROAD,HAMRUNMALTA"
+      },
+      {
+        "name": "RENE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25571M",
+        "address": "13,RENVAL,TRIQL-IRDUM,DINGLIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JESMOND PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259768M",
+        "address": "165,ST.JOSEPHHIGHROAD,HAMRUNMALTA"
+      },
+      {
+        "name": "RENE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25571M",
+        "address": "13,RENVAL,TRIQL-IRDUM,DINGLIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JESMOND PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259768M",
+        "address": "165,ST.JOSEPHHIGHROAD,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JESMOND PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259768M",
+        "address": "165,ST.JOSEPHHIGHROAD,HAMRUNMALTA"
+      },
+      {
+        "name": "RENE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25571M",
+        "address": "13,RENVAL,TRIQL-IRDUM,DINGLIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LINO PROSPERO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN9804024",
+        "address": "VIAPIETROGASPARRI,30,SC.KLOTTO25,00168,ROMEITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "JESMOND PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            259768M",
+        "address": "165,ST.JOSEPHHIGHROAD,HAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "RENE PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25571M",
+        "address": "13,RENVAL,TRIQL-IRDUM,DINGLIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 12000,
+  "address": "THE ROADHOUSE BUSKETT, BUSKETT GARDENS,",
+  "company_id": "C 44636",
+  "registration_date": "Jul 03, 2008",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 90000
+}

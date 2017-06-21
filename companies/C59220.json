@@ -1,0 +1,75 @@
+{
+  "name": "BIOCHEMICALS ENTERPRISES LTD",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALAN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            35878M",
+        "address": "30,TRIQIL-PARROCCASANTAVENERAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALAN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            35878M",
+        "address": "30,TRIQIL-PARROCCASANTAVENERAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KRESTON MC MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/37",
+        "address": "SUITE1,141,BALZANVALLEYBALZANBZN1404MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALAN DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            35878M",
+        "address": "30,TRIQIL-PARROCCASANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "ANNE MARIE DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            552089M",
+        "address": "30,TRIQIL-PARROCCA,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "BIOCHEMICALS ENTERPRISES LTD., ELIAS STREET,",
+  "company_id": "C 59220",
+  "registration_date": "Feb 05, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

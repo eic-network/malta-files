@@ -1,0 +1,109 @@
+{
+  "name": "ARCADIA INVEST LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Malcolm Meilak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIR,AntonioMalliaStreetVICTORIA(GOZO)VCT1752MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARNOLDUS JOHANNES JOZEF BOON\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NX9F20K39",
+        "address": "GROTESTRAAT132BOORSEMB-3631BELGIUM"
+      },
+      {
+        "name": "CLAIRE NADINE HAENEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NX87LH751",
+        "address": "132,GROTESTRAATBOORSEMB3631BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNOLDUS JOHANNES JOZEF BOON\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NX9F20K39",
+        "address": "GROTESTRAAT132BOORSEMB-3631BELGIUM"
+      },
+      {
+        "name": "CLAIRE NADINE HAENEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NX87LH751",
+        "address": "132,GROTESTRAATBOORSEMB3631BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARNOLDUS JOHANNES JOZEF BOON\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NX9F20K39",
+        "address": "GROTESTRAAT132BOORSEMB-3631BELGIUM"
+      },
+      {
+        "name": "CLAIRE NADINE HAENEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NX87LH751",
+        "address": "132,GROTESTRAATBOORSEMB3631BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARNOLDUS JOHANNES JOZEF BOON\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NX9F20K39",
+        "address": "GROTESTRAAT132BOORSEMB-3631BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CLAIRE NADINE HAENEN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NX87LH751",
+        "address": "132,GROTESTRAATBOORSEMB3631BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "BUSINESS HOUSE, SUITE 4, ARCHBISHOP P PACE STREET,",
+  "company_id": "C 65990",
+  "registration_date": "Jul 11, 2014",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1200
+}

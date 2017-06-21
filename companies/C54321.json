@@ -1,0 +1,81 @@
+{
+  "name": "BEATI POSSIDENTES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LILIANA ROSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2760254",
+        "address": "31,VIALEANARDODAVINCI,CORROPOLIITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LILIANA ROSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2760254",
+        "address": "31,VIALEANARDODAVINCI,CORROPOLIITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LILIANA ROSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT2760254",
+        "address": "31,VIALEANARDODAVINCI,CORROPOLIITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SOLV INTERNATIONAL LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 52096",
+        "address": "2,SPINOLAROAD,ST.JULIANSSTJ3014MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SAN JUAN, 116/8, ST. GEORGE'S ROAD,",
+  "company_id": "C 54321",
+  "registration_date": "Nov 04, 2011",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

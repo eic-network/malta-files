@@ -1,0 +1,70 @@
+{
+  "name": "BENZ ADVISORY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SALWA BENZIDIYA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101033202686",
+        "address": "ALLEEFRANCOISARAGO,BTFAPT7,EYSINES33320FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALWA BENZIDIYA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101033202686",
+        "address": "ALLEEFRANCOISARAGO,BTFAPT7,EYSINES33320FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDRÉ BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            141883M",
+        "address": "82,SUITENO1,MELITASTREET,VALLETTAVLT1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALWA BENZIDIYA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101033202686",
+        "address": "ALLEEFRANCOISARAGO,BTFAPT7,EYSINES33320FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SALWA BENZIDIYA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101033202686",
+        "address": "ALLEEFRANCOISARAGO,BTFAPT7,EYSINES33320FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "82, SUITE NR 1, MELITA STREET,",
+  "company_id": "C 78855",
+  "registration_date": "Dec 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

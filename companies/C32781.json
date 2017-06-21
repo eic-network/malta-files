@@ -1,0 +1,101 @@
+{
+  "name": "ANDREW'S CAR CENTRE LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JASON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333974M",
+        "address": "WOODCOCK,TRIQIT-TRAMUNTANA,TARXIENMALTA"
+      },
+      {
+        "name": "TYRON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            415978M",
+        "address": "LILAND,TRIQL-EKRU,LUQAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333974M",
+        "address": "WOODCOCK,TRIQIT-TRAMUNTANA,TARXIENMALTA"
+      },
+      {
+        "name": "TYRON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            415978M",
+        "address": "LILAND,TRIQL-EKRU,LUQAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JASON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333974M",
+        "address": "WOODCOCK,TRIQIT-TRAMUNTANA,TARXIENMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333974M",
+        "address": "WOODCOCK,TRIQIT-TRAMUNTANA,TARXIENMALTA"
+      },
+      {
+        "name": "TYRON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            415978M",
+        "address": "LILAND,TRIQL-EKRU,LUQAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JASON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333974M",
+        "address": "WOODCOCK,TRIQIT-TRAMUNTANA,TARXIENMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      },
+      {
+        "name": "TYRON PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            415978M",
+        "address": "LILAND,TRIQL-EKRU,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "ANDREW'S GARAGE, INDUSTRIAL ESTATE,",
+  "company_id": "C 32781",
+  "registration_date": "Dec 18, 2003",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

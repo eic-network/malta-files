@@ -1,0 +1,109 @@
+{
+  "name": "ANGLO HISPANO (MALTA) LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            035150435",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            035150435",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "ROSEMARIE ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040452913",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            035150435",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "ROSEMARIE ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040452913",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'PTA9044MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            035150435",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      },
+      {
+        "name": "ROSEMARIE ISOLA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040452913",
+        "address": "10,CORMORANTWHARF,QUEENSWAYGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGLO HISPANO COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            243",
+        "address": "SANDPITSVAULTS,GIBILTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 41079",
+  "registration_date": "Mar 30, 2007",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

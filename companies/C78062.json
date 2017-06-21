@@ -1,0 +1,83 @@
+{
+  "company_id": "C 78062",
+  "address": "187, NAZJU ELLUL STREET,",
+  "name": "BRAVO AIRCRAFT TECHNICAL SERVICES LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Nov 11, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 5000
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 5000,
+  "total_issued_shares": 5000,
+  "total_issued_shares_value": 5000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Nicole FREI\r",
+        "party_id": "                                                            PE5710486",
+        "address": "LaTerrasse,Alley3,Triqil-FornLIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PanAfriqiyah Holding Limited\r",
+        "party_id": "                                                            C 70547",
+        "address": "187,NazjuEllulstreet,GZIRAGZR1629MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3750,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PANAFRIQIYAH LIMITED\r",
+        "party_id": "                                                            C 70549",
+        "address": "187,NazjuEllulstreet,GZIRAGZR1629MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Nicole FREI\r",
+        "party_id": "                                                            PE5710486",
+        "address": "LaTerrasse,Alley3,Triqil-FornLIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Nicole FREI\r",
+        "party_id": "                                                            PE5710486",
+        "address": "LaTerrasse,Alley3,Triqil-FornLIJAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Fiona HEALY\r",
+        "party_id": "                                                            67552A",
+        "address": "Flat7,BenneyFlats,7HughesHalletStreet,SLIEMASLM3142MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

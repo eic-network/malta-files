@@ -1,0 +1,107 @@
+{
+  "name": "APRIL INTERNAL FINANCING LIMITED",
+  "total_issued_shares_value": 10000000,
+  "total_authorised_shares_value": 32000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9999999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 31999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JEAN-SEBASTIEN LYONNAZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101169105241",
+        "address": "63,RUECUVIERLYON6E(69)FRANCE"
+      },
+      {
+        "name": "EMMANUEL HENRI MAILLET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            111269109100",
+        "address": "112,RUEBOSSUET,LYON6E(69)FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEAN-SEBASTIEN LYONNAZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101169105241",
+        "address": "63,RUECUVIERLYON6E(69)FRANCE"
+      },
+      {
+        "name": "EMMANUEL HENRI MAILLET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            111269109100",
+        "address": "112,RUEBOSSUET,LYON6E(69)FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIANNE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46188M",
+        "address": "DAWNRIDGE,FL1,TRIQHALKAPRAT,SANTAVENERAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN-SEBASTIEN LYONNAZ\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            101169105241",
+        "address": "63,RUECUVIERLYON6E(69)FRANCE"
+      },
+      {
+        "name": "EMMANUEL HENRI MAILLET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            111269109100",
+        "address": "112,RUEBOSSUET,LYON6E(69)FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "April Mediterranean Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 43042",
+        "address": "LEVEL2,PROGETTAHOUSE,TOWERROAD,SWATAR,BIRKIRKARABKR4012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 9999999
+        }
+      },
+      {
+        "name": "APRIL GROUP SA\r",
+        "nationality": "",
+        "party_id": "                                                            377994553RCS LYON",
+        "address": "83/85BOULEVARDMARIUSVIVIERMERLELYON69487FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000000,
+  "address": "LEVEL 2, PROGETTA HOUSE, TOWER ROAD, SWATAR,",
+  "company_id": "C 73871",
+  "registration_date": "Jan 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 32000000
+}

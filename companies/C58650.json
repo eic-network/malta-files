@@ -1,0 +1,97 @@
+{
+  "name": "Atlantis Holding Limited",
+  "total_issued_shares_value": 3672,
+  "total_authorised_shares_value": 3672,
+  "authorised_shares": [
+    {
+      "issued_shares": 3999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3999,
+      "nominal_value_per_share": 0.918
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.918
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SGG CORPORATE SERVICES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53985",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SGG CORPORATE SERVICES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53985",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BDO MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/06",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SGG CORPORATE SERVICES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53985",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RADFORD HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            CR-98276",
+        "address": "C.M.FILINGSERVICESLIMITED,GRANDHARBOURCENTRE,P.O.BOX2829,GEORGETOWN,GRANDCAYMAN,CAYMANISLANDSBRITISHINDIANOCEANTERRITORY",
+        "shares": {
+          "nominal_value_per_share": 0.918,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3999
+        }
+      },
+      {
+        "name": "SGG CORPORATE SERVICES MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53985",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.918,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 58650",
+  "registration_date": "Dec 17, 2012",
+  "shares_currency": "CHF",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 4000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "APEX MANAGEMENT SERVICES LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAKER TILLY SANT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/28",
+        "address": "5,ROSAMARINAAPTS,216MARINASEAFRONTPIETA'PTA9041MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "ODRICK VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473777M",
+        "address": "2,TRIQL-IZMARRATUR,MOSTAMST1843MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "2, TRIQ L-IZMARRATUR,",
+  "company_id": "C 48084",
+  "registration_date": "Nov 02, 2009",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

@@ -1,0 +1,115 @@
+{
+  "name": "AZZOPARDI DAIRY FARM LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338273M",
+        "address": "SWANLAKEDINGLIROADRABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338273M",
+        "address": "SWANLAKEDINGLIROADRABATMALTA"
+      },
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218675M",
+        "address": "'AWRORA',MONSA.BUHAGIARSTREET,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338273M",
+        "address": "SWANLAKEDINGLIROADRABATMALTA"
+      },
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218675M",
+        "address": "'AWRORA',MONSA.BUHAGIARSTREET,RABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338273M",
+        "address": "SWANLAKEDINGLIROADRABATMALTA"
+      },
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218675M",
+        "address": "'AWRORA',MONSA.BUHAGIARSTREET,RABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            338273M",
+        "address": "SWANLAKEDINGLIROADRABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218675M",
+        "address": "'AWRORA',MONSA.BUHAGIARSTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 245
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "45, AURORA, MONS A. BUHAGIAR STREET",
+  "company_id": "C 38334",
+  "registration_date": "Mar 30, 2006",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 500
+}

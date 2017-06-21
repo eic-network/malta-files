@@ -1,0 +1,115 @@
+{
+  "name": "ALVOGEN DEVELOPMENT LIMITED",
+  "total_issued_shares_value": 11000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Edin Buljubasic\r",
+        "nationality": "BOSNIAN",
+        "party_id": "                                                            B0458774",
+        "address": "BelmonteHeights,BlockM,Apartment13,DepiroStreet,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1202214",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1202214",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARNI HARDARSON\r",
+        "nationality": "ICELANDIC",
+        "party_id": "                                                            A1202214",
+        "address": "BERGSTADASTRAETI49REYKJAVIK101ICELAND"
+      },
+      {
+        "name": "PHILLIP JOHN PRICE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099127688",
+        "address": "APT9,THEADELAIDE,231TOWERROADSLIEMASLM1601MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Alvogen Pharma Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 61962",
+        "address": "MALTALIFESCIENCESPARK,BUILDING1,LEVEL4,SIRTEMIZAMMITBUILDINGS,SANGWANNINDUSTRIALESTATESANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10999
+        }
+      },
+      {
+        "name": "ALVOGEN LUX HOLDINGS S.A.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B 149045",
+        "address": "5RUEHEIENHAFFSENNINGERBERGL-1736LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 11000,
+  "address": "MALTA LIFE SCIENCES PARK, BUILDING 1 LEVEL 4, SIR TEMI ZAMMIT BUILDINGS, SAN GWANN INDUSTRIAL ESTATE,",
+  "company_id": "C 62331",
+  "registration_date": "Feb 18, 2014",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 250000
+}

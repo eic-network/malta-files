@@ -1,0 +1,109 @@
+{
+  "name": "BARGAIN HOLIDAYS LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 990,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 990,
+      "nominal_value_per_share": 1.164686
+    },
+    {
+      "issued_shares": 10,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1.164686
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATINJA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATINJA,NAXXARMALTA"
+      },
+      {
+        "name": "CARMEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46365M",
+        "address": "WHITESTAR,TRIQIL-LATMIJA,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATINJA,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATINJA,NAXXARMALTA"
+      },
+      {
+        "name": "CARMEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            46365M",
+        "address": "WHITESTAR,TRIQIL-LATMIJA,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERT KA ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            838147M",
+        "address": "WHITESTAR,TRIQIL-LATINJA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.164686,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 990
+        }
+      },
+      {
+        "name": "CARMEN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            463651M",
+        "address": "WHITESTAR,TRIQIL-LATMIJA,SALINANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1.164686,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "TRIQ IT-TAMAR,",
+  "company_id": "C 8565",
+  "registration_date": "Feb 06, 1987",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 1000
+}

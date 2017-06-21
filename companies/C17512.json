@@ -1,0 +1,59 @@
+{
+  "name": "BICHA SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ALEXANDER LUCAS VASSILIADES",
+        "nationality": "",
+        "party_id": "",
+        "address": "DUVALVASSILIADES,7THFLOOR,FORUMHOUSE,15-18,LIMESTREET,EC37AP,LONDONENGLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LYN THERESA MISSELBROOK",
+        "nationality": "",
+        "party_id": "",
+        "address": "DUVALVASSILIADES,7THFLOOR,FORUMHOUSE,15-18,LIMESTREET,EC3M7AP,LONDONENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ALEXANDER LUCAS VASSILIADES",
+        "nationality": "",
+        "party_id": "",
+        "address": "DUVALVASSILIADES,7THFLOOR,FORUMHOUSE,15-18,LIMESTREET,EC37AP,LONDONENGLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET,",
+  "company_id": "C 17512",
+  "registration_date": "Jan 13, 1995",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

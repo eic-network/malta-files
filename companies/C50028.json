@@ -1,0 +1,101 @@
+{
+  "name": "Bayrak Operations International Ltd",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAUL H AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428668M",
+        "address": "MARATHANA,MAINSTREET,ZEBBUGMALTA"
+      },
+      {
+        "name": "MOHAMMED ALI FARAG\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            293500",
+        "address": "ABI-SETTA,P.O.BOX81742,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL H AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428668M",
+        "address": "MARATHANA,MAINSTREET,ZEBBUGMALTA"
+      },
+      {
+        "name": "MOHAMMED ALI FARAG\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            293500",
+        "address": "ABI-SETTA,P.O.BOX81742,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMEL CHIRCOP\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            35164M",
+        "address": "211,VALLEYROAD,BIRKIRKARAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL H AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428668M",
+        "address": "MARATHANA,MAINSTREET,ZEBBUGMALTA"
+      },
+      {
+        "name": "MOHAMMED ALI FARAG\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            293500",
+        "address": "ABI-SETTA,P.O.BOX81742,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL H AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428668M",
+        "address": "MARATHANA,MAINSTREET,ZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "MOHAMMED ALI FARAG\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            293500",
+        "address": "ABI-SETTA,P.O.BOX81742,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "'HYACINTH BUILDINGS', TUMAS FENECH STREET,",
+  "company_id": "C 50028",
+  "registration_date": "Jun 25, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

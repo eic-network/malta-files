@@ -1,0 +1,113 @@
+{
+  "name": "BEAT LIMITED",
+  "total_issued_shares_value": 20500,
+  "total_authorised_shares_value": 22000,
+  "authorised_shares": [
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DAVID GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151276M",
+        "address": "'GARDENIA',TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNZTN2836MALTA"
+      },
+      {
+        "name": "PHILIP TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479049M",
+        "address": "34,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151276M",
+        "address": "'GARDENIA',TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNZTN2836MALTA"
+      },
+      {
+        "name": "PHILIP TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479049M",
+        "address": "34,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151276M",
+        "address": "'GARDENIA',TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNZTN2836MALTA"
+      },
+      {
+        "name": "PHILIP TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479049M",
+        "address": "34,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151276M",
+        "address": "'GARDENIA',TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNZTN2836MALTA"
+      },
+      {
+        "name": "PHILIP TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479049M",
+        "address": "34,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILIP TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479049M",
+        "address": "34,G.BORGOLIVIERSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "DAVID GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            151276M",
+        "address": "'GARDENIA',TRIQIL-PRESIDENTANTONBUTTIGIEG,ZEJTUNZTN2836MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20500,
+  "address": "8, PIETRU CAXARO STREET,",
+  "company_id": "C 73064",
+  "registration_date": "Nov 13, 2015",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 22000
+}

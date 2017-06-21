@@ -1,0 +1,103 @@
+{
+  "name": "ASTORIAN HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MELANIE BUTSCHKAT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L3HMV924Z",
+        "address": "THARAUERALLEE6,14055BERLIN14199GERMANY"
+      },
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "13465,,IMFISCHGRUND39,BERLINGERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES MICHAEL FAGNON\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C3JL2ZRC7",
+        "address": "RUHLEBENERSTR.10,13597BERLINGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROLF OTTO WALTER BUTSCHKAT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L3HNOF85F",
+        "address": "FRIEDRICHSHALLERSTR.42A,14199,BERLINGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MELANIE BUTSCHKAT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L3HMV924Z",
+        "address": "THARAUERALLEE6,BERLIN14055GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "4, ST. FRANCIS STREET,",
+  "company_id": "C 46669",
+  "registration_date": "Apr 21, 2009",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 1200
+}

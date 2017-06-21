@@ -1,0 +1,67 @@
+{
+  "name": "BONAVIA STORES LIMITED",
+  "total_issued_shares_value": 104821.78,
+  "total_authorised_shares_value": 104821.78,
+  "authorised_shares": [
+    {
+      "issued_shares": 45000,
+      "type": "Ordinary",
+      "authorised_share_capital": 45000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593554M",
+        "address": "LOURDESHOUSE,N/SOFFGUZEPPIHYZLERSTREET,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593554M",
+        "address": "LOURDESHOUSE,N/SOFFGUZEPPIHYZLERSTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPH BONAVIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            593554M",
+        "address": "LOURDESHOUSE,N/SOFFGUZEPPIHYZLERSTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 44995
+        }
+      },
+      {
+        "name": "ALFRED CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            404059M",
+        "address": "ANGLUGALEASTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 45000,
+  "address": "'BONAVIA STORES', ANGLU GATT STREET,",
+  "company_id": "C 10409",
+  "registration_date": "Mar 08, 1989",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 45000
+}

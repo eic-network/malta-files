@@ -1,0 +1,89 @@
+{
+  "name": "ALPHA OMEGA MARKETING LTD",
+  "total_issued_shares_value": 1381.63,
+  "total_authorised_shares_value": 1381.62,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1.1053
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1.1053
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KONSTANTINOS KOUTSOUMIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            48978A",
+        "address": "49,TRIQGLEBRUNSWIEQISWQ2085MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KONSTANTINOS KOUTSOUMIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            48978A",
+        "address": "49,TRIQGLEBRUNSWIEQISWQ2085MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            677458M",
+        "address": "CHRISJOY,TRIQL-GHERIEN,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KONSTANTINOS KOUTSOUMIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            48978A",
+        "address": "49,TRIQGLEBRUNSWIEQISWQ2085MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FOURTEEN14 HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            HE 356824",
+        "address": "PRODROMOU,75.1STFLOOR,FLAT/OFFICE105,STROVOLOS,2063NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1.1053,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "CLARIS CAPITAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 39315",
+        "address": "120,ST.URSULASTREET,VALLETTAVLT1236MALTA",
+        "shares": {
+          "nominal_value_per_share": 1.1053,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2,  MELITA STREET,",
+  "company_id": "C 76502",
+  "registration_date": "Jul 20, 2016",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

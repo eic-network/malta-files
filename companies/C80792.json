@@ -1,0 +1,60 @@
+{
+  "name": "BETTER Holdings Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Daniel Qin\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C74ZG665J",
+        "address": "1Kyllstr.,RodenkirchenKohn50996GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Beppe Muscat\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "ShamrockFl.2PalmStreetST.JULIANSMALTA"
+      },
+      {
+        "name": "Daniel Qin\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C74ZG665J",
+        "address": "1Kyllstr.,RodenkirchenKohn50996GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Daniel Qin\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C74ZG665J",
+        "address": "1Kyllstr.,RodenkirchenKohn50996GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Noel Muscat & Co Triq L-Imghazel",
+  "company_id": "C 80792",
+  "registration_date": "May 10, 2017",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

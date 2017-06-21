@@ -1,0 +1,59 @@
+{
+  "company_id": "C 36394",
+  "address": "6/5, SIR WILLIAM REID STREET,",
+  "name": "BOVA Global Ltd.",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Jun 13, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999,
+          "paid_up_%": 25,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "party_id": "                                                            67969M",
+        "address": "33/1,ABATERIGORDSTREET,TA'XBIEXXBX1128MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 25,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JAMES MATTHEW ZAMMIT\r",
+        "party_id": "                                                            10227A",
+        "address": "27B,TRIQALFREDCAMILLERIATTARDATD1922MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "company_id": "C 29779",
+  "address": "5/2, MERCHANTS STREET,",
+  "name": "BOXIT AFRICA LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jun 20, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    },
+    {
+      "authorised_share_capital": 250,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 250
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SULEIMAN HASSAN ALI KREBISH\r",
+        "party_id": "                                                            550266/95",
+        "address": "VIADEIGENIERINO.85,PALAZZINA6INT.3,CECCHIGNOLA-EUR,ROMEITALY",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "HUSSNI MOHAMMED BEN SAAD\r",
+        "party_id": "                                                            737174",
+        "address": "MUTAMARAINZARANO.45,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "VICTOR SATARIANO\r",
+        "party_id": "                                                            964844M",
+        "address": "16,CAPUASTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "NORMAN SPITERI\r",
+        "party_id": "                                                            717339M",
+        "address": "CASABONAVITA,57,ST.ANTHONYSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOXIT LIMITED\r",
+        "party_id": "                                                            C 10366",
+        "address": "DEMAJOHOUSE,103,ARCHBISHOPSTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PAN - AFRICAN INVESTMENTS LIMITED\r",
+        "party_id": "                                                            C 28617",
+        "address": "KAPPARAVIEW,REGIONALROAD,SANGWANNSGN06MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SULEIMAN HASSAN ALI KREBISH\r",
+        "party_id": "                                                            550266/95",
+        "address": "VIADEIGENIERINO.85,PALAZZINA6INT.3,CECCHIGNOLA-EUR,ROMEITALY",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "HUSSNI MOHAMMED BEN SAAD\r",
+        "party_id": "                                                            737174",
+        "address": "MUTAMARAINZARANO.45,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "VICTOR SATARIANO\r",
+        "party_id": "                                                            964844M",
+        "address": "16,CAPUASTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "NORMAN SPITERI\r",
+        "party_id": "                                                            717339M",
+        "address": "CASABONAVITA,57,ST.ANTHONYSTREET,ATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SULEIMAN HASSAN ALI KREBISH\r",
+        "party_id": "                                                            550266/95",
+        "address": "VIADEIGENIERINO.85,PALAZZINA6INT.3,CECCHIGNOLA-EUR,ROMEITALY",
+        "nationality": "LIBYAN"
+      }
+    ]
+  }
+}

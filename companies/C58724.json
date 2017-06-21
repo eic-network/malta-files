@@ -1,0 +1,146 @@
+{
+  "name": "AUTOMETIS LTD",
+  "total_issued_shares_value": 2172,
+  "total_authorised_shares_value": 2600,
+  "authorised_shares": [
+    {
+      "issued_shares": 160,
+      "type": "Ordinary",
+      "authorised_share_capital": 160,
+      "nominal_value_per_share": 10
+    },
+    {
+      "issued_shares": 572,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAPHAEL MAIOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AZ045207",
+        "address": "52MARSHAMCOURT,MARSHAMSTREET,LONDONSW1P4JZUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER LI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            465042698",
+        "address": "240UNIVERSITYDR,MENLOPARKCA94025-2522UNITEDSTATES"
+      },
+      {
+        "name": "RAPHAEL MAIOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AZ045207",
+        "address": "52MARSHAMCOURT,MARSHAMSTREET,LONDONSW1P4JZUNITEDKINGDOM"
+      },
+      {
+        "name": "VASILEIOS SYMEONIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH4834686",
+        "address": "22,AFTOKRATOROSHERAKLIOUST,MAROUSSI,ATHENS15122GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER LI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            465042698",
+        "address": "240UNIVERSITYDR,MENLOPARKCA94025-2522UNITEDSTATES"
+      },
+      {
+        "name": "RAPHAEL MAIOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AZ045207",
+        "address": "52MARSHAMCOURT,MARSHAMSTREET,LONDONSW1P4JZUNITEDKINGDOM"
+      },
+      {
+        "name": "VASILEIOS SYMEONIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH4834686",
+        "address": "22,AFTOKRATOROSHERAKLIOUST,MAROUSSI,ATHENS15122GREECE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER LI\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            465042698",
+        "address": "240UNIVERSITYDR,MENLOPARKCA94025-2522UNITEDSTATES"
+      },
+      {
+        "name": "RAPHAEL MAIOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AZ045207",
+        "address": "52MARSHAMCOURT,MARSHAMSTREET,LONDONSW1P4JZUNITEDKINGDOM"
+      },
+      {
+        "name": "VASILEIOS SYMEONIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH4834686",
+        "address": "22,AFTOKRATOROSHERAKLIOUST,MAROUSSI,ATHENS15122GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KWOK CHEUNG ARTHUR LI\r",
+        "nationality": "CHINESE",
+        "party_id": "                                                            KJ0019947",
+        "address": "FLAT34C,34/F,THEALBANY,1ALBANYROAD,MID-LEVELSHONGKONG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "",
+          "issued_shares": 286
+        }
+      },
+      {
+        "name": "RAPHAEL MAIOPOULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AZ045207",
+        "address": "52MARSHAMCOURT,MARSHAMSTREET,LONDONSW1P4JZUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "VASILEIOS SYMEONIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AH4834686",
+        "address": "22,AFTOKRATOROSHERAKLIOUST,MAROUSSI,ATHENS15122GREECE",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 80
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 732,
+  "address": "66, OLD BAKERY STREET,",
+  "company_id": "C 58724",
+  "registration_date": "Dec 20, 2012",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1160
+}

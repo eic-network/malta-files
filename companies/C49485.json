@@ -1,0 +1,78 @@
+{
+  "name": "ASSET ONE HOLDING LTD",
+  "total_issued_shares_value": 38000,
+  "total_authorised_shares_value": 38000,
+  "authorised_shares": [
+    {
+      "issued_shares": 38000,
+      "type": "Ordinary",
+      "authorised_share_capital": 38000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROSELYN MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            424290M",
+        "address": "67B,TRIQMARSAMXETT,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEANNINE GIGLIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            585474M",
+        "address": "ST.JULIAN,TRIQSANTAKATERINA,GHARGHURMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEANNINE GIGLIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            585474M",
+        "address": "ST.JULIAN,TRIQSANTAKATERINA,GHARGHURMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MAZARS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/39",
+        "address": "ALFIRTRIQREGGIEMILLERGZIRAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEANNINE GIGLIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            585474M",
+        "address": "ST.JULIAN,TRIQSANTAKATERINA,GHARGHURMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIO OREGGIA\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P7522616",
+        "address": "CALLERECTORVIVES49PALMABALEARES07015SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 38000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 38000,
+  "address": "97, ARCHBISHOP STREET,",
+  "company_id": "C 49485",
+  "registration_date": "Apr 26, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 38000
+}

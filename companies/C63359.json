@@ -1,0 +1,109 @@
+{
+  "name": "BEGUM INTERNATIONAL HOLDINGS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CEDRIC MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            196979M",
+        "address": "123,MELITASTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BEGUM DOGULU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01869038",
+        "address": "BIZBIZESITESISULUN,SOKNO22,KUSASI/AYDINTURKEY"
+      },
+      {
+        "name": "HEIMO TAUERN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0180219585",
+        "address": "MUHLEBUNT4,OBERSCHAN9479SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BEGUM DOGULU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01869038",
+        "address": "BIZBIZESITESISULUN,SOKNO22,KUSASI/AYDINTURKEY"
+      },
+      {
+        "name": "HEIMO TAUERN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0180219585",
+        "address": "MUHLEBUNT4,OBERSCHAN9479SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTOINE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10770",
+        "address": "16,TRIQIX-XEFAQ,DINGLIDGL1577MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BEGUM DOGULU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01869038",
+        "address": "BIZBIZESITESISULUN,SOKNO22,KUSASI/AYDINTURKEY"
+      },
+      {
+        "name": "HEIMO TAUERN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0180219585",
+        "address": "MUHLEBUNT4,OBERSCHAN9479SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BEGUM DOGULU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U01869038",
+        "address": "BIZBIZESITESISULUN,SOKNO22,KUSASI/AYDINTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "HEIMO TAUERN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0180219585",
+        "address": "MUHLEBUNT4,OBERSCHAN9479SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "123 MELITA STREET",
+  "company_id": "C 63359",
+  "registration_date": "Jan 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

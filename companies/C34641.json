@@ -1,0 +1,97 @@
+{
+  "name": "ARDWAY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1499,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1499,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SARAH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429778M",
+        "address": "NO.5,TA'GIORNICOURT,TRIQFRANCESCOBALBI,ST.JULIANSSTJ1600MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "E-MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34834",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "E-MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34834",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00588",
+        "address": "164,MEADOWBANKMANS,FL.23,TRIQIT-TORRISLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "E-MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 34834",
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GENESYS TECHNOLOGY N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            106020 (0)",
+        "address": "EMANCIPATIEBOULEVARD,31,NEWHAVENE-ZONE,CURACAO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "GODEFRIDUS HUBERT JOSEPH KONINGS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            44345A",
+        "address": "QUEEN'SGATE,FLATNO.5,FORRESTSTREET,ST.JULIANSSTJ2032MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "DSLR, SUITE 413, FTIEH STREET, BIRKIRKARA BYPASS,",
+  "company_id": "C 34641",
+  "registration_date": "Sep 23, 2004",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

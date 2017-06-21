@@ -1,0 +1,83 @@
+{
+  "name": "BLACK BULL RACING LTD",
+  "total_issued_shares_value": 500000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500000,
+      "type": "Ordinary",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ARNO LOVAT\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F3830971",
+        "address": "VIAPEDEMONTE14,VIGANELLO6962SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARNO LOVAT\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F3830971",
+        "address": "VIAPEDEMONTE14,VIGANELLO6962SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SUZANNE LEGAULT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            400771M",
+        "address": "60,TRIQIL-MARKIZJ.SCICLUNA,MADLIENASWIEQISWQ1413MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARNO LOVAT\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F3830971",
+        "address": "VIAPEDEMONTE14,VIGANELLO6962SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DORYAN HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 69750",
+        "address": "CMSHOUSE,THIRDFLOORST.PETER'SSTREETSANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499999
+        }
+      },
+      {
+        "name": "SUMMA FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 30805",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500000,
+  "address": "CMS HOUSE, GROUND FLOOR, ST. PETER'S STREET",
+  "company_id": "C 70882",
+  "registration_date": "Jun 02, 2015",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 500000
+}

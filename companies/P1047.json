@@ -1,0 +1,75 @@
+{
+  "name": "BLUE JEANS WEAR",
+  "total_issued_shares_value": 1143.72,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 491,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PAUL CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18447M",
+        "address": "OMMHANINA,TRIQIT-TELLERITSAFIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18447M",
+        "address": "OMMHANINA,TRIQIT-TELLERITSAFIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18447M",
+        "address": "OMMHANINA,TRIQIT-TELLERITSAFIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARGARET FRANCES CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55042M",
+        "address": "OMMHANINA,TRIQIT-TELLERITSAFIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PAUL CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18447M",
+        "address": "OMMHANINA,TRIQIT-TELLERITSAFIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 490
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "OMM HANINA,  TRIQ IT-TELLERIT",
+  "company_id": "P 1047",
+  "registration_date": "Aug 06, 2005",
+  "shares_currency": "EUR",
+  "locality": "SAFI",
+  "status": "",
+  "total_authorised_shares": 500
+}

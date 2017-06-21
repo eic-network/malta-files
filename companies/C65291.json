@@ -1,0 +1,78 @@
+{
+  "name": "Azure Alpha Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Tracy Anne Lange\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            45757A",
+        "address": "CorporateHouse10OratoryStreetNAXXARNXR2504MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Jurgen Rekkers\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            27139A",
+        "address": "81,HighlandsCourt,Flat11,TriqQrajtenPIETA'PTA1205MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Jurgen Rekkers\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            27139A",
+        "address": "81,HighlandsCourt,Flat11,TriqQrajtenPIETA'PTA1205MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MERCIECA, AZZOPARDI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/21",
+        "address": "FLAT2,ZAHRACOURT,NAXXARRDSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Jurgen Rekkers\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            27139A",
+        "address": "81,HighlandsCourt,Flat11,TriqQrajtenPIETA'PTA1205MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "INDIGO BETA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1831642",
+        "address": "CRAIGMUIRCHAMBERS,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "Corporate House 10 Oratory Street",
+  "company_id": "C 65291",
+  "registration_date": "Jun 05, 2014",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

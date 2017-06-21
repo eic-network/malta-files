@@ -1,0 +1,97 @@
+{
+  "name": "Arcade International Limited",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Marija Vidinejeva\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            0059340A",
+        "address": "KurunellCourt,BlockA,Flat7TriqDunAntonTaboneST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEKSANDRA BREHOVA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            0059338A",
+        "address": "KURUNELLCOURT,BLOCKA,FLAT7,TRIQDUNANTONTABONE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEKSANDRA BREHOVA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            0059338A",
+        "address": "KURUNELLCOURT,BLOCKA,FLAT7,TRIQDUNANTONTABONE,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEKSANDRA BREHOVA\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            0059338A",
+        "address": "KURUNELLCOURT,BLOCKA,FLAT7,TRIQDUNANTONTABONE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARCADE HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68191",
+        "address": "LEVEL3,111TRIQMANOELDEVILHENA,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "Larisa Brehova\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LV3933526",
+        "address": "Priezustreet39GarkalneLATVIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "IIM-MALTA, THE EMPORIUM LEVEL 3, C. DE BROCKTORFF STREET,",
+  "company_id": "C 58300",
+  "registration_date": "Nov 23, 2012",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

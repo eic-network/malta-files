@@ -1,0 +1,59 @@
+{
+  "name": "BLACK & MED. SHIPPING, TRADING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "HASAN GULSOY",
+        "nationality": "",
+        "party_id": "",
+        "address": "ATATURKCAD,ORKIDESOKNO.4MALTEPEISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HASAN GULSOY",
+        "nationality": "",
+        "party_id": "",
+        "address": "ATATURKCAD,ORKIDESOKNO.4MALTEPEISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "IGOR YAVORSKIY",
+        "nationality": "",
+        "party_id": "",
+        "address": "OBORNALENINGRADASTR16ODESSAUKRAINE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 21493",
+  "registration_date": "Jun 05, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

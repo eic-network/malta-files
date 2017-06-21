@@ -1,0 +1,99 @@
+{
+  "total_issued_shares_value": 3000,
+  "registration_date": "Oct 18, 2013",
+  "status": "In Dissolution",
+  "locality": "QORMI",
+  "name": "BRUTUS HOLDING COMPANY LTD",
+  "total_issued_shares": 30000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 62306",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "party_id": "                                                            C 42279",
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA",
+        "party_id": "                                                            307374M",
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "party_id": "                                                            C 42279",
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Liquidators": [
+      {
+        "address": "8/1,DOUMERINCFLAT,FRANGISKUXERRISTREET,BIRKIRKARAMALTA",
+        "party_id": "                                                            540862M",
+        "name": "MARTIN DOUBLET\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "party_id": "                                                            C 42279",
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA",
+        "party_id": "                                                            19027",
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 12858,
+          "nominal_value_per_share": 0.1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "B2,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "party_id": "                                                            C 62290",
+        "name": "LG LTD\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 17142,
+          "nominal_value_per_share": 0.1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "B2,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "party_id": "                                                            C 62287",
+        "name": "Papi Ltd\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 0.1,
+      "issued_shares": 30000,
+      "authorised_share_capital": 30000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 30000,
+  "total_authorised_shares_value": 3000,
+  "shares_currency": "EUR"
+}

@@ -1,0 +1,97 @@
+{
+  "name": "ARARAT HOLDING LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1249,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1249,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "REUBEN MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10366M",
+        "address": "150,JAMESCOURT,FLAT2,RODOLPHESTREET,SLIEMASLM1274MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SOFIA ABEL TEIXEIRA DE OLIVEIRA BRAGA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            H410956",
+        "address": "RUADR.BRITOCAMARA,NR20,1STFLOOR,FUNCHAL9000-039PORTUGAL"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSE EUGENIO DE JESUS NETO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            CZ060334",
+        "address": "RUADOSALPES,N120,CHACARAALPES,ITAPECERICADASERRA,SAOPAULOBRAZIL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSE EUGENIO DE JESUS NETO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            CZ060334",
+        "address": "RUADOSALPES,N120,CHACARAALPES,ITAPECERICADASERRA,SAOPAULOBRAZIL"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSE EUGENIO DE JESUS NETO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            CZ060334",
+        "address": "RUADOSALPES,N120,CHACARAALPES,ITAPECERICADASERRA,SAOPAULOBRAZIL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "89 ST. JOHN STREET,",
+  "company_id": "C 63090",
+  "registration_date": "Dec 12, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1250
+}

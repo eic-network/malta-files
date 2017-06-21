@@ -1,0 +1,142 @@
+{
+  "name": "ANTHONY C. BORDA COMPANY LIMITED",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1600,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANNA RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            738456M",
+        "address": "VILLASEGOVILLE,4,TRIQIL-LIEBRU,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY C BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722031M",
+        "address": "11,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY C BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722031M",
+        "address": "11,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY C BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722031M",
+        "address": "11,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            640858M",
+        "address": "'IL-GIFEN',TRIQIL-BAHARL-ISWED,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 13
+        }
+      },
+      {
+        "name": "JOSEPH BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            85462M",
+        "address": "'IT-TURRETTA',TRIQIL-BAHARL-ISWED,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 13
+        }
+      },
+      {
+        "name": "MARIA CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            49666M",
+        "address": "VILLADAFFODILS,TRIQIL-BARMIL,IBRAGG,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 13
+        }
+      },
+      {
+        "name": "ANNA RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            738456M",
+        "address": "'VILLASEGOVILLE',4,TRIQIL-LIEBRU,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 13
+        }
+      },
+      {
+        "name": "ANTHONY C BORDA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            722031M",
+        "address": "11,ST.ANGELOSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 148
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "11, ST. ANGELO STREET,",
+  "company_id": "C 12420",
+  "registration_date": "Mar 04, 1991",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

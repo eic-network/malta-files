@@ -1,0 +1,101 @@
+{
+  "name": "Astrea Freight Forwarding Ltd",
+  "total_issued_shares_value": 15000,
+  "total_authorised_shares_value": 15000,
+  "authorised_shares": [
+    {
+      "issued_shares": 15000,
+      "type": "Ordinary",
+      "authorised_share_capital": 15000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BERNARD LUCIEN MARIE ARCAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            14AC91655",
+        "address": "GENCLIKCD.NO:13BORNOVA,IZMIR35040TURKEY"
+      },
+      {
+        "name": "HORATIU AUREL DUMITRESCU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            GA250723",
+        "address": "SEHITNEVREZBULVARI,NO.15,KAT:2,ALSANCAK,ISMIRTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BERNARD LUCIEN MARIE ARCAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            14AC91655",
+        "address": "GENCLIKCD.NO:13BORNOVA,IZMIR35040TURKEY"
+      },
+      {
+        "name": "HORATIU AUREL DUMITRESCU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            GA250723",
+        "address": "SEHITNEVREZBULVARI,NO.15,KAT:2,ALSANCAK,ISMIRTURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            499868M",
+        "address": "15,TRIQIN-NAMUR,IKLINIKL1842MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BERNARD LUCIEN MARIE ARCAS\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            14AC91655",
+        "address": "GENCLIKCD.NO:13BORNOVA,IZMIR35040TURKEY"
+      },
+      {
+        "name": "HORATIU AUREL DUMITRESCU\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            GA250723",
+        "address": "SEHITNEVREZBULVARI,NO.15,KAT:2,ALSANCAK,ISMIRTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARKAS DENIZCILIK VE NAKLIYAT A.S\r",
+        "nationality": "",
+        "party_id": "                                                            42484-K-1418",
+        "address": "LIMANCADDESI,NO:38,ARKASBINASI,ALSANCAKIZMIR35230TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "ARKAS HOLDING S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            94568K-8310",
+        "address": "LIMANCADDESIARKASBINASI,NO38ALSANCAK,IZMIR35230TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 15000,
+  "address": "SUITE 3, TOWER BUSINESS CENTRE, TOWER STREET, SWATAR,",
+  "company_id": "C 72417",
+  "registration_date": "Sep 25, 2015",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 15000
+}

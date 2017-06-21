@@ -1,0 +1,75 @@
+{
+  "name": "BALTIC ARROW SHIPPING CO LTD",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MICHALAKIS IOANNIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T.303383",
+        "address": "51,AKTIMIAOULI,PIRAEUS18536GREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MICHALAKIS IOANNIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T.303383",
+        "address": "51,AKTIMIAOULI,PIRAEUS18536GREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHALAKIS IOANNIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T.303383",
+        "address": "51,AKTIMIAOULI,PIRAEUS18536GREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADMIMED NYCY HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE156256",
+        "address": "AGAPINOROS,2P.C.1076,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "MICHALAKIS IOANNIDIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T.303383",
+        "address": "51,AKTIMIAOULI,PIRAEUS18536GREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16 VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 34504",
+  "registration_date": "Aug 25, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

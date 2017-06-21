@@ -1,0 +1,139 @@
+{
+  "name": "ALLIED MEDICAL LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLOTTE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25171M",
+        "address": "NARCISA18,TRIQC.TROISI,IBRAGGSWIEQISWQ2230MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "VILLAIGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA PAREIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "VILLAIGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA PAREIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN ALBERT NAUDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19720",
+        "address": "5,STONEHAVEN,TRIQIR-RAHEBKURRADU,SANPAWLTAT-TARGA,NAXXARNXR2318MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALFRED MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            773544M",
+        "address": "VILLAIGEA,TRIQIT-TORRI,MADLIENASWIEQIMALTA"
+      },
+      {
+        "name": "JONATHAN MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275173M",
+        "address": "8,CAFCAFLANE,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "KRISTINA PAREIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            277871M",
+        "address": "254,FLAT4,BELGRAVIACOURT,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETIS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53930",
+        "address": "MANGIONBUILDING,NEWSTREETOFFVALLETTAROAD,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "RAMPA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53928",
+        "address": "MANGIONBUILDING,NEWSTREETOFFVALLETTAROAD,LUQAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "MANGION BUILDING NEW STREET, OFF VALLETTA ROAD,",
+  "company_id": "C 47640",
+  "registration_date": "Sep 02, 2009",
+  "shares_currency": "EUR",
+  "locality": "LUQA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

@@ -1,0 +1,172 @@
+{
+  "company_id": "C 48231",
+  "address": "B2, INDUSTRY STREET,",
+  "name": "BROKERAGE WORLD SOLUTIONS (MALTA) LIMITED",
+  "locality": "QORMI",
+  "status": "",
+  "registration_date": "Nov 20, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 3809,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2133
+    },
+    {
+      "authorised_share_capital": 2191,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1227
+    }
+  ],
+  "total_authorised_shares": 6000,
+  "total_authorised_shares_value": 6000,
+  "total_issued_shares": 3360,
+  "total_issued_shares_value": 3360,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SAYED SHUYA ALI\r",
+        "party_id": "                                                            099227378",
+        "address": "VILLA4,FRONDO,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MIRZA GHULAM MUSTAFA KAMAL BEG\r",
+        "party_id": "                                                            ET3990991",
+        "address": "APARTMENTNO.110,SILVERSANDS2,BURDUBAI,DUBAIUNITEDARABEMIRATES",
+        "nationality": "PAKISTANI"
+      },
+      {
+        "name": "JOEL SCOTT MC COLLUM\r",
+        "party_id": "                                                            452691282",
+        "address": "14THFLOORGALLERIESBUILDING,P.O.BOX17000DUBAIUNITEDARABEMIRATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ISTITHMAR WORLD PJSC\r",
+        "party_id": "                                                            63150",
+        "address": "LEVEL4,EMIRATESTOWERS,SHEIKHZAYEDROAD,DUBAIUNITEDARABEMIRATES",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2133,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JONKER HOLDING B.V.\r",
+        "party_id": "                                                            24300643",
+        "address": "DUIVENWAARDSEDIJK19NIEUWETONGE3244LGNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 330,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "ROODENBURG HOLDING ZEVENBERGEN B.V.\r",
+        "party_id": "                                                            20096044",
+        "address": "GEDEMPTEZALMHAVEN,705HOGEHEREN,ROTTERDAM3001BTNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 330,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "TERMECK SCHOUWEN HOLDING B.V.\r",
+        "party_id": "                                                            24298374",
+        "address": "20,HOGEHILLEWEG,BURGHHAAMSTEDE4328RBNETHERLANDS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 330,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "KENNETH MAW\r",
+        "party_id": "                                                            706047140",
+        "address": "VILLA19/27,ALNABOODAVILLAS,STREET9C,UUMSEQUEIMUNITEDARABEMIRATES",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 237,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAYED SHUYA ALI\r",
+        "party_id": "                                                            099227378",
+        "address": "VILLA4,FRONDO,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MIRZA GHULAM MUSTAFA KAMAL BEG\r",
+        "party_id": "                                                            ET3990991",
+        "address": "APARTMENTNO.110,SILVERSANDS2,BURDUBAI,DUBAIUNITEDARABEMIRATES",
+        "nationality": "PAKISTANI"
+      },
+      {
+        "name": "JOEL SCOTT MC COLLUM\r",
+        "party_id": "                                                            452691282",
+        "address": "14THFLOORGALLERIESBUILDING,P.O.BOX17000DUBAIUNITEDARABEMIRATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SAYED SHUYA ALI\r",
+        "party_id": "                                                            099227378",
+        "address": "VILLA4,FRONDO,PALMJUMEIRAH,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "MIRZA GHULAM MUSTAFA KAMAL BEG\r",
+        "party_id": "                                                            ET3990991",
+        "address": "APARTMENTNO.110,SILVERSANDS2,BURDUBAI,DUBAIUNITEDARABEMIRATES",
+        "nationality": "PAKISTANI"
+      },
+      {
+        "name": "JOEL SCOTT MC COLLUM\r",
+        "party_id": "                                                            452691282",
+        "address": "14THFLOORGALLERIESBUILDING,P.O.BOX17000DUBAIUNITEDARABEMIRATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

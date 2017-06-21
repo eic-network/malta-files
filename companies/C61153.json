@@ -1,0 +1,127 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Jul 15, 2013",
+  "status": "",
+  "locality": "PIETA'",
+  "name": "BT HOLDINGS LTD",
+  "total_issued_shares": 1500,
+  "address": "LEVEL 4, SUITE 8A, ROSA MARINA BLDG., 216, MARINA SEAFRONT",
+  "company_id": "C 61153",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA",
+        "party_id": "                                                            C 56373",
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA",
+        "party_id": "                                                            C 56373",
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "RDESIDERIO11ESQ,1000-122LISBOAPORTUGAL",
+        "party_id": "                                                            J190004",
+        "name": "RUI MIGUEL PEREIRA GUEDES HENRIQUES\r",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "LEVEL3,SUITE5,ROSAMARINABLDG.,216,MARINASEAFRONT,PIETA'PTA9041MALTA",
+        "party_id": "                                                            C 56373",
+        "name": "SBK CORPORATE SERVICES LTD.\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 375,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "RDESIDERIO11ESQ,1000-122LISBOAPORTUGAL",
+        "party_id": "                                                            J190004",
+        "name": "RUI MIGUEL PEREIRA GUEDES HENRIQUES\r",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 375,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "PCTGAGOCOUNTINHONO2BPRQRESIDENTIALALMIRANTESANTOANTONIOCAVALEIROS2660-441PORTUGAL",
+        "party_id": "                                                            9877473",
+        "name": "PAULO JORGE PINHEIRO CARRASQUEIRA\r",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 375,
+          "nominal_value_per_share": 1,
+          "class": "C",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "RILHAAMORESLT412C1RCEVILAEXPO,LISBOA1990-000PORTUGAL",
+        "party_id": "                                                            J972830",
+        "name": "PAULO JORGE DUARTE GIL GALVAO ANDRE\r",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 375,
+          "nominal_value_per_share": 1,
+          "class": "D",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "RILHAAMORESLT412BLCRCESQLISBOA1990-122PORTUGAL",
+        "party_id": "                                                            L367884",
+        "name": "PAULO MANUEL GONCALVES LOPES\r",
+        "nationality": "PORTUGUESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 375,
+      "authorised_share_capital": 375,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 375,
+      "authorised_share_capital": 375,
+      "type": "OrdinaryB"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 375,
+      "authorised_share_capital": 375,
+      "type": "OrdinaryC"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 375,
+      "authorised_share_capital": 375,
+      "type": "OrdinaryD"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

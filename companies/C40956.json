@@ -1,0 +1,78 @@
+{
+  "company_id": "C 40956",
+  "address": "'GREEN ACRES', KANANEA STREET,",
+  "name": "BRANCHES LIMITED",
+  "locality": "ATTARD",
+  "status": "",
+  "registration_date": "Mar 13, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NOEL BORG\r",
+        "party_id": "                                                            297567M",
+        "address": "58,MARSAMXETTROAD,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NOEL BORG\r",
+        "party_id": "                                                            297567M",
+        "address": "58,MARSAMXETTROAD,VALLETTAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL BORG\r",
+        "party_id": "                                                            297567M",
+        "address": "58,MARSAMXETTROAD,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL BORG\r",
+        "party_id": "                                                            297567M",
+        "address": "58,MARSAMXETTROAD,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NOEL BORG\r",
+        "party_id": "                                                            297567M",
+        "address": "58,MARSAMXETTROAD,VALLETTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR CAMILLERI\r",
+        "party_id": "                                                            480103",
+        "address": "70,LINAMICHELLE,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

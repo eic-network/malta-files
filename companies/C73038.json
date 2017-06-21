@@ -1,0 +1,101 @@
+{
+  "company_id": "C 73038",
+  "address": "'VALLETTA BUILDINGS', FOURTH FLOOR, SUITE 20, SOUTH STREET,",
+  "name": "BRAHMAZON (MALTA) LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Nov 12, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SIGMUND HOENIGSBERG MORETTI\r",
+        "party_id": "                                                            YA8043227",
+        "address": "THEADDRESSMARINA,APT3506DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "AVIK KUMAR RAKHIT\r",
+        "party_id": "                                                            Z2512890",
+        "address": "APT126,PLATINUMONE,DUBAILAND,DUBAIUNITEDARABEMIRATES",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIGMUND HOENIGSBERG MORETTI\r",
+        "party_id": "                                                            YA8043227",
+        "address": "THEADDRESSMARINA,APT3506DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "AVIK KUMAR RAKHIT\r",
+        "party_id": "                                                            Z2512890",
+        "address": "APT126,PLATINUMONE,DUBAILAND,DUBAIUNITEDARABEMIRATES",
+        "nationality": "INDIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SIGMUND HOENIGSBERG MORETTI\r",
+        "party_id": "                                                            YA8043227",
+        "address": "THEADDRESSMARINA,APT3506DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "AVIK KUMAR RAKHIT\r",
+        "party_id": "                                                            Z2512890",
+        "address": "APT126,PLATINUMONE,DUBAILAND,DUBAIUNITEDARABEMIRATES",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SIGMUND HOENIGSBERG MORETTI\r",
+        "party_id": "                                                            YA8043227",
+        "address": "THEADDRESSMARINA,APT3506DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "AVIK KUMAR RAKHIT\r",
+        "party_id": "                                                            Z2512890",
+        "address": "APT126,PLATINUMONE,DUBAILAND,DUBAIUNITEDARABEMIRATES",
+        "nationality": "INDIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SIGMUND HOENIGSBERG MORETTI\r",
+        "party_id": "                                                            YA8043227",
+        "address": "THEADDRESSMARINA,APT3506DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

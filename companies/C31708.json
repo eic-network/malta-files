@@ -1,0 +1,97 @@
+{
+  "name": "BLOOMTREE LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KAREN MILLINER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            034271600",
+        "address": "3,HAWKERCOURT,QUEENSROAD,SURREYUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILLIAM WAIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253668M",
+        "address": "5,GOLDENORIOLE,TRIQIR-RIHAN,FGURAFGR1061MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WILLIAM WAIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253668M",
+        "address": "5,GOLDENORIOLE,TRIQIR-RIHAN,FGURAFGR1061MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SANDRO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19241",
+        "address": "122,HATFIELD,TRIQSANTUMAS,FGURAFGR1604MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WILLIAM WAIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253668M",
+        "address": "5,GOLDENORIOLE,TRIQIR-RIHAN,FGURAFGR1061MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LORDHALL SECURITIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1191664",
+        "address": "THEQUADRANT,118,LONDONROAD,KINGSTON,KT26QJ,SURREYENGLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1300
+        }
+      },
+      {
+        "name": "GUARDHEATH SECURITIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1191856",
+        "address": "THEQUADRANT,118LONDONROAD,KINGSTONSURREYKT26QJUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 699
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "23, 'SOUTH HOUSE', TRIQ HOMPESCH,",
+  "company_id": "C 31708",
+  "registration_date": "Jul 03, 2003",
+  "shares_currency": "USD",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,105 @@
+{
+  "name": "BLUE PAPILLON LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "PAUL MC KENNA\r",
+        "nationality": "AFGHAN",
+        "party_id": "                                                            15931A",
+        "address": "52,FIFTHFLOOR,REGENTHOUSEBISAZZASTREET,SLIEMASLM1640MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL ALEXANDER DEBONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            100866M",
+        "address": "18,SIRUGOMIFSUDSTREET,LIJALJA1051MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JUAN BORG MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480662M",
+        "address": "20,JAYS,TRIQGDESPOTT,KAPPARA,SANGWANNSGN4315MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JUAN BORG MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480662M",
+        "address": "20,JAYS,TRIQGDESPOTT,KAPPARA,SANGWANNSGN4315MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW GALEA & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/60",
+        "address": "REGENTHOUSE,FIFTHFLOOR,BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JUAN BORG MANDUCA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480662M",
+        "address": "20,JAYS,TRIQGDESPOTT,KAPPARA,SANGWANNSGN4315MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAYFLOWER LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            76638",
+        "address": "17THEESPLANADE,STHELIER,JERSEYJE11WTUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "BOSTON TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 56142",
+        "address": "REGENTHOUSE,FIFTHFLOOR52,BISAZZASTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18, SIR UGO MIFSUD STREET,",
+  "company_id": "C 60845",
+  "registration_date": "Jun 17, 2013",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

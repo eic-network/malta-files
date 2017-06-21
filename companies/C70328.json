@@ -1,0 +1,101 @@
+{
+  "name": "ASWAR ELWADI LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Suliman Omar S  AL GBLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            572131",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      },
+      {
+        "name": "Ahmed Ali Ahmed  BAGS \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539099",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Suliman Omar S  AL GBLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            572131",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      },
+      {
+        "name": "Ahmed Ali Ahmed  BAGS \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539099",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Suliman Omar S  AL GBLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            572131",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Suliman Omar S  AL GBLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            572131",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      },
+      {
+        "name": "Ahmed Ali Ahmed  BAGS \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539099",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Suliman Omar S  AL GBLI\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            572131",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Ahmed Ali Ahmed  BAGS \r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539099",
+        "address": "416ElwadiStreetJaduAreaSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "15 GROGNET STREET",
+  "company_id": "C 70328",
+  "registration_date": "Jun 10, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

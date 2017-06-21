@@ -1,0 +1,70 @@
+{
+  "company_id": "C 28791",
+  "address": "58C,  PATRI FELICJAN BILOCCA STREET,",
+  "name": "BRINCED LTD.",
+  "locality": "MARSA",
+  "status": "",
+  "registration_date": "Oct 12, 2001",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SILVIO BUTTIGIEG\r",
+        "party_id": "                                                            485855M",
+        "address": "8,JESUITSHILL,MARSAHMR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SILVIO BUTTIGIEG\r",
+        "party_id": "                                                            485855M",
+        "address": "8,JESUITSHILL,MARSAHMR12MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SILVIO BUTTIGIEG\r",
+        "party_id": "                                                            485855M",
+        "address": "8,JESUITSHILL,MARSAHMR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SILVIO BUTTIGIEG\r",
+        "party_id": "                                                            485855M",
+        "address": "8,JESUITSHILL,MARSAHMR12MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GERALDINE SCHEMBRI\r",
+        "party_id": "                                                            MLT777592",
+        "address": "13,CAPRICE,FLAT2,TRIQL-IMGIEBAH,XEMXIJA,ST.PAUL'SBAYMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

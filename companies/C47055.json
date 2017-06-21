@@ -1,0 +1,78 @@
+{
+  "name": "AQUATICO HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON KALMOKOV\r",
+        "nationality": "ESTONIAN",
+        "party_id": "                                                            57347A",
+        "address": "FLAT4,BLOCKA,PORTOPAOLOAPTS,TRIQBUGIBBA,ST.PAUL'SBAYSPB2760MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON KALMOKOV\r",
+        "nationality": "ESTONIAN",
+        "party_id": "                                                            57347A",
+        "address": "FLAT4,BLOCKA,PORTOPAOLOAPTS,TRIQBUGIBBA,ST.PAUL'SBAYSPB2760MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAPSTONE ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/109",
+        "address": "17B,ZAMMITCLAPPSTREETST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON KALMOKOV\r",
+        "nationality": "ESTONIAN",
+        "party_id": "                                                            57347A",
+        "address": "FLAT4,BLOCKA,PORTOPAOLOAPTS,TRIQBUGIBBA,ST.PAUL'SBAYSPB2760MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, SUITE 5, TOWER STREET, SWATAR,",
+  "company_id": "C 47055",
+  "registration_date": "Jun 15, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

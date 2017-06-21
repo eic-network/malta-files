@@ -1,0 +1,133 @@
+{
+  "name": "ALTRUID SYSTEMS LIMITED",
+  "total_issued_shares_value": 125000,
+  "total_authorised_shares_value": 125000,
+  "authorised_shares": [
+    {
+      "issued_shares": 124999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 124999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465869M",
+        "address": "2,ESPRITBARTHETSTREET,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID ROBIN THOMAS GOLDVINGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            75100A",
+        "address": "HALSAGHTRIJA,BLOCKE,APT.9,TRIQSAGHTRIJA,ZEBBUG(GOZO)ZBB1451MALTA"
+      },
+      {
+        "name": "DAVID GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465869M",
+        "address": "2,ESPRITBARTHETSTREET,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT NEBAUER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P7270622",
+        "address": "BADGROSSEPRTHOLZ287,BADGROSSPERTHOLZ3972AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID ROBIN THOMAS GOLDVINGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            75100A",
+        "address": "HALSAGHTRIJA,BLOCKE,APT.9,TRIQSAGHTRIJA,ZEBBUG(GOZO)ZBB1451MALTA"
+      },
+      {
+        "name": "DAVID GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465869M",
+        "address": "2,ESPRITBARTHETSTREET,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT NEBAUER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P7270622",
+        "address": "BADGROSSEPRTHOLZ287,BADGROSSPERTHOLZ3972AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID ROBIN THOMAS GOLDVINGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            75100A",
+        "address": "HALSAGHTRIJA,BLOCKE,APT.9,TRIQSAGHTRIJA,ZEBBUG(GOZO)ZBB1451MALTA"
+      },
+      {
+        "name": "DAVID GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465869M",
+        "address": "2,ESPRITBARTHETSTREET,MADLIENA,SWIEQIMALTA"
+      },
+      {
+        "name": "ROBERT NEBAUER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P7270622",
+        "address": "BADGROSSEPRTHOLZ287,BADGROSSPERTHOLZ3972AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALTRUID SYSTEMS INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            223383",
+        "address": "MAPLESCORPORATESERVICESLIMITEDPOBOX309,UGLANDHOUSE,SOUTHCHURCHSTREET,GEORGETOWN,GRANDCAYMANKYI-1104CAYMANISLANDS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 124999
+        }
+      },
+      {
+        "name": "DAVID ROBIN THOMAS GOLDVINGER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            75100A",
+        "address": "HALSAGHTRIJA,BLOCKE,APT.9,TRIQSAGHTRIJA,ZEBBUG(GOZO)ZBB1451MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 125000,
+  "address": "26, ST, THOMAS STREET, SOUTHERN HARBOUR",
+  "company_id": "C 58147",
+  "registration_date": "Nov 08, 2012",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 125000
+}

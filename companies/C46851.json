@@ -1,0 +1,51 @@
+{
+  "name": "ATY Ltd.",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      },
+      {
+        "name": "CREDAL INTERNATIONAL LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 28979",
+        "address": "6,THIRDFLOOR,SIRWILLIAMREIDSTREET,GZIRAGZR1038MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "6/5, SIR WILLIAM REID STREET,",
+  "company_id": "C 46851",
+  "registration_date": "May 20, 2009",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

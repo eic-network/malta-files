@@ -1,0 +1,115 @@
+{
+  "company_id": "C 21397",
+  "address": "24/25/26, WENZU DYER STREET,",
+  "name": "BORGO KNIGHTS LIMITED",
+  "locality": "VITTORIOSA",
+  "status": "",
+  "registration_date": "May 07, 1997",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    },
+    {
+      "authorised_share_capital": 1000,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 2329.37,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IVAN BUTTIGIEG\r",
+        "party_id": "                                                            256668M",
+        "address": "44,AMARYLLIS,TRIQIT-TRUNCIERAT-TWILA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALBERT FILLETTI\r",
+        "party_id": "                                                            291752M",
+        "address": "68,ANTONIOBOSIOSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALBERT FILLETTI\r",
+        "party_id": "                                                            291752M",
+        "address": "68,ANTONIOBOSIOSTREET,MSIDAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "IVAN BUTTIGIEG\r",
+        "party_id": "                                                            256668M",
+        "address": "44,AMARYLLIS,TRIQIT-TRUNCIERAT-TWILA,SANGWANNMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IVAN BUTTIGIEG\r",
+        "party_id": "                                                            256668M",
+        "address": "44,AMARYLLIS,TRIQIT-TRUNCIERAT-TWILA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALBERT FILLETTI\r",
+        "party_id": "                                                            291752M",
+        "address": "68,ANTONIOBOSIOSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IVAN BUTTIGIEG\r",
+        "party_id": "                                                            256668M",
+        "address": "44,AMARYLLIS,TRIQIT-TRUNCIERAT-TWILA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALBERT FILLETTI\r",
+        "party_id": "                                                            291752M",
+        "address": "68,ANTONIOBOSIOSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALBERT FILLETTI\r",
+        "party_id": "                                                            291752M",
+        "address": "68,ANTONIOBOSIOSTREET,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

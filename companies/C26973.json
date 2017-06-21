@@ -1,0 +1,59 @@
+{
+  "company_id": "C 26973",
+  "address": "25/16, VINCENTI BUILDINGS, STRAIT STREET,",
+  "name": "BREEZE SHIPPING LTD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Sep 22, 2000",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "FLAKE SHIPPING CORPORATION\r",
+        "party_id": "                                                            85301",
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "THEODORA PAPDOGIANNI\r",
+        "party_id": "                                                            AB0691539",
+        "address": "17,MAVROMICHALISTREET,VOULA,ATHENSGREECE",
+        "nationality": "GREEK",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "STUART MARSH\r",
+        "party_id": "                                                            443781M",
+        "address": "76,TRIQL-GHENIEQED,ATTARDATD2661MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

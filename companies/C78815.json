@@ -1,0 +1,107 @@
+{
+  "name": "APIUM MEDIA HOLDING LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Fortia Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA"
+      },
+      {
+        "name": "BENI GAG-EL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534151678",
+        "address": "LOCZYLAJOSUTCA5,1A,02BUDAPEST1022HUNGARY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Fortia Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA"
+      },
+      {
+        "name": "BENI GAG-EL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534151678",
+        "address": "LOCZYLAJOSUTCA5,1A,02BUDAPEST1022HUNGARY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JONATHAN CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79180M",
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Fortia Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA"
+      },
+      {
+        "name": "BENI GAG-EL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            534151678",
+        "address": "LOCZYLAJOSUTCA5,1A,02BUDAPEST1022HUNGARY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SANDOR ZELLES\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BB1503418",
+        "address": "TUSNADI,UTCA6/BBUDAPESTH-1125HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "Fortia Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 59813",
+        "address": "'SUSANCOURT',B1,TRIQIL-PRINJOLATATA'XBIEXXBX1130MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA,",
+  "company_id": "C 78815",
+  "registration_date": "Dec 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

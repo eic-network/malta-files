@@ -1,0 +1,109 @@
+{
+  "name": "AXERTUS LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KEVIN SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36477M",
+        "address": "TULIPTOWERSTREETMSIDAMSD1827MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERNEST BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11685M",
+        "address": "69,NATASHA,TRIQSANTUWISTINTARXIENTXN1151MALTA"
+      },
+      {
+        "name": "KEVIN SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36477M",
+        "address": "TULIPTOWERSTREETMSIDAMSD1827MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ERNEST BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11685M",
+        "address": "69,NATASHA,TRIQSANTUWISTINTARXIENTXN1151MALTA"
+      },
+      {
+        "name": "KEVIN SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36477M",
+        "address": "TULIPTOWERSTREETMSIDAMSD1827MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUCIENNE CINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19837",
+        "address": "ILVISCHIO,TRIQEWGENJUBORG,ZEBBUGZBG2392MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERNEST BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11685M",
+        "address": "69,NATASHA,TRIQSANTUWISTINTARXIENTXN1151MALTA"
+      },
+      {
+        "name": "KEVIN SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36477M",
+        "address": "TULIPTOWERSTREETMSIDAMSD1827MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERNEST BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11685M",
+        "address": "69,NATASHA,TRIQSANTUWISTINTARXIENTXN1151MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "KEVIN SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            36477M",
+        "address": "TULIPTOWERSTREETMSIDAMSD1827MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "38, LEVEL 2, EMANUEL SCHEMBRI STREET,",
+  "company_id": "C 43909",
+  "registration_date": "Apr 02, 2008",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

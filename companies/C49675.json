@@ -1,0 +1,78 @@
+{
+  "name": "ARCTIC-02 SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JENNIFER JONES\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            486988M",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/96",
+        "address": "4THFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VEB-LEASING EUROPE S.A.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B133948",
+        "address": "2,RUEHILDEGARDVONBINGEN,LUXEMBOURGL-1282LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 49675",
+  "registration_date": "May 17, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

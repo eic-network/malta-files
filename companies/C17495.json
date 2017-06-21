@@ -1,0 +1,115 @@
+{
+  "name": "BARTMIK TA' L-IKLIN LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 0.5
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 0.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BARTOLOMEO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328359M",
+        "address": "SANGUZEPP,TRIQIS-SALJATURA,MQABBAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BARTOLOMEO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328359M",
+        "address": "SANGUZEPP,TRIQIS-SALJATURA,MQABBAMALTA"
+      },
+      {
+        "name": "MICHAEL AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328259M",
+        "address": "FARMHOUSE,TA'L-IKLIN,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BARTOLOMEO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328359M",
+        "address": "SANGUZEPP,TRIQIS-SALJATURA,MQABBAMALTA"
+      },
+      {
+        "name": "MICHAEL AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328259M",
+        "address": "FARMHOUSE,TA'L-IKLIN,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL SCIORTINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04822",
+        "address": "KISSIMMEE,BLACKSEASTREET,ST.JULIANSSTJ1853MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BARTOLOMEO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328359M",
+        "address": "SANGUZEPP,TRIQIS-SALJATURA,MQABBAMALTA"
+      },
+      {
+        "name": "MICHAEL AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328259M",
+        "address": "FARMHOUSE,TA'L-IKLIN,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARTOLOMEO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328359M",
+        "address": "SANGUZEPP,TRIQIS-SALJATURA,MQABBAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "MICHAEL AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            328259M",
+        "address": "FARMHOUSE,TA'L-IKLIN,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "TA' L-IKLIN, SQAQ IL-MITHNA OFF MQABBA ROAD,",
+  "company_id": "C 17495",
+  "registration_date": "Jan 10, 1995",
+  "shares_currency": "EUR",
+  "locality": "QRENDI",
+  "status": "",
+  "total_authorised_shares": 3000
+}

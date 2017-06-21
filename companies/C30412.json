@@ -1,0 +1,38 @@
+{
+  "company_id": "C 30412",
+  "address": "1, COL. SAVONA STREET,",
+  "name": "BRAXTON HOLDINGS LTD",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Oct 25, 2002",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1999,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DELOITTE LIMITED\r",
+        "party_id": "                                                            C 16746",
+        "address": "DELOITTEPLACE,MRIEHELBY-PASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

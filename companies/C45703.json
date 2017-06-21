@@ -1,0 +1,91 @@
+{
+  "name": "BEN ESTATES LTD",
+  "total_issued_shares_value": 21500,
+  "total_authorised_shares_value": 21500,
+  "authorised_shares": [
+    {
+      "issued_shares": 21500,
+      "type": "Ordinary",
+      "authorised_share_capital": 21500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LOUIS FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            267455M",
+        "address": "52,'LAFIORITA',MONS.P.SAYDONSTREET,IKLINIKL1333MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Bernard Mangion\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546883M",
+        "address": "38,MediterraneanStreet,TheVillage,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Bernard Mangion\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546883M",
+        "address": "38,MediterraneanStreet,TheVillage,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Bernard Mangion\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546883M",
+        "address": "38,MediterraneanStreet,TheVillage,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Keith Cauchi\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            643882M",
+        "address": "3,Ondina,Triqis-Sibbiena,Baharic-CaghaqNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2150
+        }
+      },
+      {
+        "name": "Bernard Mangion\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            546883M",
+        "address": "38,MediterraneanStreet,TheVillage,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 19350
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 21500,
+  "address": "48, ERIN SERRACINO INGLOTT STREET,",
+  "company_id": "C 45703",
+  "registration_date": "Nov 28, 2008",
+  "shares_currency": "EUR",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 21500
+}

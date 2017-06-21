@@ -1,0 +1,70 @@
+{
+  "name": "AOSG COMPANY LIMITED",
+  "total_issued_shares_value": 500000,
+  "total_authorised_shares_value": 500000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500000,
+      "type": "Ordinary",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MUSTAFA BUZGAIA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            564923",
+        "address": "7W/5,MOHAMMEDBADAARSTREETNEWMAADICAIROEGYPT"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MUSTAFA BUZGAIA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            564923",
+        "address": "7W/5,MOHAMMEDBADAARSTREETNEWMAADICAIROEGYPT"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "TANYA SCIBERRAS CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            310267M",
+        "address": "8,STFRANCISSTREET,RABATRBT1062MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MUSTAFA BUZGAIA\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            564923",
+        "address": "7W/5,MOHAMMEDBADAARSTREETNEWMAADICAIROEGYPT"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 68292",
+        "address": "20/1,REPUBLICSTREETVALLETTAVLT1111MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500000,
+  "address": "20/1, REPUBLIC STREET",
+  "company_id": "C 68594",
+  "registration_date": "Jan 16, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500000
+}

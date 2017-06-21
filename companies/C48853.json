@@ -1,0 +1,91 @@
+{
+  "name": "BAKER TILLY MALTA LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DONALD SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599260M",
+        "address": "L'ETOILE,6,TRIQIL-PAGUNI,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DONALD SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599260M",
+        "address": "L'ETOILE,6,TRIQIL-PAGUNI,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DONALD SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599260M",
+        "address": "L'ETOILE,6,TRIQIL-PAGUNI,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ADRIAN MILLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01889",
+        "address": "DESAINCRT,FLAT1,TRIQIT-TAMAL,ST.JULIANSSTJ1942MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DONALD SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599260M",
+        "address": "L'ETOILE,6,TRIQIL-PAGUNI,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BERTRAND SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            257893M",
+        "address": "L'ETOILE,TRIQIL-PAGUNI,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 180
+        }
+      },
+      {
+        "name": "DONALD SANT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599260M",
+        "address": "L'ETOILE,6,TRIQIL-PAGUNI,BALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1020
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 5, ROSA MARINA BUILDING, 216, MARINA SEAFRONT",
+  "company_id": "C 48853",
+  "registration_date": "Feb 09, 2010",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

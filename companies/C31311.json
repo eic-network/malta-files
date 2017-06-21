@@ -1,0 +1,91 @@
+{
+  "name": "BLANCHE HOLDING LIMITED",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54056M",
+        "address": "7,'PAPILLON'TRIQL-INBIDATTARDATD2621MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CORPSERV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39878",
+        "address": "5/2MERCHANTSSTREETVALLETTAVLT10MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CORPSERV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39878",
+        "address": "5/2MERCHANTSSTREETVALLETTAVLT10MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTON CHETCUTI GANADO & ASSOCIATES\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/13/06",
+        "address": "5/2A,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CORPSERV LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39878",
+        "address": "5/2MERCHANTSSTREETVALLETTAVLT10MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3999
+        }
+      },
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "5/2, MERCHANTS STREET,",
+  "company_id": "C 31311",
+  "registration_date": "Apr 24, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

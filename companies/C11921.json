@@ -1,0 +1,95 @@
+{
+  "name": "BAC LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALEXANDER BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281758M",
+        "address": "FLATL,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMSD11MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281758M",
+        "address": "FLATL,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMSD11MALTA"
+      },
+      {
+        "name": "KEITH COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            70458M",
+        "address": "ENGELBERG,ST.PAULSTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CARM.A FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48008",
+        "address": "14,TRIQMINLER,SLIEMASLM1722MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281758M",
+        "address": "FLATL,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMSD11MALTA"
+      },
+      {
+        "name": "KEITH COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            70458M",
+        "address": "ENGELBERG,ST.PAULSTREET,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281758M",
+        "address": "FLATL,DOLPHINCOURT,EMBASSYWAY,TA'XBIEXMSD11MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "KEITH COLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            70458M",
+        "address": "ENGELBERG,ST.PAULSTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "52, AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 11921",
+  "registration_date": "Sep 14, 1990",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

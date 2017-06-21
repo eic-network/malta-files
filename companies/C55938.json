@@ -1,0 +1,97 @@
+{
+  "name": "APM SERVICES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHANIE CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            479586M",
+        "address": "23,TA'NAHLI,TRIQBIRRIX,KERCEM(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HARALD VOLLGRAF\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            548585789",
+        "address": "DEIPENBREDE21,BECKUM59269GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HARALD VOLLGRAF\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            548585789",
+        "address": "DEIPENBREDE21,BECKUM59269GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HARALD VOLLGRAF\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            548585789",
+        "address": "DEIPENBREDE21,BECKUM59269GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GCF HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50665",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "HKV MANAGEMENT GMBH\r",
+        "nationality": "",
+        "party_id": "                                                            HRB11232",
+        "address": "STERNSTRASSE7,BECKUM59269GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 55938",
+  "registration_date": "Apr 11, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

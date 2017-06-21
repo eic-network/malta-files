@@ -1,0 +1,91 @@
+{
+  "name": "AMG AUTOS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129983M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1900
+        }
+      },
+      {
+        "name": "MARIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            665858M",
+        "address": "134,ST.CATHERINESTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "134, ST. CATHERINE STREET,",
+  "company_id": "C 44888",
+  "registration_date": "Aug 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 2000
+}

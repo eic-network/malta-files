@@ -1,0 +1,133 @@
+{
+  "name": "ALVISA INTERNATIONAL COMPANY LIMITED",
+  "total_issued_shares_value": 106800,
+  "total_authorised_shares_value": 1700000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1067999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1067999,
+      "nominal_value_per_share": 0.1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 0.1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ASKENDEROV KAMIL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716539184",
+        "address": "70-226,NOSFILMOVSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      },
+      {
+        "name": "TATIANA NEFEDOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722896212",
+        "address": "75/1-347,KRASNOBOGATYRSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ASKENDEROV KAMIL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716539184",
+        "address": "70-226,NOSFILMOVSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      },
+      {
+        "name": "TATIANA NEFEDOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722896212",
+        "address": "75/1-347,KRASNOBOGATYRSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NOEL BUTTIGIEG SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            110751M",
+        "address": "VERDALAFLAT9,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ASKENDEROV KAMIL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716539184",
+        "address": "70-226,NOSFILMOVSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      },
+      {
+        "name": "TATIANA NEFEDOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            722896212",
+        "address": "75/1-347,KRASNOBOGATYRSKAYASTREET,MOSCOWRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASKENDEROV KAMIL\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716539184",
+        "address": "70-226,NOSFILMOVSKAYASTREET,MOSCOWRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1067999
+        }
+      },
+      {
+        "name": "ALEKSEI TSITSILIN\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            E17164921",
+        "address": "C.AbadessaOlzet11,P021BarcelonaSPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1068000,
+  "address": "93, MILL STREET,",
+  "company_id": "C 57138",
+  "registration_date": "Aug 02, 2012",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 17000000
+}

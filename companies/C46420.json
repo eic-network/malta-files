@@ -1,0 +1,99 @@
+{
+  "name": "ARKATA AVIATION LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "LEONARD CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429680M",
+        "address": "29,CLARENCESTREET,MSIDAPTA1290MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDRE DREYFUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CX78188",
+        "address": "80,OLDCOLLEGESTREETSLIEMASLM1378MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDRE DREYFUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CX78188",
+        "address": "80,OLDCOLLEGESTREETSLIEMASLM1378MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KEVIN J MAHONEY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04585",
+        "address": "75,SWEETMUSICK,TRIQIS-SIENJA,ATTARDATD1975MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDRE DREYFUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CX78188",
+        "address": "80,OLDCOLLEGESTREETSLIEMASLM1378MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ZOKAY INVESTMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1036115",
+        "address": "PASEAESTATE,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "ALEXANDRE DREYFUS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11CX78188",
+        "address": "80,OLDCOLLEGESTREETSLIEMASLM1378MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE 725) STRAIT STREET,",
+  "company_id": "C 46420",
+  "registration_date": "Mar 12, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

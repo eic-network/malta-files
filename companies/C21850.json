@@ -1,0 +1,59 @@
+{
+  "name": "ASPASIA CRUISES CO. LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NICOLA SGARRA\r",
+        "nationality": "",
+        "party_id": "                                                            AC3452445",
+        "address": "VIASANPANTALEOCAMPANO,ROME00149ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ULYSSES NAVIGATION CO. LTD.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 75
+        }
+      },
+      {
+        "name": "NICOLA SGARRA\r",
+        "nationality": "",
+        "party_id": "                                                            AC3452445",
+        "address": "VIASANPANTALEOCAMPANO,ROME00149ITALY",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 425
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "131, EAST STREET,",
+  "company_id": "C 21850",
+  "registration_date": "Sep 04, 1997",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

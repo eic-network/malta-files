@@ -1,0 +1,75 @@
+{
+  "company_id": "C 37750",
+  "address": "FLAT 12, LEVEL 31, CHARLES COURT,  ST LUKE'S ROAD, G'MANGIA",
+  "name": "BRIFIN HOLDING LIMITED",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jan 04, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SALVATORE BRINCH\r",
+        "party_id": "                                                            162920X",
+        "address": "3AFASE,ZPNAINDUSTRIALERAGUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIFIN FINANCE LIMITED\r",
+        "party_id": "                                                            C 29203",
+        "address": "DIXCARTHOUSEP.O.BOX598CHARLESTOWNSAINTKITTSANDNEVIS",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SALVATORE BRINCH\r",
+        "party_id": "                                                            162920X",
+        "address": "3AFASE,ZPNAINDUSTRIALERAGUSAITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALVATORE BRINCH\r",
+        "party_id": "                                                            162920X",
+        "address": "3AFASE,ZPNAINDUSTRIALERAGUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SALVATORE BRINCH\r",
+        "party_id": "                                                            162920X",
+        "address": "3AFASE,ZPNAINDUSTRIALERAGUSAITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

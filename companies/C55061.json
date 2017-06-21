@@ -1,0 +1,91 @@
+{
+  "company_id": "C 55061",
+  "address": "Room 4, Office 18, Block 19 Vincenti Bld, Strait street",
+  "name": "BOURTON HOLDINGS LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Jan 20, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "OKSANA DALLI\r",
+        "party_id": "                                                            182000L",
+        "address": "6B,XGHAJRABEACHMANSIONS,TRIQIL-KNISJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OKSANA DALLI\r",
+        "party_id": "                                                            182000L",
+        "address": "6B,XGHAJRABEACHMANSIONS,TRIQIL-KNISJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OKSANA DALLI\r",
+        "party_id": "                                                            182000L",
+        "address": "6B,XGHAJRABEACHMANSIONS,TRIQIL-KNISJA,XGHAJRAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "OLGA DITZEL\r",
+        "party_id": "                                                            51N5799193",
+        "address": "1/43,ST.FRANCISSTREET,BALZANMALTA",
+        "nationality": "RUSSIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAPHAEL ASCIAK\r",
+        "party_id": "                                                            04488",
+        "address": "31OAKHILLAPTSTRIQSCICLUNASLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

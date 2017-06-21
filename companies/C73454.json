@@ -1,0 +1,83 @@
+{
+  "name": "AMILCAR LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50,
+      "type": "Ordinary",
+      "authorised_share_capital": 50,
+      "nominal_value_per_share": 1000
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KATE BENTLEY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            760739219",
+        "address": "611,OCEANHEIGHTS,FISHMARKETLANE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL JOHN LAVIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            506928400",
+        "address": "11,LEICESTERROAD,HALE,ALTRINCHAMWA159QAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      },
+      {
+        "name": "RUTH MARION TOBIAS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            506327388",
+        "address": "11,LEICESTERROAD,HALE,ALTRINCHAMWA159QAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 73454",
+  "registration_date": "Dec 09, 2015",
+  "shares_currency": "CHF",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50
+}

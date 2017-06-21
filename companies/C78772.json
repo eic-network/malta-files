@@ -1,0 +1,83 @@
+{
+  "company_id": "C 78772",
+  "address": "4, V. DIMECH STREET",
+  "name": "BRANDS AND MORE LTD",
+  "locality": "FLORIANA",
+  "status": "",
+  "registration_date": "Dec 20, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MARIO MIZZI\r",
+        "party_id": "                                                            24152M",
+        "address": "6,YONDI,TRIQIL-HEMEL,SWIEQISWQ3058MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUCIE IRMLEROVA\r",
+        "party_id": "                                                            42898781",
+        "address": "SENZENKOVA180JESENICE-OSNICECZ-25242CZECHREPUBLIC",
+        "nationality": "CZECH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "UDO IRMLER\r",
+        "party_id": "                                                            C4WN4CJMN",
+        "address": "SENZENKOVA180JESENICE-OSNICECZ-25242CZECHREPUBLIC",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIO MIZZI\r",
+        "party_id": "                                                            24152M",
+        "address": "6,YONDI,TRIQIL-HEMEL,SWIEQISWQ3058MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIO MIZZI\r",
+        "party_id": "                                                            24152M",
+        "address": "6,YONDI,TRIQIL-HEMEL,SWIEQISWQ3058MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "STEPHEN MUSCAT\r",
+        "party_id": "                                                            460561M",
+        "address": "17,'KEVMAN',FLAT1,TRIQID-DENCI,MELLIEHAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

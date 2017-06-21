@@ -1,0 +1,91 @@
+{
+  "name": "AZURE WINDOW HOLDINGS LTD",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FENLEX CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 25993",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 650
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "85 ST. JOHN STREET",
+  "company_id": "C 36848",
+  "registration_date": "Aug 26, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

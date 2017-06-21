@@ -1,0 +1,86 @@
+{
+  "name": "A and D Investments Ltd",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOSEPH SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            670050M",
+        "address": "19,FLAT1,PORTICOMANSIONS,TRIQSANPAWL,NAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELEONORA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153881M",
+        "address": "19,ST.NICHOLASSTREET,SIGGIEWIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ELEONORA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153881M",
+        "address": "19,ST.NICHOLASSTREET,SIGGIEWIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ELEONORA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153881M",
+        "address": "19,ST.NICHOLASSTREET,SIGGIEWIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ELEONORA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153881M",
+        "address": "19,ST.NICHOLASSTREET,SIGGIEWIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELEONORA AGUIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            153881M",
+        "address": "19,ST.NICHOLASSTREET,SIGGIEWIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "19,  ST NICHOLAS STREET,",
+  "company_id": "C 37276",
+  "registration_date": "Nov 10, 2005",
+  "shares_currency": "EUR",
+  "locality": "SIGGIEWI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

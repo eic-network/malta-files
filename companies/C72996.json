@@ -1,0 +1,83 @@
+{
+  "name": "ARM23 HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PATRIZIO PROSPERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            179202L",
+        "address": "PENTHOUSE5,SANTAMARIACOURT,TRIQIZ-ZRAGENATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRIZIO PROSPERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            179202L",
+        "address": "PENTHOUSE5,SANTAMARIACOURT,TRIQIZ-ZRAGENATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRIZIO PROSPERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            179202L",
+        "address": "PENTHOUSE5,SANTAMARIACOURT,TRIQIZ-ZRAGENATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PATRIZIO PROSPERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            179202L",
+        "address": "PENTHOUSE5,SANTAMARIACOURT,TRIQIZ-ZRAGENATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ACHILLE DE PASQUALE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA6023148",
+        "address": "VIANUOVALUCE,73,SC.C,P.5TREMESTIERIETNEOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "RICCARDO NAPOLITANO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA7300203",
+        "address": "C.TRIESTE63BROME00196ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SKYWAY OFFICES, SUITE 8, BLOCK C, 179, MARINA SEAFRONT",
+  "company_id": "C 72996",
+  "registration_date": "Nov 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 1200
+}

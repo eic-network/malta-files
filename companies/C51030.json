@@ -1,0 +1,97 @@
+{
+  "name": "Back Seat Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KRISTIANNE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            551188M",
+        "address": "45,SARAJANE,VALLETTAROAD,ATTARDATD9052MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RANIS EDENBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            89980758",
+        "address": "KARLMARXALLEE,96,BERLIN10243GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RANIS EDENBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            89980758",
+        "address": "KARLMARXALLEE,96,BERLIN10243GERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RANIS EDENBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            89980758",
+        "address": "KARLMARXALLEE,96,BERLIN10243GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RANIS EDENBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            89980758",
+        "address": "KARLMARXALLEE,96,BERLIN10243GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ANITA YLIPAA\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            88296410",
+        "address": "LIANIO4314,VITTANGI98010SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "REGENT HOUSE 52, FIFTH FLOOR, BISAZZA STREET,",
+  "company_id": "C 51030",
+  "registration_date": "Nov 01, 2010",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

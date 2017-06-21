@@ -1,0 +1,78 @@
+{
+  "name": "BENATA TRADING INTERNATIONAL LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA ABELA MARSALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403671M",
+        "address": "71FLAT16,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA ABELA MARSALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403671M",
+        "address": "71FLAT16,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA ABELA MARSALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403671M",
+        "address": "71FLAT16,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIA ABELA MARSALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            403671M",
+        "address": "71FLAT16,THESTRAND,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARK NWOKO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            30043A",
+        "address": "21,TIMMAZ,FLAT2,TRIQCENSUTANTI,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "43, TRIQ IL-LUNZJATA,",
+  "company_id": "C 46059",
+  "registration_date": "Jan 19, 2009",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

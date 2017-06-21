@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 2000,
+  "registration_date": "Jan 06, 2016",
+  "status": "",
+  "locality": "MOSTA",
+  "name": "BUE MARIA INVESTMENT LIMITED",
+  "total_issued_shares": 2000,
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3 - SUITE 3, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 73849",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 58816",
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 58816",
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDI,SIGGIEWISGW2011MALTA",
+        "party_id": "                                                            275579M",
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 58816",
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1999,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 25
+        },
+        "address": "7,RUEGUILLAUMEJ.KROLL,LUXEMBOURGL-1882LUXEMBOURG",
+        "party_id": "                                                            B202680",
+        "name": "ANNABEL SECURITIES SA\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 25
+        },
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 58816",
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "shares_currency": "EUR"
+}

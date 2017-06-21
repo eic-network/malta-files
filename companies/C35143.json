@@ -1,0 +1,109 @@
+{
+  "name": "blue-infinity Ltd.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RAYMOND ALFRED VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            16959M",
+        "address": "RUBYCOURT,APARTMENT6,ANDREADEBONOSTREET,BIRGUMA,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN CALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190852M",
+        "address": "LAPORTICA,TRIQIS-SIRK,SWIEQI,SWIEQISWQ3214MALTA"
+      },
+      {
+        "name": "CHRISTOPHE RENE' BERNARD MARTIN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14DK95136",
+        "address": "5,ROUTEDEL'EGLISE,COMMUGNY1291SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEAN CALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190852M",
+        "address": "LAPORTICA,TRIQIS-SIRK,SWIEQI,SWIEQISWQ3214MALTA"
+      },
+      {
+        "name": "CHRISTOPHE RENE' BERNARD MARTIN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14DK95136",
+        "address": "5,ROUTEDEL'EGLISE,COMMUGNY1291SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JEAN CALI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            190852M",
+        "address": "LAPORTICA,TRIQIS-SIRK,SWIEQI,SWIEQISWQ3214MALTA"
+      },
+      {
+        "name": "CHRISTOPHE RENE' BERNARD MARTIN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            14DK95136",
+        "address": "5,ROUTEDEL'EGLISE,COMMUGNY1291SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AEGIS GROUP PARTICIPATIONS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            06673979",
+        "address": "10TRITONSTREET,REGENT'SPLACE,LONDONNW13BFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "AEGIS INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            03118854",
+        "address": "10TRITONSTREET,REGENT'SPLACE,LONDONNW13BFUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "CALI HOUSE, TRIQ TAL-BALAL,",
+  "company_id": "C 35143",
+  "registration_date": "Dec 01, 2004",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

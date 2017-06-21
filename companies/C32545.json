@@ -1,0 +1,89 @@
+{
+  "name": "ASTRAL INDUSTRIAL CORPORATION LIMITED",
+  "total_issued_shares_value": 25000,
+  "total_authorised_shares_value": 30000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 24999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 29999999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SUKHMEET SINGH ANAND\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1149012",
+        "address": "FLAT709,WAFIRESIDENCE,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SUKHMEET SINGH ANAND\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1149012",
+        "address": "FLAT709,WAFIRESIDENCE,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MELINA MARY WILBY\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            E5664907",
+        "address": "2,RAJAVELLIMUDALISTREET,KASSIMODEMADRASTAMILNADUINDIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SUKHMEET SINGH ANAND\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1149012",
+        "address": "FLAT709,WAFIRESIDENCE,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SUN CORPORATION LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32514",
+        "address": "1,COLSAVONASTREET,SLIEMASLM07MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 24999
+        }
+      },
+      {
+        "name": "SAVONA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22910",
+        "address": "LEVEL1,LMCOMPLEX,BREWERYSTREET,MRIEHELBIRKIRKARABKR3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "1, COL. SAVONA STREET,",
+  "company_id": "C 32545",
+  "registration_date": "Nov 26, 2003",
+  "shares_currency": "USD",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 30000000
+}

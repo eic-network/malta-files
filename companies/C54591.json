@@ -1,0 +1,103 @@
+{
+  "name": "BKE PROPERTY COMPANY LIMITED",
+  "total_issued_shares_value": 10000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FRANCIS GALEA SALOMONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            533371M",
+        "address": "2,ST.AUGUSTINEAVENUE,RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DEEPAK SRINIVAS PADMANABHAN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1849335",
+        "address": "VILLANO.10,STREET5,MEADOWS5EMIRATESHILLS,POSTBOX44666DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CORY GREENLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371097M",
+        "address": "6,TRIQIL-GIRGAL,MARSASCALAMALTA"
+      },
+      {
+        "name": "DEEPAK SRINIVAS PADMANABHAN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1849335",
+        "address": "VILLANO.10,STREET5,MEADOWS5EMIRATESHILLS,POSTBOX44666DUBAIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "NIKHIL PATIL\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1801845",
+        "address": "2,VARDENSROAD,LONDONSW111RHUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78,MILLSTREET,QORMIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DEEPAK SRINIVAS PADMANABHAN\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z1849335",
+        "address": "VILLANO.10,STREET5,MEADOWS5EMIRATESHILLS,POSTBOX44666DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MALTA PROPERTIES COMPANY P.L.C.\r",
+        "nationality": "",
+        "party_id": "                                                            C 51272",
+        "address": "TRIQEMVINCREMONA,FLORIANAFRN1281MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999
+        }
+      },
+      {
+        "name": "MCB PROPERTY COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51493",
+        "address": "TRIQEMVINCREMONA,FLORIANAFRN1281MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "TRIQ EMVIN CREMONA,",
+  "company_id": "C 54591",
+  "registration_date": "Dec 01, 2011",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

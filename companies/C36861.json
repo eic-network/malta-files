@@ -1,0 +1,76 @@
+{
+  "name": "B&B MH 3 Co. Limited",
+  "total_issued_shares_value": 19410341.5,
+  "total_authorised_shares_value": 20000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6470113,
+      "type": "Ordinary",
+      "authorised_share_capital": 6666000,
+      "nominal_value_per_share": 3
+    },
+    {
+      "issued_shares": 250,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARK SOMERVILLE FRANK HATHERLY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4045962",
+        "address": "11,RUEJ-FKENNEDY,OLML-8332LUXEMBOURG"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARK SOMERVILLE FRANK HATHERLY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4045962",
+        "address": "11,RUEJ-FKENNEDY,OLML-8332LUXEMBOURG"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/01",
+        "address": "FOURTHFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARK SOMERVILLE FRANK HATHERLY\r",
+        "nationality": "AUSTRALIAN",
+        "party_id": "                                                            E4045962",
+        "address": "11,RUEJ-FKENNEDY,OLML-8332LUXEMBOURG"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "B&B MH 1 CO. LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36322",
+        "address": "171,OldBakeryStreet,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 3,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6470113
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6470363,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 36861",
+  "registration_date": "Aug 30, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 6866000
+}

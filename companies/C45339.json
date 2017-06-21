@@ -1,0 +1,70 @@
+{
+  "total_issued_shares_value": 2000,
+  "registration_date": "Oct 13, 2008",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BT1 Shipping Company Ltd",
+  "total_issued_shares": 2000,
+  "address": "LEVEL 2, WHITEHALL MANSIONS TA' XBIEX SEAFRONT",
+  "company_id": "C 45339",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJA,ST.PAUL'SBAYMALTA",
+        "party_id": "                                                            501758M",
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJA,ST.PAUL'SBAYMALTA",
+        "party_id": "                                                            501758M",
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "VENUS,FLAT2,CAPUCHINSTREET,SANGWANNMALTA",
+        "party_id": "                                                            685453M",
+        "name": "PATRICK AGIUS\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJA,ST.PAUL'SBAYMALTA",
+        "party_id": "                                                            501758M",
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "IS-SIENJA,ST.GEORGE'SROAD,WARDIJA,ST.PAUL'SBAYMALTA",
+        "party_id": "                                                            501758M",
+        "name": "PAUL HILI\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "shares_currency": "USD"
+}

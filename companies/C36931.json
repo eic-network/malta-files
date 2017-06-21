@@ -1,0 +1,75 @@
+{
+  "name": "BioNov Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FADEL KAMEL BURSHAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NJ5241990",
+        "address": "DAMPSTRAAT70,6226GLMAASTRICHTBELGIUMBELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FADEL KAMEL BURSHAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NJ5241990",
+        "address": "DAMPSTRAAT70,6226GLMAASTRICHTBELGIUMBELGIUM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FADEL KAMEL BURSHAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NJ5241990",
+        "address": "DAMPSTRAAT70,6226GLMAASTRICHTBELGIUMBELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FADEL KAMEL BURSHAN\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            NJ5241990",
+        "address": "DAMPSTRAAT70,6226GLMAASTRICHTBELGIUMBELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CAREEN-ANGELA SCHROETER\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            4111221989",
+        "address": "BECANUSSTRAAT17,6216BXMAASTRICHTBELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "NO. 8, SECOND FLOOR, NORTHFIELDS APARTMENTS, INDEPENDENCE AVENUE,",
+  "company_id": "C 36931",
+  "registration_date": "Sep 13, 2005",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

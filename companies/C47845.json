@@ -1,0 +1,97 @@
+{
+  "name": "ARK LOGISTICS & TRADE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "YURY ARISHIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716788153",
+        "address": "21,APT16,STEPNOYSTR.,AZOV,ROSTOVREGION346678RUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YURY ARISHIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716788153",
+        "address": "21,APT16,STEPNOYSTR.,AZOV,ROSTOVREGION346678RUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YURY ARISHIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716788153",
+        "address": "21,APT16,STEPNOYSTR.,AZOV,ROSTOVREGION346678RUSSIANFEDERATION"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "YURY ARISHIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716788153",
+        "address": "21,APT16,STEPNOYSTR.,AZOV,ROSTOVREGION346678RUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "YURY ARISHIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            716788153",
+        "address": "21,APT16,STEPNOYSTR.,AZOV,ROSTOVREGION346678RUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "NIKOLAY SELEZNEV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            700821954",
+        "address": "ST.IVANVLADIIKOV25,VARNA9021BULGARIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1ST FLOOR, SUITE 3, CENTRAL BUSINESS CENTRE, MDINA ROAD,",
+  "company_id": "C 47845",
+  "registration_date": "Oct 02, 2009",
+  "shares_currency": "EUR",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 1500
+}

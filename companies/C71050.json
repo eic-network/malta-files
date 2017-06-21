@@ -1,0 +1,95 @@
+{
+  "name": "BAK HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BRENDAN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0022765",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "3A FIDUCIARY SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 47551",
+        "address": "LEVEL2,PALAZZOCA'BRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      },
+      {
+        "name": "BRENDAN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0022765",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BRENDAN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0022765",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRENDAN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0022765",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRENDAN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            LB0022765",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "KAREN MORRISSEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB7267402",
+        "address": "THEPINKHOUSE,KELLS,KILKENNYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ROOM 1 LEVEL 2, PALAZZO CA' BRUGNERA, VALLEY ROAD,",
+  "company_id": "C 71050",
+  "registration_date": "Jun 12, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

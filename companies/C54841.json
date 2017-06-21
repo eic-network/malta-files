@@ -1,0 +1,133 @@
+{
+  "name": "AVANTIUM PARTNERS LIMITED",
+  "total_issued_shares_value": 6000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198051M",
+        "address": "6,BENNYFLATS,HUGHESHALLETSTREET,SLIEMASLM3143MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198051M",
+        "address": "6,BENNYFLATS,HUGHESHALLETSTREET,SLIEMASLM3143MALTA"
+      },
+      {
+        "name": "SHIRIN S. HEINRICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLJ4Y4P",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      },
+      {
+        "name": "ARND EUGEN SIELING\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLNOMJN",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198051M",
+        "address": "6,BENNYFLATS,HUGHESHALLETSTREET,SLIEMASLM3143MALTA"
+      },
+      {
+        "name": "SHIRIN S. HEINRICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLJ4Y4P",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      },
+      {
+        "name": "ARND EUGEN SIELING\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLNOMJN",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FACT AUDIT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/15",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            198051M",
+        "address": "6,BENNYFLATS,HUGHESHALLETSTREET,SLIEMASLM3143MALTA"
+      },
+      {
+        "name": "SHIRIN S. HEINRICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLJ4Y4P",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      },
+      {
+        "name": "ARND EUGEN SIELING\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLNOMJN",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SHIRIN S. HEINRICH\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLJ4Y4P",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "ARND EUGEN SIELING\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C4YLNOMJN",
+        "address": "TANNENRIEDSTRASSE16,HORGENCH-8810SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6000,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 54841",
+  "registration_date": "Dec 23, 2011",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

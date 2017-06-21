@@ -1,0 +1,88 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Dec 03, 2015",
+  "status": "",
+  "locality": "PAOLA",
+  "name": "BTK COMPANY LTD",
+  "total_issued_shares": 1200,
+  "address": "\"CROSSBOW HOUSE\", 78 COSPICUA ROAD,",
+  "company_id": "C 73370",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "BLUESKYAPARTMENTSANTHONYSAMMUTSTREETMELLIEHAMALTA",
+        "party_id": "                                                            011018088",
+        "name": "RADOVAN JOVANOVIC\r",
+        "nationality": "SERBIAN"
+      },
+      {
+        "address": "55,FLAT1TRIQTA'MASRIJAMELLIEHAMALTA",
+        "party_id": "                                                            012354474",
+        "name": "BILJANA SPIRIC\r",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "BLUESKYAPARTMENTSANTHONYSAMMUTSTREETMELLIEHAMALTA",
+        "party_id": "                                                            011018088",
+        "name": "RADOVAN JOVANOVIC\r",
+        "nationality": "SERBIAN"
+      },
+      {
+        "address": "55,FLAT1TRIQTA'MASRIJAMELLIEHAMALTA",
+        "party_id": "                                                            012354474",
+        "name": "BILJANA SPIRIC\r",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "CROSSBOWHOUSE,78,COSPICUAROAD,PAOLAMALTA",
+        "party_id": "                                                            534687M",
+        "name": "JONATHAN VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "BLUESKYAPARTMENTSANTHONYSAMMUTSTREETMELLIEHAMALTA",
+        "party_id": "                                                            011018088",
+        "name": "RADOVAN JOVANOVIC\r",
+        "nationality": "SERBIAN"
+      },
+      {
+        "address": "55,FLAT1TRIQTA'MASRIJAMELLIEHAMALTA",
+        "party_id": "                                                            012354474",
+        "name": "BILJANA SPIRIC\r",
+        "nationality": "SERBIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1200,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "55,FLAT1TRIQTA'MASRIJAMELLIEHAMALTA",
+        "party_id": "                                                            012354474",
+        "name": "BILJANA SPIRIC\r",
+        "nationality": "SERBIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

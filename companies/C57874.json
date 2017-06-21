@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Oct 15, 2012",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "BUCCANEER HOLDINGS LIMITED",
+  "total_issued_shares": 1200,
+  "address": "THE PENTHOUSE, CAROLINA COURT, TRIQ GUZEPPI CALI,",
+  "company_id": "C 57874",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "39DEERPATHCLOSE,DAINFERN,JOHANNESBURGSOUTHAFRICA",
+        "party_id": "                                                            M00051739",
+        "name": "LOURENS ANDRIES STEPHANUS DU PLESSIS\r",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "12,HAMPSHIRECOURT,PLANTATIONROAD,DEVILSPEAK,CAPETOWN8001SOUTHAFRICA",
+        "party_id": "                                                            451477291",
+        "name": "JEAN MARIUS SLABBERT\r",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "39DEERPATHCLOSE,DAINFERN,JOHANNESBURGSOUTHAFRICA",
+        "party_id": "                                                            M00051739",
+        "name": "LOURENS ANDRIES STEPHANUS DU PLESSIS\r",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "39DEERPATHCLOSE,DAINFERN,JOHANNESBURGSOUTHAFRICA",
+        "party_id": "                                                            M00051739",
+        "name": "LOURENS ANDRIES STEPHANUS DU PLESSIS\r",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA",
+        "party_id": "                                                            19007",
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "1AGISLAVRASFLAT304,THEMISTOKLIDERVI,41,HAWAIINICOSIATOWER,2NDFLOOR,FLAT/OFFICE202,1066,NICOSIACYPRUS",
+        "party_id": "                                                            HE303301",
+        "name": "HEX PUBLICITY LTD.\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "12,HAMPSHIRECOURT,PLANTATIONROAD,DEVILSPEAK,CAPETOWN8001SOUTHAFRICA",
+        "party_id": "                                                            451477291",
+        "name": "JEAN MARIUS SLABBERT\r",
+        "nationality": "SOUTH AFRICAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200,
+      "authorised_share_capital": 1200,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

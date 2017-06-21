@@ -1,0 +1,89 @@
+{
+  "name": "AUCEAN LIMITED",
+  "total_issued_shares_value": 8000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "YALCIN CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            105309",
+        "address": "UCHISARTEKELLIM.HANONUS.NO:16NEVSEHIR50240TURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YALCIN CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            105309",
+        "address": "UCHISARTEKELLIM.HANONUS.NO:16NEVSEHIR50240TURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "YALCIN CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            105309",
+        "address": "UCHISARTEKELLIM.HANONUS.NO:16NEVSEHIR50240TURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YALCIN CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            105309",
+        "address": "UCHISARTEKELLIM.HANONUS.NO:16NEVSEHIR50240TURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLORENCE AUREART\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            04EF14185",
+        "address": "PRADIGO,MELRAND56310FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 75,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4000
+        }
+      },
+      {
+        "name": "YALCIN CELIK\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            105309",
+        "address": "UCHISARTEKELLIM.HANONUS.NO:16NEVSEHIR50240TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 75,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 8000,
+  "address": "EMERALD, FLAT 7, GIOVANNI SCHRANZ STREET",
+  "company_id": "C 43270",
+  "registration_date": "Jan 07, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

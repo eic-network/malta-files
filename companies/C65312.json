@@ -1,0 +1,91 @@
+{
+  "name": "A&A INVESTMENT LIMITED",
+  "total_issued_shares_value": 1168,
+  "total_authorised_shares_value": 1168,
+  "authorised_shares": [
+    {
+      "issued_shares": 1168,
+      "type": "Ordinary",
+      "authorised_share_capital": 1168,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN A PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            367081M",
+        "address": "402,THEMETROPOLE,SIRA.DINGLISTREET,SLIEMASLM1902MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT EBEJER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10101",
+        "address": "IL-MUFTIEH,TRIQSANPATRIZJU,ZABBARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 10943",
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SZABOLCS CSAPO\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BA1227313",
+        "address": "BEREGSZASZU.71.1/5,BUDAPEST1118HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 584
+        }
+      },
+      {
+        "name": "TAMASSY ZSOLT\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BD6754491",
+        "address": "MUNKASOTTHAONUTC70-72,BUDAPEST1042HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 584
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1168,
+  "address": "TOWER GATE PLACE TAL-QROQQ STREET",
+  "company_id": "C 65312",
+  "registration_date": "May 26, 2014",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1168
+}

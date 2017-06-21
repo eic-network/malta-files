@@ -1,0 +1,93 @@
+{
+  "name": "ALTERUM TRADING LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OLEKSANDR BLIZNYUK\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0656801",
+        "address": "9NAXOUSTREETIPSONASLIMASSOL4167CYPRUS"
+      },
+      {
+        "name": "SIMON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77667M",
+        "address": "2,TRIQIL-MAJJISTRAL,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLEKSANDR BLIZNYUK\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0656801",
+        "address": "9NAXOUSTREETIPSONASLIMASSOL4167CYPRUS"
+      },
+      {
+        "name": "SIMON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77667M",
+        "address": "2,TRIQIL-MAJJISTRAL,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLEKSANDR BLIZNYUK\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0656801",
+        "address": "9NAXOUSTREETIPSONASLIMASSOL4167CYPRUS"
+      },
+      {
+        "name": "SIMON MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            77667M",
+        "address": "2,TRIQIL-MAJJISTRAL,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "OLEKSANDR BLIZNYUK\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            P0656801",
+        "address": "9NAXOUSTREETIPSONASLIMASSOL4167CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "167, MERCHANTS STREET",
+  "company_id": "C 46653",
+  "registration_date": "Apr 16, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

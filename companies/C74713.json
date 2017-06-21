@@ -1,0 +1,125 @@
+{
+  "name": "BAYWEST BUSINESS (EUROPE) LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FELIX BITZIOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN2333177",
+        "address": "KADMOU4,DIONISOSATTIKIS14576GREECE"
+      },
+      {
+        "name": "STEPHEN KINES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ657840",
+        "address": "KLESU,3410,FRYDEK-MISTEK73801CZECHREPUBLIC"
+      },
+      {
+        "name": "STANISLAW PELCZAR\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EE0169974",
+        "address": "35,TRIQIL-HARRUBAIKLINIKL1900MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FELIX BITZIOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN2333177",
+        "address": "KADMOU4,DIONISOSATTIKIS14576GREECE"
+      },
+      {
+        "name": "STEPHEN KINES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ657840",
+        "address": "KLESU,3410,FRYDEK-MISTEK73801CZECHREPUBLIC"
+      },
+      {
+        "name": "STANISLAW PELCZAR\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EE0169974",
+        "address": "35,TRIQIL-HARRUBAIKLINIKL1900MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELIAN MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            171084M",
+        "address": "ANFIELDCRT,P/H10,LORENZOMANCHE'STREET,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FELIX BITZIOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AN2333177",
+        "address": "KADMOU4,DIONISOSATTIKIS14576GREECE"
+      },
+      {
+        "name": "STEPHEN KINES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ657840",
+        "address": "KLESU,3410,FRYDEK-MISTEK73801CZECHREPUBLIC"
+      },
+      {
+        "name": "STANISLAW PELCZAR\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EE0169974",
+        "address": "35,TRIQIL-HARRUBAIKLINIKL1900MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BAYWEST BUSINESS EUROPE LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            1909251",
+        "address": "PALMGROVEHOUSE,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "STEPHEN KINES\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            GJ657840",
+        "address": "KLESU,3410,FRYDEK-MISTEK73801CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SMARTCITY MALTA, SCM 01, FLOOR 4, 401, RICASOLI,",
+  "company_id": "C 74713",
+  "registration_date": "Mar 09, 2016",
+  "shares_currency": "EUR",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

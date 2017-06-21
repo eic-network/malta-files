@@ -1,0 +1,70 @@
+{
+  "name": "ANCHOR LEASING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ADRIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            54056M",
+        "address": "5/2,MERCHANTSSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "S & D YACHTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3476",
+        "address": "'SEABREEZE',GIUSEPPECALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "S & D YACHTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3476",
+        "address": "'SEABREEZE',GIUSEPPECALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "S & D YACHTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3476",
+        "address": "'SEABREEZE',GIUSEPPECALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JURGEN PETZOLD\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            F2939221",
+        "address": "HERTISTRASSE7BERTSCHIKONCH-8614SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SEA BREEZE, G. CALI STREET,",
+  "company_id": "C 54528",
+  "registration_date": "Nov 25, 2011",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

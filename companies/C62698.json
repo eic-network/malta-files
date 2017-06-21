@@ -1,0 +1,109 @@
+{
+  "name": "BLUEWAVE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSWE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154783M",
+        "address": "FROTTIL-HIDMA,SQAQSANVITOR,ZEJTUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443782M",
+        "address": "32,ADRIAN,TRIQTAL-PALAZZI,ZEJTUNMALTA"
+      },
+      {
+        "name": "JOSWE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154783M",
+        "address": "FROTTIL-HIDMA,SQAQSANVITOR,ZEJTUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443782M",
+        "address": "32,ADRIAN,TRIQTAL-PALAZZI,ZEJTUNMALTA"
+      },
+      {
+        "name": "JOSWE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154783M",
+        "address": "FROTTIL-HIDMA,SQAQSANVITOR,ZEJTUNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443782M",
+        "address": "32,ADRIAN,TRIQTAL-PALAZZI,ZEJTUNMALTA"
+      },
+      {
+        "name": "JOSWE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154783M",
+        "address": "FROTTIL-HIDMA,SQAQSANVITOR,ZEJTUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN BARTOLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            443782M",
+        "address": "32,ADRIAN,TRIQTAL-PALAZZI,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "JOSWE SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154783M",
+        "address": "FROTTIL-HIDMA,SQAQSANVITOR,ZEJTUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "IL-HOFRIET, TRIQ SANTA KATERINA,",
+  "company_id": "C 62698",
+  "registration_date": "Nov 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

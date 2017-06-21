@@ -1,0 +1,78 @@
+{
+  "company_id": "C 43156",
+  "address": "HARD ROCKS INDUSTRIAL PARK TRIQ BURMARRAD",
+  "name": "BROWN AND RYE (RETAIL) LTD",
+  "locality": "NAXXAR",
+  "status": "",
+  "registration_date": "Dec 19, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 4500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 4500,
+  "total_authorised_shares_value": 4500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BROWN AND RYE CATERING LIMITED\r",
+        "party_id": "                                                            C 30676",
+        "address": "18,F.W.RYANSTREET,SANPAWLTAT-TARGANAXXARNXR06MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW DE GIORGIO\r",
+        "party_id": "                                                            751656M",
+        "address": "'VILLAMARGHERITA',F.WRYANSTREET,SANPAWLTAT-TARGA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NIKOLAI DE GIORGIO\r",
+        "party_id": "                                                            239694M",
+        "address": "4,TRIQIL-KAPPELLATAX-XAGHRA,SANPAWLTAT-TARGANAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

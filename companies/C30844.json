@@ -1,0 +1,83 @@
+{
+  "name": "BLACK DIAMOND SHIPPING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ALEX AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            81573M",
+        "address": "37,TRIQDUNMIKIELXERRI,ATTARDATD2023MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KONSTANTINOS KAMPANAROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            B410461",
+        "address": "41,ATHINASAVE.,VOULIAGMENIATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KONSTANTINOS KAMPANAROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            B410461",
+        "address": "41,ATHINASAVE.,VOULIAGMENIATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KONSTANTINOS KAMPANAROS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            B410461",
+        "address": "41,ATHINASAVE.,VOULIAGMENIATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARRIER MARITIME CO",
+        "nationality": "",
+        "party_id": "",
+        "address": "MAJUROMARSHALLISLANDS",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "ALEXANDROS DRAGNIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            T304212",
+        "address": "26,IEROLOCHITON,VOULA,ATHENSGREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "29 CHURCH STREET,",
+  "company_id": "C 30844",
+  "registration_date": "Jan 17, 2003",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

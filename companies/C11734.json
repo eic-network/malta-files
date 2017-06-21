@@ -1,0 +1,59 @@
+{
+  "name": "ARETI SHIPPING LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RICHARD J ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            284453M",
+        "address": "FLAT3,PINE,TAR-RAZZETTCOMPLEX,MILLSTREET,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GEOS (NOMINEE) LTD.",
+        "nationality": "",
+        "party_id": "",
+        "address": "10,SKOPASTREETNICOSIAGREECE",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "GOOD FAITH HOLDINGS LTD",
+        "nationality": "",
+        "party_id": "",
+        "address": "CEDARHOUSE,41,CEDARAVENUEHAMILTONHM12BERMUDA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "13/16, VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 11734",
+  "registration_date": "Jun 19, 1990",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

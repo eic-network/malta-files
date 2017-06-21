@@ -1,0 +1,89 @@
+{
+  "name": "BODY WORKS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 720,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 720,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 480,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 480,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BRYN KENNARD\r",
+        "nationality": "",
+        "party_id": "                                                            31542A",
+        "address": "70,SIRARTUROMERCIECASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRYN KENNARD\r",
+        "nationality": "",
+        "party_id": "                                                            31542A",
+        "address": "70,SIRARTUROMERCIECASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CAMILLERI GALEA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/70",
+        "address": "1STFLOOR,SUITE3,CENTRALBUSINESSCENTRE,MDINAROAD,ZEBBUGZBG9015MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRYN KENNARD\r",
+        "nationality": "",
+        "party_id": "                                                            31542A",
+        "address": "70,SIRARTUROMERCIECASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRYN KENNARD\r",
+        "nationality": "",
+        "party_id": "                                                            31542A",
+        "address": "70,SIRARTUROMERCIECASTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 720
+        }
+      },
+      {
+        "name": "Zeta Investments (Holding) Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 46865",
+        "address": "43/A1SAINTPAUL'SBUILDINGS,WESTSTREET,VALLETTAVLT1532MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 480
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "BODY WORKS, TRIQ WIED IL-GHOMOR, THE GARDENS,",
+  "company_id": "C 47568",
+  "registration_date": "Aug 20, 2009",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

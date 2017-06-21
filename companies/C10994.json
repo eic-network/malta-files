@@ -1,0 +1,91 @@
+{
+  "name": "B.S.A. LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BRIAN SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793460M",
+        "address": "20,TRIQIL-FENICI,SANTAMARGERITA,MOSTAMST2771MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793460M",
+        "address": "20,TRIQIL-FENICI,SANTAMARGERITA,MOSTAMST2771MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BRIAN SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793460M",
+        "address": "20,TRIQIL-FENICI,SANTAMARGERITA,MOSTAMST2771MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19816",
+        "address": "171,CHARLEROI,TRIQTUMASCHETCUTI,ATTARDATD3034MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793460M",
+        "address": "20,TRIQIL-FENICI,SANTAMARGERITA,MOSTAMST2771MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793460M",
+        "address": "20,TRIQIL-FENICI,SANTAMARGERITA,MOSTAMST2771MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "HENRY TESTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            741835M",
+        "address": "2,BIGBENTOWERS,TOWERSTREET,MSIDAMSD1405MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "295, SANTA MARGERITA,",
+  "company_id": "C 10994",
+  "registration_date": "Oct 04, 1989",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "ARTEMIS YACHTING LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 20
+    }
+  ],
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "name": "KAI UWE LAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5L0Z9ZTM",
+        "address": "AMKOHLWALD16,SEEHEIM,JUGENHEIM64342GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KAI UWE LAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5L0Z9ZTM",
+        "address": "AMKOHLWALD16,SEEHEIM,JUGENHEIM64342GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTINE ANNELIESE LAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            407720427",
+        "address": "AMKOHLWALD16,SEEHEIM,JUGENHEIM64342GERMANY",
+        "shares": {
+          "nominal_value_per_share": 20,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "KAI UWE LAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5L0Z9ZTM",
+        "address": "AMKOHLWALD16,SEEHEIM,JUGENHEIM64342GERMANY",
+        "shares": {
+          "nominal_value_per_share": 20,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 90
+        }
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KAI UWE LAUER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C5L0Z9ZTM",
+        "address": "AMKOHLWALD16,SEEHEIM,JUGENHEIM64342GERMANY"
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "114, THE STRAND,",
+  "company_id": "C 66962",
+  "registration_date": "Oct 06, 2014",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 100
+}

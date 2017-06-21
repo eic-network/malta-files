@@ -1,0 +1,75 @@
+{
+  "name": "AXB SUPPLIES LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ABDALLAH AHMAD NAWAFLEH\r",
+        "nationality": "JORDANIAN",
+        "party_id": "                                                            24907A",
+        "address": "GHOMAR,FL2,TRIQTAS-SLIEMAGZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABDALLAH AHMAD NAWAFLEH\r",
+        "nationality": "JORDANIAN",
+        "party_id": "                                                            24907A",
+        "address": "GHOMAR,FL2,TRIQTAS-SLIEMAGZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABDALLAH AHMAD NAWAFLEH\r",
+        "nationality": "JORDANIAN",
+        "party_id": "                                                            24907A",
+        "address": "GHOMAR,FL2,TRIQTAS-SLIEMAGZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHMAD ALSHAB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0407998M",
+        "address": "PORTICOFLAT15TRIQIL-MENSIJAST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "BADER ZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0283606L",
+        "address": "MARYFLAT12TRIQGORIMANCINIBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "RAYLUX, TRIQ CENSU FARRUGIA",
+  "company_id": "C 43451",
+  "registration_date": "Jan 31, 2008",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

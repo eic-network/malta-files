@@ -1,0 +1,89 @@
+{
+  "name": "AVANTGARDE CAPITAL PARTNERS LTD",
+  "total_issued_shares_value": 1201,
+  "total_authorised_shares_value": 1201,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANDRE ROOT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L4VNZ4PZ3",
+        "address": "FLAT3,TUDORCOURT10CTRIQBELVEDEREGZIRAGZR1113MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANDRE ROOT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L4VNZ4PZ3",
+        "address": "FLAT3,TUDORCOURT10CTRIQBELVEDEREGZIRAGZR1113MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "FLAT3JUNIPERHOUSE33TRIQSIRARTUROMERCIECASLIEMASLM1864MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDRE ROOT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L4VNZ4PZ3",
+        "address": "FLAT3,TUDORCOURT10CTRIQBELVEDEREGZIRAGZR1113MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDRE ROOT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            L4VNZ4PZ3",
+        "address": "FLAT3,TUDORCOURT10CTRIQBELVEDEREGZIRAGZR1113MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1200
+        }
+      },
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0067653A",
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1201,
+  "address": "48 STELLA MARIS STREET",
+  "company_id": "C 80162",
+  "registration_date": "Mar 24, 2017",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1201
+}

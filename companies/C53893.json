@@ -1,0 +1,109 @@
+{
+  "name": "BLUEBROWN HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PANAGIOTIS POULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5756549",
+        "address": "1ARGIROUPOLEOS,STKALLITHEA,ATHENSGREECE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IOANNIS KOUROUPIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5910413",
+        "address": "SIMONIDOU18,PALINI,ATHENSGREECE"
+      },
+      {
+        "name": "PANAGIOTIS POULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5756549",
+        "address": "1ARGIROUPOLEOS,STKALLITHEA,ATHENSGREECE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IOANNIS KOUROUPIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5910413",
+        "address": "SIMONIDOU18,PALINI,ATHENSGREECE"
+      },
+      {
+        "name": "PANAGIOTIS POULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5756549",
+        "address": "1ARGIROUPOLEOS,STKALLITHEA,ATHENSGREECE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAILEY AUDIT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/105",
+        "address": "SUITE3,1STFLOOR,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAVLT1103MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IOANNIS KOUROUPIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5910413",
+        "address": "SIMONIDOU18,PALINI,ATHENSGREECE"
+      },
+      {
+        "name": "PANAGIOTIS POULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5756549",
+        "address": "1ARGIROUPOLEOS,STKALLITHEA,ATHENSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IOANNIS KOUROUPIS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5910413",
+        "address": "SIMONIDOU18,PALINI,ATHENSGREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "PANAGIOTIS POULOS\r",
+        "nationality": "GREEK",
+        "party_id": "                                                            AE5756549",
+        "address": "1ARGIROUPOLEOS,STKALLITHEA,ATHENSGREECE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'VALLETTA BUILDINGS', 4TH FLOOR, SUITE 20, SOUTH STREET,",
+  "company_id": "C 53893",
+  "registration_date": "Sep 22, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

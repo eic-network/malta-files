@@ -1,0 +1,70 @@
+{
+  "name": "Anwar Overseas Ltd",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 100000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Musbah Abdalla Alhaj Ali\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            NY5799NZ",
+        "address": "210,Fl1,TriqManwelDimech,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Musbah Abdalla Alhaj Ali\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            NY5799NZ",
+        "address": "210,Fl1,TriqManwelDimech,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Adrian  Sciberras\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            224580M",
+        "address": "Ta'SanTumas,Blk2,Fl1,Triqil-Gandoffli,MARSASCALAMSK3012MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Musbah Abdalla Alhaj Ali\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            NY5799NZ",
+        "address": "210,Fl1,TriqManwelDimech,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Musbah Abdalla Alhaj Ali\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            NY5799NZ",
+        "address": "210,Fl1,TriqManwelDimech,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "Abacus Business Centre, Level 1, Dun Karm Street, B'Kara Bypass,",
+  "company_id": "C 70032",
+  "registration_date": "Apr 17, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

@@ -1,0 +1,75 @@
+{
+  "total_issued_shares_value": 3000,
+  "registration_date": "Dec 22, 2004",
+  "status": "",
+  "locality": "MSIDA",
+  "name": "BTS CONSULTING & SERVICES LTD",
+  "total_issued_shares": 30,
+  "address": "TOWER GATE PALACE, TAL-QROQQ STREET,",
+  "company_id": "C 35323",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "MYRDALSKOGEN355,ULSET,BERGEN5117NORWAY",
+        "party_id": "                                                            30679561",
+        "name": "TROND GORBITZ JUVIK\r",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "MYRDALSKOGEN355,ULSET,BERGEN5117NORWAY",
+        "party_id": "                                                            30679561",
+        "name": "TROND GORBITZ JUVIK\r",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "MYRDALSKOGEN355,ULSET,BERGEN5117NORWAY",
+        "party_id": "                                                            30679561",
+        "name": "TROND GORBITZ JUVIK\r",
+        "nationality": "NORWEGIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 100,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "TOWERGATEPLACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "party_id": "                                                            C 10943",
+        "name": "BDO CONSULT LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 29,
+          "nominal_value_per_share": 100,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "TOWERGATEPALACE,TAL-QROQQSTREET,MSIDAMSD1703MALTA",
+        "party_id": "                                                            C 35322",
+        "name": "BTS MEDITERRANEA HOLDING LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 100,
+      "issued_shares": 30,
+      "authorised_share_capital": 30,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 30,
+  "total_authorised_shares_value": 3000,
+  "shares_currency": "EUR"
+}

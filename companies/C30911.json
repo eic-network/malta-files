@@ -1,0 +1,59 @@
+{
+  "name": "AUS ENTERPRISES LIMITED",
+  "total_issued_shares_value": 2300,
+  "total_authorised_shares_value": 2300,
+  "authorised_shares": [
+    {
+      "issued_shares": 2300,
+      "type": "Ordinary",
+      "authorised_share_capital": 2300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "BUSUTTIL & MICALLEF\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/45",
+        "address": "11,L-UFFICJU,MISRAH28TA'FRAR1883,BIRKIRKARAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FJV FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23197",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1150
+        }
+      },
+      {
+        "name": "FJV FIDUCIARY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23197",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2300,
+  "address": "81-83, ST PAUL STREET,",
+  "company_id": "C 30911",
+  "registration_date": "Jan 29, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2300
+}

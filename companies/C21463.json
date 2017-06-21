@@ -1,0 +1,97 @@
+{
+  "name": "ALOAHA LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEFAN ENGELBERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            24664A",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFAN ENGELBERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            24664A",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFAN ENGELBERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            24664A",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG & ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/21",
+        "address": "A3TOWERS,BLOCKA3,LEVEL12,TRIQL-ARKATAPAOLAPLA1211MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STEFAN ENGELBERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            24664A",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOSEPHINE ENGELBERT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            460570M",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "STEFAN ENGELBERT\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            24664A",
+        "address": "45,HELGOLAND,GIOFELICEINGLOTTSTREET,PEMBROKEMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "45, HELGOLAND, GIO FELICE INGLOTT STREET,",
+  "company_id": "C 21463",
+  "registration_date": "May 28, 1997",
+  "shares_currency": "EUR",
+  "locality": "PEMBROKE",
+  "status": "",
+  "total_authorised_shares": 2000
+}

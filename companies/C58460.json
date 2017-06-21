@@ -1,0 +1,97 @@
+{
+  "name": "BLISS YACHT MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JAN HENRIK STOCKHAUSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            0072143A",
+        "address": "VILLABOLOGNASANANTONSTREETATTARDATD1282MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10921",
+        "address": "SUITE1,LEVEL2,TGCOMPLEX,BREWERYSTREET,MRIEHEL,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOERN BIELENBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            529019290",
+        "address": "BONNERRING71ERFTSTADT50374GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "QUAESTUM CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55404",
+        "address": "VILLABOLOGNA,SANANTONSTREET,ATTARDATD1282MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUITE 7,SAN MICHEL BUILDING,  110 ST. GEORGE'S STREET",
+  "company_id": "C 58460",
+  "registration_date": "Dec 04, 2012",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

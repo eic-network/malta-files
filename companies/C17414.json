@@ -1,0 +1,51 @@
+{
+  "name": "B.W. TRADING LIMITED",
+  "total_issued_shares_value": 41750,
+  "total_authorised_shares_value": 41750,
+  "authorised_shares": [
+    {
+      "issued_shares": 41750,
+      "type": "Ordinary",
+      "authorised_share_capital": 41750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 41749
+        }
+      },
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT10MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 41750,
+  "address": "5/2, MERCHANTS STREET,",
+  "company_id": "C 17414",
+  "registration_date": "Dec 18, 1991",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 41750
+}

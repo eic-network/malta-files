@@ -1,0 +1,127 @@
+{
+  "name": "APS Funds SICAV p.l.c.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Founder",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "BOV FUND SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39623",
+        "address": "58,ZACHARYSTREET,VALLETTAVLT1130MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "George Cassola\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            93249M",
+        "address": "96,St.FrancisStreet,BALZANBZN1424MALTA"
+      },
+      {
+        "name": "MARIO FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            426458M",
+        "address": "9,BASTIONSQUARE,MDINARBT12MALTA"
+      },
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "George Cassola\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            93249M",
+        "address": "96,St.FrancisStreet,BALZANBZN1424MALTA"
+      },
+      {
+        "name": "MARIO FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            426458M",
+        "address": "9,BASTIONSQUARE,MDINARBT12MALTA"
+      },
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ERNST & YOUNG\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/01",
+        "address": "FOURTHFLOOR,REGIONALBUSINESSCENTRE,ACHILLEFERRISSTREET,MSIDAMSD1751MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "George Cassola\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            93249M",
+        "address": "96,St.FrancisStreet,BALZANBZN1424MALTA"
+      },
+      {
+        "name": "MARIO FELICE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            426458M",
+        "address": "9,BASTIONSQUARE,MDINARBT12MALTA"
+      },
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "APS BANK LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2192",
+        "address": "APSHOUSE24ST.ANNESQUAREFLORIANAVLT16MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "AROM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40389",
+        "address": "ARCHBISHOP'SCURIA,ST.CALCEDONIUSSQUAREFLORIANAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Founder",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "APS Centre, Tower Street,",
+  "company_id": "SV 78",
+  "registration_date": "Jan 24, 2008",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,51 @@
+{
+  "name": "ARROW ENTERPRISES",
+  "total_issued_shares_value": 4658.74,
+  "total_authorised_shares_value": 4658.74,
+  "authorised_shares": [
+    {
+      "issued_shares": 465874,
+      "type": "",
+      "authorised_share_capital": 465874,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ADRIAN CARUANA MONTALDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            193065M",
+        "address": "46A,ST.AGATHASTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 232937
+        }
+      },
+      {
+        "name": "CONRAD CARUANA MONTALDO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            138572M",
+        "address": "72,CAMBRIDGECOURT,TIGNESTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 232937
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 465874,
+  "address": "46C, ST. AGATHA STREET,",
+  "company_id": "P 1068",
+  "registration_date": "Mar 02, 2006",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 465874
+}

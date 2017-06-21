@@ -1,0 +1,115 @@
+{
+  "name": "BIZ FRONT LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "OLGA CALAFATO\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            20262A",
+        "address": "21,DESTINYCOURT,FLAT1,LORRYSANTSTREET,FGURAFGR1280MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLGA CALAFATO\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            20262A",
+        "address": "21,DESTINYCOURT,FLAT1,LORRYSANTSTREET,FGURAFGR1280MALTA"
+      },
+      {
+        "name": "OSCAR CALAFATO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414769M",
+        "address": "DESTINYCOURTBLOCKC,FLAT1,TRIQLORRYSANT,FGURAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLGA CALAFATO\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            20262A",
+        "address": "21,DESTINYCOURT,FLAT1,LORRYSANTSTREET,FGURAFGR1280MALTA"
+      },
+      {
+        "name": "OSCAR CALAFATO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414769M",
+        "address": "DESTINYCOURTBLOCKC,FLAT1,TRIQLORRYSANT,FGURAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CA FALZON\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "OLGA CALAFATO\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            20262A",
+        "address": "21,DESTINYCOURT,FLAT1,LORRYSANTSTREET,FGURAFGR1280MALTA"
+      },
+      {
+        "name": "OSCAR CALAFATO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414769M",
+        "address": "DESTINYCOURTBLOCKC,FLAT1,TRIQLORRYSANT,FGURAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28,TRIQIL-PLUVIERA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 60,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "OSCAR CALAFATO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414769M",
+        "address": "DESTINYCOURTBLOCKC,FLAT1,TRIQLORRYSANT,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 60,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 299
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "26, TRIQ IL-PLUVIERA",
+  "company_id": "C 28003",
+  "registration_date": "Apr 04, 2001",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

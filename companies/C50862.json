@@ -1,0 +1,158 @@
+{
+  "name": "BAY HOLDINGS LIMITED",
+  "total_issued_shares_value": 10765000,
+  "total_authorised_shares_value": 15000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 7698750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 7698750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1283125,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1283125,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1283125,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1283125,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500000,
+      "type": "RedeemablePreference",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            381062M",
+        "address": "10,TRIQL-GHERIENBIRZEBBUGIAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KEITH JOHN BARBER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            308421243",
+        "address": "STARWOOD,CUTTINGLYEROADCRAWLEYDOWNWESTSUSSEXRH104LRUNITEDKINGDOM"
+      },
+      {
+        "name": "GARY HUMPHREYS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            107414456",
+        "address": "GODFREYHOUSE,EYHORNESTREET,HOLLINGBORNE,KENTME171TXUNITEDKINGDOM"
+      },
+      {
+        "name": "KEVIN RONALD SPENCER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800699101",
+        "address": "6,HUNGERSHALLPARK,TUNBRIDGEWELLS,KENTTN48NDUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KEITH JOHN BARBER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            308421243",
+        "address": "STARWOOD,CUTTINGLYEROADCRAWLEYDOWNWESTSUSSEXRH104LRUNITEDKINGDOM"
+      },
+      {
+        "name": "GARY HUMPHREYS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            107414456",
+        "address": "GODFREYHOUSE,EYHORNESTREET,HOLLINGBORNE,KENTME171TXUNITEDKINGDOM"
+      },
+      {
+        "name": "KEVIN RONALD SPENCER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800699101",
+        "address": "6,HUNGERSHALLPARK,TUNBRIDGEWELLS,KENTTN48NDUNITEDKINGDOM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KEITH JOHN BARBER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            308421243",
+        "address": "STARWOOD,CUTTINGLYEROADCRAWLEYDOWNWESTSUSSEXRH104LRUNITEDKINGDOM"
+      },
+      {
+        "name": "GARY HUMPHREYS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            107414456",
+        "address": "GODFREYHOUSE,EYHORNESTREET,HOLLINGBORNE,KENTME171TXUNITEDKINGDOM"
+      },
+      {
+        "name": "KEVIN RONALD SPENCER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800699101",
+        "address": "6,HUNGERSHALLPARK,TUNBRIDGEWELLS,KENTTN48NDUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEVIN RONALD SPENCER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            800699101",
+        "address": "6,HUNGERSHALLPARK,TUNBRIDGEWELLS,KENTTN48NDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7698750
+        }
+      },
+      {
+        "name": "GARY HUMPHREYS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            107414456",
+        "address": "GODFREYHOUSE,EYHORNESTREET,HOLLINGBORNE,KENTME171TXUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1283125
+        }
+      },
+      {
+        "name": "KEITH JOHN BARBER\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            308421243",
+        "address": "STARWOOD,CUTTINGLYEROADCRAWLEYDOWNWESTSUSSEXRH104LRUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1283125
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10765000,
+  "address": "4TH FLOOR, DEVELOPMENT HOUSE, ST. ANNE STREET,",
+  "company_id": "C 50862",
+  "registration_date": "Oct 13, 2010",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 15000000
+}

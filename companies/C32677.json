@@ -1,0 +1,105 @@
+{
+  "name": "ANAPOLE TECHNOLOGIES HOLDING LIMITED",
+  "total_issued_shares_value": 1201,
+  "total_authorised_shares_value": 1201,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 12
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VALENTINA MIRONOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N0878431",
+        "address": "FLAT1,BISHOPSUMHLANGAROCKS,UMHLANGAROCKS4319SOUTHAFRICA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BORIS KOKORIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N0878432",
+        "address": "APARTMENT10,33SIVTZEY-VRAJECKPEREULOCKMOSCOWRUSSIANFEDERATION"
+      },
+      {
+        "name": "VALENTINA MIRONOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N0878431",
+        "address": "FLAT1,BISHOPSUMHLANGAROCKS,UMHLANGAROCKS4319SOUTHAFRICA"
+      },
+      {
+        "name": "CAMERON SCOTT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            070118907",
+        "address": "29,LINDENLEE,STUBBSHILL,DORKING,SURREYUNITEDKINGDOM"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BORIS KOKORIN\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N0878432",
+        "address": "APARTMENT10,33SIVTZEY-VRAJECKPEREULOCKMOSCOWRUSSIANFEDERATION"
+      },
+      {
+        "name": "VALENTINA MIRONOVA\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            51N0878431",
+        "address": "FLAT1,BISHOPSUMHLANGAROCKS,UMHLANGAROCKS4319SOUTHAFRICA"
+      },
+      {
+        "name": "CAMERON SCOTT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            070118907",
+        "address": "29,LINDENLEE,STUBBSHILL,DORKING,SURREYUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARABAY COMMERCIAL CORP.\r",
+        "nationality": "",
+        "party_id": "                                                            289747",
+        "address": "MORGAN&MORGAN,TRUSTCORPORATIONLTD,P.O.BOX958,PASEAESTATE,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 12,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3
+        }
+      },
+      {
+        "name": "EMF TECHNOLOGIES CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            1005363",
+        "address": "HANSABANKBUILDING,FIRSTFLOOR,LANDSOMEROAD,THEVALLEY,RUBERIAANTIGUAANDBARBUDA",
+        "shares": {
+          "nominal_value_per_share": 12,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 97
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 101,
+  "address": "2, INDEPENDENCE SQUARE,",
+  "company_id": "C 32677",
+  "registration_date": "Dec 12, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 101
+}

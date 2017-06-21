@@ -1,0 +1,81 @@
+{
+  "name": "ANVIL SHIPPING & CHARTERING INTERNATIONAL LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY MICHAEL LIBERATORE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            217258667",
+        "address": "13049,CARAVELSTR.,CERRITOSCA90703UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY MICHAEL LIBERATORE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            217258667",
+        "address": "13049,CARAVELSTR.,CERRITOSCA90703UNITEDSTATES"
+      },
+      {
+        "name": "ANTHONY CURTIS WELLS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            037238288",
+        "address": "3325,CRESTDRIVE,LONGBEACHCA90807UNITEDSTATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY MICHAEL LIBERATORE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            217258667",
+        "address": "13049,CARAVELSTR.,CERRITOSCA90703UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY MICHAEL LIBERATORE\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            217258667",
+        "address": "13049,CARAVELSTR.,CERRITOSCA90703UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "ANTHONY CURTIS WELLS\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            037238288",
+        "address": "3325,CRESTDRIVE,LONGBEACHCA90807UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "60/2, MELITA STREET,",
+  "company_id": "C 38894",
+  "registration_date": "Jun 09, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

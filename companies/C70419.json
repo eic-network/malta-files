@@ -1,0 +1,97 @@
+{
+  "name": "AT GAMING LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "COSTAS HADJIMICHALAKIS\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E404128",
+        "address": "6A,ARISTOTELOUSSTREET,PALOURIOTISSANICOSIA1056CYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "FLAT8,LIONSCOURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "FLAT8,LIONSCOURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19727",
+        "address": "ZION,QREMPUCSTREETMARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GERT LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81692781",
+        "address": "FLAT8,LIONSCOURT,SACREDHEARTAVENUE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GRANEA HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 61894",
+        "address": "175,LEVEL1,INDEPENDENCEAVENUE,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "EMCS INTERNATIONAL SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25114",
+        "address": "LEVEL2,REGIONALBUSINESSCENTRE,UNIVERSITYHEIGHTS,MSIDAMSD1751MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "175, LEVEL 1,  INDEPENDENCE AVENUE,",
+  "company_id": "C 70419",
+  "registration_date": "May 05, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

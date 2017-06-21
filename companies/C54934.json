@@ -1,0 +1,70 @@
+{
+  "company_id": "C 54934",
+  "address": "37, TRIQ DUN MIKIEL XERRI,",
+  "name": "BREADCO LTD",
+  "locality": "ATTARD",
+  "status": "",
+  "registration_date": "Jan 05, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 20000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 20000
+    }
+  ],
+  "total_authorised_shares": 20000,
+  "total_authorised_shares_value": 20000,
+  "total_issued_shares": 20000,
+  "total_issued_shares_value": 20000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "IBRAHIM YASSINE\r",
+        "party_id": "                                                            0949813",
+        "address": "ERRAYAALHADRA,QURBJAMABUCHALA,TRIPOLISTATEOFLIBYA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IBRAHIM YASSINE\r",
+        "party_id": "                                                            0949813",
+        "address": "ERRAYAALHADRA,QURBJAMABUCHALA,TRIPOLISTATEOFLIBYA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 20000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IBRAHIM YASSINE\r",
+        "party_id": "                                                            0949813",
+        "address": "ERRAYAALHADRA,QURBJAMABUCHALA,TRIPOLISTATEOFLIBYA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IBRAHIM YASSINE\r",
+        "party_id": "                                                            0949813",
+        "address": "ERRAYAALHADRA,QURBJAMABUCHALA,TRIPOLISTATEOFLIBYA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IBRAHIM YASSINE\r",
+        "party_id": "                                                            0949813",
+        "address": "ERRAYAALHADRA,QURBJAMABUCHALA,TRIPOLISTATEOFLIBYA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

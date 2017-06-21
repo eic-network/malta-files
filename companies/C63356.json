@@ -1,0 +1,59 @@
+{
+  "name": "ANY NEWS COMPANY LIMITED",
+  "total_issued_shares_value": 1400,
+  "total_authorised_shares_value": 1400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1400,
+      "type": "Ordinary",
+      "authorised_share_capital": 1400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "EDMOND ZAMMIT LAFERLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294476M",
+        "address": "103,PALAZZOPIETROSTIGES,STRAITSTREET,VALLETTAVLT1436MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIESTA LINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            498325",
+        "address": "SEAMEADOWHOUSE,BLACKBURNEHIGHWAY,ROADTOWN,TORTOLAP.O.BOX116VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1399
+        }
+      },
+      {
+        "name": "TCV MANAGEMENT AND TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17138",
+        "address": "PALAZZOPIETROSTIGES,103,STRAITSTREET,VALLETTAVLT1436MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1400,
+  "address": "103, PALAZZO PIETRO STIGES, STRAIT STREET,",
+  "company_id": "C 63356",
+  "registration_date": "Jan 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1400
+}

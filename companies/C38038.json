@@ -1,0 +1,51 @@
+{
+  "company_id": "C 38038",
+  "address": "SECOND FLOOR, EUROPA CENTRE, ST. ANNE STREET,",
+  "name": "BREAKWATER HOLDING LIMITED",
+  "locality": "FLORIANA",
+  "status": "",
+  "registration_date": "Feb 21, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PI TRUSTEES LIMITED\r",
+        "party_id": "                                                            C 28762",
+        "address": "SECONDFLOOR,EUROPACENTREST.ANNESTREETFLORIANAFRN1400MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ]
+  }
+}

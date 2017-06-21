@@ -1,0 +1,99 @@
+{
+  "name": "A.H.M. LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 8000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 8000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 2000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DESMOND MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465463M",
+        "address": "1,ST.MARY'SSTREET,MAGHTABNAXXARMALTA"
+      },
+      {
+        "name": "ALAN PONTIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            024963178",
+        "address": "PEELFOLD,MILLLANE,HENLEYONTHAMES,OXFORDSHIRERG94HBUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DESMOND MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465463M",
+        "address": "1,ST.MARY'SSTREET,MAGHTABNAXXARMALTA"
+      },
+      {
+        "name": "ALAN PONTIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            024963178",
+        "address": "PEELFOLD,MILLLANE,HENLEYONTHAMES,OXFORDSHIRERG94HBUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DESMOND MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465463M",
+        "address": "1,ST.MARY'SSTREET,MAGHTABNAXXARMALTA"
+      },
+      {
+        "name": "ALAN PONTIN\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            024963178",
+        "address": "PEELFOLD,MILLLANE,HENLEYONTHAMES,OXFORDSHIRERG94HBUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASSOCIATED HOLDINGS LIMITED",
+        "nationality": "",
+        "party_id": "",
+        "address": "HIGHLANDSLANEHENLEY-ON-THAMESRG94PSOXFORDSHIREUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 8000
+        }
+      },
+      {
+        "name": "MIZZI GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 21948",
+        "address": "@240,ZABBARROAD,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "'MILLENIA' ALDO MORO RAOD",
+  "company_id": "C 31084",
+  "registration_date": "Mar 05, 2003",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

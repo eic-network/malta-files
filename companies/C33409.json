@@ -1,0 +1,83 @@
+{
+  "name": "A & W INVESTMENT LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "WOLFGANG GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RNZVFOC",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENBADENGERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WOLFGANG GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RNZVFOC",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENBADENGERMANY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WOLFGANG GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RNZVFOC",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENBADENGERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNELIESE GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RN7MVC5",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENBADENGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WOLFGANG GRENKE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            C8RNZVFOC",
+        "address": "HOLLHAUSERWEG63D-76534BADEN-BADENBADENGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1164
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "114, THE STRAND,",
+  "company_id": "C 33409",
+  "registration_date": "Mar 12, 2004",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

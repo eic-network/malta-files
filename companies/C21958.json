@@ -1,0 +1,71 @@
+{
+  "name": "ARCHANGEL MARINE LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PANAYOTIS KEGGITSIS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "JOHN PETRAKIS",
+        "nationality": "",
+        "party_id": "",
+        "address": "16,FILELLINONSTREETPIRAEUSN/GREECE"
+      },
+      {
+        "name": "DEMETRIOS PLOUSSIOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "16,FILELLINONPIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAPSTAN SHIPPING CORP",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "TUDOR NAVIGATION INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "14, MARINA COURT, ABATED RIGORD STREET,",
+  "company_id": "C 21958",
+  "registration_date": "Oct 09, 1997",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

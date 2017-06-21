@@ -1,0 +1,88 @@
+{
+  "name": "BET2290 LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIO BOI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS3050613",
+        "address": "VIAM.A.SEVERINI,NO.46,COSENZA87100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIO BOI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS3050613",
+        "address": "VIAM.A.SEVERINI,NO.46,COSENZA87100ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIO BOI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS3050613",
+        "address": "VIAM.A.SEVERINI,NO.46,COSENZA87100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "GVM HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49247",
+        "address": "115B,SUITE3,OLDMINTSTREET,VALLETTAVLT1515MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "APARTMENT 21, CHARLES COURT (SUITE 116), ST. LUKE'S ROAD,",
+  "company_id": "C 51770",
+  "registration_date": "Jan 24, 2011",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "AURAGENIX SERVICES LIMITED",
+  "total_issued_shares_value": 12500,
+  "total_authorised_shares_value": 30000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AURAGENIX N.V.\r",
+        "nationality": "",
+        "party_id": "                                                            34305142",
+        "address": "KEIZERSGRACHT62-64AMSTERDAM1015CSNETHERLANDS",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249999
+        }
+      },
+      {
+        "name": "MICHAEL WEXLER\r",
+        "nationality": "CANADIAN",
+        "party_id": "                                                            BA354580",
+        "address": "23WILTONCRESCENT,OTTAWAONTARIOK1S2T4CANADA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 43805",
+  "registration_date": "Mar 18, 2008",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 3000000
+}

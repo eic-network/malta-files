@@ -1,0 +1,89 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Jun 08, 2016",
+  "status": "",
+  "locality": "SLIEMA",
+  "name": "BUGMEX LTD",
+  "total_issued_shares": 1200,
+  "address": "48, TRIQ STELLA MARIS,",
+  "company_id": "C 75955",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "GARDENIAFLATS,FLAT2,11,TRIQSIRHILDEBRANDOAKES,GZIRAGZR1510MALTA",
+        "party_id": "                                                            154637A",
+        "name": "MANUEL ROJAS KONKOL\r",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "GARDENIAFLATS,FLAT2,11,TRIQSIRHILDEBRANDOAKES,GZIRAGZR1510MALTA",
+        "party_id": "                                                            154637A",
+        "name": "MANUEL ROJAS KONKOL\r",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "FLAT3JUNIPERHOUSE33TRIQSIRARTUROMERCIECASLIEMASLM1864MALTA",
+        "party_id": "                                                            67653A",
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "GARDENIAFLATS,FLAT2,11,TRIQSIRHILDEBRANDOAKES,GZIRAGZR1510MALTA",
+        "party_id": "                                                            154637A",
+        "name": "MANUEL ROJAS KONKOL\r",
+        "nationality": "SPANISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "BRANDENBURGSUITE,TANNERPLACE,54/58TANNERSTREET,LONDONSE13PHUNITEDKINGDOM",
+        "party_id": "                                                            LP17477",
+        "name": "BUGMEX HOLDING LP\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "FLAT3,JUNIPERHOUSE,33,TRIQSIRARTUROMERCIECA,SLIEMASLM1864MALTA",
+        "party_id": "                                                            67653A",
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199,
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

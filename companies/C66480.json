@@ -1,0 +1,83 @@
+{
+  "company_id": "C 66480",
+  "address": "OFFCIE 2, SUITE 2, THE PENTHOUSE, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "name": "BRAND MANAGEMENT CONSULTING LIMITED",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Aug 27, 2014",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 10000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANCESCO NICASTRI\r",
+        "party_id": "                                                            YA4503875",
+        "address": "VIADELLAFIERAN.99,70023GIOIADELCOLLE,BARIITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5238,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "CASHGOLD S.R.L.\r",
+        "party_id": "                                                            0936152009",
+        "address": "VIAAVIGNONE92/94/96,ROMEITALY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4762,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCESCO NICASTRI\r",
+        "party_id": "                                                            YA4503875",
+        "address": "VIADELLAFIERAN.99,70023GIOIADELCOLLE,BARIITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCESCO NICASTRI\r",
+        "party_id": "                                                            YA4503875",
+        "address": "VIADELLAFIERAN.99,70023GIOIADELCOLLE,BARIITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANCESCO NICASTRI\r",
+        "party_id": "                                                            YA4503875",
+        "address": "VIADELLAFIERAN.99,70023GIOIADELCOLLE,BARIITALY",
+        "nationality": "ITALIAN"
+      }
+    ]
+  }
+}

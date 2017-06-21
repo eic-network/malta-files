@@ -1,0 +1,83 @@
+{
+  "name": "BAGGITT ENTERPRISES LIMITED",
+  "total_issued_shares_value": 58234.32,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOHN CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            727261M",
+        "address": "ISABELLATRIQNINUCREMONAPAOLAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOHN CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            727261M",
+        "address": "ISABELLATRIQNINUCREMONAPAOLAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHN CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            727261M",
+        "address": "ISABELLATRIQNINUCREMONAPAOLAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            727261M",
+        "address": "ISABELLATRIQNINUCREMONAPAOLAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELIZABETH CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            794238M",
+        "address": "ISABELLANINUCREMONASTRPAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOHN CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            727261M",
+        "address": "ISABELLATRIQNINUCREMONAPAOLAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 24999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "ROOM 3, 351/5 ZABBAR ROAD",
+  "company_id": "C 16602",
+  "registration_date": "Aug 08, 1994",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

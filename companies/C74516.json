@@ -1,0 +1,70 @@
+{
+  "company_id": "C 74516",
+  "address": "UPPER CRUST SUITES BLK B FLT 7 TRIQ IL-KEFFA",
+  "name": "BRASOV COMPANY LTD",
+  "locality": "SWIEQI",
+  "status": "",
+  "registration_date": "Feb 25, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DARREN DESIRA\r",
+        "party_id": "                                                            48684M",
+        "address": "UPPERCRUSTSUITESBLKB,FL7TRIQIL-KEFFASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DARREN DESIRA\r",
+        "party_id": "                                                            48684M",
+        "address": "UPPERCRUSTSUITESBLKB,FL7TRIQIL-KEFFASWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DARREN DESIRA\r",
+        "party_id": "                                                            48684M",
+        "address": "UPPERCRUSTSUITESBLKB,FL7TRIQIL-KEFFASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DARREN DESIRA\r",
+        "party_id": "                                                            48684M",
+        "address": "UPPERCRUSTSUITESBLKB,FL7TRIQIL-KEFFASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DESIRA\r",
+        "party_id": "                                                            394280M",
+        "address": "55TRIQSTREJNUZEJTUNMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

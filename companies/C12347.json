@@ -1,0 +1,95 @@
+{
+  "name": "AVENIDA TRADING COMPANY LIMITED",
+  "total_issued_shares_value": 38434.65,
+  "total_authorised_shares_value": 38434.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 16500,
+      "type": "Ordinary",
+      "authorised_share_capital": 16500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "NICK JOHNSON\r",
+        "nationality": "",
+        "party_id": "                                                            15603A",
+        "address": "46,G.BORGOLIVIERSTR.,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NICK JOHNSON\r",
+        "nationality": "",
+        "party_id": "                                                            15603A",
+        "address": "46,G.BORGOLIVIERSTR.,SLIEMAMALTA"
+      },
+      {
+        "name": "MICHELA JOHNSON NEE ALOSIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505262M",
+        "address": "46,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VCA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/46",
+        "address": "FINANCEHOUSE,1STFLOOR,P.ELIZABETHSTREET,TA'XBIEXXBX1102MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICK JOHNSON\r",
+        "nationality": "",
+        "party_id": "                                                            15603A",
+        "address": "46,G.BORGOLIVIERSTR.,SLIEMAMALTA"
+      },
+      {
+        "name": "MICHELA JOHNSON NEE ALOSIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505262M",
+        "address": "46,G.BORGOLIVIERSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE ALOISIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            302842M",
+        "address": "109,G.HOWARDSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "MICHELA JOHNSON NEE ALOSIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            505262M",
+        "address": "46,G.BORGOLIVIERSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 16450
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 16500,
+  "address": "46, G. BORG OLIVIER STREET",
+  "company_id": "C 12347",
+  "registration_date": "Feb 08, 1991",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 16500
+}

@@ -1,0 +1,51 @@
+{
+  "name": "AMERMONT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "FREDERIC JACQUES C. DE SELLIERS DE MORANVILLE\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EM568528",
+        "address": "AVENUED'AIRE75,GENEVE1203SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1080
+        }
+      },
+      {
+        "name": "KHRYSTYNA VASHCHUK\r",
+        "nationality": "UKRAINIAN",
+        "party_id": "                                                            EP734785",
+        "address": "AVENUED'AIRE75,GENEVE1203SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "51, TA' XBIEX SEAFRONT,",
+  "company_id": "C 65621",
+  "registration_date": "Jun 13, 2014",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,91 @@
+{
+  "company_id": "C 49884",
+  "address": "FLAT 1, SEAVIEW APARTMENTS, QUI SI SANA SEAFRONT,",
+  "name": "BRENNEN CONSULTING LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jun 10, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAIVO AAVISTO\r",
+        "party_id": "                                                            36003130297",
+        "address": "SAAREROAD23VIIMSICOUNTY74012ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRANDBERG LIMITED\r",
+        "party_id": "                                                            11142660",
+        "address": "PARNUMNT232TALLINN11314ESTONIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 900,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "LINKSTEN LIMITED\r",
+        "party_id": "                                                            11143004",
+        "address": "PARNUMNT232TALLINN11314ESTONIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAIVO AAVISTO\r",
+        "party_id": "                                                            36003130297",
+        "address": "SAAREROAD23VIIMSICOUNTY74012ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAIVO AAVISTO\r",
+        "party_id": "                                                            36003130297",
+        "address": "SAAREROAD23VIIMSICOUNTY74012ESTONIA",
+        "nationality": "ESTONIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DANILO TROIA\r",
+        "party_id": "                                                            56468A",
+        "address": "SEAVIEWAPARTMENTS,FLT5,QUI-SI-SANASEAFRONT,SLIEMAMALTA",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NIKKI DIMECH\r",
+        "party_id": "                                                            10506",
+        "address": "22,ST.PUBLIUSSTREET,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

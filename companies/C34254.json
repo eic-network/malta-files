@@ -1,0 +1,109 @@
+{
+  "company_id": "C 34254",
+  "address": "29, LUIGI BILLION STREET,",
+  "name": "BRIDGEPOINT LTD",
+  "locality": "PEMBROKE",
+  "status": "",
+  "registration_date": "Jul 05, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 23293.73,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 23293.73,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RAYMOND CAMILLERI\r",
+        "party_id": "                                                            166162M",
+        "address": "165,LUIGIBILLIONSTREET,PEMBROKE,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIO DEGABRIELE\r",
+        "party_id": "                                                            233565M",
+        "address": "60,FLAT5,BAYSWATERCOURT,TRIQTAL-BUTTARMARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMRAY COMPANY LIMITED\r",
+        "party_id": "                                                            C 9752",
+        "address": "29,LUIGIBILLIONSTREET,PEMBROKEPBK1372MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "RAYMOND CAMILLERI\r",
+        "party_id": "                                                            166162M",
+        "address": "165,LUIGIBILLIONSTREET,PEMBROKE,ST.JULIANSMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RAYMOND CAMILLERI\r",
+        "party_id": "                                                            166162M",
+        "address": "165,LUIGIBILLIONSTREET,PEMBROKE,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIO DEGABRIELE\r",
+        "party_id": "                                                            233565M",
+        "address": "60,FLAT5,BAYSWATERCOURT,TRIQTAL-BUTTARMARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RAYMOND CAMILLERI\r",
+        "party_id": "                                                            166162M",
+        "address": "165,LUIGIBILLIONSTREET,PEMBROKE,ST.JULIANSMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "MARIO DEGABRIELE\r",
+        "party_id": "                                                            233565M",
+        "address": "60,FLAT5,BAYSWATERCOURT,TRIQTAL-BUTTARMARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIO DEGABRIELE\r",
+        "party_id": "                                                            233565M",
+        "address": "60,FLAT5,BAYSWATERCOURT,TRIQTAL-BUTTARMARSASCALAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

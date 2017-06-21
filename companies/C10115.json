@@ -1,0 +1,153 @@
+{
+  "name": "AUSTIN ESTATES LIMITED",
+  "total_issued_shares_value": 291171.62,
+  "total_authorised_shares_value": 291171.62,
+  "authorised_shares": [
+    {
+      "issued_shares": 85040,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 85040,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 40,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 40,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1920,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1920,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 38000,
+      "type": "Preference",
+      "authorised_share_capital": 38000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AUSTIN MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            594337M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AUSTIN MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            594337M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DOMIKA FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            421769M",
+        "address": "10/6,GHARIL-LEMBISTREET,SLIEMAMALTA"
+      },
+      {
+        "name": "MARCON HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            111167M",
+        "address": "IT-TUTA,GHYZLERSTREET,ATTARDMALTA"
+      },
+      {
+        "name": "AUSTIN MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            594337M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ERIKA MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73577M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AUSTIN MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            594337M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AUSTIN MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            594337M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 85025
+        }
+      },
+      {
+        "name": "DOMIKA FINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            421769M",
+        "address": "10/6,GHARIL-LEMBISTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5
+        }
+      },
+      {
+        "name": "MARCON HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            111167M",
+        "address": "IT-TUTA,GHYZLERSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5
+        }
+      },
+      {
+        "name": "ERIKA MUSCAT SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            73577M",
+        "address": "LIMESTONECOURT,FLATA3,ST.ANTHONYSTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 125000,
+  "address": "WINSTON HOLIDAY COMPLEX IMREJKBA STREET,",
+  "company_id": "C 10115",
+  "registration_date": "Nov 25, 1988",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 125000
+}

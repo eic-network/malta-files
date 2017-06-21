@@ -1,0 +1,96 @@
+{
+  "name": "ALMENDRO LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIANLUIGI MUSSINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7486112",
+        "address": "VIARONCACCIO9LUGANO6900SWITZERLAND"
+      },
+      {
+        "name": "GIOVANNI ROMAGNONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT0596730",
+        "address": "VIACARONO14MELIDE6815SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIANLUIGI MUSSINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7486112",
+        "address": "VIARONCACCIO9LUGANO6900SWITZERLAND"
+      },
+      {
+        "name": "GIOVANNI ROMAGNONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT0596730",
+        "address": "VIACARONO14MELIDE6815SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIANLUIGI MUSSINELLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR7486112",
+        "address": "VIARONCACCIO9LUGANO6900SWITZERLAND"
+      },
+      {
+        "name": "GIOVANNI ROMAGNONI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AT0596730",
+        "address": "VIACARONO14MELIDE6815SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NEXUS I S.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            02011340201",
+        "address": "38,VIATOMMASODIPIERO,PRATO(PO)CAP9100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE NO. 1581) STRAIT STREET",
+  "company_id": "C 67896",
+  "registration_date": "Dec 03, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

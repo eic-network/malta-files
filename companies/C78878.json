@@ -1,0 +1,101 @@
+{
+  "name": "BONSAI LIMITED",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 50000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CATHERINE BANNISTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102978M",
+        "address": "BLOCK27,APARTMENT82,VJALPORTOMASO,ST.JULIANSSTJ4011MALTA"
+      },
+      {
+        "name": "ROBERT SHEASBY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525479870",
+        "address": "26,TRIQSANTALUCIANAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CATHERINE BANNISTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102978M",
+        "address": "BLOCK27,APARTMENT82,VJALPORTOMASO,ST.JULIANSSTJ4011MALTA"
+      },
+      {
+        "name": "ROBERT SHEASBY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525479870",
+        "address": "26,TRIQSANTALUCIANAXXARMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CATHERINE BANNISTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102978M",
+        "address": "BLOCK27,APARTMENT82,VJALPORTOMASO,ST.JULIANSSTJ4011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CATHERINE BANNISTER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            102978M",
+        "address": "BLOCK27,APARTMENT82,VJALPORTOMASO,ST.JULIANSSTJ4011MALTA"
+      },
+      {
+        "name": "ROBERT SHEASBY\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            525479870",
+        "address": "26,TRIQSANTALUCIANAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Dominion Fiduciary Services (Malta) Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 47259",
+        "address": "LEVEL16,PORTOMASOBUSINESSTOWER,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MOUNIR MOHAMMED ALTOUKHI\r",
+        "nationality": "SAUDI ARABIAN",
+        "party_id": "                                                            T230567",
+        "address": "36,AVENUED'ANNONCIADEMONACO98000MONACO",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 49999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50000,
+  "address": "LEVEL 16, PORTOMASO BUSINESS TOWER",
+  "company_id": "C 78878",
+  "registration_date": "Dec 28, 2016",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 50000
+}

@@ -1,0 +1,107 @@
+{
+  "name": "BINJA SCIACCA CONSTRUCTION & RESTORATION LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROSARIO SCIACCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4125498",
+        "address": "13-95025VIASCIARESPOTO,ACISANANTONIO,CATANIAITALY"
+      },
+      {
+        "name": "MARK XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122572M",
+        "address": "FLAT4,NO.35,FORTMANSIONS,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROSARIO SCIACCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4125498",
+        "address": "13-95025VIASCIARESPOTO,ACISANANTONIO,CATANIAITALY"
+      },
+      {
+        "name": "MARK XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122572M",
+        "address": "FLAT4,NO.35,FORTMANSIONS,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122572M",
+        "address": "FLAT4,NO.35,FORTMANSIONS,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROSARIO SCIACCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4125498",
+        "address": "13-95025VIASCIARESPOTO,ACISANANTONIO,CATANIAITALY"
+      },
+      {
+        "name": "MARK XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122572M",
+        "address": "FLAT4,NO.35,FORTMANSIONS,TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROSARIO SCIACCA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AU4125498",
+        "address": "13-95025VIASCIARESPOTO,ACISANANTONIO,CATANIAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "MARK XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122572M",
+        "address": "FLAT4,NO.35,FORTMANSIONS,TIGNESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "FLAT 4, NO. 35, FORT MANSIONS, TIGNE STREET,",
+  "company_id": "C 79273",
+  "registration_date": "Jan 25, 2017",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,81 @@
+{
+  "name": "BLUEUNIT LTD.",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MATHIAS STEIBNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            146514198",
+        "address": "SCHLEUSENSTRASSE16AVECHELDE38159GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATHIAS STEIBNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            146514198",
+        "address": "SCHLEUSENSTRASSE16AVECHELDE38159GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATHIAS STEIBNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            146514198",
+        "address": "SCHLEUSENSTRASSE16AVECHELDE38159GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MATHIAS STEIBNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            146514198",
+        "address": "SCHLEUSENSTRASSE16AVECHELDE38159GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "DWP MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59815",
+        "address": "48,TRIQSTELLAMARIS,SLIEMASLM1765MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "12/1 FORREST STREET,",
+  "company_id": "C 66560",
+  "registration_date": "Sep 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1165
+}

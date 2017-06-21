@@ -1,0 +1,83 @@
+{
+  "name": "AQUALEVO (MALTA) LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "HERITAGE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48635",
+        "address": "SMARTCITYMALTASCM01,SUITE502,RICASOLI,KALKARASCM1001MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HERITAGE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48635",
+        "address": "SMARTCITYMALTASCM01,SUITE502,RICASOLI,KALKARASCM1001MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NEVILLE CARABOTT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            121775M",
+        "address": "44,FLAT6,TRIQNOFSIN-NHARVALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HERITAGE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48635",
+        "address": "SMARTCITYMALTASCM01,SUITE502,RICASOLI,KALKARASCM1001MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AQUALEVO (GUERNSEY) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            61447",
+        "address": "HERITAGEHALL,LEMARCHANTSTREET,ST.PETERPORTGY14HYGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "HERITAGE CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 48635",
+        "address": "SMARTCITYMALTASCM01,SUITE502,RICASOLI,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SMART CITY MALTA SCM 01, SUITE 502, RICASOLI",
+  "company_id": "C 73822",
+  "registration_date": "Jan 05, 2016",
+  "shares_currency": "GBP",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

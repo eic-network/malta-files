@@ -1,0 +1,115 @@
+{
+  "name": "Bonded Stockholders (International) Limited",
+  "total_issued_shares_value": 1050,
+  "total_authorised_shares_value": 1050,
+  "authorised_shares": [
+    {
+      "issued_shares": 1049,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1049,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SEAN MICHAEL DOWDEN\r",
+        "nationality": "SOUTH AFRICAN",
+        "party_id": "                                                            54600A",
+        "address": "55,FLAT11,MIDASCOURT,TRIQPACE,SLIEMAMALTA"
+      },
+      {
+        "name": "JONATHAN VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280677M",
+        "address": "KINTAMANI,TRIQFILOMENABUGEJA,SIGGIEWIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WINE ENTERPRISES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 59991",
+        "address": "2,SIRAUGUSTUSBARTOLOSTREETTA'XBIEXXBX1091MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1049
+        }
+      },
+      {
+        "name": "GANPA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            19099",
+        "address": "LAMOTTECHAMBERS,STHELIERJE11PBJERSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1050,
+  "address": "2, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 60025",
+  "registration_date": "Apr 15, 2013",
+  "shares_currency": "GBP",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1050
+}

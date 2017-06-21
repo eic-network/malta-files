@@ -1,0 +1,67 @@
+{
+  "name": "ALMA INTERNATIONAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "EZZEDDINE AOUNI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            M082966",
+        "address": "51,RUEELAKHTAL,ELMENZAH,TUNIS1004TUNISIA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EZZEDDINE AOUNI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            M082966",
+        "address": "51,RUEELAKHTAL,ELMENZAH,TUNIS1004TUNISIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JUANAFIL CONSULTANTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 14109",
+        "address": "34,TRIQKARMZERAFA,BIRKIRKARABKR1711MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "EZZEDDINE AOUNI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            M082966",
+        "address": "51,RUEELAKHTAL,ELMENZAH,TUNIS1004TUNISIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1198
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "18, DRIVE 41, TUMAS GALEA STREET, TA' PARIS,",
+  "company_id": "C 28512",
+  "registration_date": "Jul 24, 2001",
+  "shares_currency": "USD",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

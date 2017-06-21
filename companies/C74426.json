@@ -1,0 +1,88 @@
+{
+  "name": "AURIS ASSET MANAGEMENT LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 250000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 250000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "STRECIADEIRESTEI8,MORCOTE6922SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "STRECIADEIRESTEI8,MORCOTE6922SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PATRICK BRISCOE WHITE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            214296M",
+        "address": "171OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            18805L",
+        "address": "THEROYALLADY,STANTHONYSTREET,GHAJNSIELEM(GOZO)MALTA"
+      },
+      {
+        "name": "RAFFAELE ROSSETTI\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            E1646842",
+        "address": "STRECIADEIRESTEI8,MORCOTE6922SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AURIS HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 74245",
+        "address": "171,OLDBAKERYSTREET,VALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "171, OLD BAKERY STREET",
+  "company_id": "C 74426",
+  "registration_date": "Feb 19, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 250000
+}

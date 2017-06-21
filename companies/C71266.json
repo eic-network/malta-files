@@ -1,0 +1,89 @@
+{
+  "name": "BETAGO LTD.",
+  "total_issued_shares_value": 100000,
+  "total_authorised_shares_value": 100000,
+  "authorised_shares": [
+    {
+      "issued_shares": 99999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 99999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KAI GRAELER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            31931A",
+        "address": "SANMARCO121,FLAT4,TRIQIL-GHAJN,SWIEQISWQ3127MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KAI GRAELER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            31931A",
+        "address": "SANMARCO121,FLAT4,TRIQIL-GHAJN,SWIEQISWQ3127MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "FLAT3JUNIPERHOUSE33TRIQSIRARTUROMERCIECASLIEMASLM1864MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KAI GRAELER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            31931A",
+        "address": "SANMARCO121,FLAT4,TRIQIL-GHAJN,SWIEQISWQ3127MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BETAGO HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 71265",
+        "address": "62,WILGASTREET,ST.JULIANSSTJ3117MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "JORG WERNER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            67653A",
+        "address": "7/15A,TRIQSIRHILDERBRANDOAKES,GZIRAGZR1510MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "62,  WILGA STREET,",
+  "company_id": "C 71266",
+  "registration_date": "Jul 02, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 100000
+}

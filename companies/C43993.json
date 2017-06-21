@@ -1,0 +1,87 @@
+{
+  "name": "ARBI YACHTING COMPANY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTON WIDLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            0044118A",
+        "address": "RAZZETTRANBABAWARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ISAAC BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496976M",
+        "address": "BELVEDER,FL10,STPAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ANTON WIDLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            0044118A",
+        "address": "RAZZETTRANBABAWARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ISAAC BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496976M",
+        "address": "BELVEDER,FL10,STPAUL'SSTREET,ST.PAUL'SBAYMALTA"
+      },
+      {
+        "name": "ANTON WIDLER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            0044118A",
+        "address": "RAZZETTRANBABAWARDIJAST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IP2SF CONSULTING AG\r",
+        "nationality": "",
+        "party_id": "                                                            CH 130.0.010.516-1",
+        "address": "SEEWEG11FREIENBACHSWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "MADLER AG\r",
+        "nationality": "",
+        "party_id": "                                                            CH-020.3.915.842-3",
+        "address": "BAHNHOFSTRASSE26ZURICH001SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "PALAZZO PIETRO STIGES 103, STRAIT STREET",
+  "company_id": "C 43993",
+  "registration_date": "Apr 09, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,97 @@
+{
+  "name": "BEL BRAND ENTERTAINMENT LIMITED",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 199960,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 199960,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 40,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 40,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLAUDINE ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            487171M",
+        "address": "COCONUTGROVE,ST.ANTHONYSTREET,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAUL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480664M",
+        "address": "COCONUTGROVE,STANTHONYSTREET,MOSTAMST08MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480664M",
+        "address": "COCONUTGROVE,STANTHONYSTREET,MOSTAMST08MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480664M",
+        "address": "COCONUTGROVE,STANTHONYSTREET,MOSTAMST08MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIGHT STONE HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40891",
+        "address": "134,STRAITSTREET,VALLETTAVLT1437MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 199960
+        }
+      },
+      {
+        "name": "PAUL FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            480664M",
+        "address": "COCONUTGROVE,STANTHONYSTREET,MOSTAMST08MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 40
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "134, STRAIT STREET,",
+  "company_id": "C 44293",
+  "registration_date": "May 23, 2008",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

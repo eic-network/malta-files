@@ -1,0 +1,177 @@
+{
+  "name": "AMAS COMPANY LIMITED",
+  "total_issued_shares_value": 50001,
+  "total_authorised_shares_value": 50001,
+  "authorised_shares": [
+    {
+      "issued_shares": 9317,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9317,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 40684,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 40684,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDREW BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            210567M",
+        "address": "BLUBERRY,B'KARAROAD,SANGWANNSGN1444MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARTHESE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188669M",
+        "address": "BLUEBERRY,B'KARAROAD,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ALEXANDER PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20472M",
+        "address": "ST.MARY,5,MASSABIELLESTREET,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ANTHONY PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            925345M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      },
+      {
+        "name": "ANTOINETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51745M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARTHESE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188669M",
+        "address": "BLUEBERRY,B'KARAROAD,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ALEXANDER PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20472M",
+        "address": "ST.MARY,5,MASSABIELLESTREET,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ANTHONY PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            925345M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      },
+      {
+        "name": "ANTOINETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51745M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19816",
+        "address": "171,CHARLEROI,TRIQTUMASCHETCUTI,ATTARDATD3034MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARTHESE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188669M",
+        "address": "BLUEBERRY,B'KARAROAD,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ALEXANDER PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20472M",
+        "address": "ST.MARY,5,MASSABIELLESTREET,SANGWANNSGN1444MALTA"
+      },
+      {
+        "name": "ANTHONY PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            925345M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      },
+      {
+        "name": "ANTOINETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51745M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            925345M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5823
+        }
+      },
+      {
+        "name": "ANTOINETTE PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            51745M",
+        "address": "311,\"ST.ANTHONY\",SLIEMAROAD,KAPPARA,SANGWANNSGN4410MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3494
+        }
+      },
+      {
+        "name": "MARTHESE BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            188669M",
+        "address": "BLUEBERRY,B'KARAROAD,SANGWANNSGN1444MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 20342
+        }
+      },
+      {
+        "name": "ALEXANDER PSAILA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20472M",
+        "address": "ST.MARY,5,MASSABIELLESTREET,SANGWANNSGN1444MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 20342
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 50001,
+  "address": "LOURDES COURT, 1, MASSABIELLE STREET,",
+  "company_id": "C 18668",
+  "registration_date": "Jun 20, 1995",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 50001
+}

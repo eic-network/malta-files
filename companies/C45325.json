@@ -1,0 +1,78 @@
+{
+  "company_id": "C 45325",
+  "address": "DOLPHIN COURT, FIRST FLOOR, SUITE B, EMBASSY WAY,",
+  "name": "3Gital Ltd.",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Oct 10, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 14373,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 14000
+    }
+  ],
+  "total_authorised_shares": 14373,
+  "total_authorised_shares_value": 14373,
+  "total_issued_shares": 14000,
+  "total_issued_shares_value": 14000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GIL SOFFER\r",
+        "party_id": "                                                            11521787",
+        "address": "63,MAHALST,APARTMENT41TELAVIV-YAFO6729179ISRAEL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BET3G LTD\r",
+        "party_id": "                                                            C 44221",
+        "address": "DOLPHINCOURT,FIRSTFLOORSUITEB,EMBASSYWAY,TA'XBIEXXBX1070MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 14000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIL SOFFER\r",
+        "party_id": "                                                            11521787",
+        "address": "63,MAHALST,APARTMENT41TELAVIV-YAFO6729179ISRAEL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIL SOFFER\r",
+        "party_id": "                                                            11521787",
+        "address": "63,MAHALST,APARTMENT41TELAVIV-YAFO6729179ISRAEL",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELENA BIANCHI\r",
+        "party_id": "                                                            67372M",
+        "address": "66,SETTEMBRINA,ST.PAUL'SSTREETNAXXARNXR4019MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

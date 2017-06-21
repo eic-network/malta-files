@@ -1,0 +1,81 @@
+{
+  "name": "BEST CONSULTING MALTA HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LABIB AKRIMI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            AJ9142506",
+        "address": "VIADONZELLINI,17ORZINUOVI(BR)25034ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LABIB AKRIMI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            AJ9142506",
+        "address": "VIADONZELLINI,17ORZINUOVI(BR)25034ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LABIB AKRIMI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            AJ9142506",
+        "address": "VIADONZELLINI,17ORZINUOVI(BR)25034ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LABIB AKRIMI\r",
+        "nationality": "TUNISIAN",
+        "party_id": "                                                            AJ9142506",
+        "address": "VIADONZELLINI,17ORZINUOVI(BR)25034ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "CONLEGIA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44874",
+        "address": "137SPINOLAROADST.JULIANSSTJ3011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "68D, REPUBLIC STREET,",
+  "company_id": "C 60088",
+  "registration_date": "Apr 19, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

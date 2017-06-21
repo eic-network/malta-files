@@ -1,0 +1,91 @@
+{
+  "name": "ASV Computers Ltd",
+  "total_issued_shares_value": 4200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 4200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247074M",
+        "address": "56,TRIQIL0MUZIKA,IKLINMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247074M",
+        "address": "56,TRIQIL0MUZIKA,IKLINMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247074M",
+        "address": "56,TRIQIL0MUZIKA,IKLINMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANCO SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19522",
+        "address": "RHAPSODY,MICHELEBELLANTISTREET,MSIDAMSD1443MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247074M",
+        "address": "56,TRIQIL0MUZIKA,IKLINMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            247074M",
+        "address": "56,TRIQIL0MUZIKA,IKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3850
+        }
+      },
+      {
+        "name": "SHARON ANNE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353372M",
+        "address": "GLENFERN,TRIQIL-FIKUS,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 350
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4200,
+  "address": "56, TRIQ IL-MUZIKA,",
+  "company_id": "C 44013",
+  "registration_date": "Apr 11, 2008",
+  "shares_currency": "EUR",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,139 @@
+{
+  "name": "AOM LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 1397.62,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 300,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "67,FLAT32,GORGBORGOLIVIERSTREET,ST.JULIANSSTJ1081MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DION BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143958M",
+        "address": "\"RIDGEVIEW\"F.W.RYANSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "DAVID DRAGO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119766M",
+        "address": "NNEGLIRAD,3,ST.MARKSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALBERTO MICELI FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            260863M",
+        "address": "65,B'KARAHILL,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEX TORPIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            836254M",
+        "address": "12,\"DARLINGTONPLACE\"CARDINALFERRETTISTREET,LIJAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK GAUCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19422",
+        "address": "31,APARTMENT4,ST.MARGARETSTREET,SANGWANNSGN1670MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID DRAGO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            119766M",
+        "address": "NNEGLIRAD,3,ST.MARKSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEX TORPIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            836254M",
+        "address": "12,\"DARLINGTONPLACE\"CARDINALFERRETTISTREET,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARC BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            743361M",
+        "address": "\"CENTRALVIEWCOTTAGE\"81,SANANTONSTREET,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "DION BUHAGIAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143958M",
+        "address": "\"RIDGEVIEW\"F.W.RYANSTREET,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ALEX TORPIANO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            836254M",
+        "address": "12,\"DARLINGTONPLACE\"CARDINALFERRETTISTREET,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "INVESTMENT PROJECT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 18435",
+        "address": "4,SAPPERSSTREET,VALLETTAVLT1320MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "AOM, TRIQ FORTI MANOEL, MANOEL ISLAND,",
+  "company_id": "C 26848",
+  "registration_date": "Aug 23, 2000",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 600
+}

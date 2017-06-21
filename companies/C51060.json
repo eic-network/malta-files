@@ -1,0 +1,91 @@
+{
+  "name": "B.A. Technologies Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA PASCHALI\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E192091",
+        "address": "34,MICHALIPITSILLIDE,AGIOSATHANASIOS4105CYPRUS"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LORETTA JOANNOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00066467",
+        "address": "LOUKIAKRITA1,AKRITASCOURT202,LIMASSOL3030CYPRUS"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LORETTA JOANNOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00066467",
+        "address": "LOUKIAKRITA1,AKRITASCOURT202,LIMASSOL3030CYPRUS"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10054",
+        "address": "10,SANTARITA,TRIQIL-VENEWWA,FGURAFGR1860MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LORETTA JOANNOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00066467",
+        "address": "LOUKIAKRITA1,AKRITASCOURT202,LIMASSOL3030CYPRUS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LORETTA JOANNOU\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            K00066467",
+        "address": "LOUKIAKRITA1,AKRITASCOURT202,LIMASSOL3030CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MARIA PASCHALI\r",
+        "nationality": "CYPRIOT",
+        "party_id": "                                                            E192091",
+        "address": "34,MICHALIPITSILLIDE,AGIOSATHANASIOS4105CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "APARTMENT 4, VILLANUEVA 99, HANNIEQA STREET,",
+  "company_id": "C 51060",
+  "registration_date": "Nov 03, 2010",
+  "shares_currency": "EUR",
+  "locality": "GHAXAQ",
+  "status": "",
+  "total_authorised_shares": 10000
+}

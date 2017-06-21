@@ -1,0 +1,75 @@
+{
+  "name": "AMAZING HOLDINGS LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LENNART LIND\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            205032106",
+        "address": "JARDINESDELASLOMAS,PORTAL1,CASA4,MARBELLA,MALAGA29602SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LENNART LIND\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            205032106",
+        "address": "JARDINESDELASLOMAS,PORTAL1,CASA4,MARBELLA,MALAGA29602SPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LENNART LIND\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            205032106",
+        "address": "JARDINESDELASLOMAS,PORTAL1,CASA4,MARBELLA,MALAGA29602SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LENNART LIND\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            205032106",
+        "address": "JARDINESDELASLOMAS,PORTAL1,CASA4,MARBELLA,MALAGA29602SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "KARINA PAULINA WIERZCH\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AT5047737",
+        "address": "JARDINESDELASLOMAS,PORTAL1,CASA4,MARBELLA,MALAGA29602SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "48, TRIQ STELLA MARIS,",
+  "company_id": "C 64053",
+  "registration_date": "Feb 27, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,736 @@
+{
+  "company_id": "C 61703",
+  "address": "114, THE STRAND,",
+  "name": "BRODY HOUSE INTERNATIONAL LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Aug 28, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 50000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 0.7625,
+      "issued_shares": 3862
+    }
+  ],
+  "total_authorised_shares": 50000,
+  "total_authorised_shares_value": 38125,
+  "total_issued_shares": 3862,
+  "total_issued_shares_value": 2944.78,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "WILLIAM NEIL CLOTHIER\r",
+        "party_id": "                                                            528726051",
+        "address": "PAULAYEDEUTCA16FSZ.4,BUDAPEST1061HUNGARY",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "PETER OLOF JAMES GRUNDBERG\r",
+        "party_id": "                                                            89866932",
+        "address": "PAULAYEDEUTCA16FSZ.2,BUDAPEST1061HUNGARY",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HILLGATE CAPITAL LIMITED\r",
+        "party_id": "                                                            07274231",
+        "address": "4THFLOOR,54WATSONHOUSELONDONW1U7BUUNITEDKINGDOM",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 44,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "MINERVA INC.\r",
+        "party_id": "                                                            LL07056",
+        "address": "TIARALABUAN,JALANTANJUNGBATUF.T.LABUAN87000MALAYSIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "PEACH HOLDINGS LIMITED\r",
+        "party_id": "                                                            285",
+        "address": "NERINECHAMBERS,POBOX905,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 180,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "PMI (MALTA) LIMITED\r",
+        "party_id": "                                                            C 72879",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1286,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "RIMA INTERNATIONAL HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 39871",
+        "address": "CRAIGMUIRECHAMBERS,POBOX71ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 77,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 99,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "WIGAN ACQUISITIONS KFT\r",
+        "party_id": "                                                            01-09-948950",
+        "address": "MAGYARUTCA28,II.EM.5,BUDAPEST1053HUNGARY",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ROBERT MORRIS AIKEN\r",
+        "party_id": "                                                            512117817",
+        "address": "1071STONEIVYPLACE,BELAIRMD21015UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 25,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "JOHN ROBERT ANDERSON\r",
+        "party_id": "                                                            508340424",
+        "address": "FLAT15,520CHISWICKHIGHROAD,LONDONW45RGUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 74,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "JACQUES BLATTER\r",
+        "party_id": "                                                            X3073576",
+        "address": "BELLERIVESTRASSE2ZURICH8008SWITZERLAND",
+        "nationality": "SWISS",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "GILLIAN CARTER\r",
+        "party_id": "                                                            540540982",
+        "address": "76,EATONPLACE,LONDONSW1X8AUUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 35,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "KENNETH ALAN CARTER\r",
+        "party_id": "                                                            093198771",
+        "address": "76,EATONPLACE,LONDONSW1X8AUUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 70,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "KAI HENNING CHRISTIANSEN\r",
+        "party_id": "                                                            802810892",
+        "address": "AIGNERSTRASSE24MUNICH81541GERMANY",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "RICHARD JOHN CLOTHIER\r",
+        "party_id": "                                                            460626990",
+        "address": "23,ST.LUKE'SSTREETLONDONSW33RPUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 57,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "WILLIAM NEIL CLOTHIER\r",
+        "party_id": "                                                            528726051",
+        "address": "PAULAYEDEUTCA16FSZ.4,BUDAPEST1061HUNGARY",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 847,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ANDREW STEWART HOME COOK\r",
+        "party_id": "                                                            521285068",
+        "address": "RUEDEL-AUBEPINE3GENEVA1205SWITZERLAND",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 88,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "CHARLES RODHAM HOME COOK\r",
+        "party_id": "                                                            801015433",
+        "address": "2ORCHARDRISE,RICHMONDSURREYTW105BXUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 142,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "RICHARD JOHN ELLIOTT\r",
+        "party_id": "                                                            305809944",
+        "address": "74LIMERSTON,WESTBROMPTONLONDONSW10OHJUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 28,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "BERNARD SPENCER ELWORTHY\r",
+        "party_id": "                                                            110653739",
+        "address": "THEPADDOCKS,BOXENDROAD,BROMHAMBEDFORDSHIREMK438LTUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 21,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "SARAH BELINDA ELWORTHY\r",
+        "party_id": "                                                            459052920",
+        "address": "THEPADDOCKS,BOXENDROAD,BROMHAMBEDFORDSHIREMK438LTUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 21,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ELECTRA EROTOCRITOU\r",
+        "party_id": "                                                            E192936",
+        "address": "14PARNASSOU,POTAMOSGERMAGEIASLIMASSOL4043CYPRUS",
+        "nationality": "CYPRIOT",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 35,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "SPYROS EROTOCRITOU\r",
+        "party_id": "                                                            K00169150",
+        "address": "14PARNASSOUPOTAMOSGERMASOGEIASLIMASSOL4043CYPRUS",
+        "nationality": "CYPRIOT",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 35,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ISTVAN ANDRAS FEHERVARY\r",
+        "party_id": "                                                            ZJ609371",
+        "address": "HUENINGERSTRASSE1,STOCK5,APT.501BASELCH-4056SWITZERLAND",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "CHRISTOPHER J. GATTMAN\r",
+        "party_id": "                                                            477695696",
+        "address": "2907BOOKHOUTSTREETDALLASTEXAS75201-1101UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 11,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "NICHOLAS J. GREENWOOD\r",
+        "party_id": "                                                            511037263",
+        "address": "36,ROEDEANCRESCENTROEHAMPTONSW155JUUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 15,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ERSHADUL HAQ\r",
+        "party_id": "                                                            513897554",
+        "address": "73,CAMBRIDGEROAD,FLAT3TOTNESSHOUSE,TWICKENHAMTW12TPUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "KRISZTINA ILOSFAI\r",
+        "party_id": "                                                            BB3064400",
+        "address": "MATYASKIRALYUTCA30-32TT.2AERD2030HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "CHRISTOPHER JANO\r",
+        "party_id": "                                                            GA101953",
+        "address": "DONATIUTCA44BUDAPEST1015HUNGARY",
+        "nationality": "CANADIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "TRACI GENEVIEVE JEFFERSON AS ADMIN OF LATE R.C. KORMENDI\r",
+        "party_id": "                                                            461693941",
+        "address": "1889INGLESIDETERNWWASHINGTON20010-1009UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "STEVEN DANIEL KAALI-NAGY\r",
+        "party_id": "                                                            ZJ502489",
+        "address": "LELESZUTCA44BUDAPEST1015HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "JAMES A. LANDE\r",
+        "party_id": "                                                            C4FV1YFLH",
+        "address": "101629THSTREETWASHINGTONDC20007-3831UNITEDSTATES",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "BO JOHAN LUNDBERG\r",
+        "party_id": "                                                            87291269",
+        "address": "HUNYADIJANOSUTCA4-81/3BUDAPESTH-1011HUNGARY",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "STEPHEN HOWARD PATRICK MAY\r",
+        "party_id": "                                                            099141413",
+        "address": "90WELCOMESROAD,KENLEY,SURREYCR85HEUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 123,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "TIMOTHY MARSHALL METZ\r",
+        "party_id": "                                                            465660929",
+        "address": "774VIALOSALTOSUNITQLAGUNABEACHCA92637UNITEDSTATES",
+        "nationality": "AMERICAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ROBERT MEZEI\r",
+        "party_id": "                                                            BB9280424",
+        "address": "SODRASUTCA16BUDAPEST1026HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "ANDERS DAGE MODIN\r",
+        "party_id": "                                                            45731163",
+        "address": "58,WINCHENDONROAD,LONDONSW65DRUNITEDKINGDOM",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 33,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "MALCOLM JAMES MOSS\r",
+        "party_id": "                                                            502867980",
+        "address": "OAKLAWNROAD,HAWTHORNCOURT,LEATHERHEADKT22OBPUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 43,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "BJORN PEHRSSON\r",
+        "party_id": "                                                            86723531",
+        "address": "VIZMOSASUTCA3BUDAPEST1037HUNGARY",
+        "nationality": "SWEDISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 59,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "RUPERT LASCELLES PENNANT-REA\r",
+        "party_id": "                                                            510719648",
+        "address": "HEATHHOUSE,LYNEHAMROADMILTON-UNDER-WYCHWOODOX76LWUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 158,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "MAX FABIAN RASCKE\r",
+        "party_id": "                                                            L6WLH472Y",
+        "address": "PLANETENSTRASSE41DUSSELDORF40223GERMANY",
+        "nationality": "GERMAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "MATHIEU JEAN SEBASTIEN RIPKA\r",
+        "party_id": "                                                            13FV05928",
+        "address": "61,RUEDEVARENNEPARIS75007FRANCE",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 29,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "STEVEN ROBERT SEMAN\r",
+        "party_id": "                                                            305540359",
+        "address": "31CHOLMELEYCRESCENT,HIGHGATE,LONDONN65EXUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 48,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "TARA ELIZABETH SIDDONS-DEIGHTON\r",
+        "party_id": "                                                            519597899",
+        "address": "17,WYNDHAMROAD,SALISBURYWILTSHIRESP13AAUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "TAMAS SZONYEI\r",
+        "party_id": "                                                            BC0860526",
+        "address": "BAJCSYZSILINSZKYOT33,2EM.9ABUDAPEST1065HUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 6,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "MARIA GIOVANNA VILLARI\r",
+        "party_id": "                                                            AA4241107",
+        "address": "VIAFIORELLI14NAPLES80121ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 18,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      },
+      {
+        "name": "HAMISH JOSEPH KINROSS WHITE\r",
+        "party_id": "                                                            BK616232",
+        "address": "3SZABADSAGTER1029BUDAPESTHUNGARY",
+        "nationality": "HUNGARIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 8,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.7625
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "WILLIAM NEIL CLOTHIER\r",
+        "party_id": "                                                            528726051",
+        "address": "PAULAYEDEUTCA16FSZ.4,BUDAPEST1061HUNGARY",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "PETER OLOF JAMES GRUNDBERG\r",
+        "party_id": "                                                            89866932",
+        "address": "PAULAYEDEUTCA16FSZ.2,BUDAPEST1061HUNGARY",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "VISTRA MARINE & AVIATION LIMITED\r",
+        "party_id": "                                                            C 55184",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": ""
+      },
+      {
+        "name": "WILLIAM NEIL CLOTHIER\r",
+        "party_id": "                                                            528726051",
+        "address": "PAULAYEDEUTCA16FSZ.4,BUDAPEST1061HUNGARY",
+        "nationality": "BRITISH"
+      },
+      {
+        "name": "PETER OLOF JAMES GRUNDBERG\r",
+        "party_id": "                                                            89866932",
+        "address": "PAULAYEDEUTCA16FSZ.2,BUDAPEST1061HUNGARY",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDATD3111MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "party_id": "                                                            143785M",
+        "address": "15,'MALAHIDE',TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "WALTER RIZZO & ASSOCIATES\r",
+        "party_id": "                                                            AB/2/13/01",
+        "address": "30,ID-DWEJRA,TRIQIL-GEJZA,SWIEQIMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

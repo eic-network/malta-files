@@ -1,0 +1,83 @@
+{
+  "name": "Bestshoes Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 120,
+      "type": "Ordinary",
+      "authorised_share_capital": 120,
+      "nominal_value_per_share": 10
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Robert Nogacki\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EH9001076",
+        "address": "AstoriaFl.8TRIQSIRGEORGEBORGSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Robert Nogacki\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EH9001076",
+        "address": "AstoriaFl.8TRIQSIRGEORGEBORGSLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JAROSLAW KRUK\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EB3288918",
+        "address": "SLOWACKIEGO314/126-600Radom,PolandRADOM26-600POLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Robert Nogacki\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EH9001076",
+        "address": "AstoriaFl.8TRIQSIRGEORGEBORGSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Robert Nogacki\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            EH9001076",
+        "address": "AstoriaFl.8TRIQSIRGEORGEBORGSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 119
+        }
+      },
+      {
+        "name": "Blazej Polcik\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            04529/00/1463",
+        "address": "Maciejki13Warsaw02-181POLAND",
+        "shares": {
+          "nominal_value_per_share": 10,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120,
+  "address": "214 Strait Street",
+  "company_id": "C 79282",
+  "registration_date": "Jun 02, 2017",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 120
+}

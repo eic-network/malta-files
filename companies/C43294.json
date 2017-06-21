@@ -1,0 +1,75 @@
+{
+  "name": "ALPINE (MALTA) LTD",
+  "total_issued_shares_value": 139000,
+  "total_authorised_shares_value": 139000,
+  "authorised_shares": [
+    {
+      "issued_shares": 139000,
+      "type": "Ordinary",
+      "authorised_share_capital": 139000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JO REMME\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25542090",
+        "address": "TA'BABAKKA,TRIQIL-KUNCIZZJONI,LIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JO REMME\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25542090",
+        "address": "TA'BABAKKA,TRIQIL-KUNCIZZJONI,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JO REMME\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25542090",
+        "address": "TA'BABAKKA,TRIQIL-KUNCIZZJONI,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SVEND AGIL LARSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25720779",
+        "address": "ARSVOLLVEIEN644312SANDNESNORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JO ARNE LERVIK\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            26267228",
+        "address": "VESTRESTOKKANVEL12N-750STJOERDALNORWAY",
+        "shares": {
+          "nominal_value_per_share": 0,
+          "paid_up_%": 0,
+          "type": "",
+          "class": "",
+          "issued_shares": 0
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 139000,
+  "address": "THE FIRS, FLAT 4, GORG BORG OLIVIER STREET",
+  "company_id": "C 43294",
+  "registration_date": "Jan 09, 2008",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 139000
+}

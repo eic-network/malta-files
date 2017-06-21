@@ -1,0 +1,75 @@
+{
+  "name": "BE M PARTNERSHIP",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OAK BE MINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 78809",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OAK BE MINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 78809",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OAK BE MINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 78809",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OAK BE MINE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 78809",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 10
+        }
+      },
+      {
+        "name": "REINHOLD ZIMMERMANN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            568852871",
+        "address": "EICKEN1WERDHOLHLD58791GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 990
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "114, THE STRAND,",
+  "company_id": "P COMM 195",
+  "registration_date": "Jan 04, 2017",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

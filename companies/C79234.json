@@ -1,0 +1,70 @@
+{
+  "company_id": "C 79234",
+  "address": "SUNDREAMS 109, TRIQ IT-TERZ , L-IBRAGG,",
+  "name": "BRILLIANCE CAPITAL LIMITED",
+  "locality": "SWIEQI",
+  "status": "",
+  "registration_date": "Jan 23, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1250,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1250
+    }
+  ],
+  "total_authorised_shares": 1250,
+  "total_authorised_shares_value": 1250,
+  "total_issued_shares": 1250,
+  "total_issued_shares_value": 1250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PIERRE AZZOPARDI\r",
+        "party_id": "                                                            87674M",
+        "address": "SUNDREAMS109,TRIQIT-TERZ,L-IBRAG,SWIEQISWQ2274MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PIERRE AZZOPARDI\r",
+        "party_id": "                                                            87674M",
+        "address": "SUNDREAMS109,TRIQIT-TERZ,L-IBRAG,SWIEQISWQ2274MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE AZZOPARDI\r",
+        "party_id": "                                                            87674M",
+        "address": "SUNDREAMS109,TRIQIT-TERZ,L-IBRAG,SWIEQISWQ2274MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE AZZOPARDI\r",
+        "party_id": "                                                            87674M",
+        "address": "SUNDREAMS109,TRIQIT-TERZ,L-IBRAG,SWIEQISWQ2274MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PIERRE AZZOPARDI\r",
+        "party_id": "                                                            87674M",
+        "address": "SUNDREAMS109,TRIQIT-TERZ,L-IBRAG,SWIEQISWQ2274MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

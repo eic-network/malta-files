@@ -1,0 +1,75 @@
+{
+  "name": "ALLWORKS LIMITED",
+  "total_issued_shares_value": 18634.98,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 8000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            842651M",
+        "address": "QAWSALLA,TAL-AWRORASTREET,MOSTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            842651M",
+        "address": "QAWSALLA,TAL-AWRORASTREET,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            842651M",
+        "address": "QAWSALLA,TAL-AWRORASTREET,MOSTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALICE MARY AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0233401L",
+        "address": "2,QAWSALLA,AWRORASTREET,MOSTAMST05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            842651M",
+        "address": "QAWSALLA,TAL-AWRORASTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 7999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 8000,
+  "address": "''QAWSALLA'' TAL-AWRORA STREET",
+  "company_id": "C 12440",
+  "registration_date": "Mar 08, 1991",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 10000
+}

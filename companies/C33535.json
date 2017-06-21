@@ -1,0 +1,59 @@
+{
+  "name": "BELLEZA COMPANY LIMITED",
+  "total_issued_shares_value": 1164.68,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PAUL HORHAMMER\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            14131190",
+        "address": "LONNROTSGATAN22A1F,FIN00120,HELSINKIFINLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAUL HORHAMMER\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            14131190",
+        "address": "LONNROTSGATAN22A1F,FIN00120,HELSINKIFINLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "KENNETH WREDE\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            14125472",
+        "address": "KASARMIKATU27,FIN00130HELSINKIFINLAND",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "15, GERRY ZAMMIT STREET",
+  "company_id": "C 33535",
+  "registration_date": "Mar 24, 2004",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 500
+}

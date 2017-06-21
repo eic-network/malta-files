@@ -1,0 +1,91 @@
+{
+  "name": "BEAVER JET LTD",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1300,
+      "type": "Ordinary",
+      "authorised_share_capital": 1300,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BORIS IOFFE\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            414504L",
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BORIS IOFFE\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            414504L",
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BORIS IOFFE\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            414504L",
+        "address": "12A,QUI-SI-SANACOURT,FLAT1,IX-XATTTA'QUI-SI-SANA,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT09MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "FENLEX HOLDINGS & SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 22030",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT09MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "85, ST JOHN STREET,",
+  "company_id": "C 40022",
+  "registration_date": "Nov 22, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

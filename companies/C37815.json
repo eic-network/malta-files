@@ -1,0 +1,93 @@
+{
+  "company_id": "C 37815",
+  "address": "60, TIGNE TOWERS, TIGNE STREET,",
+  "name": "BRAZIL HOMES INTERNATIONAL EUROPE LTD",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jan 12, 2006",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199
+    },
+    {
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KRISTIAN ERIK VIHTORI SALOMAKI\r",
+        "party_id": "                                                            78218762",
+        "address": "RUARAIMUNDUB.DASILVA3606,BLOCOA,AP.1002,59064-610NATAL/RN,CANDELARIABRAZIL",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CUSTOM HOUSE GLOBAL FUND SERVICES LIMITED\r",
+        "party_id": "                                                            C 43799",
+        "address": "SMARTCITYMALTA,SCM01,FLOOR4,RICASOLI,KALKARASCM1001MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "EQUITY TRUST MALTA LIMITED\r",
+        "party_id": "                                                            C 39512",
+        "address": "SMARTCITYMALTA,SCM01TMFGROUP(MALTA)401,RICASOLI,KALKARASCM1001MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MANACOR (LUXEMBOURG) S.A.\r",
+        "party_id": "                                                            B 9098",
+        "address": "46AAVENUEJ.F.KENNEDYLUXEMBOURGL-1855LUXEMBOURG",
+        "nationality": ""
+      },
+      {
+        "name": "KRISTIAN ERIK VIHTORI SALOMAKI\r",
+        "party_id": "                                                            78218762",
+        "address": "RUARAIMUNDUB.DASILVA3606,BLOCOA,AP.1002,59064-610NATAL/RN,CANDELARIABRAZIL",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MANACOR (LUXEMBOURG) S.A.\r",
+        "party_id": "                                                            B 9098",
+        "address": "46AAVENUEJ.F.KENNEDYLUXEMBOURGL-1855LUXEMBOURG",
+        "nationality": ""
+      },
+      {
+        "name": "KRISTIAN ERIK VIHTORI SALOMAKI\r",
+        "party_id": "                                                            78218762",
+        "address": "RUARAIMUNDUB.DASILVA3606,BLOCOA,AP.1002,59064-610NATAL/RN,CANDELARIABRAZIL",
+        "nationality": "SWEDISH"
+      }
+    ]
+  }
+}

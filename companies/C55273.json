@@ -1,0 +1,78 @@
+{
+  "total_issued_shares_value": 2000,
+  "registration_date": "Apr 02, 2012",
+  "status": "In Dissolution",
+  "locality": "TA' XBIEX",
+  "name": "BUHAJAR GROUP HOLDINGS LIMITED",
+  "total_issued_shares": 2000,
+  "address": "30/9, CRESTA FLATS IMRADD STREET",
+  "company_id": "C 55273",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "OMERAVNIMAH.INONUCAD.MITHAPASAAPT.48KAT1DAIRE234427,GUMUSSUYUBEYOGLUISTANBULTURKEY",
+        "party_id": "                                                            258435",
+        "name": "BUHAJAR ABDURRAUF MUSTAFA\r",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "30/9,CRESTAFLATS,TRIQL-IMRADD,TA'XBIEXMALTA",
+        "party_id": "                                                            204278M",
+        "name": "ANDREA MICALLEF\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "OMERAVNIMAH.INONUCAD.MITHAPASAAPT.48KAT1DAIRE234427,GUMUSSUYUBEYOGLUISTANBULTURKEY",
+        "party_id": "                                                            258435",
+        "name": "BUHAJAR ABDURRAUF MUSTAFA\r",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Liquidators": [
+      {
+        "address": "SPRINGFIELDS,WINDMILLSTREET,LIJABZN10MALTA",
+        "party_id": "                                                            589762M",
+        "name": "ALEXANDER PERICI CALASCIONE\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "OMERAVNIMAH.INONUCAD.MITHAPASAAPT.48KAT1DAIRE234427,GUMUSSUYUBEYOGLUISTANBULTURKEY",
+        "party_id": "                                                            258435",
+        "name": "BUHAJAR ABDURRAUF MUSTAFA\r",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 2000,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "OMERAVNIMAH.INONUCAD.MITHAPASAAPT.48KAT1DAIRE234427,GUMUSSUYUBEYOGLUISTANBULTURKEY",
+        "party_id": "                                                            258435",
+        "name": "BUHAJAR ABDURRAUF MUSTAFA\r",
+        "nationality": "LIBYAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "shares_currency": "EUR"
+}

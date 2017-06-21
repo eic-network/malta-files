@@ -1,0 +1,78 @@
+{
+  "name": "BLACK & RED LTD",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EELCO BRIELS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NV0J9D780",
+        "address": "VISTAAPARTMENTS,BLOCKA,FL09,TRIQBELLAVISTA,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EELCO BRIELS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NV0J9D780",
+        "address": "VISTAAPARTMENTS,BLOCKA,FL09,TRIQBELLAVISTA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EELCO BRIELS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NV0J9D780",
+        "address": "VISTAAPARTMENTS,BLOCKA,FL09,TRIQBELLAVISTA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FG AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/64",
+        "address": "31,LEVEL1,DUNKARMSTREETIKLINIKL9031MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EELCO BRIELS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NV0J9D780",
+        "address": "VISTAAPARTMENTS,BLOCKA,FL09,TRIQBELLAVISTA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAPITAL E HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65184",
+        "address": "FLOOR5,115A,MSIDAVALLEYROAD,BIRKIRKARABKR9024MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "FLOOR 5, 115A, MSIDA VALLEY ROAD,",
+  "company_id": "C 62523",
+  "registration_date": "Nov 06, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

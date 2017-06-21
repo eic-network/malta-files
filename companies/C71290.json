@@ -1,0 +1,77 @@
+{
+  "name": "BESTATE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CHIARA BUFFA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8321096",
+        "address": "VIAFENICEN.57,MASSA(MS)54100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "GIUSEPPE BUFFA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3889648",
+        "address": "VIAFIUMEN.10,MASSA(MS)54100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "MARTINA BUFFA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR8321243",
+        "address": "VIAFIUMEN.10,MASSA(MS)54100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "RACHELE CIRILLO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AV5113346",
+        "address": "VIAFIUMEN.10,MASSA(MS)54100ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "OFFICE LEVEL 2, ONSITE BUILDINGS, VALLEY ROAD",
+  "company_id": "C 71290",
+  "registration_date": "Jul 03, 2015",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,71 @@
+{
+  "name": "AULONA MARITIME LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ARTAN ALIMUCAJ",
+        "nationality": "",
+        "party_id": "",
+        "address": "SHESHIAVNIRUSTEMITIRANAINDONESIA"
+      },
+      {
+        "name": "EDMOND ALIMUCAJ",
+        "nationality": "",
+        "party_id": "",
+        "address": "SHESHIAVNIRUSTEMITIRANAINDONESIA"
+      },
+      {
+        "name": "GEORGOEVANGELOS TZANETATOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": "2,AFENDOULISTREETGR-18536PIRAEUSGREECE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CYCLE SHIPPING AND TRADING",
+        "nationality": "",
+        "party_id": "",
+        "address": "N/A",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 399
+        }
+      },
+      {
+        "name": "PACIFIC SHIPPING AND TRADING",
+        "nationality": "",
+        "party_id": "",
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "18/2, SOUTH STREET,",
+  "company_id": "C 20071",
+  "registration_date": "Apr 30, 1996",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

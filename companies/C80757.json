@@ -1,0 +1,101 @@
+{
+  "name": "ARTEMIA LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 12
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EMMANUEL LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AD83916",
+        "address": "35HIGHSTREETSPROUGHTONIPSWICHIP83AFENGLAND"
+      },
+      {
+        "name": "YVES LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AC26412",
+        "address": "11QUAIMARCELBOISSARDREZE44400FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMMANUEL LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AD83916",
+        "address": "35HIGHSTREETSPROUGHTONIPSWICHIP83AFENGLAND"
+      },
+      {
+        "name": "YVES LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AC26412",
+        "address": "11QUAIMARCELBOISSARDREZE44400FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROBERT TAYLOR-EAST\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531478M",
+        "address": "8,GARDENSSTREETATTARDATD1260MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMMANUEL LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AD83916",
+        "address": "35HIGHSTREETSPROUGHTONIPSWICHIP83AFENGLAND"
+      },
+      {
+        "name": "YVES LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AC26412",
+        "address": "11QUAIMARCELBOISSARDREZE44400FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMMANUEL LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AD83916",
+        "address": "35HIGHSTREETSPROUGHTONIPSWICHIP83AFENGLAND",
+        "shares": {
+          "nominal_value_per_share": 12,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 30
+        }
+      },
+      {
+        "name": "YVES LECORPS\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            10AC26412",
+        "address": "11QUAIMARCELBOISSARDREZE44400FRANCE",
+        "shares": {
+          "nominal_value_per_share": 12,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 70
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "C3006, BALLUTA TERRACE ST. JULIAN'S RAMP",
+  "company_id": "C 80757",
+  "registration_date": "May 05, 2017",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 100
+}

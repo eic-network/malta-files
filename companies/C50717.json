@@ -1,0 +1,97 @@
+{
+  "name": "BALTIC SKY INVESTMENTS LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETER J. GRIFFITHS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175177M",
+        "address": "TAKARAMADLIENAROAD,MADLIENASWIEQISWQ1017MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARNXR9021MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARNXR9021MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "A+A ASSURANCE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/03",
+        "address": "ABACUSCENTRE,LEVEL1,DUNKARMSTREET,B'KARABYPASS,BIRKIRKARABKR9037MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARNXR9021MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALDIS UPENIEKS\r",
+        "nationality": "LATVIAN",
+        "party_id": "                                                            LN0730983",
+        "address": "NOGAZES2-38,OGRELV-5000LATVIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ISOLA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            77405",
+        "address": "SUITE205,SECONDFLOOR,CAPITALCITY,INDEPENDENCEAVENUE,POBOX903,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 1, CASAL NAXARO LABOUR AVENUE",
+  "company_id": "C 50717",
+  "registration_date": "Sep 24, 2010",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1200
+}

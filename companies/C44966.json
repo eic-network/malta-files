@@ -1,0 +1,107 @@
+{
+  "name": "ANGORA CONSULTING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KERIM ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U590980",
+        "address": "ALKENT2000SITESI,YEDITEPESOKAKNO:3,34500,BUYUKCEKMECE,ISTANBULTURKEY"
+      },
+      {
+        "name": "SADULLAH AKIN ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U291000",
+        "address": "SAHILEVLERIMAHALLESI,TEVFRIKFIKRETSOKAKNO:16,35000,NARLIDERE,IZMIRTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KERIM ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U590980",
+        "address": "ALKENT2000SITESI,YEDITEPESOKAKNO:3,34500,BUYUKCEKMECE,ISTANBULTURKEY"
+      },
+      {
+        "name": "SADULLAH AKIN ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U291000",
+        "address": "SAHILEVLERIMAHALLESI,TEVFRIKFIKRETSOKAKNO:16,35000,NARLIDERE,IZMIRTURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID HARDING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            68264M",
+        "address": "12,OLDBAKERYSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KERIM ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U590980",
+        "address": "ALKENT2000SITESI,YEDITEPESOKAKNO:3,34500,BUYUKCEKMECE,ISTANBULTURKEY"
+      },
+      {
+        "name": "SADULLAH AKIN ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U291000",
+        "address": "SAHILEVLERIMAHALLESI,TEVFRIKFIKRETSOKAKNO:16,35000,NARLIDERE,IZMIRTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KERIM ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U590980",
+        "address": "ALKENT2000SITESI,YEDITEPESOKAKNO:3,34500,BUYUKCEKMECE,ISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "SADULLAH AKIN ROTA\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-U291000",
+        "address": "SAHILEVLERIMAHALLESI,TEVFRIKFIKRETSOKAKNO:16,35000,NARLIDERE,IZMIRTURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "1, DE SAIN COURT, TRIQ IT-TAMAL,",
+  "company_id": "C 44966",
+  "registration_date": "Aug 25, 2008",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

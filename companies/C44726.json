@@ -1,0 +1,75 @@
+{
+  "name": "AUSSIE SHIPPING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "TRISTAN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371694M",
+        "address": "6,THEBLESSING,TRIQID-DARTAL-KEJKA,TARXIENMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TRISTAN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371694M",
+        "address": "6,THEBLESSING,TRIQID-DARTAL-KEJKA,TARXIENMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TRISTAN GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            371694M",
+        "address": "6,THEBLESSING,TRIQID-DARTAL-KEJKA,TARXIENMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "BT INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 40658",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "BLOCK 2, APT 1, AMBER COURT, TRIQ A CACHIA ZAMMIT",
+  "company_id": "C 44726",
+  "registration_date": "Jul 17, 2008",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 1200
+}

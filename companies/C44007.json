@@ -1,0 +1,91 @@
+{
+  "company_id": "C 44007",
+  "address": "2, ST JOHN ELEMOSINER STREET,",
+  "name": "3CITY DESIGNS LIMITED",
+  "locality": "COSPICUA",
+  "status": "",
+  "registration_date": "Apr 11, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 100000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 100000
+    }
+  ],
+  "total_authorised_shares": 100000,
+  "total_authorised_shares_value": 100000,
+  "total_issued_shares": 100000,
+  "total_issued_shares_value": 100000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSETTE SCHEMBRI VELLA\r",
+        "party_id": "                                                            177876M",
+        "address": "VILLAABELIA,UNITC4,SANTAMARIJAGARDENSTRIQIZ-ZEBBUG,SANTAMARIAESTATEMELLIEHAMLH2720MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KASCO HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 17886",
+        "address": "2,ST.JOHNELEMOSINERSTREET,COSPICUABML9051MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "JOSETTE SCHEMBRI VELLA\r",
+        "party_id": "                                                            177876M",
+        "address": "VILLAABELIA,UNITC4,SANTAMARIJAGARDENSTRIQIZ-ZEBBUG,SANTAMARIAESTATEMELLIEHAMLH2720MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSETTE SCHEMBRI VELLA\r",
+        "party_id": "                                                            177876M",
+        "address": "VILLAABELIA,UNITC4,SANTAMARIJAGARDENSTRIQIZ-ZEBBUG,SANTAMARIAESTATEMELLIEHAMLH2720MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSETTE SCHEMBRI VELLA\r",
+        "party_id": "                                                            177876M",
+        "address": "VILLAABELIA,UNITC4,SANTAMARIJAGARDENSTRIQIZ-ZEBBUG,SANTAMARIAESTATEMELLIEHAMLH2720MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSETTE SCHEMBRI VELLA\r",
+        "party_id": "                                                            177876M",
+        "address": "VILLAABELIA,UNITC4,SANTAMARIJAGARDENSTRIQIZ-ZEBBUG,SANTAMARIAESTATEMELLIEHAMLH2720MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "TOWERBUSINESSCENTRE,GROUNDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

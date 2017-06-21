@@ -1,0 +1,99 @@
+{
+  "total_issued_shares_value": 2000,
+  "registration_date": "Jun 26, 2008",
+  "status": "In Dissolution",
+  "locality": "MOSTA",
+  "name": "BSW INTERNATIONAL LIMITED",
+  "total_issued_shares": 2000,
+  "address": "Level 2, 'The Forum', CONSTITUTION STRET,",
+  "company_id": "C 44579",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "BERTHELSDOERFERSTR.6,BERLIN12043GERMANY",
+        "party_id": "                                                            252637513",
+        "name": "ARVED KLOHN\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "32,COLVILLETERRACE,LONDONW112BUUNITEDKINGDOM",
+        "party_id": "                                                            H06330407",
+        "name": "BENEDIKT GRUNDEMANN-FALKENBERG\r",
+        "nationality": "AUSTRIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "BERTHELSDOERFERSTR.6,BERLIN12043GERMANY",
+        "party_id": "                                                            252637513",
+        "name": "ARVED KLOHN\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Liquidators": [
+      {
+        "address": "35/1,SALVUPSAILASTREET,BIRKIRKARABKR9072MALTA",
+        "party_id": "                                                            417181M",
+        "name": "PAMELA MIFSUD\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "BERTHELSDOERFERSTR.6,BERLIN12043GERMANY",
+        "party_id": "                                                            252637513",
+        "name": "ARVED KLOHN\r",
+        "nationality": "GERMAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "78,KOSI-KOTTRIQGUZE'ELLULMERCERQORMIQRM2685MALTA",
+        "party_id": "                                                            10413",
+        "name": "DAVID LAWRENCE GRIMA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "'THEFORUM',LEVEL2,CONSTITUTIONSTREET,MOSTAMST9051MALTA",
+        "party_id": "                                                            C 37510",
+        "name": "MAMO, PACE & ASSOCIATES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1999,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "69,GREATHAMPTONSTREET,BIRMINGHAMB186EWUNITEDKINGDOM",
+        "party_id": "                                                            6601480",
+        "name": "QUAD HOLDING INTERNATIONAL LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "shares_currency": "EUR"
+}

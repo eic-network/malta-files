@@ -1,0 +1,107 @@
+{
+  "name": "AUMM INVESTMENT MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1164,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1164,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DESMOND ANDREW MC GOWAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB3411388",
+        "address": "33,CARYSFORTDOWNS,BLACKROCK,DUBLINIRELAND"
+      },
+      {
+        "name": "JOHN ALEXANDER STEPHEN MCGREGOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            080108590",
+        "address": "32,LOCKHARTONAVENUE,EDINBURGH,MIDLOTHIANEH141AZUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DESMOND ANDREW MC GOWAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB3411388",
+        "address": "33,CARYSFORTDOWNS,BLACKROCK,DUBLINIRELAND"
+      },
+      {
+        "name": "JOHN ALEXANDER STEPHEN MCGREGOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            080108590",
+        "address": "32,LOCKHARTONAVENUE,EDINBURGH,MIDLOTHIANEH141AZUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DESMOND ANDREW MC GOWAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB3411388",
+        "address": "33,CARYSFORTDOWNS,BLACKROCK,DUBLINIRELAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DESMOND ANDREW MC GOWAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB3411388",
+        "address": "33,CARYSFORTDOWNS,BLACKROCK,DUBLINIRELAND"
+      },
+      {
+        "name": "JOHN ALEXANDER STEPHEN MCGREGOR\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            080108590",
+        "address": "32,LOCKHARTONAVENUE,EDINBURGH,MIDLOTHIANEH141AZUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THE MASTER PRIVATE TRUST COMPANY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            44125",
+        "address": "6,FRONTSTREET,HAMILTONBERMUDA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1164
+        }
+      },
+      {
+        "name": "DESMOND ANDREW MC GOWAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB3411388",
+        "address": "33,CARYSFORTDOWNS,BLACKROCK,DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "80, TRUST SERVICES, MILL STREET,",
+  "company_id": "C 71204",
+  "registration_date": "Jun 25, 2015",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1165
+}

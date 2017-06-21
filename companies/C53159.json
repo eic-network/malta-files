@@ -1,0 +1,75 @@
+{
+  "name": "AMISOS MARITIME LTD.",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "YUKSEL YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08404332",
+        "address": "BEYBIGIZPLAZA,MEYDANSOKAK,NO.28,KAT.3,DAIRE10,80670MASLAK,ISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "YUKSEL YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08404332",
+        "address": "BEYBIGIZPLAZA,MEYDANSOKAK,NO.28,KAT.3,DAIRE10,80670MASLAK,ISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "YUKSEL YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U08404332",
+        "address": "BEYBIGIZPLAZA,MEYDANSOKAK,NO.28,KAT.3,DAIRE10,80670MASLAK,ISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALI RIZA YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U-06103488",
+        "address": "BEYBIGIZPLAZAMEYDANSOKAKNO.28KAT.3,DAIRE10MASLAKISTANBUL80670TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "YUKSEL YILDIRIM\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U-08404332",
+        "address": "BEYBIGIZPLAZAMEYDANSOKAKNO.28KAT.3,DAIRE10MASLAKISTANBUL80670TURKEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "26, GHAR ID-DUD STREET,",
+  "company_id": "C 53159",
+  "registration_date": "Jun 16, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

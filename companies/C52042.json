@@ -1,0 +1,109 @@
+{
+  "name": "44 MAIN STREET LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LAWRENCE BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            15380M",
+        "address": "SARDONYX,TRIQIL-LINJA,ATTARDATD1234MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      },
+      {
+        "name": "WINSTON V. ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            820340M",
+        "address": "9,'IL-GARRA',CARMELOPACESTREET,IKLINIKL1601MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      },
+      {
+        "name": "WINSTON V. ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            820340M",
+        "address": "9,'IL-GARRA',CARMELOPACESTREET,IKLINIKL1601MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "TRI-MER AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/16/09",
+        "address": "Suite2,InternationalHouseTRIQIN-NAXXARSANGWANNSGN9032MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            333045M",
+        "address": "THEPANTHERS,E.BRADFORDSTREET,SANPAWLTAT-TARGA,NAXXARMALTA"
+      },
+      {
+        "name": "WINSTON V. ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            820340M",
+        "address": "9,'IL-GARRA',CARMELOPACESTREET,IKLINIKL1601MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALPINE HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 2745",
+        "address": "ALPINEHOUSENAXXARROADSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "T.M.C 3 LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 70784",
+        "address": "'IL-GARRA',TRIQCARMELOPACE,IKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "ALPINE HOUSE, NAXXAR ROAD,",
+  "company_id": "C 52042",
+  "registration_date": "Feb 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 50000
+}

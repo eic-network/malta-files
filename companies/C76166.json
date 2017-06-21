@@ -1,0 +1,89 @@
+{
+  "name": "BB TRADING LTD.",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "STEFFAN FRANCIS PATRICK MARIO VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86809L",
+        "address": "21,TRIQSIRGEORGEBORG,SLIEMASLM1802MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STEFFAN FRANCIS PATRICK MARIO VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86809L",
+        "address": "21,TRIQSIRGEORGEBORG,SLIEMASLM1802MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIANA CAMILLERI VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            307374M",
+        "address": "3/4,PEARLCOURT,TRIQL-ISPIERA,SWIEQISWQ3082MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STEFFAN FRANCIS PATRICK MARIO VASSALLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86809L",
+        "address": "21,TRIQSIRGEORGEBORG,SLIEMASLM1802MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Blue Bay Dream Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            C 65024",
+        "address": "B2INDUSTRYSTREETQORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2999
+        }
+      },
+      {
+        "name": "FJV MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42279",
+        "address": "FJVABUSINESSCENTRE,INDUSTRYSTREET,QORMIQRM3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "B2, INDUSTRY STREET,",
+  "company_id": "C 76166",
+  "registration_date": "Jun 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 3000
+}

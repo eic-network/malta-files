@@ -1,0 +1,107 @@
+{
+  "name": "BELICINO LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 625,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 625,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "SALVATORE BASCIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1922577",
+        "address": "VIARODI,44,CAMPOBELLODIMAZZARASICILY91021ITALY"
+      },
+      {
+        "name": "GIACOMO GENCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8066282",
+        "address": "VIACUSMANO,60CAMPOBELLODIMAZZARASICILYITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALVATORE BASCIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1922577",
+        "address": "VIARODI,44,CAMPOBELLODIMAZZARASICILY91021ITALY"
+      },
+      {
+        "name": "GIACOMO GENCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8066282",
+        "address": "VIACUSMANO,60CAMPOBELLODIMAZZARASICILYITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SALVATORE BASCIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1922577",
+        "address": "VIARODI,44,CAMPOBELLODIMAZZARASICILY91021ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALVATORE BASCIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1922577",
+        "address": "VIARODI,44,CAMPOBELLODIMAZZARASICILY91021ITALY"
+      },
+      {
+        "name": "GIACOMO GENCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8066282",
+        "address": "VIACUSMANO,60CAMPOBELLODIMAZZARASICILYITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SALVATORE BASCIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA1922577",
+        "address": "VIARODI,44,CAMPOBELLODIMAZZARASICILY91021ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 625
+        }
+      },
+      {
+        "name": "GIACOMO GENCO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA8066282",
+        "address": "VIACUSMANO,60CAMPOBELLODIMAZZARASICILYITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 625
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "45/18, STRAIT STREET,",
+  "company_id": "C 74304",
+  "registration_date": "Feb 11, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1250
+}

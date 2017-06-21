@@ -1,0 +1,97 @@
+{
+  "name": "ASIA MEDIA EXCHANGE LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,TAD-DIB,MOSTAMST3507MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "COMATRANS SA\r",
+        "nationality": "",
+        "party_id": "                                                            CH-660-0397979-7",
+        "address": "4,RUEJEAN-SENEBIER,GENEVACH-1205SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "COMATRANS SA\r",
+        "nationality": "",
+        "party_id": "                                                            CH-660-0397979-7",
+        "address": "4,RUEJEAN-SENEBIER,GENEVACH-1205SWITZERLAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "COMATRANS SA\r",
+        "nationality": "",
+        "party_id": "                                                            CH-660-0397979-7",
+        "address": "4,RUEJEAN-SENEBIER,GENEVACH-1205SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1, LEVEL 3, TRIQ TAS-SISLA, SWATAR,",
+  "company_id": "C 51422",
+  "registration_date": "Dec 15, 2010",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

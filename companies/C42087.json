@@ -1,0 +1,83 @@
+{
+  "name": "AQUIS GRANA SERVICES LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 4500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 4500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "FRIEDRICH HEINRICH FRIEDEBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5340850683",
+        "address": "PLAZAONDINA1PISOP03,PUERTA8AGUADULCE(ALMERIA)SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FRIEDRICH HEINRICH FRIEDEBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5340850683",
+        "address": "PLAZAONDINA1PISOP03,PUERTA8AGUADULCE(ALMERIA)SPAIN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "HERMANN HEINZ KRESSE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            83256A",
+        "address": "86,MAINSTREETST.JULIANSSTJ1015MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRIEDRICH HEINRICH FRIEDEBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5340850683",
+        "address": "PLAZAONDINA1PISOP03,PUERTA8AGUADULCE(ALMERIA)SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CASYMO AG\r",
+        "nationality": "",
+        "party_id": "                                                            CH-020.3.030.823-4",
+        "address": "TAMPERLISTRASSE3,FALLANDEN8117SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1249
+        }
+      },
+      {
+        "name": "FRIEDRICH HEINRICH FRIEDEBERG\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            5340850683",
+        "address": "PLAZAONDINA1PISOP03,PUERTA8AGUADULCE(ALMERIA)SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "86, MAIN STREET",
+  "company_id": "C 42087",
+  "registration_date": "Aug 10, 2007",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 4500
+}

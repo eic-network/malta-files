@@ -1,0 +1,78 @@
+{
+  "name": "BETTER HOMES LTD",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "126,ATOCIASTREET,HAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDMOND MUGLIETTE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            661762M",
+        "address": "26ATOCIASTREETHAMRUNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "126 ATOCIA STREET",
+  "company_id": "C 11070",
+  "registration_date": "Oct 27, 1989",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 1165
+}

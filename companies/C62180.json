@@ -1,0 +1,70 @@
+{
+  "name": "4DPC LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GILEAD RAPHAEL WISEBURGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099021012",
+        "address": "'VERDALAFLATS',FLAT23,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GILEAD RAPHAEL WISEBURGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099021012",
+        "address": "'VERDALAFLATS',FLAT23,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NITZAN LEVI\r",
+        "nationality": "ISRAELI",
+        "party_id": "                                                            20989073",
+        "address": "'VERDALAFLATS',FLAT23,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GILEAD RAPHAEL WISEBURGH\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            099021012",
+        "address": "'VERDALAFLATS',FLAT23,ST.GEORGE'SPARK,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHOENICKS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 42452",
+        "address": "DIXCARTHOUSE,FORTCHARLES,CHARLESTOWN,NEVISSAINTKITTSANDNEVIS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'VERDALA FLATS', FLAT 23, ST. GEORGE'S PARK,",
+  "company_id": "C 62180",
+  "registration_date": "Oct 10, 2013",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

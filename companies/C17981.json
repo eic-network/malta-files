@@ -1,0 +1,116 @@
+{
+  "name": "B.G.S. COMPANY LTD",
+  "total_issued_shares_value": 1747.03,
+  "total_authorised_shares_value": 1747.03,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "Ordinary",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VINCENT STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152967M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258261M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511871M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      },
+      {
+        "name": "JOHN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258261M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      },
+      {
+        "name": "VINCENT STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152967M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH A. MiCALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19608",
+        "address": "1SQAQSANT'AGATARABATMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258261M",
+        "address": "93,THESTRANDS,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIAN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511871M",
+        "address": "93,THESTRANDS,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "JOHN STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258261M",
+        "address": "93,THESTRANDS,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "VINCENT STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152967M",
+        "address": "93,THESTRANDS,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 750,
+  "address": "93, THE STRAND,",
+  "company_id": "C 17981",
+  "registration_date": "Mar 10, 1995",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 750
+}

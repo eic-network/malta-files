@@ -1,0 +1,91 @@
+{
+  "name": "BAHIA ESTATES LIMITED",
+  "total_issued_shares_value": 58234.33,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "Ordinary",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHEN ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            272773M",
+        "address": "22,FLAT4,TELGHETSANGILJAN,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY FOUNTAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176872M",
+        "address": "BLOCK3,FLAT2,BALLUTABUILDINGS,TRIQTAL-KARMNU,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY FOUNTAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176872M",
+        "address": "BLOCK3,FLAT2,BALLUTABUILDINGS,TRIQTAL-KARMNU,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY FOUNTAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176872M",
+        "address": "BLOCK3,FLAT2,BALLUTABUILDINGS,TRIQTAL-KARMNU,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "STEPHEN ABELA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            272773M",
+        "address": "22,FLAT4,TELGHETSANGILJAN,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      },
+      {
+        "name": "ANTHONY FOUNTAIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            176872M",
+        "address": "BLOCK3,FLAT2,BALLUTABUILDINGS,TRIQTAL-KARMNU,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "BLOCK 3, FLAT 2, BALLUTA BUILDINGS, TRIQ TAL-KARMNU,",
+  "company_id": "C 38808",
+  "registration_date": "May 29, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 25000
+}

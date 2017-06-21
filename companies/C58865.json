@@ -1,0 +1,75 @@
+{
+  "name": "BEHINDBARZ EVENTS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ATTILA KOVACS\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            68803A",
+        "address": "247,FLAT7,TRIQD'ARGENS,GZIRAGZR1362MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ATTILA KOVACS\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            68803A",
+        "address": "247,FLAT7,TRIQD'ARGENS,GZIRAGZR1362MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ATTILA KOVACS\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            68803A",
+        "address": "247,FLAT7,TRIQD'ARGENS,GZIRAGZR1362MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDWARD BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            526091M",
+        "address": "32,DIMORA,TRIQL-INSOLJAATTARDATD2652MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ATTILA KOVACS\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            68803A",
+        "address": "247,FLAT7,TRIQD'ARGENS,GZIRAGZR1362MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "31, 'DIMORA', TRIQ L-INSOLJA,",
+  "company_id": "C 58865",
+  "registration_date": "Jan 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "ATTARD",
+  "status": "",
+  "total_authorised_shares": 10000
+}

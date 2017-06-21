@@ -1,0 +1,70 @@
+{
+  "company_id": "C 73503",
+  "address": "292/10, REPUBLIC STREET,",
+  "name": "BOXHILL TECHNOLOGIES (MALTA) LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 14, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PHILIP IAN JACKSON\r",
+        "party_id": "                                                            527538876",
+        "address": "CAINESHOUSE,MILLLANE,WINDSORSL45JQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PHILIP IAN JACKSON\r",
+        "party_id": "                                                            527538876",
+        "address": "CAINESHOUSE,MILLLANE,WINDSORSL45JQUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PHILIP IAN JACKSON\r",
+        "party_id": "                                                            527538876",
+        "address": "CAINESHOUSE,MILLLANE,WINDSORSL45JQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PHILIP IAN JACKSON\r",
+        "party_id": "                                                            527538876",
+        "address": "CAINESHOUSE,MILLLANE,WINDSORSL45JQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIP IAN JACKSON\r",
+        "party_id": "                                                            527538876",
+        "address": "CAINESHOUSE,MILLLANE,WINDSORSL45JQUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

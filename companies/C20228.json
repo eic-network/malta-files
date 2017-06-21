@@ -1,0 +1,109 @@
+{
+  "company_id": "C 20228",
+  "address": "GARAGE NO. 3, NEW STREET OFF DITCH STREET,",
+  "name": "BORVELL WOODWORKS LIMITED",
+  "locality": "MOSTA",
+  "status": "",
+  "registration_date": "Jun 04, 1996",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 750,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2,
+      "issued_shares": 750
+    }
+  ],
+  "total_authorised_shares": 750,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 750,
+  "total_issued_shares_value": 1500,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRIAN BORG\r",
+        "party_id": "                                                            421269M",
+        "address": "NASHVILLE,PLOT104,TRIQIN-NINFACALYPSO,MELLIEHAMLH1313MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANTHONY VELLA\r",
+        "party_id": "                                                            136670M",
+        "address": "BAYVIEWCOURT,FLAT4,TRIQL-GHERIEN,MELLIEHAMLH2283MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN BORG\r",
+        "party_id": "                                                            421269M",
+        "address": "NASHVILLE,PLOT104,TRIQIN-NINFACALYPSO,MELLIEHAMLH1313MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2
+        }
+      },
+      {
+        "name": "ANTHONY VELLA\r",
+        "party_id": "                                                            136670M",
+        "address": "BAYVIEWCOURT,FLAT4,TRIQL-GHERIEN,MELLIEHAMLH2283MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 375,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN BORG\r",
+        "party_id": "                                                            421269M",
+        "address": "NASHVILLE,PLOT104,TRIQIN-NINFACALYPSO,MELLIEHAMLH1313MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANTHONY VELLA\r",
+        "party_id": "                                                            136670M",
+        "address": "BAYVIEWCOURT,FLAT4,TRIQL-GHERIEN,MELLIEHAMLH2283MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN BORG\r",
+        "party_id": "                                                            421269M",
+        "address": "NASHVILLE,PLOT104,TRIQIN-NINFACALYPSO,MELLIEHAMLH1313MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "ANTHONY VELLA\r",
+        "party_id": "                                                            136670M",
+        "address": "BAYVIEWCOURT,FLAT4,TRIQL-GHERIEN,MELLIEHAMLH2283MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHARLES CASSANO\r",
+        "party_id": "                                                            570049M",
+        "address": "264,MAINSTREET,MELLIEHAMLH2317MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SPITERI\r",
+        "party_id": "                                                            19808",
+        "address": "120,ESPOIR,TRIQIL-WIED,MOSTAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

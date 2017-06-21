@@ -1,0 +1,83 @@
+{
+  "name": "B,J&A HOLDINGS LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JEAN-PAUL AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05AE65023",
+        "address": "C/LINARES,1-17,VALENCIA46001SPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JEAN-PAUL AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05AE65023",
+        "address": "C/LINARES,1-17,VALENCIA46001SPAIN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ELIETTE AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            040131302347",
+        "address": "13,RUEGEORGESOHNET,OHNET,TOULOUSE31000FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JEAN-PAUL AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05AE65023",
+        "address": "C/LINARES,1-17,VALENCIA46001SPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELIETTE AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            040131302347",
+        "address": "13,RUEGEORGESOHNET,OHNET,TOULOUSE31000FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "JEAN-PAUL AZIZA\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05AE65023",
+        "address": "C/LINARES,1-17,VALENCIA46001SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "167, MERCHANTS STREET,",
+  "company_id": "C 25858",
+  "registration_date": "Feb 14, 2000",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

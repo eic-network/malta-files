@@ -1,0 +1,80 @@
+{
+  "total_issued_shares_value": 1165,
+  "registration_date": "Oct 14, 2013",
+  "status": "",
+  "locality": "BIRZEBBUGIA",
+  "name": "BSI GROUP IMPORT-EXPORT LTD",
+  "total_issued_shares": 1165,
+  "address": "13, Curate Fenech Street",
+  "company_id": "C 62146",
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "address": "ViaIsonzo,Nro.17,PrioloGargalloITALY",
+        "party_id": "                                                            AG9069351",
+        "name": "Adamo Iannaccone\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "ViaIsonzo,Nro.17,PrioloGargalloITALY",
+        "party_id": "                                                            AG9069351",
+        "name": "Adamo Iannaccone\r",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 233,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "ViaCalabriaNo14,SiracusaITALY",
+        "party_id": "                                                            AO4883654",
+        "name": "Valerio Federico  Battaiola\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 699,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "ViaIsonzo,Nro.17,PrioloGargalloITALY",
+        "party_id": "                                                            AG9069351",
+        "name": "Adamo Iannaccone\r",
+        "nationality": "ITALIAN"
+      },
+      {
+        "shares": {
+          "issued_shares": 233,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "ViaDellaDonzella,Nro.38,SiracusaITALY",
+        "party_id": "                                                            AU0223575",
+        "name": "Christian Saraceno\r",
+        "nationality": "ITALIAN"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165,
+      "authorised_share_capital": 1165,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "shares_currency": "EUR"
+}

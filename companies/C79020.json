@@ -1,0 +1,89 @@
+{
+  "name": "AS AILES LIMITED",
+  "total_issued_shares_value": 1300,
+  "total_authorised_shares_value": 1300,
+  "authorised_shares": [
+    {
+      "issued_shares": 1299,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1299,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE OLIVIER EDOUARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13CZ93173",
+        "address": "1,RUEBERNARDDETREVIERPALAVASLESFLOTS34250FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIERRE OLIVIER EDOUARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13CZ93173",
+        "address": "1,RUEBERNARDDETREVIERPALAVASLESFLOTS34250FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RUTH DEBONO DOMANCICH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            360575M",
+        "address": "LABELLAROSA,COUNTR.BARBAROSTREET,ATTARDATD1202MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE OLIVIER EDOUARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13CZ93173",
+        "address": "1,RUEBERNARDDETREVIERPALAVASLESFLOTS34250FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HPO HOLDING MALTA LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 79019",
+        "address": "VALLETTAWATERFRONTNO.6,45/46,FORNICOMPLEX,PINTOWHARF,FLORIANAFRN1913MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1299
+        }
+      },
+      {
+        "name": "PIERRE OLIVIER EDOUARD\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13CZ93173",
+        "address": "1,RUEBERNARDDETREVIERPALAVASLESFLOTS34250FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1300,
+  "address": "VALLETTA WATERFRONT, NO. 6, FORNI COMPLEX, 45,46 PINTO WHARF",
+  "company_id": "C 79020",
+  "registration_date": "Jan 06, 2017",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1300
+}

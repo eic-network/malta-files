@@ -1,0 +1,91 @@
+{
+  "company_id": "C 34198",
+  "address": "114, THE STRAND,",
+  "name": "BRODLICK INVESTMENTS LIMITED",
+  "locality": "GZIRA",
+  "status": "",
+  "registration_date": "Jun 24, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1000
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 1000,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 1000,
+  "shares_currency": "GBP",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIA CARMELA BORG\r",
+        "party_id": "                                                            357468M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

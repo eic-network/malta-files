@@ -1,0 +1,94 @@
+{
+  "name": "A.S.V. LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 1863.5,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PAUL BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            748656M",
+        "address": "9,WALLMAR,TRIQSANGERALDU,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAUL BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            748656M",
+        "address": "9,WALLMAR,TRIQSANGERALDU,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAUL BAJADA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            748656M",
+        "address": "9,WALLMAR,TRIQSANGERALDU,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA ANTONIA CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            556949M",
+        "address": "PONALTRIQIL-BLATAL-KAHLASANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 160
+        }
+      },
+      {
+        "name": "SILVIO CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            105670M",
+        "address": "PONALTRIQIL-BLATAL-KAHLASANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "JJ VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1018244M",
+        "address": "590,ST.CHRISTOPHER'SSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "590, ST JOSEPH HIGH ROAD",
+  "company_id": "C 9635",
+  "registration_date": "May 06, 1988",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 800
+}

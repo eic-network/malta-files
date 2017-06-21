@@ -1,0 +1,84 @@
+{
+  "name": "ART LINEA LIMITED",
+  "total_issued_shares_value": 2330,
+  "total_authorised_shares_value": 11650,
+  "authorised_shares": [
+    {
+      "issued_shares": 510,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2550,
+      "nominal_value_per_share": 2.33
+    },
+    {
+      "issued_shares": 490,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2450,
+      "nominal_value_per_share": 2.33
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PENELOPE TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10078M",
+        "address": "NO6,GLORIETTE,MICHELANGELOCAGIANOSTREET,THEVILLAGEST.JULIANSSTJ1869MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PENELOPE TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10078M",
+        "address": "NO6,GLORIETTE,MICHELANGELOCAGIANOSTREET,THEVILLAGEST.JULIANSSTJ1869MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PENELOPE TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10078M",
+        "address": "NO6,GLORIETTE,MICHELANGELOCAGIANOSTREET,THEVILLAGEST.JULIANSSTJ1869MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER TONNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19434",
+        "address": "51,ARONDE,ST.ARISTARCHUSSTREET,RABATMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PENELOPE TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10078M",
+        "address": "NO6,GLORIETTE,MICHELANGELOCAGIANOSTREET,THEVILLAGEST.JULIANSSTJ1869MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PENELOPE TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10078M",
+        "address": "NO6,GLORIETTE,MICHELANGELOCAGIANOSTREET,THEVILLAGEST.JULIANSSTJ1869MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.33,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 510
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "247/9 RUE D'ARGENS",
+  "company_id": "C 26398",
+  "registration_date": "May 17, 2000",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

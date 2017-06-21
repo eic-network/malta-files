@@ -1,0 +1,91 @@
+{
+  "name": "BEAN TRADING LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PATRIZIO PROSPERO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0179202L",
+        "address": "PENTHOUSE5,SANTAMARIACOURTTRIQIZ-ZRAGENATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANDREW ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11044",
+        "address": "91,BIGBENTOWERS,FLAT4,TOWERSTREET,MSIDAMSD1822MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "HLB CA MALTA LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 46832",
+        "address": "CENTRALOFFICEBUILDING,BLOCKA,LEVEL1,THEFACTORY,MOSTAROAD,LIJALJA9016MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CA HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            104739",
+        "address": "POBOX398,SUITEC,GROUNDFLOOR,NEPTUNEHOUSE,MARINABAYGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MIMA HOLDINGS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65738",
+        "address": "3RDFLOOR,NAVIBUILDINGS,PANTARROAD,LIJALJA9016MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3RD FLOOR, NAVI BUILDINGS, PANTAR ROAD,",
+  "company_id": "C 65739",
+  "registration_date": "Jun 23, 2014",
+  "shares_currency": "EUR",
+  "locality": "LIJA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

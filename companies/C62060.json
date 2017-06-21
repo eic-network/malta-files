@@ -1,0 +1,109 @@
+{
+  "name": "BioSPV Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 100001200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryCLASSA1",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            465869M",
+        "address": "2,ESPRITBARTHETSTREET,MADLIENA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VALIANCE ASSET MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            49062",
+        "address": "1STFLOOR,TUDORHOUSE,LEBORDAGE,ST.PETERPORTGY11DBGUERNSEY"
+      },
+      {
+        "name": "DGA CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 73544",
+        "address": "168ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VALIANCE ASSET MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            49062",
+        "address": "1STFLOOR,TUDORHOUSE,LEBORDAGE,ST.PETERPORTGY11DBGUERNSEY"
+      },
+      {
+        "name": "DGA CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 73544",
+        "address": "168ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VALIANCE ASSET MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            49062",
+        "address": "1STFLOOR,TUDORHOUSE,LEBORDAGE,ST.PETERPORTGY11DBGUERNSEY"
+      },
+      {
+        "name": "DGA CORPORATE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 73544",
+        "address": "168ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PAPILIO SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 55990",
+        "address": "168ST.CHRISTOPHERSTREETVALLETTAVLT1467MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "CLASS A1",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VALIANCE ASSET MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            49062",
+        "address": "1STFLOOR,TUDORHOUSE,LEBORDAGEST.PETERPORTGY11DBGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "CLASS A1",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "168 ST CHRISTOPHER STREET",
+  "company_id": "C 62060",
+  "registration_date": "Sep 27, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 100001200
+}

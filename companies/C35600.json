@@ -1,0 +1,62 @@
+{
+  "company_id": "C 35600",
+  "address": "NO. 4, SANTA LUCIJA STREET,",
+  "name": "BRIDGE NAVIGATION LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 04, 2005",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1164.69,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KIA MAHMOOD\r",
+        "party_id": "                                                            L18575287",
+        "address": "NO.38,GHANDIAVENUE,TEHRANP.O.BOX15875-3794IRAN,ISLAMICREPUBLICOF",
+        "nationality": "IRANIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ASTRAL NAVIGATION LIMITED\r",
+        "party_id": "                                                            C 34028",
+        "address": "67,EASTSTREET,VALLETTAMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KIA MAHMOOD\r",
+        "party_id": "                                                            L18575287",
+        "address": "NO.38,GHANDIAVENUE,TEHRANP.O.BOX15875-3794IRAN,ISLAMICREPUBLICOF",
+        "nationality": "IRANIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KIA MAHMOOD\r",
+        "party_id": "                                                            L18575287",
+        "address": "NO.38,GHANDIAVENUE,TEHRANP.O.BOX15875-3794IRAN,ISLAMICREPUBLICOF",
+        "nationality": "IRANIAN"
+      }
+    ]
+  }
+}

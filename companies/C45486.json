@@ -1,0 +1,89 @@
+{
+  "name": "BKK INVESTMENTS LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BJORN KRISTIAN KRISTIANSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27334049",
+        "address": "APARTMENT1361,PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BJORN KRISTIAN KRISTIANSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27334049",
+        "address": "APARTMENT1361,PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLARENCE BUSUTTIL,\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120859M",
+        "address": "FLAT5,CAROLINEFLATS,MENSIJAROAD,SANGWANNMALTA"
+      },
+      {
+        "name": "ANDREAS CHRISTENSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            L0118993",
+        "address": "HUITFELDTSGATE11,TONSBERGN-3116NORWAY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BJORN KRISTIAN KRISTIANSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27334049",
+        "address": "APARTMENT1361,PORTOMASOST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANDREAS CHRISTENSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            L0118993",
+        "address": "HUITFELDTSGATE11,TONSBERGN-3116NORWAY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BJORN KRISTIAN KRISTIANSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27334049",
+        "address": "APARTMENT1361,PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FLAT 6, CAROLINE FLATS, MENSIJA ROAD,",
+  "company_id": "C 45486",
+  "registration_date": "Oct 31, 2008",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

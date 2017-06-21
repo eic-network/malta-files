@@ -1,0 +1,70 @@
+{
+  "company_id": "C 80919",
+  "address": "CANTER BUSINESS CENTRE, P. FELICJAN BILOCCA STREET,",
+  "name": "BORREL HOLDINGS LIMITED",
+  "locality": "MARSA",
+  "status": "",
+  "registration_date": "May 16, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE",
+        "nationality": "FRENCH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT PIERRE BORREL\r",
+        "party_id": "                                                            16DA01165",
+        "address": "28,RUEJOSEPHLAKANAL,TOULOUSE31000FRANCE",
+        "nationality": "FRENCH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DEAN MICALLEF\r",
+        "party_id": "                                                            126586M",
+        "address": "CALMWATERS,FLAT8,ST.MARK'SSTREET,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

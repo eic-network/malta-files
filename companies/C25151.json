@@ -1,0 +1,115 @@
+{
+  "name": "B.T. COMMERCIAL LIMITED",
+  "total_issued_shares_value": 232937.3,
+  "total_authorised_shares_value": 232937.3,
+  "authorised_shares": [
+    {
+      "issued_shares": 90000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 90000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GRAZIELLA BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429773M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRAZIELLA BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429773M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      },
+      {
+        "name": "OLIVER BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            230769M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRAZIELLA BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429773M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      },
+      {
+        "name": "OLIVER BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            230769M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHRISTOPHER SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03286",
+        "address": "TA'NEIDER,TRIQIL-GIZIMIN,SWIEQISWQ3504MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRAZIELLA BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429773M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      },
+      {
+        "name": "OLIVER BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            230769M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OLIVER BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            230769M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 90000
+        }
+      },
+      {
+        "name": "GRAZIELLA BROWNRIGG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            429773M",
+        "address": "'B.T.BUILDINGS'PLOT3-4,SAINTTHOMASSTREET,FGURAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "'B.T. BUILDINGS', PLOT 3-4, SAINT THOMAS STREET,",
+  "company_id": "C 25151",
+  "registration_date": "Sep 16, 1999",
+  "shares_currency": "EUR",
+  "locality": "FGURA",
+  "status": "",
+  "total_authorised_shares": 100000
+}

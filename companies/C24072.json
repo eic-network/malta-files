@@ -1,0 +1,91 @@
+{
+  "total_issued_shares_value": 1164.69,
+  "registration_date": "Feb 05, 1999",
+  "status": "",
+  "locality": "NAXXAR",
+  "name": "BTG LIMITED",
+  "total_issued_shares": 500,
+  "address": "VILLA GASAN TRIQ JUAN B AZOPARDO, BIRGUMA",
+  "company_id": "C 24072",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "DARIL-WIEDMADLIENAROADSWIEQISWQ1018MALTA",
+        "party_id": "                                                            289372M",
+        "name": "BETTINA AZZOPARDI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "VILLAGASAN,TRIQJUANB.AZZOPARDI,BIRGUMA,NAXXARMALTA",
+        "party_id": "                                                            997648M",
+        "name": "SYLVIA TRAPANI GALEA FERIOL\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "DARIL-WIEDMADLIENAROADSWIEQISWQ1018MALTA",
+        "party_id": "                                                            289372M",
+        "name": "BETTINA AZZOPARDI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "DARIL-WIEDMADLIENAROADSWIEQISWQ1018MALTA",
+        "party_id": "                                                            289372M",
+        "name": "BETTINA AZZOPARDI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "78MILLSTREETQORMIQRM3101MALTA",
+        "party_id": "                                                             AB/26/84/38",
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 30
+        },
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "party_id": "                                                            C 7062",
+        "name": "MEDINA MANAGEMENT SERVICES LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 499,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 30
+        },
+        "address": "DARIL-WIEDMADLIENAROADSWIEQISWQ1018MALTA",
+        "party_id": "                                                            289372M",
+        "name": "BETTINA AZZOPARDI\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "shares_currency": "EUR"
+}

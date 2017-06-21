@@ -1,0 +1,151 @@
+{
+  "name": "AOG INVESTMENTS LIMITED",
+  "total_issued_shares_value": 100000000,
+  "total_authorised_shares_value": 500000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 99999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 495000,
+      "nominal_value_per_share": 1000
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1000
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408379M",
+        "address": "68MAINSTREETBALZANMALTA"
+      },
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "ARNAUD JEAN TALABARDON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AD01797",
+        "address": "16CHEMINDESGRANGETTESCHENE-BOUGERIES1224SWITZERLAND"
+      },
+      {
+        "name": "GERT TRIEST\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EK022306",
+        "address": "ACACIALAAN,42,WILRIJK2610BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408379M",
+        "address": "68MAINSTREETBALZANMALTA"
+      },
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "ARNAUD JEAN TALABARDON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AD01797",
+        "address": "16CHEMINDESGRANGETTESCHENE-BOUGERIES1224SWITZERLAND"
+      },
+      {
+        "name": "GERT TRIEST\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EK022306",
+        "address": "ACACIALAAN,42,WILRIJK2610BELGIUM"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            408379M",
+        "address": "68MAINSTREETBALZANMALTA"
+      },
+      {
+        "name": "ADRIAN CUTAJAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            359679M",
+        "address": "GUATEMALAMANSIONS,FLAT13,TRIQMARIOCORTIS,ATTARDATD1470MALTA"
+      },
+      {
+        "name": "ARNAUD JEAN TALABARDON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AD01797",
+        "address": "16CHEMINDESGRANGETTESCHENE-BOUGERIES1224SWITZERLAND"
+      },
+      {
+        "name": "GERT TRIEST\r",
+        "nationality": "BELGIAN",
+        "party_id": "                                                            EK022306",
+        "address": "ACACIALAAN,42,WILRIJK2610BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AOG INTERNATIONAL HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 33742",
+        "address": "LEVEL13,PORTOMASOBUSINESSTOWER,PORTOMASOST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 99999
+        }
+      },
+      {
+        "name": "THE ADDAX AND ORYX GROUP PLC\r",
+        "nationality": "",
+        "party_id": "                                                            C 52386",
+        "address": "LEVEL13,PORTOMASOBUSINESSTOWER,PORTOMASO,ST.JULIANSSTJ4011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1000,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100000,
+  "address": "LEVEL 13, PORTOMASO BUSINESS TOWER, PORTOMASO,",
+  "company_id": "C 48298",
+  "registration_date": "Nov 30, 2009",
+  "shares_currency": "USD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 500000
+}

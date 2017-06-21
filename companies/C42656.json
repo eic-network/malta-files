@@ -1,0 +1,91 @@
+{
+  "name": "AUCTION MANAGEMENT LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDERS DAHL PALLESEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            206295198",
+        "address": "K-HOUSE,APARTMENT408,PRIDEENPANOMYONG14YEAK4SUKHUMVIT71ROAD,PRAKRANONG-NUA,WATTANABANGKOKBKK10110THAILAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FLAMINGO INTERVEST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1032592",
+        "address": "OMCCHAMBERS,POBOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FLAMINGO INTERVEST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1032592",
+        "address": "OMCCHAMBERS,POBOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MICHAEL PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19809",
+        "address": "57,FL3,TRIQSIRGEORGEBORG,SLIEMASLM1960MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FLAMINGO INTERVEST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1032592",
+        "address": "OMCCHAMBERS,POBOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLAMINGO INTERVEST LTD\r",
+        "nationality": "",
+        "party_id": "                                                            1032592",
+        "address": "OMCCHAMBERS,POBOX3152,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VINCENTI BUILDINGS, SUITE 388, 28/19 STRAIT STREET,",
+  "company_id": "C 42656",
+  "registration_date": "Oct 23, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

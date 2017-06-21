@@ -1,0 +1,78 @@
+{
+  "name": "ANYTHING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            83949M",
+        "address": "211,JUSTINAPT3TRIQIL-FERROVIJAL-QADIMABALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            83949M",
+        "address": "211,JUSTINAPT3TRIQIL-FERROVIJAL-QADIMABALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            83949M",
+        "address": "211,JUSTINAPT3TRIQIL-FERROVIJAL-QADIMABALZANMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY SAMMUT ALESSI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            83949M",
+        "address": "211,JUSTINAPT3TRIQIL-FERROVIJAL-QADIMABALZANMALTA"
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "189 SUITE 3 THE STRAND",
+  "company_id": "C 45859",
+  "registration_date": "Dec 17, 2008",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

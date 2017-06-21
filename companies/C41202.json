@@ -1,0 +1,83 @@
+{
+  "company_id": "C 41202",
+  "address": "SUITE 1 141, BALZAN VALLEY",
+  "name": "BRIBET COMPANY LTD",
+  "locality": "BALZAN",
+  "status": "",
+  "registration_date": "Apr 20, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1164.69,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GLOBSERV INTERNATIONAL LTD\r",
+        "party_id": "                                                            C 29871",
+        "address": "'VILLAMALITAH',MEDITERRANEANSTREET,THEVILLAGE,ST.JULIANSSTJ1870MALTA",
+        "nationality": ""
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL MARMARA'\r",
+        "party_id": "                                                            799960M",
+        "address": "'FOURWINDS',TRIQJEANHOUELNAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

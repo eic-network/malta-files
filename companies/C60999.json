@@ -1,0 +1,75 @@
+{
+  "name": "BLU WAY CHARTER LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIETRO LUPOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3068361",
+        "address": "N.127INT.7,VIATRENTOMARTINAFRANCA,(TA)ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIETRO LUPOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3068361",
+        "address": "N.127INT.7,VIATRENTOMARTINAFRANCA,(TA)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIETRO LUPOLI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA3068361",
+        "address": "N.127INT.7,VIATRENTOMARTINAFRANCA,(TA)ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DANIELA RUSSO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3028776",
+        "address": "VIAVENEZIA,N.183,TARANTOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 588
+        }
+      },
+      {
+        "name": "LA GIOIA VINCENZO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            E399499",
+        "address": "VIAVENEZIA,N.183,TARANTOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 612
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "147/1, ST. LUCIA STREET,",
+  "company_id": "C 60999",
+  "registration_date": "Jun 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

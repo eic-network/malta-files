@@ -1,0 +1,78 @@
+{
+  "name": "ALQASR COMPANY LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SALAH MUSTAFA EL JABOU\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            932081",
+        "address": "SANTAROSAVILLA,UPPERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SALAH MUSTAFA EL JABOU\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            932081",
+        "address": "SANTAROSAVILLA,UPPERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SALAH MUSTAFA EL JABOU\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            932081",
+        "address": "SANTAROSAVILLA,UPPERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SALAH MUSTAFA EL JABOU\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            932081",
+        "address": "SANTAROSAVILLA,UPPERGARDENS,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SALAH MUSTAFA EL JABOU\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            932081",
+        "address": "SANTAROSAVILLA,UPPERGARDENS,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "15, GROGNET STREET,",
+  "company_id": "C 55776",
+  "registration_date": "Mar 27, 2012",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

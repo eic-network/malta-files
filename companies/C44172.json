@@ -1,0 +1,78 @@
+{
+  "name": "BBA LIMITED",
+  "total_issued_shares_value": 1800,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1800,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "GEORGE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            114055M",
+        "address": "52,LACACHETTE,TRIQIS-SIEQJA,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALEXANDER BELOKOPYTOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            720739409",
+        "address": "FLAT33,HOUSENO.64KOVALIKHINSKAYASTRNIZHNYNOVGORODRUSSIANFEDERATION"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER BELOKOPYTOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            720739409",
+        "address": "FLAT33,HOUSENO.64KOVALIKHINSKAYASTRNIZHNYNOVGORODRUSSIANFEDERATION"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER BELOKOPYTOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            720739409",
+        "address": "FLAT33,HOUSENO.64KOVALIKHINSKAYASTRNIZHNYNOVGORODRUSSIANFEDERATION"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER BELOKOPYTOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            720739409",
+        "address": "FLAT33,HOUSENO.64KOVALIKHINSKAYASTRNIZHNYNOVGORODRUSSIANFEDERATION"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER BELOKOPYTOV\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            720739409",
+        "address": "FLAT33,HOUSENO.64KOVALIKHINSKAYASTRNIZHNYNOVGORODRUSSIANFEDERATION",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1800
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1800,
+  "address": "CENTRAL BUSINESS CENTRE, ROOM 1, LEVEL 1, SUITE 2, MDINA ROAD,",
+  "company_id": "C 44172",
+  "registration_date": "May 06, 2008",
+  "shares_currency": "USD",
+  "locality": "ZEBBUG",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

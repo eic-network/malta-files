@@ -1,0 +1,51 @@
+{
+  "name": "ARQUANA VALUE INVEST LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "MEDITERRANEAN PRINT & MEDIA HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39196",
+        "address": "PORTICO,FLAT7,MENSIJASTREET,ST.JULIANSSTJ1969MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      },
+      {
+        "name": "PRINTEC INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            6346209",
+        "address": "69,GREATHAMPTONSTREET,BIRMINGHAMB186EWUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "PORTICO, FLAT 7, MENSIJA STREET,",
+  "company_id": "C 39199",
+  "registration_date": "Jul 24, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2000
+}

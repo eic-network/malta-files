@@ -1,0 +1,121 @@
+{
+  "name": "AVEVA INVESTMENTS LTD.",
+  "total_issued_shares_value": 2096.44,
+  "total_authorised_shares_value": 2795.25,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROGER MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21568M",
+        "address": "73,POSEIDONIACOURT,FLAT3,SPINOLAROAD,ST.JULIANSSTJ3017MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMELO MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            692660M",
+        "address": "99,SPINOLAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ROGER MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21568M",
+        "address": "73,POSEIDONIACOURT,FLAT3,SPINOLAROAD,ST.JULIANSSTJ3017MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMELO MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            692660M",
+        "address": "99,SPINOLAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ROGER MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21568M",
+        "address": "73,POSEIDONIACOURT,FLAT3,SPINOLAROAD,ST.JULIANSSTJ3017MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "AIDAN LUNGARO-MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10276",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMELO MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            692660M",
+        "address": "99,SPINOLAROAD,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ROGER MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21568M",
+        "address": "73,POSEIDONIACOURT,FLAT3,SPINOLAROAD,ST.JULIANSSTJ3017MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROGER MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21568M",
+        "address": "73,POSEIDONIACOURT,FLAT3,SPINOLAROAD,ST.JULIANSSTJ3017MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "CARMELO MANGION\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            692660M",
+        "address": "99,SPINOLAROAD,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 900,
+  "address": "HOTEL VALENTINA, DOBBIE STREET, PACEVILLE,",
+  "company_id": "C 40133",
+  "registration_date": "Dec 04, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

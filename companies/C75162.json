@@ -1,0 +1,89 @@
+{
+  "name": "BLUE MERLIN LTD.",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 800,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "OLIVIER EGGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0336149",
+        "address": "31,MOLESON,TRIQHAL-GHARGHUR,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "OLIVIER EGGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0336149",
+        "address": "31,MOLESON,TRIQHAL-GHARGHUR,SANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            663682M",
+        "address": "85ST.JOHNSTREETVALLETTAVLT1165MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "OLIVIER EGGER\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            X0336149",
+        "address": "31,MOLESON,TRIQHAL-GHARGHUR,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SNOWIE HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 37565",
+        "address": "ADVANCEHOUSE,LEVEL4,375,MANWELDIMECHSTREET,SLIEMASLM1058MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "VETELCO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE305931",
+        "address": "DIAGOROU,2,ERAHOUSE,10THFLOOR,NICOSIA1097CYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "ADVANCE HOUSE, LEVEL 4, 375, MANWEL DIMECH STREET,",
+  "company_id": "C 75162",
+  "registration_date": "Apr 08, 2016",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

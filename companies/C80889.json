@@ -1,0 +1,132 @@
+{
+  "company_id": "C 80889",
+  "address": "NUMBER 2, TRIQ G.FARRUGIA,",
+  "name": "BOVARD LTD",
+  "locality": "ZEBBUG",
+  "status": "",
+  "registration_date": "May 15, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOHN BRECHISCI JR\r",
+        "party_id": "                                                            533073795",
+        "address": "3137REDFIELDDRIVE,LELAND,NORTHCAROLINA28451UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "WILLIAM EDWARD QUIGLEY\r",
+        "party_id": "                                                            493928020",
+        "address": "16759.BOLLINGERDRIVEPACIFICPALISADESCALIFORNIA90272UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JONATHAN OWEN YANTIS\r",
+        "party_id": "                                                            536054193",
+        "address": "371,HESSARSTREET,GRANTSPASS,OREGON97527-5161UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAMPE ENTERPRISES LTD\r",
+        "party_id": "                                                            C 80741",
+        "address": "NUMBER2,TRIQG.FARRUGIA,ZEBBUGMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 480,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SANDELIN HOLDINGS LIMITED\r",
+        "party_id": "                                                            C 80744",
+        "address": "NUMBER2TRIQG.FARRUGIAZEBBUGMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 360,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "TRINITY UNLIMITED LIMITED\r",
+        "party_id": "                                                            C 80888",
+        "address": "NUMBER2,TRIQG.FARRUGIA,ZEBBUGMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 360,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOHN BRECHISCI JR\r",
+        "party_id": "                                                            533073795",
+        "address": "3137REDFIELDDRIVE,LELAND,NORTHCAROLINA28451UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "WILLIAM EDWARD QUIGLEY\r",
+        "party_id": "                                                            493928020",
+        "address": "16759.BOLLINGERDRIVEPACIFICPALISADESCALIFORNIA90272UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JONATHAN OWEN YANTIS\r",
+        "party_id": "                                                            536054193",
+        "address": "371,HESSARSTREET,GRANTSPASS,OREGON97527-5161UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOHN BRECHISCI JR\r",
+        "party_id": "                                                            533073795",
+        "address": "3137REDFIELDDRIVE,LELAND,NORTHCAROLINA28451UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "WILLIAM EDWARD QUIGLEY\r",
+        "party_id": "                                                            493928020",
+        "address": "16759.BOLLINGERDRIVEPACIFICPALISADESCALIFORNIA90272UNITEDSTATES",
+        "nationality": "AMERICAN"
+      },
+      {
+        "name": "JONATHAN OWEN YANTIS\r",
+        "party_id": "                                                            536054193",
+        "address": "371,HESSARSTREET,GRANTSPASS,OREGON97527-5161UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "WILLIAM EDWARD QUIGLEY\r",
+        "party_id": "                                                            493928020",
+        "address": "16759.BOLLINGERDRIVEPACIFICPALISADESCALIFORNIA90272UNITEDSTATES",
+        "nationality": "AMERICAN"
+      }
+    ]
+  }
+}

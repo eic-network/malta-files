@@ -1,0 +1,70 @@
+{
+  "company_id": "C 69961",
+  "address": "OFFICE 2, SUITE 2, THE PENTHOUSE, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "name": "BrickOven Europe Ltd",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Apr 09, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "RIKIN KIRITKUMAR PATEL\r",
+        "party_id": "                                                            720111627",
+        "address": "VILLAL4V48JUMEIRAHPARK,POBOX907000,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRICKOVEN INTERNATIONAL LIMITED\r",
+        "party_id": "                                                            1852500",
+        "address": "AMICORPB.V.I.LIMITED,MARCYBUILDING,2NDFLOOR,PURCELLESTATE,P.O.BOX2416,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RIKIN KIRITKUMAR PATEL\r",
+        "party_id": "                                                            720111627",
+        "address": "VILLAL4V48JUMEIRAHPARK,POBOX907000,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RIKIN KIRITKUMAR PATEL\r",
+        "party_id": "                                                            720111627",
+        "address": "VILLAL4V48JUMEIRAHPARK,POBOX907000,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RIKIN KIRITKUMAR PATEL\r",
+        "party_id": "                                                            720111627",
+        "address": "VILLAL4V48JUMEIRAHPARK,POBOX907000,DUBAIUNITEDARABEMIRATES",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

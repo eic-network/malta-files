@@ -1,0 +1,59 @@
+{
+  "name": "ALPHA IMPORTS & EXPORTS LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MOHAMED ABDEL S SHAHATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            278175M",
+        "address": "41,TRIQPONSONBY,GZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MOHAMED ABDEL S SHAHATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            278175M",
+        "address": "41,TRIQPONSONBY,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "ROSE MARY SHAHATA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            675959M",
+        "address": "41TRIQPONSONBYGZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "41, TRIQ PONSONBY,",
+  "company_id": "C 19280",
+  "registration_date": "Oct 25, 1995",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

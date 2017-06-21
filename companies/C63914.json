@@ -1,0 +1,57 @@
+{
+  "name": "ASPIDA CORPORATION LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ASPIDA MARITIME SECURITY CORPORATION\r",
+        "nationality": "",
+        "party_id": "                                                            075732",
+        "address": "103,SHAMPENGTONGPLAZA,VICTORIA,MAHEREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "AKK MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49379",
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CORNERSTONE BUSINESS CENTRE, SUITE 1, LEVEL 2, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 63914",
+  "registration_date": "Feb 18, 2014",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

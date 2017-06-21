@@ -1,0 +1,62 @@
+{
+  "company_id": "C 50825",
+  "address": "198, OLD BAKERY STREET,",
+  "name": "BROAD REACH LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Oct 08, 2010",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHAEL SMITH\r",
+        "party_id": "                                                            93124458",
+        "address": "APARTMENTA30,TERRASSEDUPORT,2AVENUEDESLIGURES,MONACO98000MONACO",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHAEL SMITH\r",
+        "party_id": "                                                            93124458",
+        "address": "APARTMENTA30,TERRASSEDUPORT,2AVENUEDESLIGURES,MONACO98000MONACO",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHAEL SMITH\r",
+        "party_id": "                                                            93124458",
+        "address": "APARTMENTA30,TERRASSEDUPORT,2AVENUEDESLIGURES,MONACO98000MONACO",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHAEL SMITH\r",
+        "party_id": "                                                            93124458",
+        "address": "APARTMENTA30,TERRASSEDUPORT,2AVENUEDESLIGURES,MONACO98000MONACO",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

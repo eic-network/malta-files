@@ -1,0 +1,99 @@
+{
+  "name": "ANGEL CREST HOLDING LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 120000,
+      "type": "Ordinary",
+      "authorised_share_capital": 120000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "BRADY SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            387887M",
+        "address": "1,NIRVANA,TRIQIL-KURVETTI,PAOLAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JAMES MUSCAT AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            174776M",
+        "address": "F4,SWIEQIRESIDENTIALCOMPLEX,TRIQIL-QATTA,SWIEQISWQ3064MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AVANEESH KEMMANU SHIVANANDA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            K3785278",
+        "address": "388,3RDCROSSVHBCSLAYOUT,VIJAYANAGAR,BANGALORE,KARNATAKA560040INDIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AVANEESH KEMMANU SHIVANANDA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            K3785278",
+        "address": "388,3RDCROSSVHBCSLAYOUT,VIJAYANAGAR,BANGALORE,KARNATAKA560040INDIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LUKE CHETCUTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113137",
+        "address": "6,BELVEDEREALFREDGERADASTREETIKLINIKL1680MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "AVANEESH KEMMANU SHIVANANDA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            K3785278",
+        "address": "388,3RDCROSSVHBCSLAYOUT,VIJAYANAGAR,BANGALORE,KARNATAKA560040INDIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AVANEESH KEMMANU SHIVANANDA\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            K3785278",
+        "address": "388,3RDCROSSVHBCSLAYOUT,VIJAYANAGAR,BANGALORE,KARNATAKA560040INDIA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60000
+        }
+      },
+      {
+        "name": "RAVI PRATAP SINGH RAGHAV\r",
+        "nationality": "INDIAN",
+        "party_id": "                                                            Z2348004",
+        "address": "CONCORDESYLVANVIEW,VILLA-168,NEARGOLDCOINCLUB,BANGALORE,KARNATAKA560100INDIA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 60000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 120000,
+  "address": "40, VILLA FAIRHOLME, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 59866",
+  "registration_date": "Apr 02, 2013",
+  "shares_currency": "GBP",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 120000
+}

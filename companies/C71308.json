@@ -1,0 +1,88 @@
+{
+  "name": "Amenity Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 100,
+      "type": "Ordinary",
+      "authorised_share_capital": 100,
+      "nominal_value_per_share": 12
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Tatyana CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417800L",
+        "address": "58,tRIQSANT'ALFONSUSLIEMAMALTA"
+      },
+      {
+        "name": "Pavel Riha\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            203269314",
+        "address": "Nova2026/14CeskeBudejovice37001CZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Tatyana CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417800L",
+        "address": "58,tRIQSANT'ALFONSUSLIEMAMALTA"
+      },
+      {
+        "name": "Pavel Riha\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            203269314",
+        "address": "Nova2026/14CeskeBudejovice37001CZECHREPUBLIC"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Irina Koruk\r",
+        "nationality": "RUSSIAN",
+        "party_id": "                                                            0045762A",
+        "address": "81,Fl12TriqHighlandsCourtTriqQrajtenPIETA'MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Tatyana CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            417800L",
+        "address": "58,tRIQSANT'ALFONSUSLIEMAMALTA"
+      },
+      {
+        "name": "Pavel Riha\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            203269314",
+        "address": "Nova2026/14CeskeBudejovice37001CZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Pavel Riha\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            203269314",
+        "address": "Nova2026/14CeskeBudejovice37001CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 12,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 100,
+  "address": "ROOM 4, OFFICE 18, BLOCK 19,  VINCENTI BLD, STRAIT STREET,",
+  "company_id": "C 71308",
+  "registration_date": "Jul 08, 2015",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 100
+}

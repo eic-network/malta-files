@@ -1,0 +1,116 @@
+{
+  "name": "ANFIELD COMPANY LIMITED",
+  "total_issued_shares_value": 1397.62,
+  "total_authorised_shares_value": 2329.37,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GUIDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520654M",
+        "address": "'NOTRENID',TRIQIN-NIGEM,GHAXAQMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ESTATE OF THERESA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59131M",
+        "address": "CASAJOSTERTRIQIL-BARBAZZALGHAXAQMALTA"
+      },
+      {
+        "name": "GUIDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520654M",
+        "address": "'NOTRENID',TRIQIN-NIGEM,GHAXAQMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUIDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520654M",
+        "address": "'NOTRENID',TRIQIN-NIGEM,GHAXAQMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EMANUEL P FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            000A45",
+        "address": "22,YUCCA,TRIQL-AWSTRALJA,NAXXARNXR3271MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ESTATE OF THERESA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59131M",
+        "address": "CASAJOSTERTRIQIL-BARBAZZALGHAXAQMALTA"
+      },
+      {
+        "name": "GUIDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520654M",
+        "address": "'NOTRENID',TRIQIN-NIGEM,GHAXAQMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ESTATE OF THERESA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            59131M",
+        "address": "CASAJOSTERTRIQIL-BARBAZZALGHAXAQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "GUIDO AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520654M",
+        "address": "'NOTRENID',TRIQIN-NIGEM,GHAXAQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "JOSEPH AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            531727M",
+        "address": "CASAJOSTER,TRIQIL-BARBAZZAL,GHAXAQMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "CASA JOSTER TRIQ IL-BARBAZZAL",
+  "company_id": "C 12734",
+  "registration_date": "Jun 04, 1991",
+  "shares_currency": "EUR",
+  "locality": "GHAXAQ",
+  "status": "",
+  "total_authorised_shares": 1000
+}

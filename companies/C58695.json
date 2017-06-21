@@ -1,0 +1,133 @@
+{
+  "name": "ATG HOLDINGS LIMITED",
+  "total_issued_shares_value": 78000,
+  "total_authorised_shares_value": 120000,
+  "authorised_shares": [
+    {
+      "issued_shares": 77220,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 119220,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 780,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 780,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "203,FLAT2,TOWERROADSLIEMASLM1602MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID BRADLEY AMUNDSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            471903957",
+        "address": "12160,CLAIRMEADETRAIL,ALPHARETTAGA30004UNITEDSTATES"
+      },
+      {
+        "name": "MARIA LAURENE FRIEDMAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            497742679",
+        "address": "1820,BRANDONHALLDRIVE,ATLANTAGA30350UNITEDSTATES"
+      },
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "203,FLAT2,TOWERROADSLIEMASLM1602MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID BRADLEY AMUNDSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            471903957",
+        "address": "12160,CLAIRMEADETRAIL,ALPHARETTAGA30004UNITEDSTATES"
+      },
+      {
+        "name": "MARIA LAURENE FRIEDMAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            497742679",
+        "address": "1820,BRANDONHALLDRIVE,ATLANTAGA30350UNITEDSTATES"
+      },
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "203,FLAT2,TOWERROADSLIEMASLM1602MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID BRADLEY AMUNDSEN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            471903957",
+        "address": "12160,CLAIRMEADETRAIL,ALPHARETTAGA30004UNITEDSTATES"
+      },
+      {
+        "name": "MARIA LAURENE FRIEDMAN\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            497742679",
+        "address": "1820,BRANDONHALLDRIVE,ATLANTAGA30350UNITEDSTATES"
+      },
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "203,FLAT2,TOWERROADSLIEMASLM1602MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ATG HOLDINGS SARL\r",
+        "nationality": "",
+        "party_id": "                                                            DEED NO. 87383",
+        "address": "6C,RUEGABRIELLIPPMANN,MUNSBACHL-5365LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 77220
+        }
+      },
+      {
+        "name": "ATG INTERNATIONAL SARL\r",
+        "nationality": "",
+        "party_id": "                                                            DEED NO. 87388",
+        "address": "6C,RUEGABRIELLIPPMANN,MUNSBACHL-5365LUXEMBOURG",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 780
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 78000,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE NO. 1277), STRAIT STREET,",
+  "company_id": "C 58695",
+  "registration_date": "Dec 19, 2012",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 120000
+}

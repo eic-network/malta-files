@@ -1,0 +1,127 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Feb 13, 2009",
+  "status": "",
+  "locality": "TA' XBIEX",
+  "name": "Buenos Juegos Ltd",
+  "total_issued_shares": 120000,
+  "address": "OFFICE 90, SUITE A, DOLPHIN COURT A, EMBASSY WAY,",
+  "company_id": "C 46224",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "FJARDETVARGATAN49GAVLE80282SWEDEN",
+        "party_id": "                                                            52464282",
+        "name": "JOHAN LARSSON\r",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "FJARDETVARGATAN49GAVLE80282SWEDEN",
+        "party_id": "                                                            52464282",
+        "name": "JOHAN LARSSON\r",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "FJARDETVARGATAN49GAVLE80282SWEDEN",
+        "party_id": "                                                            52464282",
+        "name": "JOHAN LARSSON\r",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "C/OEDIFICIOGLOBALBANK/PANAMALEGALPISO18,OFICINA18-02,CALLE50PANAMACITYPANAMA",
+        "party_id": "                                                            605284",
+        "name": "LGR INTERNATIONAL INC\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0.01,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "NEDRETANGBERGSV1,GALVLE80595SWEDEN",
+        "party_id": "                                                            09518627",
+        "name": "ANDERS CARLSSON\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 15000,
+          "nominal_value_per_share": 0.01,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "ARTILLERIGATAN2B75237UPPSALASWEDEN",
+        "party_id": "                                                            45632994",
+        "name": "JACOB EDERYD FORSBLOM\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 93000,
+          "nominal_value_per_share": 0,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "FJARDETVARGATAN49GAVLE80282SWEDEN",
+        "party_id": "                                                            52464282",
+        "name": "JOHAN LARSSON\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "ARDENNERGATANUPPLANDSVASBY6719473SWEDEN",
+        "party_id": "                                                            52444576",
+        "name": "SAMUEL LEHTONEN\r",
+        "nationality": "SWEDISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 3000,
+          "nominal_value_per_share": 0,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "SODRASTAPELTORGSGATANGAVLE22B80253SWEDEN",
+        "party_id": "                                                            45709480",
+        "name": "JOHAN PONTUS KERS\r",
+        "nationality": "SWEDISH"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 0,
+      "issued_shares": 120000,
+      "authorised_share_capital": 120000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 120000,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

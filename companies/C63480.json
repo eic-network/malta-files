@@ -1,0 +1,97 @@
+{
+  "name": "ATTARD CAPITAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            301479M",
+        "address": "9,MADLIENAHEIGHTS,FL12TRIQIL-WARD,MADLIENASWIEQISWQ1120MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAN PETERSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            356086431",
+        "address": "ALHABTOORTOWER,APT1706MARINAWALK,DUBAIMARINA,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAN PETERSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            356086431",
+        "address": "ALHABTOORTOWER,APT1706MARINAWALK,DUBAIMARINA,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "Victor Schranz & Associates\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/56",
+        "address": "TheOrchard',LourdesLane,St.George's,ST.JULIANSMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JAN PETERSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            356086431",
+        "address": "ALHABTOORTOWER,APT1706MARINAWALK,DUBAIMARINA,DUBAIUNITEDARABEMIRATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAN PETERSEN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            356086431",
+        "address": "ALHABTOORTOWER,APT1706MARINAWALK,DUBAIMARINA,DUBAIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "E & S CONSULTANCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 50332",
+        "address": "PALACECOURTCHURCHSTREETST.JULIANSSTJ3049MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "GROUND FLOOR, PALACE COURT, CHURCH STREET",
+  "company_id": "C 63480",
+  "registration_date": "Jan 15, 2014",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,59 @@
+{
+  "name": "ASCARI INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARNXR05MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IONA INTERNATIONAL LLC",
+        "nationality": "",
+        "party_id": "",
+        "address": "CORPORATIONTRUSTCENTER,1209ORANGESTREETCITYOFWILMINGTON,COUNTYOFNEWCASTLEDELAWAREUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PEARLEY FINANCE LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            1511382",
+        "address": "325,WATERFRONTDRIVE,2NDFLOOR,OMARHODGEBUILDINGWICKHAM'SCAYI,P.O.BOX985,ROADTOWNTORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171 OLD BAKERY STREET",
+  "company_id": "C 46146",
+  "registration_date": "Feb 03, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

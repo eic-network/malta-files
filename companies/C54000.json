@@ -1,0 +1,102 @@
+{
+  "name": "B & G CONSTRUCTION LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19131",
+        "address": "5,CORDINA,TRIQL-GHONQA,XAGHRA(GOZO)XRA104MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY ELLIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3968G",
+        "address": "38,VIANISTREET,VICTORIA(GOZO)MALTA"
+      },
+      {
+        "name": "FRANCIS XAVIER TABONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            177468M",
+        "address": "PLOT8,TRIQIL-GEBLATAL-GENERAL,SANLAWRENZ(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARON INVESTMENTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 26599",
+        "address": "31,REPUBLICSTREET,VICTORIA(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "1, ST. GEORGE'S BUILDINGS, KARLU GALEA STREET,",
+  "company_id": "C 54000",
+  "registration_date": "Sep 30, 2011",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 2000
+}

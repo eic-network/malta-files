@@ -1,0 +1,97 @@
+{
+  "name": "BELLINI LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LANFRANCO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR0562928",
+        "address": "VIADEICICLOPI160I.B.ACICATENAITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LANFRANCO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR0562928",
+        "address": "VIADEICICLOPI160I.B.ACICATENAITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LANFRANCO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR0562928",
+        "address": "VIADEICICLOPI160I.B.ACICATENAITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CORPORATE AUDITORS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/106",
+        "address": "SKYWAYOFFICES,SUITE8,BLOCKC,179,MARINASEAFRONT,PIETA'PTA9042MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LANFRANCO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR0562928",
+        "address": "VIADEICICLOPI160I.B.ACICATENAITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMILIO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            51503A",
+        "address": "211,IMELDAAPARTMENTS,FLAT4,TRIQMISRAHIL-BARRIERI,SANTAVENERASVR1756MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "LANFRANCO PEROTTI CASAGRANDE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR0562928",
+        "address": "VIADEICICLOPI160I.B.ACICATENAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 599
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "3, PACEVILLE AVENUE, PACEVILLE,",
+  "company_id": "C 49728",
+  "registration_date": "May 21, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

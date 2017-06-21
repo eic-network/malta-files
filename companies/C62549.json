@@ -1,0 +1,83 @@
+{
+  "name": "A.B. INTERNATIONAL HOLDINGS LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ERIKA IZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            406076M",
+        "address": "6,TRIQAMABILESISNER,FGURAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER MAMO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            76950M",
+        "address": "PETER'SPORT,OLDRAILWAYTRACK,ATTARDMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PERFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62203",
+        "address": "SCM01,SUITE102,TRIQRICASOLI,SMARTCITYMALTA,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "PERFIN SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62203",
+        "address": "SCM01,SUITE102,TRIQRICASOLI,SMARTCITYMALTA,KALKARASCM1001MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SUITE 102, SCM 01, SMART CITY MALTA, TRIQ RICASOLI,",
+  "company_id": "C 62549",
+  "registration_date": "Nov 08, 2013",
+  "shares_currency": "EUR",
+  "locality": "KALKARA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

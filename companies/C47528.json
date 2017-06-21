@@ -1,0 +1,117 @@
+{
+  "company_id": "C 47528",
+  "address": "222, MERCHANTS STREET,",
+  "name": "BOSTON PROPERTIES LIMITED",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "registration_date": "Aug 13, 2009",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 583,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "MANDUCA RANDON & CO LTD\r",
+        "party_id": "                                                            C 18264",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 582,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NICHOLAS FORMOSA\r",
+        "party_id": "                                                            554787M",
+        "address": "76,DEPIROSTREET,SLIEMASLM2039MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIP MANDUCA\r",
+        "party_id": "                                                            339960M",
+        "address": "222,MERCHANTSSTREET,VALLETTAVLT1170MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "WILLIAM SCHEMBRI\r",
+        "party_id": "                                                            62886M",
+        "address": "THEIVIES,BLOCKB,FLAT5,MOSTAROAD,ATTARDATD1433MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JESMOND PSAILA\r",
+        "party_id": "                                                            01788",
+        "address": "406,RUED'ARGENS,GZIRAGZR1361MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

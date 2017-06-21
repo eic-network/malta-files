@@ -1,0 +1,83 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Aug 09, 2012",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BRYAN GARNIER UMBRELLA FUND SICAV PLC",
+  "total_issued_shares": 1500,
+  "address": "SWISS URBAN FACTORY, THE TRUST OFFICE SUITE, 5, ST. FREDERICK STREET,",
+  "company_id": "SV 242",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "16,RUEDESGRANGESGENEVA1204SWITZERLAND",
+        "party_id": "                                                            X3826002",
+        "name": "VANIA MAREUSE\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "16,RUEDESGRANGESGENEVA1204SWITZERLAND",
+        "party_id": "                                                            X3826002",
+        "name": "VANIA MAREUSE\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "16,RUEDESGRANGESGENEVA1204SWITZERLAND",
+        "party_id": "                                                            X3826002",
+        "name": "VANIA MAREUSE\r",
+        "nationality": "SWISS"
+      }
+    ],
+    "Auditors": [
+      {
+        "address": "78MILLSTREETQORMIQRM3101MALTA",
+        "party_id": "                                                             AB/26/84/38",
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1499,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Founder",
+          "paid_up_%": 100
+        },
+        "address": "26,AV.DESCHAMPSELYSEES,PARIS75008FRANCE",
+        "party_id": "                                                            379426653 R.C.S.",
+        "name": "BRYAN GARNIER ASSET MANAGEMENT\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Founder",
+          "paid_up_%": 100
+        },
+        "address": "16,RUEDESGRANGESGENEVA1204SWITZERLAND",
+        "party_id": "                                                            X3826002",
+        "name": "VANIA MAREUSE\r",
+        "nationality": "SWISS"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 5000000000,
+      "type": "Founder"
+    }
+  ],
+  "total_authorised_shares": 5000000000,
+  "total_authorised_shares_value": 5000000000,
+  "shares_currency": "EUR"
+}

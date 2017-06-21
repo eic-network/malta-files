@@ -1,0 +1,65 @@
+{
+  "name": "ASTROLABE SHIPPING LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MIHAI GACHE",
+        "nationality": "",
+        "party_id": "",
+        "address": "C/OFLEETLINESHIPPINGCORP.80,BROADSTREET,MONROVIALIBERIA"
+      },
+      {
+        "name": "EUGEN GHEORGHE",
+        "nationality": "",
+        "party_id": "",
+        "address": "C/OFLEETLINESHIPPINGCORP.80,BROADSTREETMONROVIALIBERIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FLEETLINE SHIPPING CORPORATION",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "J.B. SOROTTO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 3229",
+        "address": "EXCHANGEBLDGS,REPUBLICSTR,VALLETTAVLT05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET",
+  "company_id": "C 13554",
+  "registration_date": "Feb 06, 1992",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,139 @@
+{
+  "name": "B & F Company Ltd",
+  "total_issued_shares_value": 20000,
+  "total_authorised_shares_value": 20000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 10000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LEE ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61879M",
+        "address": "24,THUYA,TREJQETL-APPARELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "ADRIAN FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            161884M",
+        "address": "70/5,TOWERROAD,SLIEMASLM1606MALTA"
+      },
+      {
+        "name": "EDWIN FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254047M",
+        "address": "70/4,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LEE ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61879M",
+        "address": "24,THUYA,TREJQETL-APPARELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "EDWIN FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254047M",
+        "address": "70/4,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LEE ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61879M",
+        "address": "24,THUYA,TREJQETL-APPARELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "EDWIN FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254047M",
+        "address": "70/4,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "NICHOLAS FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            21176M",
+        "address": "ALTAMAREA,TRIQXATTIL-PALM,BAHARIC-CAGHAQ,NAXXARMALTA"
+      },
+      {
+        "name": "GAIL SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            42582M",
+        "address": "ZOYA,158A,LELIFALZONSTREET,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "THEPENTHOUSE,CAROLINACOURT,GIUSEPPICALISTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LEE ANTHONY AQUILINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            61879M",
+        "address": "24,THUYA,TREJQETL-APPARELL,KAPPARA,SANGWANNMALTA"
+      },
+      {
+        "name": "EDWIN FERRIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254047M",
+        "address": "70/4,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOND'S LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 4026",
+        "address": "BONDHOUSE,NOTABILEROADATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 10000
+        }
+      },
+      {
+        "name": "NOVAFER LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 15136",
+        "address": "2STLUKE'SROADPIETA'MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 10000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "1 FERRIS BUILDING, ST. LUKE'S ROAD, G'MANGIA,",
+  "company_id": "C 58071",
+  "registration_date": "Nov 01, 2012",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 20000
+}

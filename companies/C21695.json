@@ -1,0 +1,65 @@
+{
+  "total_issued_shares_value": 1164.69,
+  "registration_date": "Jul 24, 1997",
+  "status": "",
+  "locality": "VALLETTA",
+  "name": "BULKER MARITIME LIMITED",
+  "total_issued_shares": 500,
+  "address": "147/1, ST LUCIA STREET,",
+  "company_id": "C 21695",
+  "involved_parties": {
+    "Directors": [
+      {
+        "address": "12ISIODOUSTREET10674ATHENSGREECE",
+        "party_id": "",
+        "name": "ION S VAROUXAKIS",
+        "nationality": ""
+      },
+      {
+        "address": "35/39AKTIMIAOULIPIRAEUSGREECE",
+        "party_id": "",
+        "name": "NICOLAS A VERNICOS",
+        "nationality": "GREEK"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 495,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "80BROADSTREETMONROVIALIBERIA",
+        "party_id": "",
+        "name": "EUROPEAN FINANCE INC.",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 5,
+          "nominal_value_per_share": 2.329373,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "12ISIODOUSTREET10674ATHENSGREECE",
+        "party_id": "",
+        "name": "ION S VAROUXAKIS",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 500,
+      "authorised_share_capital": 2000,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "shares_currency": "EUR"
+}

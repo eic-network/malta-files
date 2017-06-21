@@ -1,0 +1,59 @@
+{
+  "name": "AUSTRAL SHIPPING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PATRICK MARTIN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05387201",
+        "address": "LOTIVC12,RUED'ANGLETERRE,ANTANANARIVO101,MADAGASCAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACCAR\r",
+        "nationality": "",
+        "party_id": "                                                            2003 B 1010",
+        "address": "COURDEL'USINE,LAMARESAINTEMARIEREUNION97438MADAGASCAR",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "PATRICK MARTIN\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            05387201",
+        "address": "LOTIVC12,RUED'ANGLETERRE,ANTANANARIVO101,MADAGASCAR",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "EXCHANGE BUILDINGS, REPUBLIC STREET,",
+  "company_id": "C 31357",
+  "registration_date": "May 02, 2003",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

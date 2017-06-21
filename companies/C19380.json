@@ -1,0 +1,71 @@
+{
+  "name": "ARGONAUT OIL TRADING COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "TOUFIC AKL",
+        "nationality": "LEBANESE",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "NEPHYTOS FANTOMAS",
+        "nationality": "CYPRIOT",
+        "party_id": "",
+        "address": ""
+      },
+      {
+        "name": "CONSTANTINE KYRIAKOPOULOS",
+        "nationality": "GREEK",
+        "party_id": "",
+        "address": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AELOS INVESTMENTS INC",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "NOSTALGIA INVESTMENTS INC.",
+        "nationality": "",
+        "party_id": "",
+        "address": "80,BROADSTREETMONROVIALIBERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "14, MARINA COURT, ABATE RIGORD STRET,",
+  "company_id": "C 19380",
+  "registration_date": "Nov 14, 1995",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,62 @@
+{
+  "company_id": "C 54054",
+  "address": "171, OLD BAKERY STREET,",
+  "name": "BOULEVARD SHIPPING COMPANY LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Oct 07, 2011",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 3.4,
+      "issued_shares": 500
+    }
+  ],
+  "total_authorised_shares": 500,
+  "total_authorised_shares_value": 1700,
+  "total_issued_shares": 500,
+  "total_issued_shares_value": 1700,
+  "shares_currency": "USD",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GREGALE NAVIGATION S.A.\r",
+        "party_id": "                                                            C 114727",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 3.4
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANDREW CHETCUTI GANADO\r",
+        "party_id": "                                                            352272M",
+        "address": "99/FL9,ROYALCOURT,TRIQIL-KBIRA,SLIEMAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

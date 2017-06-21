@@ -1,0 +1,62 @@
+{
+  "name": "ANAZONAS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            942543",
+        "address": "203,FLAT5,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER WERNER KLAPPAN\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            875023569",
+        "address": "ST-GETREU-STR.19BAMBERG96049GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171 OLD BAKERY STREET",
+  "company_id": "C 77140",
+  "registration_date": "Sep 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

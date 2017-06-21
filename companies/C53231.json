@@ -1,0 +1,97 @@
+{
+  "name": "ANTURIUM BUSINESS PROMOTIONS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD SALIBA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496876M",
+        "address": "3,'DARIL-WARD',MILEENDSTREET,BLATAL-BAJDA,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "CHARLES SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19007",
+        "address": "78,MONAKELLA,TRIQIR-REFUGJATITAL-GWERRA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELEPHANT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 53226",
+        "address": "'ILPIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "DF CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 44948",
+        "address": "'IL-PIAZZETTA'A,SUITE21,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'IL PIAZZETTA' A, SUITE 21, TOWER ROAD,",
+  "company_id": "C 53231",
+  "registration_date": "Jun 24, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

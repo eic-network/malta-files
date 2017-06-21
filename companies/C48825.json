@@ -1,0 +1,101 @@
+{
+  "name": "BENITO LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "IULIAN ALEXANDRU DRAGOI\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            14398970",
+        "address": "12,SALTERSHILL,LONDONSE191DZUNITEDKINGDOM"
+      },
+      {
+        "name": "BARON SAMUEL MENZEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605114428",
+        "address": "8,LAMBOURNECOURT,RAYMEADROAD,MAIDENHEAD,BERKSHIRESL68PJUNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IULIAN ALEXANDRU DRAGOI\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            14398970",
+        "address": "12,SALTERSHILL,LONDONSE191DZUNITEDKINGDOM"
+      },
+      {
+        "name": "BARON SAMUEL MENZEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605114428",
+        "address": "8,LAMBOURNECOURT,RAYMEADROAD,MAIDENHEAD,BERKSHIRESL68PJUNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "BARON SAMUEL MENZEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605114428",
+        "address": "8,LAMBOURNECOURT,RAYMEADROAD,MAIDENHEAD,BERKSHIRESL68PJUNITEDKINGDOM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IULIAN ALEXANDRU DRAGOI\r",
+        "nationality": "ROMANIAN",
+        "party_id": "                                                            14398970",
+        "address": "12,SALTERSHILL,LONDONSE191DZUNITEDKINGDOM"
+      },
+      {
+        "name": "BARON SAMUEL MENZEL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605114428",
+        "address": "8,LAMBOURNECOURT,RAYMEADROAD,MAIDENHEAD,BERKSHIRESL68PJUNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KEITH LAWRENCE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605105410",
+        "address": "205,ROYALOCEANPLAZAOCEANVILLAGEGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ROUDON ZARB\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            040543834",
+        "address": "5,ROSBAYCOURTNAVALHOSPITALROADGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "LEVEL 5, ROSA MARINA BLDG., 216, MARINA SEAFRONT,",
+  "company_id": "C 48825",
+  "registration_date": "Feb 05, 2010",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 5000
+}

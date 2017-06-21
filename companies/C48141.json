@@ -1,0 +1,59 @@
+{
+  "total_issued_shares_value": 1500,
+  "registration_date": "Nov 10, 2009",
+  "status": "",
+  "locality": "BIRKIRKARA",
+  "name": "BSKY MANAGEMENT LIMITED",
+  "total_issued_shares": 1500,
+  "address": "\"DSLR\" SUITE 703, FTIEH STRET, BIRKIRKARA BYPASS",
+  "company_id": "C 48141",
+  "involved_parties": {
+    "Auditors": [
+      {
+        "address": "164,MEADOWBANKMANS,FL.23,TRIQIT-TORRISLIEMAMALTA",
+        "party_id": "                                                            00588",
+        "name": "JOSEPH AZZOPARDI\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1499,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "EMANCIPATIEBOULEVARD29,CURACAONETHERLANDSANTILLES",
+        "party_id": "                                                            108190",
+        "name": "BLUE SKY FINANCE N.V.\r",
+        "nationality": ""
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "",
+          "type": "Ordinary",
+          "paid_up_%": 100
+        },
+        "address": "28,CATHEDRALSTREET,SLIEMASLM1525MALTA",
+        "party_id": "                                                            C 34837",
+        "name": "HBM MALTA LTD\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1500,
+      "authorised_share_capital": 1500,
+      "type": "Ordinary"
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "shares_currency": "EUR"
+}

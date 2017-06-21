@@ -1,0 +1,125 @@
+{
+  "name": "ARQ ACCOUNTING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 588,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 588,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 612,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 612,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA"
+      },
+      {
+        "name": "TONIO FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            473663M",
+        "address": "270,TRIQSANGILJAN,BIRKIRKARAMALTA"
+      },
+      {
+        "name": "NICHOLAS GOUDER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            95385M",
+        "address": "3,LOTUS,TRIQIT-TAMAL,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58299",
+        "address": "LEVEL1,SUITENO.5,TOWERBUSINESSCENTRE,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 588
+        }
+      },
+      {
+        "name": "DAVID BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            32467M",
+        "address": "17,ZAMMITCLAPPSTREET,ST.JULIANSSTJ1440MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 612
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, SUITE 5, TOWER STREET, SWATAR,",
+  "company_id": "C 65052",
+  "registration_date": "May 08, 2014",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,93 @@
+{
+  "name": "AMRITA",
+  "total_issued_shares_value": 500,
+  "total_authorised_shares_value": 500,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ZLATINA MINEVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            362544765",
+        "address": "'KHALIDIA'ENDOFALNASRSTREET,ABUDHABIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "CAROLINE MORALES NEE BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461654M",
+        "address": "6,ALLEY1,HALDWIELISTREETZEBBUGMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ZLATINA MINEVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            362544765",
+        "address": "'KHALIDIA'ENDOFALNASRSTREET,ABUDHABIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "CAROLINE MORALES NEE BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461654M",
+        "address": "6,ALLEY1,HALDWIELISTREETZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ZLATINA MINEVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            362544765",
+        "address": "'KHALIDIA'ENDOFALNASRSTREET,ABUDHABIUNITEDARABEMIRATES"
+      },
+      {
+        "name": "CAROLINE MORALES NEE BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461654M",
+        "address": "6,ALLEY1,HALDWIELISTREETZEBBUGMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ZLATINA MINEVA\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            362544765",
+        "address": "'KHALIDIA'ENDOFALNASRSTREET,ABUDHABIUNITEDARABEMIRATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "CAROLINE MORALES NEE BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            461654M",
+        "address": "6,ALLEY1,HALDWIELISTREETZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "APARTMENT NUMBER 10, CHARLES COURT, SAINT LUKE'S ROAD, GWARDAMANGIA,",
+  "company_id": "P 1177",
+  "registration_date": "Nov 26, 2008",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 500
+}

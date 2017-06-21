@@ -1,0 +1,141 @@
+{
+  "name": "ARRY ENTERPRISES LTD",
+  "total_issued_shares_value": 307800,
+  "total_authorised_shares_value": 307800,
+  "authorised_shares": [
+    {
+      "issued_shares": 153900,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 153900,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 153900,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 153900,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "VINCENT GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            606663M",
+        "address": "CENSUF/HTRIQWIEDIL-GHAJN,SQAQNRU.2ZEJTUNZTN4511MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARIA DOLORES K/A DORIS GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496465M",
+        "address": "34,ARCENCIELTRIQIS-SINISKALKZEJTUNZTN3442MALTA"
+      },
+      {
+        "name": "VINCENT GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            606663M",
+        "address": "CENSUF/HTRIQWIEDIL-GHAJN,SQAQNRU.2ZEJTUNZTN4511MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARIA DOLORES K/A DORIS GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496465M",
+        "address": "34,ARCENCIELTRIQIS-SINISKALKZEJTUNZTN3442MALTA"
+      },
+      {
+        "name": "VINCENT GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            606663M",
+        "address": "CENSUF/HTRIQWIEDIL-GHAJN,SQAQNRU.2ZEJTUNZTN4511MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG & ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/15/21",
+        "address": "A3TOWERS,BLOCKA3,LEVEL12,TRIQL-ARKATAPAOLAPLA1211MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARIA DOLORES K/A DORIS GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496465M",
+        "address": "34,ARCENCIELTRIQIS-SINISKALKZEJTUNZTN3442MALTA"
+      },
+      {
+        "name": "VINCENT GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            606663M",
+        "address": "CENSUF/HTRIQWIEDIL-GHAJN,SQAQNRU.2ZEJTUNZTN4511MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARIA DOLORES K/A DORIS GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            496465M",
+        "address": "34,ARCENCIELTRIQIS-SINISKALKZEJTUNZTN3442MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 76950
+        }
+      },
+      {
+        "name": "VINCENT GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            606663M",
+        "address": "CENSUF/HTRIQWIEDIL-GHAJN,SQAQNRU.2ZEJTUNZTN4511MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 76950
+        }
+      },
+      {
+        "name": "AARON GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            9799M",
+        "address": "34,ARCENCIEL,TRIQIS-SINISKALKZEJTUNZTN3442MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 76950
+        }
+      },
+      {
+        "name": "RYAN GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            507694M",
+        "address": "34,ARCENCIELTRIQIS-SINISKALKZEJTUNZTN3442MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 76950
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 307800,
+  "address": "34, ARC EN CIEL, TRIQ IS-SINISKALK,",
+  "company_id": "C 49806",
+  "registration_date": "Jun 02, 2010",
+  "shares_currency": "EUR",
+  "locality": "ZEJTUN",
+  "status": "",
+  "total_authorised_shares": 307800
+}

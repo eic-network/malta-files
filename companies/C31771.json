@@ -1,0 +1,136 @@
+{
+  "name": "BALMA LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 800,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ABDUSSALAM SHAABAN A BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539094",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ABDUSSALAM SHAABAN A BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539094",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ABDUSSALAM SHAABAN A BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539094",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOSEPH SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            01588",
+        "address": "27,GROGNETSTREET,MOSTAMST3613MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ABDUSSALAM SHAABAN A BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539094",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABDUSSALAM SHAABAN A BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            539094",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 800
+        }
+      },
+      {
+        "name": "AYOUB ABDUSSALAM BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            141948",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "IBRAHIM ABDUSSALAM BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            D97792398",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ISMAEEL ABDUSSALAM BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            D977992-98",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "USAMA ABDUSSALAM BARBUSH\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            676552",
+        "address": "SEDIKHALIFA,TAJURA,TRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "2, MANOL MANSION, DE PAULE AVENUE,",
+  "company_id": "C 31771",
+  "registration_date": "Jul 16, 2003",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,51 @@
+{
+  "name": "BICANTER IMPORTS",
+  "total_issued_shares_value": 4000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 10000,
+      "type": "",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JOHN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            144367M",
+        "address": "24,STNICHOLASSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "ROBERT GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503881M",
+        "address": "120,TRIQMATTYGRIMA,COSPICUAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4000,
+  "address": "12, TRIQ SAN GORG,",
+  "company_id": "P 1559",
+  "registration_date": "Jan 14, 2015",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 10000
+}

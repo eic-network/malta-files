@@ -1,0 +1,91 @@
+{
+  "name": "BM EX-IM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DANILO TROIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            56468A",
+        "address": "SEAVIEWAPARTMENTS,FLT5,QUI-SI-SANASEAFRONT,SLIEMASLM3110MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DOMENICO OCCHIPINTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1292403",
+        "address": "84,VIADEGLIOLEANDRI,RAGUSA97100ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DOMENICO OCCHIPINTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1292403",
+        "address": "84,VIADEGLIOLEANDRI,RAGUSA97100ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NIKKI DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10506",
+        "address": "SeaviewFlat1Qui-Si-SanaSeafrontSLIEMASLM3110MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DOMENICO OCCHIPINTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1292403",
+        "address": "84,VIADEGLIOLEANDRI,RAGUSA97100ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTONINA BELLAFIORE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS4764719",
+        "address": "44,INT2,VIAG.MAUCERI,AVOLA96012ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 180
+        }
+      },
+      {
+        "name": "DOMENICO OCCHIPINTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1292403",
+        "address": "84,VIADEGLIOLEANDRI,RAGUSA97100ITALY",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 420
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "FLAT 9, QAWRA TOWERS, TRIQ IL-QAWRA, QAWRA",
+  "company_id": "C 61193",
+  "registration_date": "Jul 17, 2013",
+  "shares_currency": "EUR",
+  "locality": "ST. PAUL'S BAY",
+  "status": "",
+  "total_authorised_shares": 600
+}

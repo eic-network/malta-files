@@ -1,0 +1,97 @@
+{
+  "name": "BEST COLD LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANN BUGEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            556884M",
+        "address": "FLAT2,ROSECOURT,TRIQIL-KOKKA,KAPPARASANGWANNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ROGER STRICKLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            423776M",
+        "address": "9,VILLASTA.MARGERITA,FLAT2,TRIQL-ILQUGH,SWIEQISWQ3421MALTA"
+      },
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "28/19,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LAXEY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43395",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LAXEY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43395",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LAXEY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43395",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CSB Trustees & Fiduciaries Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 40390",
+        "address": "VINCENTIBUILDINGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "LAXEY MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43395",
+        "address": "VINCENTIBUILDINGS,28/19,STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE 1758) STRAIT STREET,",
+  "company_id": "C 74383",
+  "registration_date": "Feb 16, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

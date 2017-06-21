@@ -1,0 +1,102 @@
+{
+  "company_id": "C 58009",
+  "address": "69, TELGHET LIESSE,",
+  "name": "BRENTON SERVICES LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 31, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JESSICA MEAGHAN ROSE COOKE\r",
+        "party_id": "                                                            63164A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      },
+      {
+        "name": "MICHAEL WILLIAM GERROW\r",
+        "party_id": "                                                            63162A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JESSICA MEAGHAN ROSE COOKE\r",
+        "party_id": "                                                            63164A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JESSICA MEAGHAN ROSE COOKE\r",
+        "party_id": "                                                            63164A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      },
+      {
+        "name": "MICHAEL WILLIAM GERROW\r",
+        "party_id": "                                                            63162A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JESSICA MEAGHAN ROSE COOKE\r",
+        "party_id": "                                                            63164A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      },
+      {
+        "name": "MICHAEL WILLIAM GERROW\r",
+        "party_id": "                                                            63162A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JESSICA MEAGHAN ROSE COOKE\r",
+        "party_id": "                                                            63164A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      },
+      {
+        "name": "MICHAEL WILLIAM GERROW\r",
+        "party_id": "                                                            63162A",
+        "address": "69,TELGHETLIESSE,VALLETTAVLT1940MALTA",
+        "nationality": "CANADIAN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT PULLICINO\r",
+        "party_id": "                                                            10040",
+        "address": "19,BETTINA,TRIQTA'GAWHAR,SAFISFI1510MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

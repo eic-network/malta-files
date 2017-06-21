@@ -1,0 +1,363 @@
+{
+  "name": "AMS REALTY LTD.",
+  "total_issued_shares_value": 2000000,
+  "total_authorised_shares_value": 2000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 2.5
+    },
+    {
+      "issued_shares": 200000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 2.5
+    },
+    {
+      "issued_shares": 200000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 2.5
+    },
+    {
+      "issued_shares": 200000,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AUDREY KOMRIJ JONES\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353279M",
+        "address": "58,HALGSTREET,TA'XBIEXXBX1322MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JACKIE BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252865M",
+        "address": "Apt.1071,Triqil-FortizzaMadlienaVillage,MadlienaSWIEQISWQ1600MALTA"
+      },
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8560M",
+        "address": "71,\"SALAMANDER\"TRIQIL-MOLLETTA,SWIEQIMALTA"
+      },
+      {
+        "name": "ALAN A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150263M",
+        "address": "2,TRIQIL-FJORIN,VICTORIAGARDENS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEC A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511256M",
+        "address": "VILLASANANTONIO,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406968M",
+        "address": "TA'CIRWEL,WIEDHARZUNRABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JACKIE BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252865M",
+        "address": "Apt.1071,Triqil-FortizzaMadlienaVillage,MadlienaSWIEQISWQ1600MALTA"
+      },
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8560M",
+        "address": "71,\"SALAMANDER\"TRIQIL-MOLLETTA,SWIEQIMALTA"
+      },
+      {
+        "name": "ALAN A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150263M",
+        "address": "2,TRIQIL-FJORIN,VICTORIAGARDENS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEC A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511256M",
+        "address": "VILLASANANTONIO,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406968M",
+        "address": "TA'CIRWEL,WIEDHARZUNRABATMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DELOITTE AUDIT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/81",
+        "address": "DELOITTEPLACE,MRIEHELBYPASS,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JACKIE BRIFFA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            252865M",
+        "address": "Apt.1071,Triqil-FortizzaMadlienaVillage,MadlienaSWIEQISWQ1600MALTA"
+      },
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8560M",
+        "address": "71,\"SALAMANDER\"TRIQIL-MOLLETTA,SWIEQIMALTA"
+      },
+      {
+        "name": "ALAN A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            150263M",
+        "address": "2,TRIQIL-FJORIN,VICTORIAGARDENS,SWIEQIMALTA"
+      },
+      {
+        "name": "ALEC A MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            511256M",
+        "address": "VILLASANANTONIO,ST.ANGELOSTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "ALEXANDER MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0406968M",
+        "address": "TA'CIRWEL,WIEDHARZUNRABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AMCO REALTY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 65273",
+        "address": "1ST.ANGELOSTREETST.JULIANSSTJ1110MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200000
+        }
+      },
+      {
+        "name": "MITZCO REALTY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64655",
+        "address": "MITZCOREALTY,TRIQIS-SALIBTAL-MRIEHEL,MRIEHEL,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200000
+        }
+      },
+      {
+        "name": "CONS REALTY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64689",
+        "address": "2,TRIQIL-FJORIN,VICTORIAGARDENSSWIEQISWQ2603MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 200000
+        }
+      },
+      {
+        "name": "AMS REALTY LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 65566",
+        "address": "ZACHARYHOUSE,MARSAINDUSTRIALESTATE,MARSAMRS3000MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 7914
+        }
+      },
+      {
+        "name": "GULULU LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            C 65335",
+        "address": "60,TRIQTAL-GRAZZJAZEBBUGMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 22222
+        }
+      },
+      {
+        "name": "JULIA ANNA BALDOCK & LISA MARIE VILLETTE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            402697555/309705932",
+        "address": "4,CLAYCOTTAGE,CLAYHILL,GOURDHURST,KENTTN171BEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "JULIA ANNA BALDOCK\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            402697555",
+        "address": "4,CLAYCOTTAGE,CLAYHILL,GOURDHURST,KENTTN171BEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 33333
+        }
+      },
+      {
+        "name": "MARY ANNE GERA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            558056M",
+        "address": "GARDENIATRIQIL-QASAMSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 14060
+        }
+      },
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            8560M",
+        "address": "71,\"SALAMANDER\"TRIQIL-MOLLETTA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 14060
+        }
+      },
+      {
+        "name": "SOPHIE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            445830M",
+        "address": "FLAT3,CATHEDRALMANSIONS,CATHEDRALSTREETSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 10428
+        }
+      },
+      {
+        "name": "ANGELA HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353258M",
+        "address": "\"IS-SIENJA\"TRIQTAL-MADONNATAL-ABBANDUNATI,WARDIJA,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 14059
+        }
+      },
+      {
+        "name": "MABEL MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            597161M",
+        "address": "NO.2,TRIQIL-MEDITERRAN,THEVILLAGE,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 6145
+        }
+      },
+      {
+        "name": "MARGUERITE ROBERTSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            319949M",
+        "address": "5APOLLOFLATSST.ELIASSTREET,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 15283
+        }
+      },
+      {
+        "name": "PAULA ROBERTSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258581M",
+        "address": "27,BURFORDAVENUE,BEDFORDMK420DSUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 6940
+        }
+      },
+      {
+        "name": "AUSTIN SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23454M",
+        "address": "75,ST.MARGARETSTREET,MOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 22222
+        }
+      },
+      {
+        "name": "LISA MARIE VILLETTE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            309705932",
+        "address": "BOXTREEHOUSE,13CHANTRYRISE,OLNEY,BUCKSMK465FEUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 33333
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 800000,
+  "address": "ZACHARY HOUSE, MARSA INDUSTRIAL ESTATE,",
+  "company_id": "C 65566",
+  "registration_date": "Jun 11, 2014",
+  "shares_currency": "EUR",
+  "locality": "MARSA",
+  "status": "",
+  "total_authorised_shares": 800000
+}

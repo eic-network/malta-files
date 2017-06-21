@@ -1,0 +1,104 @@
+{
+  "name": "BIENVENUE LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KEITH MASSA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            258781M",
+        "address": "RAMSEY,FLAT1,TRIQFRAFERDMATTEI,ZEBBUGZBG1130MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIOVANNI MARIA DATO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3658241",
+        "address": "VIAPIETROMASCAGNI,NR.23,PEDARACTITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIOVANNI MARIA DATO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3658241",
+        "address": "VIAPIETROMASCAGNI,NR.23,PEDARACTITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GIOVANNI MARIA DATO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3658241",
+        "address": "VIAPIETROMASCAGNI,NR.23,PEDARACTITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRIGLAV HOLDING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51233",
+        "address": "SUITE3,64/1,AGITONBUILDING,ST.ANTHONYSTREET,SANGWANNSGN1437MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "GIOVANNI MARIA DATO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR3658241",
+        "address": "VIAPIETROMASCAGNI,NR.23,PEDARACTITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "MARCO PANICCI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            3415510AA",
+        "address": "VIAMONTEROSANR.46,GROSSETO,ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "SUITE 3, 64/1, AGITON BUILDING, ST. ANTHONY STREET,",
+  "company_id": "C 52816",
+  "registration_date": "May 11, 2011",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,323 @@
+{
+  "name": "Balkan Property Investments Limited",
+  "total_issued_shares_value": 7498,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "Ordinary",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 625
+    },
+    {
+      "issued_shares": 6248,
+      "type": "RedeemablePreferenceNON-CUMULATIVEPARTICIPATING",
+      "authorised_share_capital": 8750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "FLATNO.2,64/65THESTRANDSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "FLATNO.2,64/65THESTRANDSLIEMAMALTA"
+      },
+      {
+        "name": "PAUL MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84961M",
+        "address": "AVEMARIA,TRIQGUZEPPIMATTEWCALLUS,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "FLATNO.2,64/65THESTRANDSLIEMAMALTA"
+      },
+      {
+        "name": "PAUL MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84961M",
+        "address": "AVEMARIA,TRIQGUZEPPIMATTEWCALLUS,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/110",
+        "address": "'C',IVYMANSIONS,TRIQIL-QASAM,SWIEQISWQ3025MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPHER GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            294157M",
+        "address": "FLATNO.2,64/65THESTRANDSLIEMAMALTA"
+      },
+      {
+        "name": "PAUL MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84961M",
+        "address": "AVEMARIA,TRIQGUZEPPIMATTEWCALLUS,ZURRIEQZRQ02MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DHALIA ESTATE AGENCY LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22364",
+        "address": "COBALTHOUSE,FLOOR1,NOTABILEROAD,BIRKIRKARAMALTA",
+        "shares": {
+          "nominal_value_per_share": 625,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2
+        }
+      },
+      {
+        "name": "WARREN AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            170265M",
+        "address": "PEPPINA'S,TRIQIL-LATMIJA,SALINA,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 631
+        }
+      },
+      {
+        "name": "ROBERTA BISAZZA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            470973M",
+        "address": "50,THEWILLOWSTRIQIR-RUSSETTSANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "CARMEL BORG BONACI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133266M",
+        "address": "WUTHERINGHEIGHTS,TRIQG.MUSCATAZZOPARDI,IKLINMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "MELCHIOR CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            206760M",
+        "address": "'VALENTINEFLATS',2,COLLEGESTREET,MOSTAMST07MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 227
+        }
+      },
+      {
+        "name": "NICHOLAI CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            549878M",
+        "address": "50/12,EUROMANSIONS,UNIVERSITYROAD,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 751
+        }
+      },
+      {
+        "name": "RAYMOND CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            653157M",
+        "address": "\"CONRAY\"PIERREMUSCATSTREET,RABATRBT05MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 114
+        }
+      },
+      {
+        "name": "ANDRE FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            120679M",
+        "address": "36,ST.CATALDUSSTREET,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "CATHERINE GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            543852M",
+        "address": "'IL-BEJTA',ANTONIOBOSIOSTREET,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 114
+        }
+      },
+      {
+        "name": "DAMIAN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            137580M",
+        "address": "FLT8,COURTDEBATONROUGE,PISCOPOMACEDONIASTR,XEMXIJAST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 727
+        }
+      },
+      {
+        "name": "PAUL MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            84961M",
+        "address": "AVEMARIA,TRIQGUZEPPIMATTEWCALLUS,ZURRIEQZRQ02MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "NEVILLE SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            332769M",
+        "address": "84/85,CARMELSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "ANTHONY SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            193967M",
+        "address": "SCOFIELDTRIQIL-KAPPARATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 91
+        }
+      },
+      {
+        "name": "KONRAD SULTANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297667M",
+        "address": "64,IMAGINE,SCHOOLSTREET,ZABBARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 45
+        }
+      },
+      {
+        "name": "ANDREA TRAPANI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            131474M",
+        "address": "RAWHIDECOURT,FLT5,TRIQIL-QRATAS,IBRAGGSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 45
+        }
+      },
+      {
+        "name": "FRANCESCO VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            564965M",
+        "address": "THEGABLES,BLOCKD,FLAT9,PISCOPOMACEDONIASTREET,ST.PAUL'SBAYMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 795
+        }
+      },
+      {
+        "name": "ERSKINE VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191778M",
+        "address": "11,MAINGATEAPPROACH,VITTORIOSAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 318
+        }
+      },
+      {
+        "name": "JOE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            364066M",
+        "address": "50/11,\"EUROMANSIONS\"UNIVERSITYSTREETMSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "NON-CUMULATIVE PARTICIPATING",
+          "issued_shares": 113
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6250,
+  "address": "Cobalt House, First Floor,  Notabile Road, Mriehel",
+  "company_id": "C 38474",
+  "registration_date": "Apr 17, 2006",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 8752
+}

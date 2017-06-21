@@ -1,0 +1,183 @@
+{
+  "name": "BARTOLI GROUP FINANCE LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 450,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 450,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryD",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 240,
+      "type": "OrdinaryE",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 90,
+      "type": "OrdinaryF",
+      "authorised_share_capital": 90,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GORDON BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323880M",
+        "address": "LADBROOK,1,WARDIJAHILL,BURMARRAD,ST.PAUL'SBAYSPB6161MALTA"
+      },
+      {
+        "name": "PETER BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118070M",
+        "address": "VILLATARA,TA'CAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GORDON BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323880M",
+        "address": "LADBROOK,1,WARDIJAHILL,BURMARRAD,ST.PAUL'SBAYSPB6161MALTA"
+      },
+      {
+        "name": "PETER BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118070M",
+        "address": "VILLATARA,TA'CAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118070M",
+        "address": "VILLATARA,TA'CAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GORDON BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323880M",
+        "address": "LADBROOK,1,WARDIJAHILL,BURMARRAD,ST.PAUL'SBAYSPB6161MALTA"
+      },
+      {
+        "name": "PETER BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118070M",
+        "address": "VILLATARA,TA'CAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOAN BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330340M",
+        "address": "VILLATARA,TACAFCAFLANE,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 450
+        }
+      },
+      {
+        "name": "PETER BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118070M",
+        "address": "VILLATARA,TA'CAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "DANIELA BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323980M",
+        "address": "VILLATARA,TACAFCAFLANE,MADLIENASWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "EDWARD BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23272M",
+        "address": "5,TRIQIT-TIBEN,SWIEQISWQ3039MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "D",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "GORDON BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            323880M",
+        "address": "LADBROOK,1,WARDIJAHILL,BURMARRAD,ST.PAUL'SBAYSPB6161MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "E",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "RODERICK BARTOLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            4684G",
+        "address": "VILLATARA,TACAFCAFLANE,MADLIENA,SWIEQISWQ1110MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "F",
+          "issued_shares": 90
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "11 MANUEL BORG GAUCI STREET, TAL-HANDAQ",
+  "company_id": "C 78058",
+  "registration_date": "Nov 11, 2016",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 1500
+}

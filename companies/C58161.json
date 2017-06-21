@@ -1,0 +1,91 @@
+{
+  "company_id": "C 58161",
+  "address": "91A/1, ARCHBISHOP STREET,",
+  "name": "BOWMORE LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Nov 09, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 10000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 10000
+    }
+  ],
+  "total_authorised_shares": 10000,
+  "total_authorised_shares_value": 10000,
+  "total_issued_shares": 10000,
+  "total_issued_shares_value": 10000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PIERRE LOFARO\r",
+        "party_id": "                                                            791055M",
+        "address": "GHAJNIX-XEMX,TRIQHAGARQIM,QRENDIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FINASERV CONSULTANCY LIMITED\r",
+        "party_id": "                                                            C 21866",
+        "address": "KYLE,APARTMENT4,TRIQIL-MEDITERRAN,ST.JULIANSSTJ1870MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "PIERRE LOFARO\r",
+        "party_id": "                                                            791055M",
+        "address": "GHAJNIX-XEMX,TRIQHAGARQIM,QRENDIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIERRE LOFARO\r",
+        "party_id": "                                                            791055M",
+        "address": "GHAJNIX-XEMX,TRIQHAGARQIM,QRENDIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIERRE LOFARO\r",
+        "party_id": "                                                            791055M",
+        "address": "GHAJNIX-XEMX,TRIQHAGARQIM,QRENDIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARK SIMIANA\r",
+        "party_id": "                                                            316483M",
+        "address": "336,'HAVEN',VICTORYSTREET,QORMIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALEXANDER AGIUS\r",
+        "party_id": "                                                            19734",
+        "address": "37,TriqDunMikielXerriATTARDATD2023MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

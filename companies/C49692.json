@@ -1,0 +1,112 @@
+{
+  "name": "BAEZ LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANTONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            23558M",
+        "address": "AGSHOUSE,GIUSEPPECALISTREET,TA'XBIEXXBX1424MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALBERT GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            113649M",
+        "address": "JESCAUPPERGARDENSST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART GORDON CRAIG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48102A",
+        "address": "6,FLAT1,TRIQSIRLUIGICAMILLERI,SLIEMASLM1841MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "GVZH TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23095",
+        "address": "192,OLDBAKERYSTREETVALLETTAVLT1455MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 400
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "192, OLD BAKERY STREET,",
+  "company_id": "C 49692",
+  "registration_date": "May 18, 2010",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

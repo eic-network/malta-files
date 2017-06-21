@@ -1,0 +1,75 @@
+{
+  "name": "BATES LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JASON PAUL GITMANS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NW994BBL2",
+        "address": "8,TIRIROAD,MILFORDAUCKLAND0620NEWZEALAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JASON PAUL GITMANS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NW994BBL2",
+        "address": "8,TIRIROAD,MILFORDAUCKLAND0620NEWZEALAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JASON PAUL GITMANS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NW994BBL2",
+        "address": "8,TIRIROAD,MILFORDAUCKLAND0620NEWZEALAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JASON PAUL GITMANS\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NW994BBL2",
+        "address": "8,TIRIROAD,MILFORDAUCKLAND0620NEWZEALAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "RIANDA MARGARET ANNE GITMANS\r",
+        "nationality": "NEW ZEALANDER",
+        "party_id": "                                                            LN876475",
+        "address": "CALLE9,NO.39,08860CASTELLDEFELS,BARCELONASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "LEVEL 1, BLUE HARBOUR BUSINESS CENTRE, TA' XBIEX YACHT MARINA,",
+  "company_id": "C 48357",
+  "registration_date": "Dec 07, 2009",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,54 @@
+{
+  "name": "BOOM SHIPPING LIMITED",
+  "total_issued_shares_value": 0,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MEDINA MANAGEMENT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 7062",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "JOSEPH ZAMMIT TABONA",
+        "nationality": "",
+        "party_id": "",
+        "address": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ABACUS HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16564",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "167, MERCHANTS STREET,",
+  "company_id": "C 24645",
+  "registration_date": "May 28, 1999",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 500
+}

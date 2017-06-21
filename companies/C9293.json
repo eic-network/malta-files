@@ -1,0 +1,120 @@
+{
+  "name": "ARTHUR'S GARAGE LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RONALD DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            410759M",
+        "address": "22A,BORDINSTREET,MSIDAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARMELO SIVE CHARLES DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325150M",
+        "address": "BLOCK4,FLAT3,HOUSINGPROJECT,ST.GEORGE'SST.JULIANSMALTA"
+      },
+      {
+        "name": "JOSEPH DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            302949M",
+        "address": "20,BORDINSTREET,MSIDAMALTA"
+      },
+      {
+        "name": "RONALD DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            410759M",
+        "address": "22A,BORDINSTREET,MSIDAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00989",
+        "address": "67,TRIQIL-GHENBA,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CARMELO SIVE CHARLES DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325150M",
+        "address": "BLOCK4,FLAT3,HOUSINGPROJECT,ST.GEORGE'SST.JULIANSMALTA"
+      },
+      {
+        "name": "JOSEPH DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            302949M",
+        "address": "20,BORDINSTREET,MSIDAMALTA"
+      },
+      {
+        "name": "RONALD DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            410759M",
+        "address": "22A,BORDINSTREET,MSIDAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMELO SIVE CHARLES DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            325150M",
+        "address": "BLOCK4,FLAT3,HOUSINGPROJECT,ST.GEORGE'SST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "JOSEPH DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            302949M",
+        "address": "20,BORDINSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "RONALD DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            410759M",
+        "address": "22A,BORDINSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "22B BORDIN STREET,",
+  "company_id": "C 9293",
+  "registration_date": "Dec 30, 1987",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

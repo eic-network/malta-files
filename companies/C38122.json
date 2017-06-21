@@ -1,0 +1,128 @@
+{
+  "name": "An Faoilean Holdings Limited",
+  "total_issued_shares_value": 5001,
+  "total_authorised_shares_value": 5001,
+  "authorised_shares": [
+    {
+      "issued_shares": 2,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2,
+      "nominal_value_per_share": 2500
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHELLE OAKES\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            121100L",
+        "address": "92,TRAMUNTANATRIQIL-BIRWINA,MELLIEHAMLH2543MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARC XAVIER ELLUL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605112695",
+        "address": "3A,ADMIRALSPLACEOLDNAVALHOSPITALGIBRALTAR"
+      },
+      {
+        "name": "DEBRA H. PERERA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            508486642",
+        "address": "6FMALVASIAVINEYARDSGIBRALTARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARC XAVIER ELLUL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605112695",
+        "address": "3A,ADMIRALSPLACEOLDNAVALHOSPITALGIBRALTAR"
+      },
+      {
+        "name": "DEBRA H. PERERA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            508486642",
+        "address": "6FMALVASIAVINEYARDSGIBRALTARGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MARC XAVIER ELLUL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605112695",
+        "address": "3A,ADMIRALSPLACEOLDNAVALHOSPITALGIBRALTAR"
+      },
+      {
+        "name": "DEBRA H. PERERA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            508486642",
+        "address": "6FMALVASIAVINEYARDSGIBRALTARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PREMIER FIDUCIARY AND TRUSTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54929",
+        "address": "43A/1,STPAULBUILDINGSWESTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2500,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PREMIER FIDUCIARY AND TRUSTS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 54929",
+        "address": "43A/1,STPAULBUILDINGSWESTSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2500,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "MARC XAVIER ELLUL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605112695",
+        "address": "3A,ADMIRALSPLACEOLDNAVALHOSPITALGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3,
+  "address": "43A/1 SAINT PAUL'S BUILDINGS, WEST STREET",
+  "company_id": "C 38122",
+  "registration_date": "Mar 02, 2006",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 3
+}

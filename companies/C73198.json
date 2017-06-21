@@ -1,0 +1,101 @@
+{
+  "name": "BLACK DIAMOND LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ETTORE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1447989",
+        "address": "VIAGHANDI19,MONTIRONE(BS)ITALY"
+      },
+      {
+        "name": "SIMONE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8224216",
+        "address": "VIAM.K.GHANDI19,BRESCIABSITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ETTORE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1447989",
+        "address": "VIAGHANDI19,MONTIRONE(BS)ITALY"
+      },
+      {
+        "name": "SIMONE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8224216",
+        "address": "VIAM.K.GHANDI19,BRESCIABSITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ETTORE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1447989",
+        "address": "VIAGHANDI19,MONTIRONE(BS)ITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ETTORE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1447989",
+        "address": "VIAGHANDI19,MONTIRONE(BS)ITALY"
+      },
+      {
+        "name": "SIMONE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8224216",
+        "address": "VIAM.K.GHANDI19,BRESCIABSITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ETTORE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            YA1447989",
+        "address": "VIAGHANDI19,MONTIRONE(BS)ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1350
+        }
+      },
+      {
+        "name": "SIMONE MANCINI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AN8224216",
+        "address": "VIAM.K.GHANDI19,BRESCIABSITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "\"ANUTRUF\" LEVEL 3, TRIQ TAL-HRIEREB,",
+  "company_id": "C 73198",
+  "registration_date": "Nov 23, 2015",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

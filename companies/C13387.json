@@ -1,0 +1,91 @@
+{
+  "name": "A.E.HOLDINGS LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IAN STAFRACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            106173M",
+        "address": "9,TRIQID-DEFFA,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEX ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145058M",
+        "address": "MARIVILLE,TRIQIT-TRUNCIERI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEX ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145058M",
+        "address": "MARIVILLE,TRIQIT-TRUNCIERI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "167,MERCHANTSSTREET,VALLETTAVLT1174MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEX ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145058M",
+        "address": "MARIVILLE,TRIQIT-TRUNCIERI,BAHARIC-CAGHAQ,NAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEX ELLUL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145058M",
+        "address": "MARIVILLE,TRIQIT-TRUNCIERI,BAHARIC-CAGHAQ,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      },
+      {
+        "name": "REBECCA LICARI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            402084M",
+        "address": "70,APARTMENT13,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "MARIVILLE, TRIQ IT-TRUNCIERI, BAHAR IC-CAGHAQ,",
+  "company_id": "C 13387",
+  "registration_date": "Dec 17, 1991",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 2000
+}

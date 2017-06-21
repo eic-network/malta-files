@@ -1,0 +1,133 @@
+{
+  "name": "BONELLO SERVICE STATION LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 300,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 700,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "RITA WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433450M",
+        "address": "'NANNA'SHOUSE'STANDREWSROADSWIEQISTJ13MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71228M",
+        "address": "'ROSEHOUSE'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "ANTHONY WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321591M",
+        "address": "'DARINGA'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "RITA WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433450M",
+        "address": "'NANNA'SHOUSE'STANDREWSROADSWIEQISTJ13MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71228M",
+        "address": "'ROSEHOUSE'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "ANTHONY WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321591M",
+        "address": "'DARINGA'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "RITA WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433450M",
+        "address": "'NANNA'SHOUSE'STANDREWSROADSWIEQISTJ13MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEVEN GALEA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            03488",
+        "address": "10TINATREJQETG.B.MORTONNAXXARNXR1370MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            71228M",
+        "address": "'ROSEHOUSE'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "ANTHONY WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321591M",
+        "address": "'DARINGA'ST.ANDREWSROADSWIEQIMALTA"
+      },
+      {
+        "name": "RITA WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            433450M",
+        "address": "'NANNA'SHOUSE'STANDREWSROADSWIEQISTJ13MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY WAREING\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            321591M",
+        "address": "'DARINGA'ST.ANDREWSROADSWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "RITA WAREING\r",
+        "nationality": "",
+        "party_id": "                                                            001428A",
+        "address": "NANNA'SHOUSESTANDREWSHOUSESWIEQISTJ13MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "BONELLO SERVICE STATION ST. ANDREWS ROAD",
+  "company_id": "C 11685",
+  "registration_date": "May 28, 1990",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,117 @@
+{
+  "name": "ASTRO LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MARIO FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            86277M",
+        "address": "52,SPRINGVALE,POPEPIUSXIISTREET,MOSTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANDREA WUCHER\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P4130732",
+        "address": "SONNENSTRASSE8b,WOLFURT6922AUSTRIA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXANDER ALBERT DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P1330957",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      },
+      {
+        "name": "WERNER DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2604633",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXANDER ALBERT DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P1330957",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      },
+      {
+        "name": "WERNER DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2604633",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXANDER ALBERT DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P1330957",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      },
+      {
+        "name": "WERNER DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2604633",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER ALBERT DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P1330957",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WERNER DEURING\r",
+        "nationality": "AUSTRIAN",
+        "party_id": "                                                            P2604633",
+        "address": "WEISSENREUTEWEG2d,BREGENZ6900AUSTRIA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "36/3 MANOL MANSION, DE PAULE AVENUE,",
+  "company_id": "C 53562",
+  "registration_date": "Aug 08, 2011",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200
+}

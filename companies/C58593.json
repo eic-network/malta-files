@@ -1,0 +1,91 @@
+{
+  "name": "66 St Paul's Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PIETRO VERNACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3658485",
+        "address": "T4F1,CARAVAGGIOCOURTTIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIETRO VERNACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3658485",
+        "address": "T4F1,CARAVAGGIOCOURTTIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIETRO VERNACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3658485",
+        "address": "T4F1,CARAVAGGIOCOURTTIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "3A\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/62",
+        "address": "THEPENTHOUSE,LEVEL3,PALAZZOCABRUGNERA,VALLEYROAD,BIRKIRKARABKR9024MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PIETRO VERNACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3658485",
+        "address": "T4F1,CARAVAGGIOCOURTTIGNEPOINTSLIEMATP01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMMA LOUISE VERNACCHIA\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            540327999",
+        "address": "CARAVAGGIOCOURT,T4F1,TIGNEPOINT,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "PIETRO VERNACCHIA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA3658485",
+        "address": "T4F1,CARAVAGGIOCOURTTIGNEPOINTSLIEMATP01MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "T4F1, CARAVAGGIO COURT, TIGNE POINT,",
+  "company_id": "C 58593",
+  "registration_date": "Dec 12, 2012",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

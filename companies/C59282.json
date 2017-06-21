@@ -1,0 +1,89 @@
+{
+  "name": "ASHTON RESOURCES LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GIBRO CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            24451",
+        "address": "SUITE4,4GIRO'SPASSAGEGIBRATLARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GIBRO CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            24451",
+        "address": "SUITE4,4GIRO'SPASSAGEGIBRATLARGIBRALTAR"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JENSSEN ELLUL\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            760873638",
+        "address": "37A/5DEVILSTOWERROADGIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GIBRO CORPORATE MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            24451",
+        "address": "SUITE4,4GIRO'SPASSAGEGIBRATLARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "(GIBRALTAR) TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            24455",
+        "address": "SUITE4,4GIRO'SPASSAGE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "(GIBRALTAR) TRUSTEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            24455",
+        "address": "SUITE4,4GIRO'SPASSAGE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "NO. 2, GERALDU FARRUGIA STREET,",
+  "company_id": "C 59282",
+  "registration_date": "Feb 11, 2013",
+  "shares_currency": "GBP",
+  "locality": "ZEBBUG",
+  "status": "",
+  "total_authorised_shares": 2000
+}

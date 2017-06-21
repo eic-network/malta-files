@@ -1,0 +1,105 @@
+{
+  "name": "AXEL TELECOM (MALTA) LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            129082M",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH M ZRINZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152547M",
+        "address": "52,TELEMETRYHOUSE,CONSERVATORYSTREET,FLORIANAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BALBA ALEXANDRU OVIDIU\r",
+        "nationality": "",
+        "party_id": "                                                            001148031",
+        "address": "98,PESCAILORSTREET,FZ15AP58,CONSTANTZA8700ROMANIA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BALBA ALEXANDRU OVIDIU\r",
+        "nationality": "",
+        "party_id": "                                                            001148031",
+        "address": "98,PESCAILORSTREET,FZ15AP58,CONSTANTZA8700ROMANIA"
+      },
+      {
+        "name": "JOSEPH M ZRINZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            152547M",
+        "address": "52,TELEMETRYHOUSE,CONSERVATORYSTREET,FLORIANAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DARMANIN CAUCHI & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/78",
+        "address": "75,VJALKOTTONER,FGURAFGR1386MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BALBA ALEXANDRU OVIDIU\r",
+        "nationality": "",
+        "party_id": "                                                            001148031",
+        "address": "98,PESCAILORSTREET,FZ15AP58,CONSTANTZA8700ROMANIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SARAGA BEBI\r",
+        "nationality": "",
+        "party_id": "                                                            002511744",
+        "address": "98,PESCAILORSTREET,FZ15AP58,CONSTANTZA8700ROMANIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "BALBA ALEXANDRU OVIDIU\r",
+        "nationality": "",
+        "party_id": "                                                            001148031",
+        "address": "98,PESCAILORSTREET,FZ15AP58,CONSTANTZA8700ROMANIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "TELEMETRY HOUSE, 52 CONSERVATORY STREET",
+  "company_id": "C 24535",
+  "registration_date": "May 10, 1999",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

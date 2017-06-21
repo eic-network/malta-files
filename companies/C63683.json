@@ -1,0 +1,97 @@
+{
+  "name": "BACK ON TRACK COMPANY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 599,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 599,
+      "nominal_value_per_share": 2
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MALCOLM MEILAK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIR,ANTONIOMALLIASTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ERLAND HENRIK BESELIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85829421",
+        "address": "MUNKHOLMSVAGEN4C,SIGTUNA19340SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ERLAND HENRIK BESELIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85829421",
+        "address": "MUNKHOLMSVAGEN4C,SIGTUNA19340SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ERLAND HENRIK BESELIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85829421",
+        "address": "MUNKHOLMSVAGEN4C,SIGTUNA19340SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BACK ON TRACK GLOBAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63374",
+        "address": "BUSINESSHOUSESUITE4,ARCHBISHOPP.PACESTREET,VICTORIA(GOZO)VCT2504MALTA",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 599
+        }
+      },
+      {
+        "name": "ERLAND HENRIK BESELIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85829421",
+        "address": "MUNKHOLMSVAGEN4C,SIGTUNA19340SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "BUSINESS HOUSE SUITE 4, ARCHBISHOP P. PACE STREET,",
+  "company_id": "C 63683",
+  "registration_date": "Jan 30, 2014",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 600
+}

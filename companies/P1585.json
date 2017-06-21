@@ -1,0 +1,51 @@
+{
+  "name": "BIODEVICES",
+  "total_issued_shares_value": 1165,
+  "total_authorised_shares_value": 1165,
+  "authorised_shares": [
+    {
+      "issued_shares": 1165,
+      "type": "Ordinary",
+      "authorised_share_capital": 1165,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JOSEPH DEBATTISTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            834347M",
+        "address": "96,MARVICFLATSNO.1,ST.MARGARETSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3
+        }
+      },
+      {
+        "name": "MATTHEW DEBATTISTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            205375M",
+        "address": "96,MARVIC,FLAT1,STMARGARETSTREET,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1162
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1165,
+  "address": "RAYTAR BUILDINGS, FLAT NO.4, TRIQ SAN SILVESTRU,",
+  "company_id": "P 1585",
+  "registration_date": "May 09, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1165
+}

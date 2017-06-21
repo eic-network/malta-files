@@ -1,0 +1,912 @@
+{
+  "name": "BERGEN HOLDING P.L.C.",
+  "total_issued_shares_value": 50000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 500000,
+      "type": "Ordinary",
+      "authorised_share_capital": 500000,
+      "nominal_value_per_share": 0.1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANDRE ANDERSEN LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25773910",
+        "address": "CALLEOSAMENOR18NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KAI HUGO HEBNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20794835",
+        "address": "GRONLIVEGEN25BTROMSO9007NORWAY"
+      },
+      {
+        "name": "JOHAN NILS OSKAR FRANK KINNANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53218990",
+        "address": "MARENVAGEN23SALTSJOBADEN13337SWEDEN"
+      },
+      {
+        "name": "ANDRE ANDERSEN LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25773910",
+        "address": "CALLEOSAMENOR18NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            0059922A",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KAI HUGO HEBNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20794835",
+        "address": "GRONLIVEGEN25BTROMSO9007NORWAY"
+      },
+      {
+        "name": "JOHAN NILS OSKAR FRANK KINNANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53218990",
+        "address": "MARENVAGEN23SALTSJOBADEN13337SWEDEN"
+      },
+      {
+        "name": "ANDRE ANDERSEN LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25773910",
+        "address": "CALLEOSAMENOR18NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            0059922A",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RSM MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/53",
+        "address": "COBALTHOUSE,LEVEL2NOTABILEROAD,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KAI HUGO HEBNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20794835",
+        "address": "GRONLIVEGEN25BTROMSO9007NORWAY"
+      },
+      {
+        "name": "JOHAN NILS OSKAR FRANK KINNANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53218990",
+        "address": "MARENVAGEN23SALTSJOBADEN13337SWEDEN"
+      },
+      {
+        "name": "ANDRE ANDERSEN LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25773910",
+        "address": "CALLEOSAMENOR18NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            0059922A",
+        "address": "CALLEVIENA68,NUEVAANDALUCIA,29660,MARBELLASPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AGITO HOLDING AS\r",
+        "nationality": "",
+        "party_id": "                                                            989092723",
+        "address": "KVARTSVEIEN41,KROKELVDALEN9022,TROMSO1902NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 106827
+        }
+      },
+      {
+        "name": "BERGEN SPORTS CONSULTING AS\r",
+        "nationality": "",
+        "party_id": "                                                            988500798",
+        "address": "STRANDKAIEN16,5013BERGEN,BERGEN1201NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 31471
+        }
+      },
+      {
+        "name": "G.T. SAFE AS\r",
+        "nationality": "",
+        "party_id": "                                                            988703400",
+        "address": "NOKKEN30,916TROMSO,TROMSO1902NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39834
+        }
+      },
+      {
+        "name": "HAGA ODDSCONSULT AS\r",
+        "nationality": "",
+        "party_id": "                                                            990056919",
+        "address": "HAGA3,5414STORD,STORD1221NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3709
+        }
+      },
+      {
+        "name": "HMH INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            988757969",
+        "address": "HELMERLUNDGREENSGATE4,7012TRONDHEIMTRONDHEIM1601NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 51270
+        }
+      },
+      {
+        "name": "IMPETO AS\r",
+        "nationality": "",
+        "party_id": "                                                            988742414",
+        "address": "TERMINALGATA114,9019TROMSOTROMSO1902NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 18327
+        }
+      },
+      {
+        "name": "JEHANGIR AB\r",
+        "nationality": "",
+        "party_id": "                                                            556689-3888",
+        "address": "C/OPANDAY,NYBROGATAN43,STOCKHOLM11439SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1283
+        }
+      },
+      {
+        "name": "KANDLER INVEST APS\r",
+        "nationality": "",
+        "party_id": "                                                            29978018",
+        "address": "C/ORONNIEKANDLER,HOFFMEYERSVEJ69,2.TV,FREDERIKSBERGDK-2000DENMARK",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1649
+        }
+      },
+      {
+        "name": "LAVOLD INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            989091441",
+        "address": "EDDERDUNVEGEN33,9013TROMSO,TROMSO1902NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 48741
+        }
+      },
+      {
+        "name": "NIBBLE GARD INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            556714-1147",
+        "address": "NIBBLEGARD,GNESTA64693SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5590
+        }
+      },
+      {
+        "name": "ORAKEL ODDSCONSULT AS\r",
+        "nationality": "",
+        "party_id": "                                                            989242776",
+        "address": "C/OBJARTHEWESTERHEIM,KROKTJODNEVEGEN40,5412STORD,STORD1221NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 23092
+        }
+      },
+      {
+        "name": "R3 HOLDING AS\r",
+        "nationality": "",
+        "party_id": "                                                            990056803",
+        "address": "DRAUGEN163,9016TROMSO,TROMSO1902NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 9530
+        }
+      },
+      {
+        "name": "REBAC INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            990056846",
+        "address": "BALSFJORDVINDEN10,9006TROMSO,TROMSO1920NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 12829
+        }
+      },
+      {
+        "name": "SPARTACUS INVEST AS\r",
+        "nationality": "",
+        "party_id": "                                                            996909360",
+        "address": "TSSVENSKEVEIEN3,7374ROROS,ROROS1640NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3665
+        }
+      },
+      {
+        "name": "ELLEN PIA-KARIN AKESSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34680271",
+        "address": "VETEGATAN2,LOMMASWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 733
+        }
+      },
+      {
+        "name": "JAN JESPER ALBIN ASK\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62920801",
+        "address": "HEGDEHAUGSVEIEN23,OSLO0352NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1833
+        }
+      },
+      {
+        "name": "PAL OSKAR ANDERSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81682080",
+        "address": "STRANDPROMENADEN22,LOMMA23439SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1356
+        }
+      },
+      {
+        "name": "KIM ANDRE BAROSEN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            27605220",
+        "address": "LEILIGHET307,KARLJOHAN2,TROMSO9008NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3665
+        }
+      },
+      {
+        "name": "ANDERS BERNSTEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28790201",
+        "address": "LUNDSHAGER2,4083,HUNDUAGNORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 13012
+        }
+      },
+      {
+        "name": "ALF NICKLAS DANIEL BONDESSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85602835",
+        "address": "BELMONTHEIGHTS,BLOCKM,PENTHOUSE16,DEPIROSTREET,SLIEMASLM2032MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 123
+        }
+      },
+      {
+        "name": "MATTHEW BORG MANCHE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0222679M",
+        "address": "9TRIQSALVUDIMECHMOSTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1037
+        }
+      },
+      {
+        "name": "CAR MIKAEL DANIEL DYRENDAHL-NYBLIN\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PY8624706",
+        "address": "OTAVANTIE6A10,HELSINKI00200FINLAND",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 696
+        }
+      },
+      {
+        "name": "RAMIN ESHGHIZADEH\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            25654941",
+        "address": "BLABAERVEGEN38B,TOMASJORD9024NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1723
+        }
+      },
+      {
+        "name": "ANDREW FELDMAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            801675072",
+        "address": "26,JFKFLAT,ROYALCONNAUGHTDRIVE,BUSHEY,HERTSWD232RAUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4124
+        }
+      },
+      {
+        "name": "MARIA SANDRA FLYGARE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            45817535",
+        "address": "BLOCK28,FLATA62,VJALPORTOMASO,PACEVILLE,ST.JULIANSSTJ4019MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 623
+        }
+      },
+      {
+        "name": "CARL MIKAEL FRANZEN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            23297440",
+        "address": "GUNSELDINGERSTRASSE125,BASEL4053SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 367
+        }
+      },
+      {
+        "name": "LEIF HENRIK FRID\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            56604926",
+        "address": "APARTMENT106,TRIQLUQABRIFFA,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 73
+        }
+      },
+      {
+        "name": "MICHAEL GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0938411",
+        "address": "CORYPHENA,SQAQLOURDES,SWIEQISWQ3332MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 73
+        }
+      },
+      {
+        "name": "GEIR MAGNE SKOGHEIM GJERSVOLL\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            01-M0088255-40",
+        "address": "HOVENORAN7,ROYALCONNAUGHTDRIVE,BUSHEY,HERTSWD232RANORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4765
+        }
+      },
+      {
+        "name": "PER ANDRE HALL\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            87765169",
+        "address": "ASCHEBERGSGATAN1A,25439HELSINGBORGSWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2199
+        }
+      },
+      {
+        "name": "ANN-MARIE HANSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89158598",
+        "address": "PENTHOUSELOCKERMANSIONS,LOCKERSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 55
+        }
+      },
+      {
+        "name": "MIKAEL SVEN HARSTAD TARALD\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            89062296",
+        "address": "NO.112C,AVENIDAGENERALIFE,VILLALEONNUEVAANDALUCIA29660SPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1913
+        }
+      },
+      {
+        "name": "OLE ANDREAS HASLESTAD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20603526",
+        "address": "TRUDANGVEIEN1B,OSLO0352NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1833
+        }
+      },
+      {
+        "name": "THORE FILIP HOLM\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81748548",
+        "address": "SKVADRONSGATAN8,MALMO21752SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 476
+        }
+      },
+      {
+        "name": "RAYMOND HOPE\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28025296",
+        "address": "2,IMPASSEDESCROTONS,POUCET,LEGOSIER,GUADELOUPE97190FRANCE",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5022
+        }
+      },
+      {
+        "name": "MARIANN HUSEBO\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            29841000",
+        "address": "STRANDFLATVEIEN,34018STAVANGERNORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 916
+        }
+      },
+      {
+        "name": "BJORN OLAV JACOBSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            03M056704521",
+        "address": "DALSBOTTENLIA43A,SKIEN3726NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 293
+        }
+      },
+      {
+        "name": "BJORNAR KAMSVAG THOMASSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27742016",
+        "address": "ROVNKOLLBAKKEN11,OSLO0971NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1100
+        }
+      },
+      {
+        "name": "LASSE KANDLER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203837572",
+        "address": "OVENVANDET50A1.TH.,OVERGARDEN1415KBHKDENMARK",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 733
+        }
+      },
+      {
+        "name": "JANNI KASPERSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27480438",
+        "address": "CALLEOSAMENOR18,29660MARBELLASPAIN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 733
+        }
+      },
+      {
+        "name": "JOHAN NILS OSCAR FRANK KINNANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53218990",
+        "address": "MARENVAGEN23,SALTSJOBADEN13337SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 26798
+        }
+      },
+      {
+        "name": "EDIN LASSE REBAC\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            27355632",
+        "address": "BALSFJORDVINDEN38,TROMSO9006NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 916
+        }
+      },
+      {
+        "name": "CAMILLA LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            02M032410025",
+        "address": "STAERVEGEN63,TROMSO9016NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 550
+        }
+      },
+      {
+        "name": "TERJE HARALD LAVOLD\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28509077",
+        "address": "EDDERDUNVEGEN33,TROMSO9013NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2382
+        }
+      },
+      {
+        "name": "TOR LITLERE\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            02M037608034",
+        "address": "SYDNESHAUGEN21,BERGENNORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 257
+        }
+      },
+      {
+        "name": "HENRIK CARL MAGNUS LORENTZSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            34006835",
+        "address": "ROSKILDEVAGEN17C,MALMO21746SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 339
+        }
+      },
+      {
+        "name": "OLE MAGNUS URDAL\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            20733259",
+        "address": "HEIEN25,BERGENN-5037NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 907
+        }
+      },
+      {
+        "name": "HAKAN MIKAEL MELLQUIST\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62764382",
+        "address": "VIGGOHANSTEENSALLEMOSS14D-1524NORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1283
+        }
+      },
+      {
+        "name": "MARTIN ANDRE NORDBERG\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53077321",
+        "address": "DOCKGATAN3A,MALMO211112SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3024
+        }
+      },
+      {
+        "name": "CARL ANDERS HERBERT PARADIS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            81991218",
+        "address": "SJOVIKSBACKEN5LGH150111757STOCKHOLMSWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165
+        }
+      },
+      {
+        "name": "MARKO MIKAEL PELTONEN\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            PP0308944",
+        "address": "OSMONKATU25B,LAPPEENRANTA,53100FINLAND",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 183
+        }
+      },
+      {
+        "name": "PER ANDERS HENRIK PERSSON EKDAHL\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            53370933",
+        "address": "76,FLAT2,TRIQIL-KUNCIZZJONI,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 34153
+        }
+      },
+      {
+        "name": "NEVILLE PULLICINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0948139",
+        "address": "VASSALLOBUILDINGS5/2,GWANNMAMOSTREET,MSIDAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 825
+        }
+      },
+      {
+        "name": "LEON DAVID SALITA TELANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            80587987",
+        "address": "SMEDJEGATAN1,MALMO21421SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 348
+        }
+      },
+      {
+        "name": "OSCAR PER ERIK SIMONSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62331691",
+        "address": "APT7A,SPINOLABAYAPARTMENTS,TRIQGORGBORGOLIVIERST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 139
+        }
+      },
+      {
+        "name": "ROBERT CHRISTOFFER MARCUS SONESSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            53370933",
+        "address": "PARTERNASGRAND65,LUND22647SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 13855
+        }
+      },
+      {
+        "name": "RASMUS SVENINGSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62457366",
+        "address": "3021,BALUTTATERRACE,RAMPATA'SANGILJAN,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 301
+        }
+      },
+      {
+        "name": "RUDI THOMASSEN\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            28177183",
+        "address": "KREIDROVEIEN18A,9007TROMSONORWAY",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1833
+        }
+      },
+      {
+        "name": "TERO TIMO TUOMINEN\r",
+        "nationality": "FINNISH",
+        "party_id": "                                                            16885229",
+        "address": "105,GILBERTHOUSE,BARBICAN,LONDONEC2Y8BDUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 367
+        }
+      },
+      {
+        "name": "PER GEORG TOBIAS WESTIN\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62142551",
+        "address": "NEVERSVAGEN33,LUND22479SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3045
+        }
+      },
+      {
+        "name": "NILS-PETTER MAGNUS WIESLANDER\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            62739747",
+        "address": "KORNETTSGATAN23,MALMO21150SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 37
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500000,
+  "address": "COBALT HOUSE, 2ND FLOOR, NOTABILE ROAD, MRIEHEL",
+  "company_id": "C 53088",
+  "registration_date": "Jun 10, 2011",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 500000
+}

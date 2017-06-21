@@ -1,0 +1,51 @@
+{
+  "name": "ALLIED CONTRACTING",
+  "total_issued_shares_value": 240,
+  "total_authorised_shares_value": 240,
+  "authorised_shares": [
+    {
+      "issued_shares": 240,
+      "type": "",
+      "authorised_share_capital": 240,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "DMITRY VASILOV ANGELOV\r",
+        "nationality": "BULGARIAN",
+        "party_id": "                                                            38839A",
+        "address": "17,CASACAMILLERITRIQGIUSEPPESTIVALANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "MARK CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            469482M",
+        "address": "54TRIQIL-BALLUTATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 120
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 240,
+  "address": "17 TRIQ GIUSEPPE STIVALA",
+  "company_id": "P 1620",
+  "registration_date": "Feb 09, 2016",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 240
+}

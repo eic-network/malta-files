@@ -1,0 +1,78 @@
+{
+  "name": "BETSTAT LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SILVIO CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428077M",
+        "address": "APARTMENT4,BLOCKA,AMBJENTCOMPLEX,TELGHETIX-XEMXIJA,ST.PAUL'SBAYMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79180M",
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79180M",
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARK AZZOPARDI-HOLLAND\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19412",
+        "address": "128,PAPILLON,TRIQANT.SCHEMBRI,KAPPARA,SANGWANNSGN4237MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN CORRIERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            79180M",
+        "address": "'CASITA',DAHLETL-OLEANDRI,ATTARDATD2850MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Romney HoldCo Ltd\r",
+        "nationality": "",
+        "party_id": "                                                            C 69766",
+        "address": "SusanCourt,B1Triqil-PrinjolataTA'XBIEXXBX1130MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA,",
+  "company_id": "C 43149",
+  "registration_date": "Dec 19, 2007",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 5000
+}

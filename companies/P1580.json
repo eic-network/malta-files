@@ -1,0 +1,64 @@
+{
+  "name": "A & A PHARMACEUTICALS",
+  "total_issued_shares_value": 9000,
+  "total_authorised_shares_value": 9000,
+  "authorised_shares": [
+    {
+      "issued_shares": 9000,
+      "type": "",
+      "authorised_share_capital": 9000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ARETE ENTERPRISES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48564",
+        "address": "SUSANCOURT,B1,TRIQIL-PRINJOLATA,TA'XBIEXXBX1130MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "LARA ANN BRINCAT RUFFINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            228391M",
+        "address": "4,TRIQLUGIBILLION,PEMBROKEMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "SHAUN UNGARO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            556790M",
+        "address": "15,TRIQPATRICKBRYDONE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 9000,
+  "address": "B1 SUSAN COURT, PRINJOLATA STEET,",
+  "company_id": "P 1580",
+  "registration_date": "Apr 29, 2015",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 9000
+}

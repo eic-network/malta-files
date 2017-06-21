@@ -1,0 +1,91 @@
+{
+  "name": "ARCHERFIELD INVESTMENTS LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOSEPH IMOSSI\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            605044966",
+        "address": "23,SCUDHILL,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDUCIARY SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32753",
+        "address": "26,GHARID-DUDSTREET,SLIEMASLM1573MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FIDUCIARY NOMINEES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9736",
+        "address": "3,BELLLANEGIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "FIDUCIARY TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            9162",
+        "address": "3,BELLLANE,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "26, GHAR ID-DUD STREET",
+  "company_id": "C 35626",
+  "registration_date": "Feb 08, 2005",
+  "shares_currency": "GBP",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

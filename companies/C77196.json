@@ -1,0 +1,107 @@
+{
+  "name": "ALTERNATIVE INVESTMENTS SECURITIES SCC PLC",
+  "total_issued_shares_value": 47000,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 46999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 46999,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GORAN CHEJKOV\r",
+        "nationality": "MACEDONIAN",
+        "party_id": "                                                            B0448368",
+        "address": "69,MATERDEI,STRITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "MAURIZIO ESPOSITO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5958469",
+        "address": "VIACANTONALE32,CUREGLIA6944SWITZERLAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GORAN CHEJKOV\r",
+        "nationality": "MACEDONIAN",
+        "party_id": "                                                            B0448368",
+        "address": "69,MATERDEI,STRITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "MAURIZIO ESPOSITO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5958469",
+        "address": "VIACANTONALE32,CUREGLIA6944SWITZERLAND"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GORAN CHEJKOV\r",
+        "nationality": "MACEDONIAN",
+        "party_id": "                                                            B0448368",
+        "address": "69,MATERDEI,STRITASTREET,SLIEMASLM1983MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GORAN CHEJKOV\r",
+        "nationality": "MACEDONIAN",
+        "party_id": "                                                            B0448368",
+        "address": "69,MATERDEI,STRITASTREET,SLIEMASLM1983MALTA"
+      },
+      {
+        "name": "MAURIZIO ESPOSITO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5958469",
+        "address": "VIACANTONALE32,CUREGLIA6944SWITZERLAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CSB Trustees & Fiduciaries Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 40390",
+        "address": "VINCENTIBUILDINGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 46999
+        }
+      },
+      {
+        "name": "GORAN CHEJKOV\r",
+        "nationality": "MACEDONIAN",
+        "party_id": "                                                            B0448368",
+        "address": "69,MATERDEI,STRITASTREET,SLIEMASLM1983MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 47000,
+  "address": "26, TRIQ IL-FENICI,",
+  "company_id": "C 77196",
+  "registration_date": "Nov 10, 2016",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

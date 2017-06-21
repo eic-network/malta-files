@@ -1,0 +1,91 @@
+{
+  "name": "ALTEMIX LIMITED",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MICHAEL J ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            290474M",
+        "address": "28/19,STRAITSTREET,VALLETTAVLT1432MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FINANZ-AUDIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/07",
+        "address": "TOWERBUSINESSCENTRE,2NDFLOOR,TOWERSTREET,SWATAR,BIRKIRKARABKR4013MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DUOVEST CAPITAL GROUP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 64545",
+        "address": "VINCENTIBUILDINGS,28/19(SUITENo1464),STRAITSTREET,VALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 199999
+        }
+      },
+      {
+        "name": "RELIANCE MANAGEMENT LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 36669",
+        "address": "VINCENTIBLDGS28/19STRAITSTREETVALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "SUITE NO.552, 28/19, VINCENTI BUILDINGS, STRAIT STREET,",
+  "company_id": "C 45992",
+  "registration_date": "Jan 08, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

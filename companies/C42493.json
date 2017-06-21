@@ -1,0 +1,91 @@
+{
+  "name": "AYSEL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            02286",
+        "address": "AZALEA,TRIQIL-KANADA,SGHAJTAR,NAXXARMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FABRIZIO CRIMI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA2484570",
+        "address": "PORTOMASO,BLK2323101VJALPORTOMASO,PACEVILLEST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMD TRUST SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 32231",
+        "address": "VAULTS13-15,VALLETTAWATERFRONT,FLORIANAFRN1914MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "KFG HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 46659",
+        "address": "VAULT14,LEVEL2,VALLETTAWATERFRONT,FLORIANAFRN1913MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "VAULT 14, LEVEL 2, VALLETTA WATERFRONT,",
+  "company_id": "C 42493",
+  "registration_date": "Oct 03, 2007",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

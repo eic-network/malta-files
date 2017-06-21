@@ -1,0 +1,86 @@
+{
+  "name": "BOARDING FILM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ANATOLE BALDACCHINO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            98165M",
+        "address": "32,TRIQIL-MAQDES,BIRZEBBUGIAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SIMON SANSONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0033276M",
+        "address": "25,RIVERVIEW,FL4,TRIQCUSCHIERI,GZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SIMON SANSONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0033276M",
+        "address": "25,RIVERVIEW,FL4,TRIQCUSCHIERI,GZIRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SIMON SANSONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0033276M",
+        "address": "25,RIVERVIEW,FL4,TRIQCUSCHIERI,GZIRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERTO J MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10914",
+        "address": "71,CARMELSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SIMON SANSONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0033276M",
+        "address": "25,RIVERVIEW,FL4,TRIQCUSCHIERI,GZIRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIMON SANSONE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0033276M",
+        "address": "25,RIVERVIEW,FL4,TRIQCUSCHIERI,GZIRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "49, STONECROFT, TRIQ DR. GUZE MICELI,",
+  "company_id": "C 70948",
+  "registration_date": "Jun 05, 2015",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

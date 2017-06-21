@@ -1,0 +1,107 @@
+{
+  "name": "BOA ESPERANCA LTD",
+  "total_issued_shares_value": 1166,
+  "total_authorised_shares_value": 1166,
+  "authorised_shares": [
+    {
+      "issued_shares": 233,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 233,
+      "nominal_value_per_share": 5
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "ANDRE LA SAIGNE DE BOTTON\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FO818793",
+        "address": "RUADEOLIVENCA14,EDIFICIO1,1A2765-262ESTORILPORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "ANDRE LA SAIGNE DE BOTTON\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FO818793",
+        "address": "RUADEOLIVENCA14,EDIFICIO1,1A2765-262ESTORILPORTUGAL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FREDERICO DORIA MONTEIRO DE GOUVEIA E SILVA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            P195215",
+        "address": "65,CHRISTCHURCHCOURT,FLAT4NAZZARENUSTREETSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NEWCO CORPORATE DIRECTOR 2 LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 59502",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA"
+      },
+      {
+        "name": "ANDRE LA SAIGNE DE BOTTON\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FO818793",
+        "address": "RUADEOLIVENCA14,EDIFICIO1,1A2765-262ESTORILPORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BOA ESPERANCA HOLDING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 77337",
+        "address": "89,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 233
+        }
+      },
+      {
+        "name": "CSU CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 33799",
+        "address": "89,ST.JOHNSTREETVALLETTAVLT1165MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 234,
+  "address": "89,  ST. JOHN STREET,",
+  "company_id": "C 77341",
+  "registration_date": "Sep 22, 2016",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 234
+}

@@ -1,0 +1,93 @@
+{
+  "name": "BLUE MARINE SHIPPING AND TRADING CO LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.4
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "AHMET ARIF ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-NNO604924",
+        "address": "FENERBAHCE,FUATPASACADDESI,NO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      },
+      {
+        "name": "HALIT CENKER ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-LNO396852",
+        "address": "FENERBAHCE,FUATPASACADDESINO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "AHMET ARIF ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-NNO604924",
+        "address": "FENERBAHCE,FUATPASACADDESI,NO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      },
+      {
+        "name": "HALIT CENKER ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-LNO396852",
+        "address": "FENERBAHCE,FUATPASACADDESINO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "AHMET ARIF ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-NNO604924",
+        "address": "FENERBAHCE,FUATPASACADDESI,NO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      },
+      {
+        "name": "HALIT CENKER ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-LNO396852",
+        "address": "FENERBAHCE,FUATPASACADDESINO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHMET ARIF ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-NNO604924",
+        "address": "FENERBAHCE,FUATPASACADDESI,NO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "HALIT CENKER ILIKLI\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            TR-LNO396852",
+        "address": "FENERBAHCE,FUATPASACADDESINO26-28KAT10DAIRE19,KADIKOYISTANBULTURKEY",
+        "shares": {
+          "nominal_value_per_share": 2.4,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 41707",
+  "registration_date": "Jun 26, 2007",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

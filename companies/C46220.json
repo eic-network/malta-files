@@ -1,0 +1,105 @@
+{
+  "name": "Blue Eagle Ltd.",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOHN ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441662M",
+        "address": "'ISOLAMARE',SUITE6,BOUVERIESTREET,GZIRAGZR05MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JESMOND PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            595563M",
+        "address": "PARSOTTA,42,TRIQIL-GNIEN,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FACT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39925",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FACT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39925",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM BONDIN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10216",
+        "address": "30DARIL-FUHHARMISRAHIL-FIDWAMQABBAMQB1460MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FACT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39925",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FACT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 39925",
+        "address": "CORNERLINE,DUNKARMSTREET,BIRKIRKARABKR9039MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "EAGLE FUNDING LLC\r",
+        "nationality": "",
+        "party_id": "                                                            45725-69",
+        "address": "16192COASTALHIGHWAY,LEWES,DELAWARE,COUNTYOFSUSSEX19958UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "CORNERLINE, DUN KARM STREET,",
+  "company_id": "C 46220",
+  "registration_date": "Feb 13, 2009",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

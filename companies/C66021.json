@@ -1,0 +1,83 @@
+{
+  "name": "AMICO MIO LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARLO PINZONE VECCHIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO8237162",
+        "address": "VIAAURELIA,537,ROSIGNANOMARITTIMO,LIVORNOITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CARLO PINZONE VECCHIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO8237162",
+        "address": "VIAAURELIA,537,ROSIGNANOMARITTIMO,LIVORNOITALY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARLO STIVALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            148666M",
+        "address": "130,BALLATHIE,TRIQL-ALWETTA,MELLIEHAMLH2733MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARLO PINZONE VECCHIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO8237162",
+        "address": "VIAAURELIA,537,ROSIGNANOMARITTIMO,LIVORNOITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MICHELE MUSSI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AS2746760",
+        "address": "VIALEXXSETTEMBREN.255/7CARRARAITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "CARLO PINZONE VECCHIO\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AO8237162",
+        "address": "VIAAURELIA,537,ROSIGNANOMARITTIMO,LIVORNOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "1, LA PERLA, TRIQ IL-BUTTAR,",
+  "company_id": "C 66021",
+  "registration_date": "Jul 16, 2014",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

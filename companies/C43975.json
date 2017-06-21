@@ -1,0 +1,146 @@
+{
+  "name": "BLUE SKINK LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROMINA VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            793345",
+        "address": "HABITAT,FLAT12,HTAJRIETROAD,MOSTAMST3065MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237786M",
+        "address": "MYSTICROSE,TRIQSANGWANN,GHARGHURMALTA"
+      },
+      {
+        "name": "JONATHAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            859863",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      },
+      {
+        "name": "MARION MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619557",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237786M",
+        "address": "MYSTICROSE,TRIQSANGWANN,GHARGHURMALTA"
+      },
+      {
+        "name": "JONATHAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            859863",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      },
+      {
+        "name": "MARION MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619557",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "LaraBuildings,Level1,GuzeppiCallejaStreet,IKLINIKL1262MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237786M",
+        "address": "MYSTICROSE,TRIQSANGWANN,GHARGHURMALTA"
+      },
+      {
+        "name": "JONATHAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            859863",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      },
+      {
+        "name": "MARION MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619557",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JONATHAN MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            859863",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "JOSEPH CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            237786M",
+        "address": "MYSTICROSE,TRIQSANGWANN,GHARGHURMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1470
+        }
+      },
+      {
+        "name": "MARION MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            619557",
+        "address": "PROMENADECOURT,FLAT18,ST.MARYSTREET,MARSALFORN,ZEBBUG(GOZO)MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 30
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "Timberwell, 3 Triq Znuber, Zona Industrijali,",
+  "company_id": "C 43975",
+  "registration_date": "Apr 08, 2008",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 3000
+}

@@ -1,0 +1,101 @@
+{
+  "name": "ATRIA HOLDINGS LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GUY WILLIAM EDMUNDS\r",
+        "nationality": "ZIMBABWEAN",
+        "party_id": "                                                            BN455270",
+        "address": "THESTONEHOUSE,CARRICKCREIGHROAD,HELENSVALE,HARAREZIMBABWE"
+      },
+      {
+        "name": "KENNETH MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570762M",
+        "address": "DARIL-WIED,TRIQIL-WIED,IKLINMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GUY WILLIAM EDMUNDS\r",
+        "nationality": "ZIMBABWEAN",
+        "party_id": "                                                            BN455270",
+        "address": "THESTONEHOUSE,CARRICKCREIGHROAD,HELENSVALE,HARAREZIMBABWE"
+      },
+      {
+        "name": "KENNETH MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570762M",
+        "address": "DARIL-WIED,TRIQIL-WIED,IKLINMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            142356M",
+        "address": "113REIDSTREETGZIRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GUY WILLIAM EDMUNDS\r",
+        "nationality": "ZIMBABWEAN",
+        "party_id": "                                                            BN455270",
+        "address": "THESTONEHOUSE,CARRICKCREIGHROAD,HELENSVALE,HARAREZIMBABWE"
+      },
+      {
+        "name": "KENNETH MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            570762M",
+        "address": "DARIL-WIED,TRIQIL-WIED,IKLINMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAPRICORN INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 25792",
+        "address": "DARIL-WIED,TRIQIL-WIED,IKLINIKL1807MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "COUNTY PROPERTIES AND INVESTMENTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            705247",
+        "address": "PALMGROVEHOUSE,POBOX438,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 199999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "DAR IL-WIED TRIQ IL-WIED",
+  "company_id": "C 58760",
+  "registration_date": "Dec 21, 2012",
+  "shares_currency": "USD",
+  "locality": "IKLIN",
+  "status": "",
+  "total_authorised_shares": 1000000
+}

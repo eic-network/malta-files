@@ -1,0 +1,75 @@
+{
+  "name": "ARES SHIPPING LTD.",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VICTOR ROMANOV\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25509L",
+        "address": "'HILLSIDE',MARMORASTREET,THEVILLAGE,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VICTOR ROMANOV\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25509L",
+        "address": "'HILLSIDE',MARMORASTREET,THEVILLAGE,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VICTOR ROMANOV\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25509L",
+        "address": "'HILLSIDE',MARMORASTREET,THEVILLAGE,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAMCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20470",
+        "address": "25/16,VINCENTIBUILDINGS,STRAITSTREET,VALLETTAVLT1432MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VICTOR ROMANOV\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            25509L",
+        "address": "'HILLSIDE',MARMORASTREET,THEVILLAGE,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "25/16 VINCENTI BUILDINGS STRAIT STREET",
+  "company_id": "C 35798",
+  "registration_date": "Mar 08, 2005",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 500
+}

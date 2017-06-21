@@ -1,0 +1,97 @@
+{
+  "name": "BIZFELLAS INTERNATIONAL LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1198800,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1198800,
+      "nominal_value_per_share": 0.001
+    },
+    {
+      "issued_shares": 1200,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 0.001
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "NO.29,ST.MARYSTREET,BIRKIRKARABKR4684MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOHAN ARNE ROOTH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85833637",
+        "address": "3LGH1004ODLINGSVAGEN,SOLNA17077SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TOMAS HARRY ROLAND LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84169101",
+        "address": "STORANGSVAGEN,AKERSBERGA4018432SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TOMAS HARRY ROLAND LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84169101",
+        "address": "STORANGSVAGEN,AKERSBERGA4018432SWEDEN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "TOMAS HARRY ROLAND LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84169101",
+        "address": "STORANGSVAGEN,AKERSBERGA4018432SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BIZFELLAS AB\r",
+        "nationality": "",
+        "party_id": "                                                            556979-6351",
+        "address": "18,BIRGERJARLSGATAN,STOCKHOLM11434SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1198800
+        }
+      },
+      {
+        "name": "TOMAS HARRY ROLAND LIND\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            84169101",
+        "address": "STORANGSVAGEN,AKERSBERGA4018432SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 0.001,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200000,
+  "address": "29, ST. MARY STREET,",
+  "company_id": "C 76296",
+  "registration_date": "Jul 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1200000
+}

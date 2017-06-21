@@ -1,0 +1,89 @@
+{
+  "name": "Aston Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "KENT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            113574",
+        "address": "SUITE925aBLOCK8/9EUROPORTGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "KENT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            113574",
+        "address": "SUITE925aBLOCK8/9EUROPORTGIBRALTAR"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ERIC CARMINE PACITTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520186823",
+        "address": "NO.4137,SPINOLAROADST.JULIANSSTJ3011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KENT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            113574",
+        "address": "SUITE925aBLOCK8/9EUROPORTGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KENT HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            113574",
+        "address": "SUITE925aBLOCK8/9EUROPORTGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ERIC CARMINE PACITTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            520186823",
+        "address": "NO.4137,SPINOLAROADST.JULIANSSTJ3011MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "ALBEA HOUSE TESTAFERRATA STREET,",
+  "company_id": "C 72715",
+  "registration_date": "Oct 20, 2015",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

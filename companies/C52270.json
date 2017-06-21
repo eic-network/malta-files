@@ -1,0 +1,83 @@
+{
+  "name": "ARMENGAEL INVESTMENTS (MALTA) LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "PIO M. VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "FLAT7,SHAMALCOURT,TRIQIS-SENESKALK,NAXXARNXR1235MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PIO M. VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "FLAT7,SHAMALCOURT,TRIQIS-SENESKALK,NAXXARNXR1235MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "EF & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/108",
+        "address": "MEDISLEBUSINESSCENTRE,TRIQCENSUFARRUGIA,MSIDAMSD1095MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PIO M. VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "FLAT7,SHAMALCOURT,TRIQIS-SENESKALK,NAXXARNXR1235MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "THAMES MINING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            1626211",
+        "address": "TRIDENTCHAMBERS,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "PIO M. VALLETTA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            503058M",
+        "address": "FLAT7,SHAMALCOURT,TRIQIS-SENESKALK,NAXXARNXR1235MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "1ST FLOOR, REGENCY HOUSE, REPUBLIC STREET,",
+  "company_id": "C 52270",
+  "registration_date": "Mar 15, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

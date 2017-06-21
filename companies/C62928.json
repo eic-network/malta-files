@@ -1,0 +1,78 @@
+{
+  "name": "51 holding ltd",
+  "total_issued_shares_value": 31200,
+  "total_authorised_shares_value": 31200,
+  "authorised_shares": [
+    {
+      "issued_shares": 31200,
+      "type": "Ordinary",
+      "authorised_share_capital": 31200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "AUDREY MCCORMICK\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            34772M",
+        "address": "18,PJAZZATIGNE,TIGNEPOINT,SLIEMATP01MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNE,SLIEMATP01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNE,SLIEMATP01MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STEFAN BONELLO GHIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00489",
+        "address": "18,DARIL-KAPPAR,TRIQIL-GOJJIN,KAPPARASANGWANNSGN4213MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTON MICALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            660361M",
+        "address": "T10F,FL20,TIGNEPOINT,TIGNE,SLIEMATP01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "POPA 2007 S.L.\r",
+        "nationality": "",
+        "party_id": "                                                            B-57495822",
+        "address": "SANTODOMINGO,16,PALMADEMALLORCASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 31200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 31200,
+  "address": "18, PJAZZA TIGNE, TIGNE POINT,",
+  "company_id": "C 62928",
+  "registration_date": "Dec 04, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 31200
+}

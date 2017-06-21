@@ -1,0 +1,143 @@
+{
+  "name": "Athelas Limited",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Bahtiyar  Balci \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02005895",
+        "address": "ÖmerAvniMahallesi,SulakcesmeSok.,AyazPasaApt.No:8/16,Beyoglu,IstanbulTURKEY"
+      },
+      {
+        "name": "Murat  Ermis\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12951570",
+        "address": "MimarSinanMahallesi,CavusdereCaddesi,NutsalApt.No:9/2,ÜsküdarIstanbulTURKEY"
+      },
+      {
+        "name": "Paul Robert Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            47031A",
+        "address": "Edera38TriqTaMasrijaMELLIEHAMALTA"
+      },
+      {
+        "name": "Resit Cem  Köksal \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12975305",
+        "address": "GöztepeMahallesi,KortanpasaSok.Imren2,AptNo:22/17,KadiköyIstanbulTURKEY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Bahtiyar  Balci \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02005895",
+        "address": "ÖmerAvniMahallesi,SulakcesmeSok.,AyazPasaApt.No:8/16,Beyoglu,IstanbulTURKEY"
+      },
+      {
+        "name": "Murat  Ermis\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12951570",
+        "address": "MimarSinanMahallesi,CavusdereCaddesi,NutsalApt.No:9/2,ÜsküdarIstanbulTURKEY"
+      },
+      {
+        "name": "Paul Robert Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            47031A",
+        "address": "Edera38TriqTaMasrijaMELLIEHAMALTA"
+      },
+      {
+        "name": "Resit Cem  Köksal \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12975305",
+        "address": "GöztepeMahallesi,KortanpasaSok.Imren2,AptNo:22/17,KadiköyIstanbulTURKEY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Paul Robert Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            47031A",
+        "address": "Edera38TriqTaMasrijaMELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Bahtiyar  Balci \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U02005895",
+        "address": "ÖmerAvniMahallesi,SulakcesmeSok.,AyazPasaApt.No:8/16,Beyoglu,IstanbulTURKEY"
+      },
+      {
+        "name": "Murat  Ermis\r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12951570",
+        "address": "MimarSinanMahallesi,CavusdereCaddesi,NutsalApt.No:9/2,ÜsküdarIstanbulTURKEY"
+      },
+      {
+        "name": "Paul Robert Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            47031A",
+        "address": "Edera38TriqTaMasrijaMELLIEHAMALTA"
+      },
+      {
+        "name": "Resit Cem  Köksal \r",
+        "nationality": "TURKISH",
+        "party_id": "                                                            U12975305",
+        "address": "GöztepeMahallesi,KortanpasaSok.Imren2,AptNo:22/17,KadiköyIstanbulTURKEY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Khalkedon Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C76935",
+        "address": "5MajesticCourtStMary'sStreetMELLIEHAMLH1337MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "Paul Robert Gostelow\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            47031A",
+        "address": "Edera38TriqTaMasrijaMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "5 Majestic Court St Mary's Street",
+  "company_id": "C 77036",
+  "registration_date": "Sep 02, 2016",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

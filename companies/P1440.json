@@ -1,0 +1,64 @@
+{
+  "name": "5 1/4 GAMES",
+  "total_issued_shares_value": 250,
+  "total_authorised_shares_value": 250,
+  "authorised_shares": [
+    {
+      "issued_shares": 25000,
+      "type": "",
+      "authorised_share_capital": 25000,
+      "nominal_value_per_share": 0.01
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JEAN-PIERRE BRINCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0334785M",
+        "address": "FLAT16,BRAMBLECLOSE,TRIQIL-MADONNATAL-KARMNUSANTAVENERASVR1390MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 8334
+        }
+      },
+      {
+        "name": "CLINT MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            126585M",
+        "address": "GARDENAPARTMENTS,FLAT2,BLOCKE,TRIQPORTRUMAN,ST.PAUL'SBAYSPB1703MALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 8333
+        }
+      },
+      {
+        "name": "MARITA PORTELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            341879M",
+        "address": "FLAT12,TRIQIT-TORRITAL-ARLOGG,BINJABUQANA,MTARFAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.01,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 8333
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "FLAT 12, TRIQ IT-TORRI TAL-ARLOGG, BINJA BUQANA,",
+  "company_id": "P 1440",
+  "registration_date": "Jan 09, 2013",
+  "shares_currency": "EUR",
+  "locality": "MTARFA",
+  "status": "",
+  "total_authorised_shares": 25000
+}

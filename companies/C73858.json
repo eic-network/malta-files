@@ -1,0 +1,107 @@
+{
+  "total_issued_shares_value": 1200,
+  "registration_date": "Jan 07, 2016",
+  "status": "",
+  "locality": "MOSTA",
+  "name": "BTC - BUSINESS TRADE COMPANY LIMITED",
+  "total_issued_shares": 1200,
+  "address": "CORNERSTONE BUSINESS CENTRE, SUITE 1, LEVEL 2, 16TH SEPTEMBER SQUARE,",
+  "company_id": "C 73858",
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 57697",
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "address": "16AVENUEGABRIELFAURECHENNEVIERESSURMARNE94430FRANCE",
+        "party_id": "                                                            04388855",
+        "name": "MARIO DE SOUSA MATIAS\r",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 57697",
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "address": "16AVENUEGABRIELFAURECHENNEVIERESSURMARNE94430FRANCE",
+        "party_id": "                                                            04388855",
+        "name": "MARIO DE SOUSA MATIAS\r",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "address": "'RIHAN',TRIQIL-BALLOTRA,MOSTAMALTA",
+        "party_id": "                                                            623481M",
+        "name": "ADRIAN VELLA\r",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Directors": [
+      {
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 57697",
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": ""
+      },
+      {
+        "address": "16AVENUEGABRIELFAURECHENNEVIERESSURMARNE94430FRANCE",
+        "party_id": "                                                            04388855",
+        "name": "MARIO DE SOUSA MATIAS\r",
+        "nationality": "PORTUGUESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1199,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "16AVENUEGABRIELFAURECHENNEVIERESSURMARNE94430FRANCE",
+        "party_id": "                                                            04388855",
+        "name": "MARIO DE SOUSA MATIAS\r",
+        "nationality": "PORTUGUESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "CORNERSTONEBUSINESSCENTRE,LEVEL2,SUITE1,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "party_id": "                                                            C 57697",
+        "name": "FBS TRUST LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1199,
+      "authorised_share_capital": 1199,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "shares_currency": "EUR"
+}

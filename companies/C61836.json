@@ -1,0 +1,78 @@
+{
+  "name": "Angel House Holding Ltd",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "KATYA TUA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            353177M",
+        "address": "43,ROMANTICACOURT,BLKB,FL9,SACREDHEARTSTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JAN BLASKO\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39473530",
+        "address": "NADLESNIMDIVADLEM1113/18PRAGUE14200CZECHREPUBLIC"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JAN BLASKO\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39473530",
+        "address": "NADLESNIMDIVADLEM1113/18PRAGUE14200CZECHREPUBLIC"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BAILEY AUDIT SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/105",
+        "address": "SUITE3,1STFLOOR,VALLETTABUILDINGS,SOUTHSTREET,VALLETTAVLT1103MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JAN BLASKO\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39473530",
+        "address": "NADLESNIMDIVADLEM1113/18PRAGUE14200CZECHREPUBLIC"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JAN BLASKO\r",
+        "nationality": "CZECH",
+        "party_id": "                                                            39473530",
+        "address": "NADLESNIMDIVADLEM1113/18PRAGUE14200CZECHREPUBLIC",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "188 OLD BAKERY STREET",
+  "company_id": "C 61836",
+  "registration_date": "Sep 10, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

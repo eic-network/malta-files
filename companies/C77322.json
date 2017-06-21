@@ -1,0 +1,89 @@
+{
+  "name": "7SPINNER.COM LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "EMIL GUSTAF BRUNIUS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86218614",
+        "address": "KRONHEDSVAGEN26BV,JONKOPING55632SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EMIL GUSTAF BRUNIUS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86218614",
+        "address": "KRONHEDSVAGEN26BV,JONKOPING55632SWEDEN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NICOLA MAGRO AXELSSON\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118178M",
+        "address": "NO.29,ST.MARYSTREET,BIRKIRKARABKR4684MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EMIL GUSTAF BRUNIUS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86218614",
+        "address": "KRONHEDSVAGEN26BV,JONKOPING55632SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EMIL GUSTAF BRUNIUS\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            86218614",
+        "address": "KRONHEDSVAGEN26BV,JONKOPING55632SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "HANNA SARA ELISABETH JONSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85041699",
+        "address": "KRONHEDSVAGEN26BV,JONKOPING55632SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "29,  ST MARY STREET,",
+  "company_id": "C 77322",
+  "registration_date": "Sep 20, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

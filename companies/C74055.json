@@ -1,0 +1,83 @@
+{
+  "company_id": "C 74055",
+  "address": "The Fairoaks Blk B, 17, Triq il-Uqija",
+  "name": "BRIX LTD",
+  "locality": "SWIEQI",
+  "status": "",
+  "registration_date": "Jan 25, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1500,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1500,
+  "total_authorised_shares_value": 1500,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Jamie Pace\r",
+        "party_id": "                                                            395503L",
+        "address": "FairwaysFlt8,OSCARZAMMITSTREETMSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Ryan Fenech\r",
+        "party_id": "                                                            0188186M",
+        "address": "THEFAIROAKSBLKB,17Triqil-UqijaSWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "Jamie Pace\r",
+        "party_id": "                                                            395503L",
+        "address": "FairwaysFlt8,OSCARZAMMITSTREETMSIDAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Jamie Pace\r",
+        "party_id": "                                                            395503L",
+        "address": "FairwaysFlt8,OSCARZAMMITSTREETMSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Jamie Pace\r",
+        "party_id": "                                                            395503L",
+        "address": "FairwaysFlt8,OSCARZAMMITSTREETMSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Jamie Pace\r",
+        "party_id": "                                                            395503L",
+        "address": "FairwaysFlt8,OSCARZAMMITSTREETMSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

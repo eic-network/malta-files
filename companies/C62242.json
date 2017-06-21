@@ -1,0 +1,78 @@
+{
+  "name": "AUDACE LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JOHN BORG OLIVIER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            449763M",
+        "address": "1,IL-MUREX,TRIQMANUELAGIUS,MADLIENA,SWIEQISWQ1510MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PAULO MANUEL ALVES DE SOUSA COUTO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            09932109",
+        "address": "RUADOHOTELNO.30,BLOCOC,FRACCAOT,V.N.GAIA4410-098PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PAULO MANUEL ALVES DE SOUSA COUTO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            09932109",
+        "address": "RUADOHOTELNO.30,BLOCOC,FRACCAOT,V.N.GAIA4410-098PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "nationality": "",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PAULO MANUEL ALVES DE SOUSA COUTO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            09932109",
+        "address": "RUADOHOTELNO.30,BLOCOC,FRACCAOT,V.N.GAIA4410-098PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "WOP LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 62238",
+        "address": "93,MILLSTREET,QORMIQRM3102MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "93 MILL STREET",
+  "company_id": "C 62242",
+  "registration_date": "Oct 15, 2013",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

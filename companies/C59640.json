@@ -1,0 +1,91 @@
+{
+  "name": "ANTOM LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "YANICA MIZZI SAHAN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            138387M",
+        "address": "1,SIRPAULBOFFA,MARSASCALAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTOINETTE MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122664M",
+        "address": "ANTOMFLATS,FLAT1,TRIQIL-GRANMASTRI,MARSASCALAMSK3823MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTOINETTE MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122664M",
+        "address": "ANTOMFLATS,FLAT1,TRIQIL-GRANMASTRI,MARSASCALAMSK3823MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "BRIAN SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19727",
+        "address": "ZION,QREMPUCSTREETMARSASCALAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTOINETTE MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122664M",
+        "address": "ANTOMFLATS,FLAT1,TRIQIL-GRANMASTRI,MARSASCALAMSK3823MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTOINETTE MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            122664M",
+        "address": "ANTOMFLATS,FLAT1,TRIQIL-GRANMASTRI,MARSASCALAMSK3823MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "THOMAS MIZZI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            399760M",
+        "address": "ANTOMFLATS,FLAT1,TRIQIL-GRANMASTRI,MARSASCALAMSK3823MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "'ANTOM' FLATS, FLAT 1, TRIQ IL-GRANMASTRI,",
+  "company_id": "C 59640",
+  "registration_date": "Mar 11, 2013",
+  "shares_currency": "EUR",
+  "locality": "MARSASCALA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

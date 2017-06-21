@@ -1,0 +1,83 @@
+{
+  "name": "ARLINGTON HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ALDWIN JAMES GLENDINNING WIGHT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            093196177",
+        "address": "WADEBRIDGE,CORNWALLPL27UNITEDKINGDOM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALDWIN JAMES GLENDINNING WIGHT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            093196177",
+        "address": "WADEBRIDGE,CORNWALLPL27UNITEDKINGDOM"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTIAN FARRUGIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            441363M",
+        "address": "79,IDMEJDASTREET,BALZANMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALDWIN JAMES GLENDINNING WIGHT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            093196177",
+        "address": "WADEBRIDGE,CORNWALLPL27UNITEDKINGDOM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARQ FIDUCIARIES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 22228",
+        "address": "TOWERBUSINESSCENTRE,LEVEL1,SUITE5,TOWERSTREET,SWATARBIRKIRKARABKR4013MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ALDWIN JAMES GLENDINNING WIGHT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            093196177",
+        "address": "WADEBRIDGE,CORNWALLPL27UNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "TOWER BUSINESS CENTRE, LEVEL 1, SUITE 5, TOWER STREET, SWATAR,",
+  "company_id": "C 59653",
+  "registration_date": "Mar 13, 2013",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

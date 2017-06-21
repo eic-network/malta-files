@@ -1,0 +1,83 @@
+{
+  "name": "BIZNIS HOLDING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "E2S MONITORING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 76033",
+        "address": "259,STPAUL'SSTREET,VALLETTAVLT1213MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "E2S MONITORING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 76033",
+        "address": "259,STPAUL'SSTREET,VALLETTAVLT1213MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CLAUDIO TONOLLA\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            31683A",
+        "address": "13,TRIQIL-MADONNA,ZEBBUGMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "E2S MONITORING LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 76033",
+        "address": "259,STPAUL'SSTREET,VALLETTAVLT1213MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FELICIA KNOBLOCH\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FH771615",
+        "address": "R.FERDINANDOLABORIAU118,SANPAOLO01250-040BRAZIL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "ALEXANDRO RODRIGUEZ FERRARESI\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            XC214522",
+        "address": "VIAMOLINAZZO,10,CASSARATE,LUGANO6900SWITZERLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "6, 3RD FLOOR, MARKET STREET,",
+  "company_id": "C 73639",
+  "registration_date": "Dec 21, 2015",
+  "shares_currency": "EUR",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

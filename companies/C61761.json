@@ -1,0 +1,78 @@
+{
+  "name": "B.E.D LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SAMUEL AGIUS LIVORI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109881M",
+        "address": "KRISHNA,TRIQLEONARDMAHONEY,XGHAJRAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SAMUEL AGIUS LIVORI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109881M",
+        "address": "KRISHNA,TRIQLEONARDMAHONEY,XGHAJRAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "SAMUEL AGIUS LIVORI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109881M",
+        "address": "KRISHNA,TRIQLEONARDMAHONEY,XGHAJRAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10004",
+        "address": "19,PARISHPRIESTMUSCATSQUARE,HAMRUNHMR1880MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SAMUEL AGIUS LIVORI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109881M",
+        "address": "KRISHNA,TRIQLEONARDMAHONEY,XGHAJRAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAMUEL AGIUS LIVORI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            109881M",
+        "address": "KRISHNA,TRIQLEONARDMAHONEY,XGHAJRAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "KRISHNA L. MAHONEY STREET",
+  "company_id": "C 61761",
+  "registration_date": "Sep 03, 2013",
+  "shares_currency": "EUR",
+  "locality": "XGHAJRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

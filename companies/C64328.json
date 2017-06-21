@@ -1,0 +1,83 @@
+{
+  "name": "BN MARKETING LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 1250,
+      "type": "Ordinary",
+      "authorised_share_capital": 1250,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "BIANCA NEUROHR\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            61017A",
+        "address": "THREEHILLS,FLAT5,TRIQIT-TORRI,XLENDI,MUNXAR(GOZO)XLN1321MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "BIANCA NEUROHR\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            61017A",
+        "address": "THREEHILLS,FLAT5,TRIQIT-TORRI,XLENDI,MUNXAR(GOZO)XLN1321MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRIS LAEUFFER\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            60910A",
+        "address": "THREEHILLS,FLAT5,TRIQIT-TORRI,XLENDI,MUNXAR(GOZO)XLN1321MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BIANCA NEUROHR\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            61017A",
+        "address": "THREEHILLS,FLAT5,TRIQIT-TORRI,XLENDI,MUNXAR(GOZO)XLN1321MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "IMEX Malta Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 56368",
+        "address": "3TRIQSANTORSOLA,VICTORIA(GOZO)VCT1777MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "BIANCA NEUROHR\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            61017A",
+        "address": "THREEHILLS,FLAT5,TRIQIT-TORRI,XLENDI,MUNXAR(GOZO)XLN1321MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1250,
+  "address": "3, TRIQ SANT ORSOLA,",
+  "company_id": "C 64328",
+  "registration_date": "Mar 24, 2014",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 1250
+}

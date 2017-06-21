@@ -1,0 +1,57 @@
+{
+  "total_issued_shares_value": 1250,
+  "registration_date": "Oct 17, 2011",
+  "status": "",
+  "locality": "GZIRA",
+  "name": "BTEG HOLDING LIMITED",
+  "total_issued_shares": 1250,
+  "address": "114, THE STRAND,",
+  "company_id": "C 54159",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 1249,
+          "nominal_value_per_share": 1,
+          "class": "A",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "100,RUSKINCRESCENTPLYMOUTHDEVONPL53EAUNITEDKINGDOM",
+        "party_id": "                                                            801461209",
+        "name": "BENJAMIN THOMAS EDWARD GREEN\r",
+        "nationality": "BRITISH"
+      },
+      {
+        "shares": {
+          "issued_shares": 1,
+          "nominal_value_per_share": 1,
+          "class": "B",
+          "type": "Ordinary",
+          "paid_up_%": 20
+        },
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "party_id": "                                                            C 28629",
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": ""
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1249,
+      "authorised_share_capital": 1249,
+      "type": "OrdinaryA"
+    },
+    {
+      "nominal_value_per_share": 1,
+      "issued_shares": 1,
+      "authorised_share_capital": 1,
+      "type": "OrdinaryB"
+    }
+  ],
+  "total_authorised_shares": 3000,
+  "total_authorised_shares_value": 3000,
+  "shares_currency": "EUR"
+}

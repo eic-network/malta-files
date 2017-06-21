@@ -1,0 +1,70 @@
+{
+  "company_id": "C 42055",
+  "address": "189, MARINA STREET,",
+  "name": "BORG CINI & CO. LTD.",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Aug 08, 2007",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 50000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 50000
+    }
+  ],
+  "total_authorised_shares": 50000,
+  "total_authorised_shares_value": 50000,
+  "total_issued_shares": 50000,
+  "total_issued_shares_value": 50000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANCES BLENHEIM\r",
+        "party_id": "                                                            595657M",
+        "address": "KELLY,TRIQIL-MIZURASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FRANCES BLENHEIM\r",
+        "party_id": "                                                            595657M",
+        "address": "KELLY,TRIQIL-MIZURASWIEQIMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 50000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FRANCES BLENHEIM\r",
+        "party_id": "                                                            595657M",
+        "address": "KELLY,TRIQIL-MIZURASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANCES BLENHEIM\r",
+        "party_id": "                                                            595657M",
+        "address": "KELLY,TRIQIL-MIZURASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KATE BLENHEIM\r",
+        "party_id": "                                                            148405L",
+        "address": "KELLY,TRIQIL-MIZURASWIEQIMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "name": "BOATCARE TRADING LIMITED",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 11646.86,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 999,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 999,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            876947M",
+        "address": "'GRUSSGOTT'TRIQISSIMBLIJANAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            876947M",
+        "address": "'GRUSSGOTT'TRIQISSIMBLIJANAXXARMALTA"
+      },
+      {
+        "name": "KENNETH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            318280M",
+        "address": "37,WOODSTOCK,TRIQCARMELOFARRUGIA,LIJAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            876947M",
+        "address": "'GRUSSGOTT'TRIQISSIMBLIJANAXXARMALTA"
+      },
+      {
+        "name": "KENNETH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            318280M",
+        "address": "37,WOODSTOCK,TRIQCARMELOFARRUGIA,LIJAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KENNETH A. MiCALLEF\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19608",
+        "address": "1SQAQSANT'AGATARABATMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            876947M",
+        "address": "'GRUSSGOTT'TRIQISSIMBLIJANAXXARMALTA"
+      },
+      {
+        "name": "KENNETH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            318280M",
+        "address": "37,WOODSTOCK,TRIQCARMELOFARRUGIA,LIJAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            876947M",
+        "address": "'GRUSSGOTT'TRIQISSIMBLIJANAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "KENNETH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            318280M",
+        "address": "37,WOODSTOCK,TRIQCARMELOFARRUGIA,LIJAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "GRUSGOTT, TRIQ IS-SIMBLIJA,",
+  "company_id": "C 37131",
+  "registration_date": "Oct 17, 2005",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 5000
+}

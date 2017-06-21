@@ -1,0 +1,89 @@
+{
+  "name": "BOOMER & COMPANY LIMITED",
+  "total_issued_shares_value": 1167.02,
+  "total_authorised_shares_value": 1167.02,
+  "authorised_shares": [
+    {
+      "issued_shares": 1,
+      "type": "",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "GEOFFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118350M",
+        "address": "'HUBERTUS'J.HOWARDSTREETNAXXARMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GEOFFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118350M",
+        "address": "'HUBERTUS'J.HOWARDSTREETNAXXARMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ROBERT CASSAR\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00989",
+        "address": "67,TRIQIL-GHENBA,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GEOFFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118350M",
+        "address": "'HUBERTUS'J.HOWARDSTREETNAXXARMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ETIENNE GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            99977M",
+        "address": "'HUBERTUS'J.HOWARDSTREETNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "GEOFFREY GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            118350M",
+        "address": "'HUBERTUS'J.HOWARDSTREETNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 501,
+  "address": "HUBERTUS, J. HOWARD STREET,",
+  "company_id": "C 11602",
+  "registration_date": "Apr 24, 1990",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 501
+}

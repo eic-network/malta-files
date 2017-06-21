@@ -1,0 +1,147 @@
+{
+  "name": "BGA LIMITED",
+  "total_issued_shares_value": 2795.24,
+  "total_authorised_shares_value": 2795.25,
+  "authorised_shares": [
+    {
+      "issued_shares": 400,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 400,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 800,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 800,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145472M",
+        "address": "22,HIGHLANDS,TRIQL-GHERIENMELLIEHAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ADRIAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145472M",
+        "address": "22,HIGHLANDS,TRIQL-GHERIENMELLIEHAMALTA"
+      },
+      {
+        "name": "ANNE BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            789952M",
+        "address": "18,TRIQDUNFRANGISKSCIBERRAS,MELLIEHAMALTA"
+      },
+      {
+        "name": "GILBERT BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431674M",
+        "address": "75,OCCASUS,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145472M",
+        "address": "22,HIGHLANDS,TRIQL-GHERIENMELLIEHAMALTA"
+      },
+      {
+        "name": "ANNE BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            789952M",
+        "address": "18,TRIQDUNFRANGISKSCIBERRAS,MELLIEHAMALTA"
+      },
+      {
+        "name": "GILBERT BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431674M",
+        "address": "75,OCCASUS,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "HORWATH MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/27",
+        "address": "LAPROVVIDA,KARMZERAFASTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ADRIAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145472M",
+        "address": "22,HIGHLANDS,TRIQL-GHERIENMELLIEHAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANNE BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            789952M",
+        "address": "18,TRIQDUNFRANGISKSCIBERRAS,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "ADRIAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            145472M",
+        "address": "22,HIGHLANDS,TRIQL-GHERIENMELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 400
+        }
+      },
+      {
+        "name": "BRENDAN BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            405383M",
+        "address": "FLAT2,VIEWPOINT,BLOCK4,TRIQSNAJJIN,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "GILBERT BUTTIGIEG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            431674M",
+        "address": "75,OCCASUS,TRIQL-IZBARKTAL-FRANCIZI,MELLIEHAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "22, TRIQ L-GHERIEN,",
+  "company_id": "C 25425",
+  "registration_date": "Nov 10, 1999",
+  "shares_currency": "EUR",
+  "locality": "MELLIEHA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

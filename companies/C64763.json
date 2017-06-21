@@ -1,0 +1,91 @@
+{
+  "name": "BARKING LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "DAVID MALLIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            416480M",
+        "address": "NO.33,BEATRIX,DORGASTREET,ATTARDMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IAIN BRENDAN CAHILL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA0779062",
+        "address": "DUNLAIRHOUSEOLDATHLUMNEY,NAVANCO.MEATHIRELAND"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IAIN BRENDAN CAHILL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA0779062",
+        "address": "DUNLAIRHOUSEOLDATHLUMNEY,NAVANCO.MEATHIRELAND"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PATRICK PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11271",
+        "address": "16,COLISA,MONS.A.BUHAGIARSTREET,RABATRBT1836MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IAIN BRENDAN CAHILL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA0779062",
+        "address": "DUNLAIRHOUSEOLDATHLUMNEY,NAVANCO.MEATHIRELAND"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HORACE FOUNDATION\r",
+        "nationality": "",
+        "party_id": "                                                            PFLP-48",
+        "address": "NO.58,HOSPITALSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "IAIN BRENDAN CAHILL\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA0779062",
+        "address": "DUNLAIRHOUSEOLDATHLUMNEY,NAVANCO.MEATHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "89/1 TIGNE STREET,",
+  "company_id": "C 64763",
+  "registration_date": "Apr 21, 2014",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

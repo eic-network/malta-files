@@ -1,0 +1,77 @@
+{
+  "company_id": "P 1148",
+  "address": "58/59 GRACE STREET",
+  "name": "BRINCAT BROS. & CO.",
+  "locality": "ZEBBUG",
+  "status": "",
+  "registration_date": "Mar 11, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 4658.74,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "EMMANUELA BRINCAT (As admini. of Estate J Brincat)\r",
+        "party_id": "                                                            0019549M",
+        "address": "'MATERGRATIA',CARLOGIMACHSTREET,ZEBBUGMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "AUSTIN BRINCAT\r",
+        "party_id": "                                                            179844M",
+        "address": "'GELLULIG'NO8,SERAFINTANTISTREET,ZEBBUGMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "GERALD BRINCAT\r",
+        "party_id": "                                                            626737M",
+        "address": "''GISVILLE'N/SOFFGRACESTREETZEBBUGMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "PHILIP BRINCAT\r",
+        "party_id": "                                                            602241M",
+        "address": "'HILLTOP'BISHOPCARUANASTREET,ZEBBUGMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "",
+          "class": "",
+          "issued_shares": 500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ]
+  }
+}

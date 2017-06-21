@@ -1,0 +1,115 @@
+{
+  "name": "ANTARES FINANCIAL CORPORATION LTD",
+  "total_issued_shares_value": 1501,
+  "total_authorised_shares_value": 1501,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "PETER GRIFFITHS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175177M",
+        "address": "TAKARA,MADLIENAROAD,MADLIENA,SWIEQISWQ1017MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      },
+      {
+        "name": "MARCIA NASCIMENTO DE TOLOSA ADORNO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FM154325",
+        "address": "RUADEBUENOSAIRES10R/CD,LISBON1200-001PORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      },
+      {
+        "name": "MARCIA NASCIMENTO DE TOLOSA ADORNO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FM154325",
+        "address": "RUADEBUENOSAIRES10R/CD,LISBON1200-001PORTUGAL"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "VICTOR BEZZINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00A11",
+        "address": "5,ST.NICHOLASFLATS,ABATERIGORDSTREETTA'XBIEXXBX1128MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA"
+      },
+      {
+        "name": "MARCIA NASCIMENTO DE TOLOSA ADORNO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FM154325",
+        "address": "RUADEBUENOSAIRES10R/CD,LISBON1200-001PORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SCORPIO LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 72301",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARNXR9021MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "GRIFFITHS + ASSOCIATES ADVISORY LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 48041",
+        "address": "LEVEL1,CASALNAXARO,LABOURAVENUE,NAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1501,
+  "address": "LEVEL 1, CASAL NAXARO, LABOUR AVENUE,",
+  "company_id": "C 71007",
+  "registration_date": "Jun 11, 2015",
+  "shares_currency": "USD",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1501
+}

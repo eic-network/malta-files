@@ -1,0 +1,114 @@
+{
+  "company_id": "C 35245",
+  "address": "VISION EXCHANGE BUILDING, TERRITORIALS STREET, MRIEHEL,",
+  "name": "BREJDABLICK LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "registration_date": "Dec 16, 2004",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 4000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 4000,
+  "total_authorised_shares_value": 4000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQISWQ3570MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAN OLA PEDER TORNQVIST\r",
+        "party_id": "                                                            90131318",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "KARIN ELLINOR TORNQVIST\r",
+        "party_id": "                                                            86328213",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ERIKSBERG LOGISTIK AB\r",
+        "party_id": "                                                            559042-8297",
+        "address": "KUNGSGATAN56,GOTEBORG41108SWEDEN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQISWQ3570MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAN OLA PEDER TORNQVIST\r",
+        "party_id": "                                                            90131318",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "KARIN ELLINOR TORNQVIST\r",
+        "party_id": "                                                            86328213",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRIS CASAPINTA\r",
+        "party_id": "                                                            462477M",
+        "address": "16,TRIQIL-GIFNA,SWIEQISWQ3570MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAN OLA PEDER TORNQVIST\r",
+        "party_id": "                                                            90131318",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      },
+      {
+        "name": "KARIN ELLINOR TORNQVIST\r",
+        "party_id": "                                                            86328213",
+        "address": "BRATTERASBACKEN5,GOTHENBURGSWEDEN",
+        "nationality": "SWEDISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VICTORIA GRECH\r",
+        "party_id": "                                                            321575M",
+        "address": "FLAT5,BLOCKB,TRIQTA'MEZZI,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "STEVE XUEREB\r",
+        "party_id": "                                                            250786M",
+        "address": "5,THEHAVEN,THEPENTHOUSE,TRIQIL-KATLAN,ATTARDATD2750MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

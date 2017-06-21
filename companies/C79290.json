@@ -1,0 +1,101 @@
+{
+  "company_id": "C 79290",
+  "address": "BORG GALEA & ASSOCIATES.  FRANSTAN, HIGH STREET,",
+  "name": "BORG GALEA AUDIT LIMITED",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Jan 26, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "NATHANIEL BORG\r",
+        "party_id": "                                                            485589M",
+        "address": "7CHRYSANTHEMUM,TRIQIC-CIRASA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RODERICK GALEA\r",
+        "party_id": "                                                            661781M",
+        "address": "FRANSTAN,FL2,HIGHSTREET,SLIEMASLM1541MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NATHANIEL BORG\r",
+        "party_id": "                                                            485589M",
+        "address": "7CHRYSANTHEMUM,TRIQIC-CIRASA,NAXXARMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 601,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "RODERICK GALEA\r",
+        "party_id": "                                                            661781M",
+        "address": "FRANSTAN,FL2,HIGHSTREET,SLIEMASLM1541MALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 599,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "NATHANIEL BORG\r",
+        "party_id": "                                                            485589M",
+        "address": "7CHRYSANTHEMUM,TRIQIC-CIRASA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RODERICK GALEA\r",
+        "party_id": "                                                            661781M",
+        "address": "FRANSTAN,FL2,HIGHSTREET,SLIEMASLM1541MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "NATHANIEL BORG\r",
+        "party_id": "                                                            485589M",
+        "address": "7CHRYSANTHEMUM,TRIQIC-CIRASA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "RODERICK GALEA\r",
+        "party_id": "                                                            661781M",
+        "address": "FRANSTAN,FL2,HIGHSTREET,SLIEMASLM1541MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "NATHANIEL BORG\r",
+        "party_id": "                                                            485589M",
+        "address": "7CHRYSANTHEMUM,TRIQIC-CIRASA,NAXXARMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

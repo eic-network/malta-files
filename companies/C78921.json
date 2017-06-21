@@ -1,0 +1,70 @@
+{
+  "company_id": "C 78921",
+  "address": "89,  ST. JOHN STREET",
+  "name": "BREVAL GROUP HOLDING LTD",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Dec 30, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1165,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1165
+    }
+  ],
+  "total_authorised_shares": 1165,
+  "total_authorised_shares_value": 1165,
+  "total_issued_shares": 1165,
+  "total_issued_shares_value": 1165,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ELTON DA ROCHA TEIXEIRA JUNIOR\r",
+        "party_id": "                                                            FO128954",
+        "address": "RUADEFENSORESDECHAVESNO.34,3ANDARESQUERDO,FREGUESIAAVENIDASNOVASLISBOA1000-119PORTUGAL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ELTON DA ROCHA TEIXEIRA JUNIOR\r",
+        "party_id": "                                                            FO128954",
+        "address": "RUADEFENSORESDECHAVESNO.34,3ANDARESQUERDO,FREGUESIAAVENIDASNOVASLISBOA1000-119PORTUGAL",
+        "nationality": "BRASILIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1165,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ELTON DA ROCHA TEIXEIRA JUNIOR\r",
+        "party_id": "                                                            FO128954",
+        "address": "RUADEFENSORESDECHAVESNO.34,3ANDARESQUERDO,FREGUESIAAVENIDASNOVASLISBOA1000-119PORTUGAL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ELTON DA ROCHA TEIXEIRA JUNIOR\r",
+        "party_id": "                                                            FO128954",
+        "address": "RUADEFENSORESDECHAVESNO.34,3ANDARESQUERDO,FREGUESIAAVENIDASNOVASLISBOA1000-119PORTUGAL",
+        "nationality": "BRASILIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FREDERICO DORIA MONTEIRO DE GOUVEIA E SILVA\r",
+        "party_id": "                                                            P195215",
+        "address": "65,CHRISTCHURCHCOURT,FLAT4NAZZARENUSTREETSLIEMAMALTA",
+        "nationality": "PORTUGUESE"
+      }
+    ]
+  }
+}

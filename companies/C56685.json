@@ -1,0 +1,117 @@
+{
+  "name": "BMS WEB LTD",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "RALPH PULI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            386174M",
+        "address": "4,ST.MICHAEL,GUZEGALEASTREETQORMIMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "DAVID SILVESTRI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            100983202325",
+        "address": "930CHEMINDELAMASSOQUE,LEBRULATLECASTELLETFRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID MOTON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR72759",
+        "address": "3RUECALLELONGUE,MARSEILLE13008FRANCE"
+      },
+      {
+        "name": "DAVID SILVESTRI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            100983202325",
+        "address": "930CHEMINDELAMASSOQUE,LEBRULATLECASTELLETFRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID MOTON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR72759",
+        "address": "3RUECALLELONGUE,MARSEILLE13008FRANCE"
+      },
+      {
+        "name": "DAVID SILVESTRI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            100983202325",
+        "address": "930CHEMINDELAMASSOQUE,LEBRULATLECASTELLETFRANCE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID MOTON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR72759",
+        "address": "3RUECALLELONGUE,MARSEILLE13008FRANCE"
+      },
+      {
+        "name": "DAVID SILVESTRI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            100983202325",
+        "address": "930CHEMINDELAMASSOQUE,LEBRULATLECASTELLETFRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID MOTON\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            11AR72759",
+        "address": "3RUECALLELONGUE,MARSEILLE13008FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "DAVID SILVESTRI\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            100983202325",
+        "address": "930CHEMINDELAMASSOQUE,LEBRULATLECASTELLETFRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "30, KENILWORTH, FLAT 3, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 56685",
+  "registration_date": "Jun 15, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

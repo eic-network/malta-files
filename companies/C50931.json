@@ -1,0 +1,109 @@
+{
+  "name": "ANDREA V LTD",
+  "total_issued_shares_value": 1884,
+  "total_authorised_shares_value": 2400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1884,
+      "type": "Ordinary",
+      "authorised_share_capital": 2400,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CLAES STEFAN GUSTAF MAGNUSSON\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82561090",
+        "address": "FURUSANGSVAGEN34,BROMMA16767SWEDEN"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LIVING CAPITAL CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 49939",
+        "address": "LIVINGCAPITAL,135,MEDITERRANEANSTREET,ST.JULIANSSTJ1870MALTA"
+      },
+      {
+        "name": "HARALD VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82753892",
+        "address": "STORGATAN48,STOCKHOLMSE-11455SWEDEN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LIVING CAPITAL CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 49939",
+        "address": "LIVINGCAPITAL,135,MEDITERRANEANSTREET,ST.JULIANSSTJ1870MALTA"
+      },
+      {
+        "name": "HARALD VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82753892",
+        "address": "STORGATAN48,STOCKHOLMSE-11455SWEDEN"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "RAYMOND J VELLA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19404",
+        "address": "23,TRIQMONS.A.MIFSUD,PEMBROKEMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LIVING CAPITAL CORPORATE SERVICES LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 49939",
+        "address": "LIVINGCAPITAL,135,MEDITERRANEANSTREET,ST.JULIANSSTJ1870MALTA"
+      },
+      {
+        "name": "HARALD VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82753892",
+        "address": "STORGATAN48,STOCKHOLMSE-11455SWEDEN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ADRIENNE VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            85809415",
+        "address": "STORGATAN48,STOCKHOLMSE-11455SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "HARALD VERSTEEGH\r",
+        "nationality": "SWEDISH",
+        "party_id": "                                                            82753892",
+        "address": "STORGATAN48,STOCKHOLMSE-11455SWEDEN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1884,
+  "address": "135, MEDITERRANEAN STREET",
+  "company_id": "C 50931",
+  "registration_date": "Oct 20, 2010",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 2400
+}

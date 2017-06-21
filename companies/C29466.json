@@ -1,0 +1,109 @@
+{
+  "name": "BETS LINE LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "ROBERT TUFIGNO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            191657M",
+        "address": "9,ST.CHRISTOPHERSTREETVALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "IVAN GATT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            726758M",
+        "address": "10,BAYAPARTMENTS,FLAT6,ST.GEORGE'SROAD,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ARTURO PALOMARES AYERBE\r",
+        "nationality": "",
+        "party_id": "                                                            25158350-F",
+        "address": "AVDA,CESARAUGUSTO,4-9-C,ZARAGOZASPAIN"
+      },
+      {
+        "name": "OSCAR MONZON FABREGAT\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            25157399-E",
+        "address": "PASEOINDEPENDENCIA14,1,ZARAGOZASPAIN"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ARTURO PALOMARES AYERBE\r",
+        "nationality": "",
+        "party_id": "                                                            25158350-F",
+        "address": "AVDA,CESARAUGUSTO,4-9-C,ZARAGOZASPAIN"
+      },
+      {
+        "name": "OSCAR MONZON FABREGAT\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            25157399-E",
+        "address": "PASEOINDEPENDENCIA14,1,ZARAGOZASPAIN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ARTURO PALOMARES AYERBE\r",
+        "nationality": "",
+        "party_id": "                                                            25158350-F",
+        "address": "AVDA,CESARAUGUSTO,4-9-C,ZARAGOZASPAIN"
+      },
+      {
+        "name": "OSCAR MONZON FABREGAT\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            25157399-E",
+        "address": "PASEOINDEPENDENCIA14,1,ZARAGOZASPAIN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ARTURO PALOMARES AYERBE\r",
+        "nationality": "",
+        "party_id": "                                                            25158350-F",
+        "address": "AVDA,CESARAUGUSTO,4-9-C,ZARAGOZASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1470
+        }
+      },
+      {
+        "name": "OSCAR MONZON FABREGAT\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            25157399-E",
+        "address": "PASEOINDEPENDENCIA14,1,ZARAGOZASPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1530
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "66, OLD BAKERY STR.,",
+  "company_id": "C 29466",
+  "registration_date": "Mar 20, 2002",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 3000
+}

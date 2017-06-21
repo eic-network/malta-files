@@ -1,0 +1,89 @@
+{
+  "name": "APD PROPERTIES LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 2500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "JONATHAN PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            248874M",
+        "address": "PRIMROSE,APT.1,TRIQIL-KAPPILLANMIFSUD,HAMRUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JONATHAN PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            248874M",
+        "address": "PRIMROSE,APT.1,TRIQIL-KAPPILLANMIFSUD,HAMRUNMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KENNETH AZZOPARDI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            154972M",
+        "address": "PRIMROSE,APT2,P.P.MIFSUDSTREET,HAMRUNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JONATHAN PACE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            248874M",
+        "address": "PRIMROSE,APT.1,TRIQIL-KAPPILLANMIFSUD,HAMRUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "360 MANUFACTURING LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 49513",
+        "address": "FACTORYMRH002A,MRIEHELINDUSTRIALESTATE,CANNONROAD,SANTAVENERAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2500
+        }
+      },
+      {
+        "name": "JOSEF DIMECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            326179M",
+        "address": "CAVENDISHRESIDENCEBLKAB,FLAT12,BLUEHARBOUR,IX-XATTTA'XBIEXTA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 2500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "392, CANNON ROAD,",
+  "company_id": "C 76411",
+  "registration_date": "Jul 12, 2016",
+  "shares_currency": "EUR",
+  "locality": "SANTA VENERA",
+  "status": "",
+  "total_authorised_shares": 5000
+}

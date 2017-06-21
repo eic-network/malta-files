@@ -1,0 +1,83 @@
+{
+  "name": "A M S S IMPORT AND EXPORT LTD",
+  "total_issued_shares_value": 200000,
+  "total_authorised_shares_value": 200000,
+  "authorised_shares": [
+    {
+      "issued_shares": 200000,
+      "type": "Ordinary",
+      "authorised_share_capital": 200000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Noureddin Mohamed SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            085734",
+        "address": "POBOX741MIDANALGAZERTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Noureddin Mohamed SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            085734",
+        "address": "POBOX741MIDANALGAZERTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Noureddin Mohamed SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            085734",
+        "address": "POBOX741MIDANALGAZERTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Noureddin Mohamed SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            085734",
+        "address": "POBOX741MIDANALGAZERTRIPOLISTATEOFLIBYA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Emad B L  SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            RJC3ZCJ0",
+        "address": "POBOX489HayAlAndalusTripoliSTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      },
+      {
+        "name": "Noureddin Mohamed SARKAZ\r",
+        "nationality": "LIBYAN",
+        "party_id": "                                                            085734",
+        "address": "POBOX741MIDANALGAZERTRIPOLISTATEOFLIBYA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 100000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 200000,
+  "address": "15,  GROGNET STREET",
+  "company_id": "C 69699",
+  "registration_date": "Mar 27, 2015",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 200000
+}

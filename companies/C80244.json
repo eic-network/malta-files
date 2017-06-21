@@ -1,0 +1,70 @@
+{
+  "company_id": "C 80244",
+  "address": "VINCENTI BUILDINGS, 28/19 (SUITE 1955), STRAIT STREET,",
+  "name": "BRAGENCY LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Mar 30, 2017",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "PETER ANDREW BROCKLEBANK\r",
+        "party_id": "                                                            801007735",
+        "address": "87,DUKEROAD,CHISWICKW42BWUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "PETER ANDREW BROCKLEBANK\r",
+        "party_id": "                                                            801007735",
+        "address": "87,DUKEROAD,CHISWICKW42BWUNITEDKINGDOM",
+        "nationality": "BRITISH",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "PETER ANDREW BROCKLEBANK\r",
+        "party_id": "                                                            801007735",
+        "address": "87,DUKEROAD,CHISWICKW42BWUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PETER ANDREW BROCKLEBANK\r",
+        "party_id": "                                                            801007735",
+        "address": "87,DUKEROAD,CHISWICKW42BWUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PETER ANDREW BROCKLEBANK\r",
+        "party_id": "                                                            801007735",
+        "address": "87,DUKEROAD,CHISWICKW42BWUNITEDKINGDOM",
+        "nationality": "BRITISH"
+      }
+    ]
+  }
+}

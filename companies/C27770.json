@@ -1,0 +1,101 @@
+{
+  "name": "B&C IMPORT/EXPORT CO. LTD",
+  "total_issued_shares_value": 2329.37,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MARCO BARBIERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AC6878598",
+        "address": "VIAGIOVANNI23,NO.9TREMESTIERIETNEOSICILY(CT)ITALY"
+      },
+      {
+        "name": "MARLON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            343974M",
+        "address": "26/10,CAROLINAFLATS,STADIUMSTREET,GZIRAGZR04MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MARCO BARBIERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AC6878598",
+        "address": "VIAGIOVANNI23,NO.9TREMESTIERIETNEOSICILY(CT)ITALY"
+      },
+      {
+        "name": "MARLON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            343974M",
+        "address": "26/10,CAROLINAFLATS,STADIUMSTREET,GZIRAGZR04MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SHARON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236574M",
+        "address": "26/10CAROLINAFLATSSTADIUMSTREETGZIRAGZR04MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MARCO BARBIERI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AC6878598",
+        "address": "VIAGIOVANNI23,NO.9TREMESTIERIETNEOSICILY(CT)ITALY"
+      },
+      {
+        "name": "MARLON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            343974M",
+        "address": "26/10,CAROLINAFLATS,STADIUMSTREET,GZIRAGZR04MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MARLON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            343974M",
+        "address": "26/10,CAROLINAFLATS,STADIUMSTREET,GZIRAGZR04MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999
+        }
+      },
+      {
+        "name": "SHARON CURTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236574M",
+        "address": "26/10CAROLINAFLATSSTADIUMSTREETGZIRAGZR04MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "26/10, CAROLINA FLATS, STADIUM STREET,",
+  "company_id": "C 27770",
+  "registration_date": "Feb 22, 2001",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,64 @@
+{
+  "total_issued_shares_value": 232704.4,
+  "registration_date": "Dec 12, 2003",
+  "status": "",
+  "locality": "ST. JULIANS",
+  "name": "Budget & Co",
+  "total_issued_shares": 999,
+  "address": "47, GEORGE BORG OLIVIER STREET",
+  "company_id": "P 988",
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "shares": {
+          "issued_shares": 333,
+          "nominal_value_per_share": 232.937339,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "27,ST.NICHOLASSTREET,SLIEMAMALTA",
+        "party_id": "                                                            120859M",
+        "name": "CLARENCE BUSUTTIL\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 333,
+          "nominal_value_per_share": 232.937339,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "15,REGENTAPARTMENTS,PARKTOWERS,GEORGEBORGOLIVIERSTREET,ST.JULIANSMALTA",
+        "party_id": "                                                            403961M",
+        "name": "GRAHAM BUSUTTIL\r",
+        "nationality": "MALTESE"
+      },
+      {
+        "shares": {
+          "issued_shares": 333,
+          "nominal_value_per_share": 232.937339,
+          "class": "",
+          "type": "",
+          "paid_up_%": 100
+        },
+        "address": "15,HYDEPARKAPARTMENTS,PARKTOWERS,GEORGEBORGOLIVIERSTREET,ST.JULIANSMALTA",
+        "party_id": "                                                            138667M",
+        "name": "TRAFFORD BUSUTTIL\r",
+        "nationality": "MALTESE"
+      }
+    ]
+  },
+  "authorised_shares": [
+    {
+      "nominal_value_per_share": 232.937339,
+      "issued_shares": 999,
+      "authorised_share_capital": 999,
+      "type": ""
+    }
+  ],
+  "total_authorised_shares": 999,
+  "total_authorised_shares_value": 232704.4,
+  "shares_currency": "EUR"
+}

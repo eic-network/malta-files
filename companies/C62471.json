@@ -1,0 +1,70 @@
+{
+  "company_id": "C 62471",
+  "address": "BELMONTE HEIGHTS BLK M/5 DEPIRO STREET",
+  "name": "BPL TRADING & SERVICES CO. LTD.",
+  "locality": "SLIEMA",
+  "status": "",
+  "registration_date": "Nov 04, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 5000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 100,
+      "issued_shares": 1500
+    }
+  ],
+  "total_authorised_shares": 5000,
+  "total_authorised_shares_value": 500000,
+  "total_issued_shares": 1500,
+  "total_issued_shares_value": 150000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "KHALED M. ABDUSSALAM BEN SAID\r",
+        "party_id": "                                                            445483",
+        "address": "BENASHOURSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KHALED M. ABDUSSALAM BEN SAID\r",
+        "party_id": "                                                            445483",
+        "address": "BENASHOURSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 100
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "KHALED M. ABDUSSALAM BEN SAID\r",
+        "party_id": "                                                            445483",
+        "address": "BENASHOURSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "KHALED M. ABDUSSALAM BEN SAID\r",
+        "party_id": "                                                            445483",
+        "address": "BENASHOURSTREETTRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GALAL BELAAMA\r",
+        "party_id": "                                                            105102L",
+        "address": "CASABELAAMA,155,VALLEYROAD,MSIDAMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

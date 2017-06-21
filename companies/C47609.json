@@ -1,0 +1,172 @@
+{
+  "name": "BJSM LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 4000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 4000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "STEPHEN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203570M",
+        "address": "14,TRIQMIFSUDELLUL,QORMIQRM1923MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MELANIE CRUZ BENITEZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468572M",
+        "address": "81,TRIQTAL-HERBA,BIRKIRKARABKR2325MALTA"
+      },
+      {
+        "name": "NOEL V RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75230M",
+        "address": "GARDENIACOURT,BLOCKB,FLAT3,TRIQIL-MENSIJAST.JULIANSSTJ1968MALTA"
+      },
+      {
+        "name": "STEPHEN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203570M",
+        "address": "14,TRIQMIFSUDELLUL,QORMIQRM1923MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MELANIE CRUZ BENITEZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468572M",
+        "address": "81,TRIQTAL-HERBA,BIRKIRKARABKR2325MALTA"
+      },
+      {
+        "name": "NOEL V RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75230M",
+        "address": "GARDENIACOURT,BLOCKB,FLAT3,TRIQIL-MENSIJAST.JULIANSSTJ1968MALTA"
+      },
+      {
+        "name": "STEPHEN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203570M",
+        "address": "14,TRIQMIFSUDELLUL,QORMIQRM1923MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "AIDAN LUNGARO-MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10276",
+        "address": "CMSHOUSE,THIRDFLOOR,ST.PETER'SSTREET,SANGWANNSGN2310MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MELANIE CRUZ BENITEZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468572M",
+        "address": "81,TRIQTAL-HERBA,BIRKIRKARABKR2325MALTA"
+      },
+      {
+        "name": "NOEL V RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75230M",
+        "address": "GARDENIACOURT,BLOCKB,FLAT3,TRIQIL-MENSIJAST.JULIANSSTJ1968MALTA"
+      },
+      {
+        "name": "STEPHEN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203570M",
+        "address": "14,TRIQMIFSUDELLUL,QORMIQRM1923MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NOEL V RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            75230M",
+        "address": "GARDENIACOURT,BLOCKB,FLAT3,TRIQIL-MENSIJAST.JULIANSSTJ1968MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "JULIA AGIUS VADALA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            361862M",
+        "address": "BEJTELQAWSTRIQL-OLEJANDRUST.JULIANSSTJ1912MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "MELANIE CRUZ BENITEZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            468572M",
+        "address": "81,TRIQTAL-HERBA,BIRKIRKARABKR2325MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "BERNARDETTE RANDLE\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            523459M",
+        "address": "157,HIGHSTREET,EXETER,NEWHAMPSHIREUNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "STEPHEN RIZZO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            203570M",
+        "address": "14,TRIQMIFSUDELLUL,QORMIQRM1923MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "14, TRIQ MIFSUD ELLUL,",
+  "company_id": "C 47609",
+  "registration_date": "Aug 27, 2009",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 5000
+}

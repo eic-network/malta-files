@@ -1,0 +1,75 @@
+{
+  "name": "APEX YACHT LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VERENA BIANCA MARIA REICHLE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            214726087",
+        "address": "59,SAARESDORFERSTREET,GEROLSTEIN54568GERMANY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VERENA BIANCA MARIA REICHLE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            214726087",
+        "address": "59,SAARESDORFERSTREET,GEROLSTEIN54568GERMANY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VERENA BIANCA MARIA REICHLE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            214726087",
+        "address": "59,SAARESDORFERSTREET,GEROLSTEIN54568GERMANY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OTTO FRIEDRICH REICHLE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            214726088",
+        "address": "59,SAARESDORFERSTREET,GEROLSTEIN54568GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 240
+        }
+      },
+      {
+        "name": "VERENA BIANCA MARIA REICHLE\r",
+        "nationality": "GERMAN",
+        "party_id": "                                                            214726087",
+        "address": "59,SAARESDORFERSTREET,GEROLSTEIN54568GERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 960
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "171, OLD BAKERY STREET,",
+  "company_id": "C 47051",
+  "registration_date": "Jun 15, 2009",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

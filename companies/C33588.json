@@ -1,0 +1,87 @@
+{
+  "name": "BIEN ETRE COMPANY LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 1164.69,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "JACQUELINE AL FAITOURY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242164M",
+        "address": "12,SUSANCOURT,FLAT6,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JACQUELINE AL FAITOURY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242164M",
+        "address": "12,SUSANCOURT,FLAT6,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "YASMIN SALOUM\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            000092009",
+        "address": "FLAT11,VICANICBUILDING,ELAMELINSTREET,JOUNIEHLEBANON"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JACQUELINE AL FAITOURY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242164M",
+        "address": "12,SUSANCOURT,FLAT6,ABATERIGORDSTREET,TA'XBIEXMALTA"
+      },
+      {
+        "name": "YASMIN SALOUM\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            000092009",
+        "address": "FLAT11,VICANICBUILDING,ELAMELINSTREET,JOUNIEHLEBANON"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JACQUELINE AL FAITOURY\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            242164M",
+        "address": "12,SUSANCOURT,FLAT6,ABATERIGORDSTREET,TA'XBIEXMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "YASMIN SALOUM\r",
+        "nationality": "SYRIAN",
+        "party_id": "                                                            000092009",
+        "address": "FLAT11,VICANICBUILDING,ELAMELINSTREET,JOUNIEHLEBANON",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 50,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 250
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "FLAT 4, CLARE COURT, TRIQ TAL-QROQQ,",
+  "company_id": "C 33588",
+  "registration_date": "Mar 26, 2004",
+  "shares_currency": "EUR",
+  "locality": "MSIDA",
+  "status": "",
+  "total_authorised_shares": 500
+}

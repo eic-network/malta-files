@@ -1,0 +1,78 @@
+{
+  "name": "BIC LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 3000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 3000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236469M",
+        "address": "JULIANALAPSISTREETST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236469M",
+        "address": "JULIANALAPSISTREETST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236469M",
+        "address": "JULIANALAPSISTREETST.JULIANSMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ECOVIS MALTA\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/55",
+        "address": "55,BIRBALROAD,BALZANBZN9017MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236469M",
+        "address": "JULIANALAPSISTREETST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHARLES CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            236469M",
+        "address": "JULIANALAPSISTREETST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 3000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "'JULIANA', LAPSI STREET",
+  "company_id": "C 70652",
+  "registration_date": "May 19, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 3000
+}

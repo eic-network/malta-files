@@ -1,0 +1,154 @@
+{
+  "name": "BONSONS LIMITED",
+  "total_issued_shares_value": 58234.33,
+  "total_authorised_shares_value": 58234.32,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 20000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 20000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388149M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388149M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      },
+      {
+        "name": "DORIS BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599850M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388149M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      },
+      {
+        "name": "DORIS BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599850M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "LOUIS SCHRANZ\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            04816",
+        "address": "24,POPEURBANUSVIIISTREET,BIRKIRKARAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388149M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      },
+      {
+        "name": "DORIS BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599850M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DORIS BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            599850M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "ANTHONY BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            388149M",
+        "address": "\"DORANT\"MEJJILLASTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "ROBERTA AGIUS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            555476M",
+        "address": "336,FLOWERBED,VICTORYSTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "CHARLENE BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            268382M",
+        "address": "'DORANT'MEJJILLASTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      },
+      {
+        "name": "MARIO BONELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            89274M",
+        "address": "'DORANT'MEJJILLASTREET,QORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 5000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 25000,
+  "address": "\"DORANT\" MEJJILLA STREET,",
+  "company_id": "C 9234",
+  "registration_date": "Dec 07, 1987",
+  "shares_currency": "EUR",
+  "locality": "QORMI",
+  "status": "",
+  "total_authorised_shares": 25000
+}

@@ -1,0 +1,110 @@
+{
+  "name": "BASE B LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1188,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1188,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 12,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 12,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "SILVIO CILIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            428077M",
+        "address": "BLUEHARBOURCAVENDISH,RES,AB3,IX-XATTTA'XBIEX,TA'XBIEXMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VIKTOR ZSOLT BOHM\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BA6886511",
+        "address": "H-1136BALZACU.54BUDAPESTHUNGARY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VIKTOR ZSOLT BOHM\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BA6886511",
+        "address": "H-1136BALZACU.54BUDAPESTHUNGARY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DAVID SAMMUT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            11199",
+        "address": "CCPSMALTA,ALBEAHOUSE,TESTAFERRATASTREET,MSIDAMSD1401MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VIKTOR ZSOLT BOHM\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BA6886511",
+        "address": "H-1136BALZACU.54BUDAPESTHUNGARY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Andrew James Baker/Zsandra Toth /Peter Toth as Trustees of 2nd R TRUST",
+        "nationality": "",
+        "party_id": "",
+        "address": "LANDSTRASSE36.P.O.BOX149TRIESEN9495LIECHTENSTEIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1068
+        }
+      },
+      {
+        "name": "RUBIK STUDIO KFT\r",
+        "nationality": "",
+        "party_id": "                                                            01-09-067059",
+        "address": "VAROSMAUORU.74,1122,BUDAPESTHUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 120
+        }
+      },
+      {
+        "name": "VIKTOR ZSOLT BOHM\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BA6886511",
+        "address": "H-1136BALZACU.54BUDAPESTHUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 12
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "SUSAN COURT, B1, TRIQ IL-PRINJOLATA",
+  "company_id": "C 59111",
+  "registration_date": "Jan 28, 2013",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 1200
+}

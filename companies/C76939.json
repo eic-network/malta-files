@@ -1,0 +1,109 @@
+{
+  "name": "BHP-LEX LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 2400,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "AVIX MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57976",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "AGNIESZKA RZEPECKA\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            CAE444828",
+        "address": "UL.HIRSFELDA10,APP.83WARSAWP.C.02-776POLAND"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "IMESS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57977",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "IMESS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57977",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "AVIX MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57976",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "IMESS MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57977",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      },
+      {
+        "name": "AVIX MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 57976",
+        "address": "FINOBUILDINGS,NOTABILEROAD,MRIEHEL,BIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAREK ANDRZEJ JOGODZINSKI\r",
+        "nationality": "POLISH",
+        "party_id": "                                                            AXE146680",
+        "address": "UL.BOLESLAWACHROBREGO33A/7ZABRZE41-803POLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "OPUSTRUST SP. ZOO\r",
+        "nationality": "",
+        "party_id": "                                                            0000323790",
+        "address": "MONIUSZKI1A,00-014WARSAWPOLAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FINO BUILDINGS NOTABILE ROAD, MRIEHEL",
+  "company_id": "C 76939",
+  "registration_date": "Nov 03, 2016",
+  "shares_currency": "EUR",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "total_authorised_shares": 2400
+}

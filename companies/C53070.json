@@ -1,0 +1,96 @@
+{
+  "name": "BONITA LEASING LIMITED",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "JOE CORDINA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            55762G",
+        "address": "APEX,LEVEL3,TIGRIJAPALAZZ,REPUBLICSTREET,VICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "WILLEM PETRUS BOSMAN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NS80K95C3",
+        "address": "HOFDREEF2GRAVENWEZEL2970BELGIUM"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "WILLEM PETRUS BOSMAN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NS80K95C3",
+        "address": "HOFDREEF2GRAVENWEZEL2970BELGIUM"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "WILLEM PETRUS BOSMAN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NS80K95C3",
+        "address": "HOFDREEF2GRAVENWEZEL2970BELGIUM"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ENGELENBURG BVBA\r",
+        "nationality": "",
+        "party_id": "                                                            0460.629.244",
+        "address": "HOFDREEF2SCHILDE2970BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1680
+        }
+      },
+      {
+        "name": "JOHANNA BERENDINA JOSEPHA BOSMAN-KLAASSEN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NXDB92KJ6",
+        "address": "HOFDREEF2GRAVENWEZEL2970BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 160
+        }
+      },
+      {
+        "name": "WILLEM PETRUS BOSMAN\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NS80K95C3",
+        "address": "HOFDREEF2GRAVENWEZEL2970BELGIUM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 160
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "IL PIAZZETTA, A, SUITE 21, TOWER ROAD,",
+  "company_id": "C 53070",
+  "registration_date": "Jun 09, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

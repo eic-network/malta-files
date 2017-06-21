@@ -1,0 +1,65 @@
+{
+  "name": "ALPHA MARITIME LIMITED",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FEMI OTEDOLA\r",
+        "nationality": "NIGERIAN",
+        "party_id": "                                                            C619942",
+        "address": "7,TIAMIYUSAVAGEVICTORIAISLAND,LAGOSNIGERIA"
+      },
+      {
+        "name": "NANA OTEDOLA\r",
+        "nationality": "NIGERIAN",
+        "party_id": "                                                            A1054813",
+        "address": "7,TIAMIYUSAVAGEVICTORIAISLAND,LAGOSNIGERIA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "FEMI OTEDOLA\r",
+        "nationality": "NIGERIAN",
+        "party_id": "                                                            C619942",
+        "address": "7,TIAMIYUSAVAGEVICTORIAISLAND,LAGOSNIGERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "NANA OTEDOLA\r",
+        "nationality": "NIGERIAN",
+        "party_id": "                                                            A1054813",
+        "address": "7,TIAMIYUSAVAGEVICTORIAISLAND,LAGOSNIGERIA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 200
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "147/1, ST. LUCIA STREET",
+  "company_id": "C 33845",
+  "registration_date": "Apr 30, 2004",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

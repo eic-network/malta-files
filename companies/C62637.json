@@ -1,0 +1,126 @@
+{
+  "name": "A & M HILI LTD",
+  "total_issued_shares_value": 2210,
+  "total_authorised_shares_value": 2210,
+  "authorised_shares": [
+    {
+      "issued_shares": 2100,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 2100,
+      "nominal_value_per_share": 0.1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "DAVID SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            285861M",
+        "address": "20,WINDMILLSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALFRED SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            481091M",
+        "address": "20,WINDMILLSTREETVALLETTAMALTA"
+      },
+      {
+        "name": "DAVID SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            285861M",
+        "address": "20,WINDMILLSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "IRENE SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            215163M",
+        "address": "20,WINDMILLSTREET,VALLETTAMALTA"
+      },
+      {
+        "name": "MICHELLE SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            270093M",
+        "address": "20,WINDMILLSTREETVALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ALFRED SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            481091M",
+        "address": "20,WINDMILLSTREETVALLETTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DAVID SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            285861M",
+        "address": "20,WINDMILLSTREET,VALLETTAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "DAVID SPITERI HILI (HELD JOINTLY)\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            285861M",
+        "address": "20,WINDMILLSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 0.1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 2100
+        }
+      },
+      {
+        "name": "MICHELLE SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            270093M",
+        "address": "20,WINDMILLSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ALFRED SPITERI HILI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            481091M",
+        "address": "20,WINDMILLSTREETVALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 4100,
+  "address": "20, WINDMILL STREET",
+  "company_id": "C 62637",
+  "registration_date": "Nov 14, 2013",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 4100
+}

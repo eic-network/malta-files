@@ -1,0 +1,89 @@
+{
+  "name": "BD Electronics Ltd.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1490,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "MAURICE O'DONOGHIE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            150409A",
+        "address": "FLAT45,PANORAMA,TRIQIL-BAJJA,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MAURICE O'DONOGHIE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            150409A",
+        "address": "FLAT45,PANORAMA,TRIQIL-BAJJA,ST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "LUCIA BORISAVLJEVICOVA\r",
+        "nationality": "SLOVAK",
+        "party_id": "                                                            153604A",
+        "address": "FLAT45,PANORAMA,TRIQIL-BAJJA,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MAURICE O'DONOGHIE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            150409A",
+        "address": "FLAT45,PANORAMA,TRIQIL-BAJJA,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BD ELECTRONICS HOLDINGS LTD.\r",
+        "nationality": "",
+        "party_id": "                                                            1875943",
+        "address": "CRAIGMUIRCHAMBERSROADTOWNTORTOLAVG1110VIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "MAURICE O'DONOGHIE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            150409A",
+        "address": "FLAT45,PANORAMA,TRIQIL-BAJJA,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "2 A, LAPSI STREET",
+  "company_id": "C 70961",
+  "registration_date": "Jun 15, 2015",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 1500
+}

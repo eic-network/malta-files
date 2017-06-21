@@ -1,0 +1,107 @@
+{
+  "name": "AMP CO. LTD",
+  "total_issued_shares_value": 1164.69,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 50,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 450,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "IVANO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253974M",
+        "address": "FLAT12,ELGINCOURT,SQAQIS-SIGRA,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RENATO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309548M",
+        "address": "115/2,ST.VINCENTSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "RENATO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309548M",
+        "address": "115/2,ST.VINCENTSTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RENATO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309548M",
+        "address": "115/2,ST.VINCENTSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 50
+        }
+      },
+      {
+        "name": "FRANCO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            336571M",
+        "address": "GREYSTONECOURT,BLK.A,FL.9,TRIQIL-KLARISSI,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "IVANO ARCIDIACONO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            253974M",
+        "address": "FLAT12,ELGINCOURT,SQAQIS-SIGRA,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150
+        }
+      },
+      {
+        "name": "ROBERTA ARCIDIACONO",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "115/2,ST.VINCENTSTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "281/283, RUE D'ARGENS,",
+  "company_id": "C 26740",
+  "registration_date": "Jul 25, 2000",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,132 @@
+{
+  "name": "ALTERNATE INVESTMENTS LIMITED",
+  "total_issued_shares_value": 57069.64,
+  "total_authorised_shares_value": 94456.08,
+  "authorised_shares": [
+    {
+      "issued_shares": 250,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 250,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 125,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 125,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 125,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 125,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 24000,
+      "type": "RedeemablePreference6%",
+      "authorised_share_capital": 24000,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            856353M",
+        "address": "17,G'MANGIAHILL,PIETA'MSD08MALTA"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297959M",
+        "address": "8,TRIQIZ-ZAHAR,RABATMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            856353M",
+        "address": "17,G'MANGIAHILL,PIETA'MSD08MALTA"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297959M",
+        "address": "8,TRIQIZ-ZAHAR,RABATMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297959M",
+        "address": "8,TRIQIZ-ZAHAR,RABATMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            856353M",
+        "address": "17,G'MANGIAHILL,PIETA'MSD08MALTA"
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297959M",
+        "address": "8,TRIQIZ-ZAHAR,RABATMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            297959M",
+        "address": "8,TRIQIZ-ZAHAR,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 250
+        }
+      },
+      {
+        "name": "ANTHONY DEMAJO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            856353M",
+        "address": "17,G'MANGIAHILL,PIETA'MSD08MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 125
+        }
+      },
+      {
+        "name": "EDRICHTON ESTATES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 23156",
+        "address": "43,GUARDAMANGIAHILLPIETA'PTA1317MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Redeemable Preference",
+          "class": "6%",
+          "issued_shares": 12000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 24500,
+  "address": "10, TRIQ IZ-ZAHAR,",
+  "company_id": "C 10047",
+  "registration_date": "Oct 28, 1988",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 40550
+}

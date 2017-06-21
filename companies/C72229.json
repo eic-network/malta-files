@@ -1,0 +1,83 @@
+{
+  "name": "AZY HOLDINGS LTD.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "CARMEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            377463M",
+        "address": "42,23rdAPRILSTREET,QORMIMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ADRIAN CHETCUTI DE CARLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            562276M",
+        "address": "FLAT3,BLOCK4TIRQBERTHAK.ILGST.JULIANSMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CHRISTINE CAMILLERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            218981M",
+        "address": "HALMANNBUSINESSCENTRE,LEVEL2,MOSTAROAD,LIJALJA9016MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CARMEL ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            377463M",
+        "address": "42,23rdAPRILSTREET,QORMIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JUANAFIL CONSULTANTS LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 14109",
+        "address": "34,TRIQKARMZERAFA,BIRKIRKARABKR1711MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 912
+        }
+      },
+      {
+        "name": "SEYED HOSSEIN PAKZAD\r",
+        "nationality": "IRANIAN",
+        "party_id": "                                                            123469A",
+        "address": "FORTCAMBRIDGEE5,FLAT1202,TIGNESTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 288
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "FORT CAMBRIDGE E5, FLAT 1202, TIGNE STREET,",
+  "company_id": "C 72229",
+  "registration_date": "Sep 11, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

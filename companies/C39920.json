@@ -1,0 +1,895 @@
+{
+  "name": "BEDFONT LAKES (HOLDINGS) (MALTA) P.L.C.",
+  "total_issued_shares_value": 36627,
+  "total_authorised_shares_value": 134000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2628,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 100000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 33999,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 34000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTOINE VINCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            729626M",
+        "address": "TIGNEPLACEAPT402,13TIGNESTREET,SLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "ANTOINE VINCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            729626M",
+        "address": "TIGNEPLACEAPT402,13,TIGNESTREET,SLIEMASLM11MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "ANTOINE VINCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            729626M",
+        "address": "TIGNEPLACEAPT402,13,TIGNESTREET,SLIEMASLM11MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "KPMG\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/12",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "TESSIEJOHN,ORATORYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "ANTOINE VINCI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            729626M",
+        "address": "TIGNEPLACEAPT402,13,TIGNESTREET,SLIEMASLM11MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "A.W. ENNIS (MOUNTMELLICK) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            25646",
+        "address": "MAGHERA,VIRGINIA,CO.CAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EVANS RANDALL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            2819722",
+        "address": "CHOBHAMPARKCHOBHAMPARKLANE,CHOBHAM,SURREYGU248HQUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "EXITEX LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            84350",
+        "address": "CARRICKANEENAHOUSE,MOUNTPLEASANT,DUNDALK,COLOUTHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "NEWCOURT RETIREMENT FUND MANAGERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            395396",
+        "address": "3RDFLOOR,CAVENDISHHOUSE,SMITHFIELD,DUBLIN7IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOHN BOYLAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB1046670",
+        "address": "BROOMFIELD,CASTLEBLAYNEY,CO.MONAGHANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "CATHAL BRADY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R277983",
+        "address": "1,ROSCALGAN,OLDTOWN,CO.CAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "ERIC BRADY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P164783",
+        "address": "PROUDSTOWN,NAVAN,COMEATHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOHN KIERAN BRENNAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P289438",
+        "address": "CLONMULLEN,BUNCLODY,COWEXFORDIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOHN BYRNE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P379218",
+        "address": "WATTLEGROVE,CASTLEKEALY,CARAGH,NAASIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "WING CHUEN CHAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P336607",
+        "address": "WOODSTOCK,BUSHYPARK,GALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "SEAMUS CLANCY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA1841539",
+        "address": "161,FOXROCKPARK,FOXROCK,DUBLIN18IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "FRANK CONNAGHAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T083037",
+        "address": "MILLROADGLENTIESCO.DONEGALIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JAMES CORCORAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T254755",
+        "address": "42,GRIFFITHAVENUE,DRUMCONDRA,DUBLIN9IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PAUL VINCENT CROTTY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            240036854",
+        "address": "BALLYMABIN,DUNMOREEAST,COWATERFORDIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "RICHARD DINEEN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            13/135130",
+        "address": "FANNINGSTOWN,FEDAMORE,COLIMERICKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "ANDREW DONOHOE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB0648453",
+        "address": "1,BELGRAVEROAD,RATHMINES,DUBLIN6IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PATRICK DUGGAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R300366",
+        "address": "91,ROSEHILL,BLACKROCK,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "MARY PHYL DWYER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            B582812",
+        "address": "TURTULLATHURLESCO.TIPPERARYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PETER FAULKNER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T372509",
+        "address": "WOODMERE,BALLINCLEAROAD,KILLINEY,CO.DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "SEAMUS GAFFNEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA4606654",
+        "address": "GALLONBANE,CROSSERLOUGH,COCAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "DERMOT GLYNN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            29/0471972",
+        "address": "5,BARTONAVENUE,RATHFARNHAM,DUBLIN14IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "DEIRDRE MARY GRANDI\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T782497",
+        "address": "8,LOWERCANALROAD,GALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 60
+        }
+      },
+      {
+        "name": "MICHAEL GREALISH\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T446325",
+        "address": "CARNMOREVILLAGE,ORANMORE,COGALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "CARL HANRATTY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R183580",
+        "address": "WOODFIELD31,CLAREMONTROAD,HOWTH,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JANNES HELMHOLT\r",
+        "nationality": "DUTCH",
+        "party_id": "                                                            NH6003289",
+        "address": "6,ROCKSPRINGS,DUNMOREROAD,COWATERFORDIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JAMES HORGAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            040080413",
+        "address": "3,BERKLEY,CARRSHALL,DOUGLAS,CORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "ROBERT ANTHONY HORGAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            N968791",
+        "address": "CORRYMEELA,FARRANLEAPARK,MODELFARMROAD,CORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "JOHN HOWARD\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P293345",
+        "address": "SILVERWINGSSILLOGUE,MONASTERBOICECO.LOUTHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "THOMAS MARTIN JONES\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA5119575",
+        "address": "TIPPER,NAAS,COKILDAREIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "MARK KELLY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            070106133",
+        "address": "KELTONTREANLAUR,MAREE,ORANMORE,COGALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EUGENE KIERNAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA0209736",
+        "address": "KILL,KILNALECK,COCAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOSEPH KIRK\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB2473471",
+        "address": "PROPOGUE,YOUGHAL,COCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "DAMIEN LAVELLE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R011953",
+        "address": "SHANELODGELOGMORE,BELMULLET,COMAYOIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "THOMAS a.k.a. TOM LAVELLE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R562374",
+        "address": "11,HAWTHORNDRIVE,RENMORE,CO.GALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PHILIP LYNCH\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PS0126176",
+        "address": "ATHGARVANLODGE,THECURRAGH,COKILDAREIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "LORRAINE MC ALISTER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA2409075",
+        "address": "KNOCKAFUBBLE,EMYVALE,MONAGHAN,COMONAGHANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "ANDREW MC CARREN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            020003444",
+        "address": "FORTLANDS,MOUNTNUGENT,COCAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EDWARD a.k.a. EAMONN MC ELWAIN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R220146",
+        "address": "52,GEORGESAVENUE,BLACKROCK,CO.DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "PEDRAIG MC ELWAIN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            180033567",
+        "address": "70,GLEDSWOODPARK,CLONSKEAGH,DUBLIN14IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 20
+        }
+      },
+      {
+        "name": "ELEANOR MARY MC EVOY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R139924",
+        "address": "KENMACRE,PORTRANEROAD,DONABATE,DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PATRICK MC GAHERN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T753917",
+        "address": "ELGARSTOWN,RATOATH,COMEATHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "EUGENE MC GEE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T976020",
+        "address": "CARTRONHOUSE,BATTERYROAD,LONGFORD,COLONGFORDIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "NIALL MC LOUGHLIN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R548158",
+        "address": "LISCAIRN,DRUMMAGH,CARRICK-ON-SHANNON,COLEITRIMIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "ROBERT MCCHESNEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA2879757",
+        "address": "AVELREAGH,CLONTIBRET,CO.MONAGHANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "HUGH MCKEON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            P096246",
+        "address": "ROANOKE,WASHINGTONLANE,RATHFARNHAM,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ANGELA MEEGAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA1010397",
+        "address": "BIRDHILLDRUMCONRATH,NAVAN,COMEATHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "DAVID MELLON\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R337251",
+        "address": "WASHINGTONHOUSE,BUTTERFIELDAVENUE,RATHFARNHAM,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOHN WILLIAM MULHERN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R426591",
+        "address": "22,WOODLANDS,NAAS,CO.KILDAREIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EIBHLIN MURPHY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            755317",
+        "address": "COOLNAHA,BALLYHAUNIS,COMAYOIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "NIALL O' REILLY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PB0126816",
+        "address": "CRAIGMORE,NASHVILLEROAD,HOWTH,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "JOHN O'CONNOR\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R719598",
+        "address": "3,WILTONPLACE,DUBLIN2IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "MAURICE O'CONNOR\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R441437",
+        "address": "72,FORESTHILLS,RATHCOOLE,CO.DUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EUGENE O'DWYER\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R594737",
+        "address": "DEERPARK,VIRGINIA,COCAVANIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "MARY O'LOGHLEN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PA2042946",
+        "address": "15,HAWTHORNLODGE,CASTLEKNOCK,DUBLIN15IRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "MICHAEL O'MALLEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R225362",
+        "address": "FORAMOYLE,BARNA,CO.GALWAYIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 27
+        }
+      },
+      {
+        "name": "DERMOT O'ROURKE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T974477",
+        "address": "KEREDERNHOUSE,NAAS,COKILDAREIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "FINTAN PRICE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            R971408",
+        "address": "OLDROAD,RUSH,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "MICHAEL QUINN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            270102939",
+        "address": "ANBOHREEN,KILLINEENWEST,DUNGARVAN,CO.WATERFORDIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PETER ROCHE\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            B259751",
+        "address": "VICARSTOWNCROSS,VICARSTOWN,COCORKIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "AIDAN RYAN\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            T606465",
+        "address": "ATHCARNE,DULEEK,COMEATHIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "PHILIP PETER TRACEY\r",
+        "nationality": "IRISH",
+        "party_id": "                                                            PS2095236",
+        "address": "COACHROAD,BALROTHERY,BALBRIGGAN,CODUBLINIRELAND",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 40
+        }
+      },
+      {
+        "name": "EVANS RANDALL INTERNATIONAL LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            43879",
+        "address": "TRAFALGARCOURT,ADMIRALHOUSE,ST.PETERPORTGY13ELGUERNSEY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 33999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 36627,
+  "address": "4, V. DIMECH STREET,",
+  "company_id": "C 39920",
+  "registration_date": "Nov 08, 2006",
+  "shares_currency": "GBP",
+  "locality": "FLORIANA",
+  "status": "",
+  "total_authorised_shares": 134000
+}

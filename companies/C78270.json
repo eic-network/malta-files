@@ -1,0 +1,101 @@
+{
+  "name": "BOREALIS LTD",
+  "total_issued_shares_value": 2000,
+  "total_authorised_shares_value": 2000,
+  "authorised_shares": [
+    {
+      "issued_shares": 2000,
+      "type": "Ordinary",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "42,RIVENDAL,TRIQL-GHARBIEL,SWIEQIMALTA"
+      },
+      {
+        "name": "SZABOLCS HERTENDI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BH3181135",
+        "address": "16,TIMUR,UTCA7,FSZ.2ABUDAPEST1162HUNGARY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "42,RIVENDAL,TRIQL-GHARBIEL,SWIEQIMALTA"
+      },
+      {
+        "name": "SZABOLCS HERTENDI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BH3181135",
+        "address": "16,TIMUR,UTCA7,FSZ.2ABUDAPEST1162HUNGARY"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANNE MARIE GRISCTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            72678M",
+        "address": "29,KYOTO,C.TRIDENTISTREET,TAL-IBRAGSWIEQISWQ2180MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "42,RIVENDAL,TRIQL-GHARBIEL,SWIEQIMALTA"
+      },
+      {
+        "name": "SZABOLCS HERTENDI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BH3181135",
+        "address": "16,TIMUR,UTCA7,FSZ.2ABUDAPEST1162HUNGARY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ROBERT D'ALESSANDRO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            67969M",
+        "address": "42,RIVENDAL,TRIQL-GHARBIEL,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "SZABOLCS HERTENDI\r",
+        "nationality": "HUNGARIAN",
+        "party_id": "                                                            BH3181135",
+        "address": "16,TIMUR,UTCA7,FSZ.2ABUDAPEST1162HUNGARY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 25,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "6/5, SIR WILLIAM REID STREET,",
+  "company_id": "C 78270",
+  "registration_date": "Nov 23, 2016",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 2000
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Bakat Online Services Ltd.",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 600,
+      "type": "Ordinary",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 2
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "Marion Mejlak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            273471M",
+        "address": "MaryvaleSt.George'sSiefVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Malcolm Meilak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIRAntonioMalliaStreetVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Malcolm Meilak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIRAntonioMalliaStreetVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Malcolm Meilak\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            14379G",
+        "address": "MIRAntonioMalliaStreetVICTORIA(GOZO)MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Panathal Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            112294",
+        "address": "Jivan'sComplecMontFleuriMaheREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      },
+      {
+        "name": "Sofistell Ltd.\r",
+        "nationality": "",
+        "party_id": "                                                            112295",
+        "address": "Jivan'sComplexMontFleuriMaheREPUBLICOFSEYCHELLES",
+        "shares": {
+          "nominal_value_per_share": 2,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 300
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 600,
+  "address": "Business House Suite 5 Archbishop P Pace Street",
+  "company_id": "C 57645",
+  "registration_date": "Sep 27, 2012",
+  "shares_currency": "EUR",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "total_authorised_shares": 600
+}

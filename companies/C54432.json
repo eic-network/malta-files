@@ -1,0 +1,57 @@
+{
+  "name": "BC PROJECTS COMPANY LTD",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "ILCOM LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            HE 144102",
+        "address": "2,NIKOUGEORGIOUSTR.,BLOCKB3,2NDFLOOR,FLAT/OFFICE202,AGIOIOMOLOGITES,P.C.1095,NICOSIACYPRUS",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "CLAUDIO BRAZZAROLA\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AR1415007",
+        "address": "VIADELLEPIAGGEII427,S.PIETRO,A.VICOITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "STRAND TOWERS, FLOOR 2, 36, THE STRAND,",
+  "company_id": "C 54432",
+  "registration_date": "Nov 17, 2011",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,80 @@
+{
+  "company_id": "C 28858",
+  "address": "147/1, ST. LUCIA STREET,",
+  "name": "BREEZE NAVIGATION LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Oct 30, 2001",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 2000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 2000
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 4658.75,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 4658.75,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "DIRECT LINE LIMITED\r",
+        "party_id": "                                                            46239",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      },
+      {
+        "name": "DIRECT NORTH LIMITED\r",
+        "party_id": "                                                            46241",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BARMA INVESTMENTS CORPORATION\r",
+        "party_id": "                                                            C-102241",
+        "address": "80,BROADSTREET,MONROVIALIBERIA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 2000,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "DIRECT LINE LIMITED\r",
+        "party_id": "                                                            46239",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      },
+      {
+        "name": "DIRECT NORTH LIMITED\r",
+        "party_id": "                                                            46241",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DIRECT LINE LIMITED\r",
+        "party_id": "                                                            46239",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      },
+      {
+        "name": "DIRECT NORTH LIMITED\r",
+        "party_id": "                                                            46241",
+        "address": "C/OCURATUSTRUSTCOMPANY(MAURITIUS)LIMITED,12THFLOOR,STANDARDCHARTEREDTOWER,19BANKSTREET,CYBERCITYEBENEMAURITIUS",
+        "nationality": ""
+      }
+    ]
+  }
+}

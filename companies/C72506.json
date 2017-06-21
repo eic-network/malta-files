@@ -1,0 +1,134 @@
+{
+  "name": "BALLUTA LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 4000,
+  "authorised_shares": [
+    {
+      "issued_shares": 750,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 750,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 600,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 600,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 150,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 150,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LORNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355675M",
+        "address": "26,CALMWATERS,FLAT7TRIQSANMARKNAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LORNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355675M",
+        "address": "26,CALMWATERS,FLAT7TRIQSANMARKNAXXARMALTA"
+      },
+      {
+        "name": "BRIAN OLE JEPSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            61622A",
+        "address": "TIGNEPOINT,PRETICOURT,T8BNO19,IL-PONTATA'TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LORNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355675M",
+        "address": "26,CALMWATERS,FLAT7TRIQSANMARKNAXXARMALTA"
+      },
+      {
+        "name": "BRIAN OLE JEPSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            61622A",
+        "address": "TIGNEPOINT,PRETICOURT,T8BNO19,IL-PONTATA'TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NOEL ANASTASI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19324",
+        "address": "249,TRIQTUMASCHETCUTI,ATTARDMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LORNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355675M",
+        "address": "26,CALMWATERS,FLAT7TRIQSANMARKNAXXARMALTA"
+      },
+      {
+        "name": "BRIAN OLE JEPSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            61622A",
+        "address": "TIGNEPOINT,PRETICOURT,T8BNO19,IL-PONTATA'TIGNESLIEMATP01MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "BRIAN OLE JEPSEN\r",
+        "nationality": "DANISH",
+        "party_id": "                                                            61622A",
+        "address": "TIGNEPOINT,PRETICOURT,T8BNO19,IL-PONTATA'TIGNESLIEMATP01MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JOSEPH XUEREB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            337159M",
+        "address": "110,TWILIGHTTRIQTAL-HLASQORMIMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 600
+        }
+      },
+      {
+        "name": "LORNA GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            355675M",
+        "address": "26,CALMWATERS,FLAT7TRIQSANMARKNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 150
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "'TIGNE POINT', PRETI COURT', T8B NO 19, IL-PONTA TA' TIGNE,",
+  "company_id": "C 72506",
+  "registration_date": "Oct 05, 2015",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 4000
+}

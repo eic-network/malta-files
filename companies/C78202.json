@@ -1,0 +1,70 @@
+{
+  "company_id": "C 78202",
+  "address": "9 Archpriest Saver Cassar Street",
+  "name": "Box-Kitchen International Ltd.",
+  "locality": "VICTORIA (GOZO)",
+  "status": "",
+  "registration_date": "Nov 21, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 600,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2,
+      "issued_shares": 600
+    }
+  ],
+  "total_authorised_shares": 600,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 600,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "Julia Anna Schneider\r",
+        "party_id": "                                                            E2266868",
+        "address": "Trappentreustr.43.1.RMunich80339GERMANY",
+        "nationality": "SWISS"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "Brando Industries Ltd.\r",
+        "party_id": "                                                            C 78080",
+        "address": "9ArchpriestSaverCassarStrretVICTORIA(GOZO)MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 600,
+          "paid_up_%": 20,
+          "nominal_value_per_share": 2
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Julia Anna Schneider\r",
+        "party_id": "                                                            E2266868",
+        "address": "Trappentreustr.43.1.RMunich80339GERMANY",
+        "nationality": "SWISS"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "Julia Anna Schneider\r",
+        "party_id": "                                                            E2266868",
+        "address": "Trappentreustr.43.1.RMunich80339GERMANY",
+        "nationality": "SWISS"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "Malcolm Meilak\r",
+        "party_id": "                                                            14379G",
+        "address": "MIRAntonioMalliaStreetVICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

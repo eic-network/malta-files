@@ -1,0 +1,97 @@
+{
+  "name": "AMUDA HOLDINGS LIMITED",
+  "total_issued_shares_value": 399415,
+  "total_authorised_shares_value": 399415,
+  "authorised_shares": [
+    {
+      "issued_shares": 399414,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 399414,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ADRIANO CEFAI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            309780M",
+        "address": "168,MAINSTREET,LIJAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "STUART MARSH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19105",
+        "address": "2,VERDALACOURTTRIQRASIL-QAWRA,QAWRAST.PAUL'SBAYSPB1622MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FIDES MANAGEMENT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 46932",
+        "address": "5/1,MERCHANTSSTREET,VALLETTAVLT1171MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AHMED GOUELI JAIAL\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            BD809590",
+        "address": "CALLEOLMON311A,MADRID28012SPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 399414
+        }
+      },
+      {
+        "name": "IAN DAVID WEBBER\r",
+        "nationality": "SPANISH",
+        "party_id": "                                                            AAD520984",
+        "address": "PLAZADEISABELII,1PRIMEROIZQ,MADRIDSPAIN",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 399415,
+  "address": "5/1 MERCHANTS STREET",
+  "company_id": "C 53830",
+  "registration_date": "Sep 13, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 399415
+}

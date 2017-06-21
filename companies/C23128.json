@@ -1,0 +1,51 @@
+{
+  "name": "A M I COMPANY LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "CORPORATE SERVICES LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 16898",
+        "address": "5,FLAT2MERCHANTSSTRVALLETTAVLT1171MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "5/2, MERCHANTS STREET",
+  "company_id": "C 23128",
+  "registration_date": "Jun 23, 1998",
+  "shares_currency": "USD",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

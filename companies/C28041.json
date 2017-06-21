@@ -1,0 +1,83 @@
+{
+  "name": "BERTONI EXPORT LIMITED",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "STUART P BLACKBURN\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            437884M",
+        "address": "PORTICOBUILDING,MARINASTREET,PIETA'MSD08MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JOSEPH P FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            668325M",
+        "address": "'EDINMAR',163,CHURCHAVENUE,PAOLAPLA05MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "PATRICK CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            981444M",
+        "address": "KRISTINA,TRIQTAL-FRANCIZ,SWIEQIMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "PATRICK CALLEJA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            981444M",
+        "address": "KRISTINA,TRIQTAL-FRANCIZ,SWIEQIMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1499
+        }
+      },
+      {
+        "name": "OSIRIS TRUST LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 36502",
+        "address": "4V.DIMECHSTREETFLORIANAFRN1504MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "PORTICO BUILDING, MARINA STREET,",
+  "company_id": "C 28041",
+  "registration_date": "Apr 12, 2001",
+  "shares_currency": "USD",
+  "locality": "PIETA'",
+  "status": "In Dissolution",
+  "total_authorised_shares": 1500
+}

@@ -1,0 +1,91 @@
+{
+  "name": "BLUEHORNE PROPERTIES LIMITED",
+  "total_issued_shares_value": 1000,
+  "total_authorised_shares_value": 1000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "Ordinary",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MARIA CARMELA BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            357468M",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MALCOLM MIFSUD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10605",
+        "address": "64,TRIQSANPAWL,RABATRBT1242MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VALDIR MANAGERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            16622",
+        "address": "SUITES7B&8B,50TOWNRANGE,GIBRALTARGIBRALTAR"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1000,
+  "address": "114, THE STRAND,",
+  "company_id": "C 33638",
+  "registration_date": "Apr 01, 2004",
+  "shares_currency": "GBP",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1000
+}

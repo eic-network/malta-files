@@ -1,0 +1,109 @@
+{
+  "name": "BLUE BAY LIMITED",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 5000,
+      "type": "Ordinary",
+      "authorised_share_capital": 5000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "MATTHEW PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605281M",
+        "address": "4,ALLEY5,STLUCYSTREET,NAXXARMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MATTHEW PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605281M",
+        "address": "4,ALLEY5,STLUCYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "SUZANNE WOLFE MARTIN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            112082A",
+        "address": "NO.9,FERRIES,67,BISAZZASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MATTHEW PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605281M",
+        "address": "4,ALLEY5,STLUCYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "SUZANNE WOLFE MARTIN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            112082A",
+        "address": "NO.9,FERRIES,67,BISAZZASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ZD ASSURANCE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            AB/2/14/11",
+        "address": "230,2NDFLOOR,EUCHARISTICCONGRESSROAD,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MATTHEW PARIS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            605281M",
+        "address": "4,ALLEY5,STLUCYSTREET,NAXXARMALTA"
+      },
+      {
+        "name": "SUZANNE WOLFE MARTIN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            112082A",
+        "address": "NO.9,FERRIES,67,BISAZZASTREET,SLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "NESBIT LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            109195",
+        "address": "SUITE925A,BLOCK8/9,EUROPORT,GIBRALTARGIBRALTAR",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 4999
+        }
+      },
+      {
+        "name": "SUZANNE WOLFE MARTIN\r",
+        "nationality": "SWISS",
+        "party_id": "                                                            112082A",
+        "address": "NO.9,FERRIES,67,BISAZZASTREET,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "189, MARINA SUITES, SUITE 8, MARINA STREET,",
+  "company_id": "C 60206",
+  "registration_date": "Apr 26, 2013",
+  "shares_currency": "EUR",
+  "locality": "PIETA'",
+  "status": "",
+  "total_authorised_shares": 5000
+}

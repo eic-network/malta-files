@@ -1,0 +1,70 @@
+{
+  "company_id": "C 61248",
+  "address": "APARTMENT 21, CHARLES COURT (SUITE 117), ST. LUKE'S ROAD,",
+  "name": "BOXPASS LTD",
+  "locality": "PIETA'",
+  "status": "",
+  "registration_date": "Jul 22, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "MICHELE CREMA\r",
+        "party_id": "                                                            G271875",
+        "address": "VIACERESIODELLASUVIGLIANA4,RUVIGLIANA,LUGANOSWITZERLAND",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VELAMIC SAGL\r",
+        "party_id": "                                                            CH-501.4.017.229-7",
+        "address": "VIARUVIGLIANA16,VIGANELLOCH-6962SWITZERLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MICHELE CREMA\r",
+        "party_id": "                                                            G271875",
+        "address": "VIACERESIODELLASUVIGLIANA4,RUVIGLIANA,LUGANOSWITZERLAND",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MICHELE CREMA\r",
+        "party_id": "                                                            G271875",
+        "address": "VIACERESIODELLASUVIGLIANA4,RUVIGLIANA,LUGANOSWITZERLAND",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PHILIPPE WARZEE\r",
+        "party_id": "                                                            28471A",
+        "address": "1,TRIQL-IZBARKTAL-FRANCIZI,BAHARIC-CAGHAQ,NAXXARNXR5050MALTA",
+        "nationality": "FRENCH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "BATES CAPITAL LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1200,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARIE LOUISE ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            275579M",
+        "address": "5B,TRIQMONS.MIKIELAZZOPARDISIGGIEWIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "TRIDENT CORPORATE SERVICES (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 58816",
+        "address": "THECORNERSTONECOMPLEX,LEVEL3,SUITE3,16THSEPTEMBERSQUARE,MOSTAMST1180MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RAFAEL RODRIGUES ALVES DA ROCHA\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            M801652",
+        "address": "RUADEDONAESTEFANIA1352ESQLISBOALX1000-153PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE CORNERSTONE COMPLEX, LEVEL 3 - SUITE 3 16TH SEPTEMBER SQUARE",
+  "company_id": "C 76770",
+  "registration_date": "Aug 05, 2016",
+  "shares_currency": "EUR",
+  "locality": "MOSTA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

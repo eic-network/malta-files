@@ -1,0 +1,99 @@
+{
+  "company_id": "C 10856",
+  "address": "26, LIGHTERS WHARF",
+  "name": "BORG CARDONA IMPORTS LIMITED",
+  "locality": "MARSA",
+  "status": "In Dissolution",
+  "registration_date": "Jul 28, 1989",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 1000
+    }
+  ],
+  "total_authorised_shares": 1000,
+  "total_authorised_shares_value": 2329.37,
+  "total_issued_shares": 1000,
+  "total_issued_shares_value": 2329.37,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "CHRISTOPHER H BORG CARDONA\r",
+        "party_id": "                                                            643751M",
+        "address": "ZANIRA,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDMOND BARTOLO\r",
+        "party_id": "                                                            53565M",
+        "address": "54,STARISTRIUSSTREETRABATMALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "CHRISTOPHER H BORG CARDONA\r",
+        "party_id": "                                                            643751M",
+        "address": "ZANIRA,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 999,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "CHRISTOPHER H BORG CARDONA\r",
+        "party_id": "                                                            643751M",
+        "address": "ZANIRA,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "CHRISTOPHER H BORG CARDONA\r",
+        "party_id": "                                                            643751M",
+        "address": "ZANIRA,BALZANVALLEY,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KENNETH C PULLICINO\r",
+        "party_id": "                                                            356667M",
+        "address": "492,COL.LORENZOMANCHESTREET,PEMBROKESTJ07MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "FRANCIS BUTTIGIEG\r",
+        "party_id": "                                                            397159M",
+        "address": "HACIENDA,28,TRIQIL-PLUVIERA,SANGWANNMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JPMC\r",
+        "party_id": "                                                            AB/26/84/66",
+        "address": "105,PSAILASTREET,BIRKIRKARAMALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

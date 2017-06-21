@@ -1,0 +1,67 @@
+{
+  "name": "A & M CONSULTANCY AND SERVICES",
+  "total_issued_shares_value": 2330,
+  "total_authorised_shares_value": 2330,
+  "authorised_shares": [
+    {
+      "issued_shares": 1000,
+      "type": "",
+      "authorised_share_capital": 2330,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "name": "VINCENT MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286747M",
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN1929MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "VINCENT MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286747M",
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN1929MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CHRISTINE ANN DEGIORGIO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            254171M",
+        "address": "59,LEERBACHSTRASSE,FRANKFURTAMMAINGERMANY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "VINCENT MERCIECA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            286747M",
+        "address": "JIREH,TRIQIL-BIES,SANGWANNSGN1929MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "",
+          "class": "",
+          "issued_shares": 999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2330,
+  "address": "45, TRIQ IL-BIES,",
+  "company_id": "P COMM 105",
+  "registration_date": "Jan 15, 2013",
+  "shares_currency": "EUR",
+  "locality": "SAN GWANN",
+  "status": "",
+  "total_authorised_shares": 2330
+}

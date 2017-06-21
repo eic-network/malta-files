@@ -1,0 +1,160 @@
+{
+  "name": "BENCINI HOLDINGS LIMITED",
+  "total_issued_shares_value": 46587.46,
+  "total_authorised_shares_value": 116468.65,
+  "authorised_shares": [
+    {
+      "issued_shares": 10010,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 10010,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9990,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 9990,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "EDWARD BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00246M",
+        "address": "2642,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "EDWARD BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00246M",
+        "address": "2642,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "EDWARD BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00246M",
+        "address": "2642,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      },
+      {
+        "name": "KEVIN BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280475M",
+        "address": "62,SPINOLAROAD,SPINOLAST.JULIANSMALTA"
+      },
+      {
+        "name": "MARK BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528475M",
+        "address": "FLAT6,168,TOWERROAD,SLIEMAMALTA"
+      },
+      {
+        "name": "NATHALIE BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            885052M",
+        "address": "2642PORTOMASOST.JULIANSMALTA"
+      },
+      {
+        "name": "SUSAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20581M",
+        "address": "FLAT4,168,TOWERROAD,SLIEMAMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "JOHN CARUANA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19939",
+        "address": "78,CHATEAUDESLOIRS,G'MANGIAHILL,G'MANGIAPIETA'PTA1314MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "EDWARD BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00246M",
+        "address": "2642,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "EDWARD BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            00246M",
+        "address": "2642,PORTOMASO,VJALPORTOMASO,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5005
+        }
+      },
+      {
+        "name": "NATHALIE BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            885052M",
+        "address": "2642PORTOMASOST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5005
+        }
+      },
+      {
+        "name": "KEVIN BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            280475M",
+        "address": "10,HIGHRIDGERESIDENCE,TRIQIL-PEDIDALOUETTE,MADLIENA,SWIEQIMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3330
+        }
+      },
+      {
+        "name": "MARK BENCINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            528475M",
+        "address": "FLAT6,168,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3330
+        }
+      },
+      {
+        "name": "SUSAN SCIBERRAS\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            20581M",
+        "address": "FLAT4,168,TOWERROAD,SLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 3330
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 20000,
+  "address": "2642, PORTOMASO, VJAL PORTOMASO,",
+  "company_id": "C 8902",
+  "registration_date": "Jul 22, 1987",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "total_authorised_shares": 50000
+}

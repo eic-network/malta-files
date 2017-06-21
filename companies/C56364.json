@@ -1,0 +1,109 @@
+{
+  "company_id": "C 56364",
+  "address": "85, ST. JOHN STREET,",
+  "name": "BRICKSTONE HOLDING LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "May 17, 2012",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "LUIGI PESCE\r",
+        "party_id": "                                                            YA1915699",
+        "address": "VIAGIUSEPPEMAZZINI116,VILLAFRANCADIVERONA,VERONA37069ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "DANIELE ZUFFADA\r",
+        "party_id": "                                                            C697985",
+        "address": "VIACARSO,22,PAILLO,MILANO20067ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "LUIGI PESCE\r",
+        "party_id": "                                                            YA1915699",
+        "address": "VIAGIUSEPPEMAZZINI116,VILLAFRANCADIVERONA,VERONA37069ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 804,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "DANIELE ZUFFADA\r",
+        "party_id": "                                                            C697985",
+        "address": "VIACARSO,22,PAILLO,MILANO20067ITALY",
+        "nationality": "ITALIAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 396,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUIGI PESCE\r",
+        "party_id": "                                                            YA1915699",
+        "address": "VIAGIUSEPPEMAZZINI116,VILLAFRANCADIVERONA,VERONA37069ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "DANIELE ZUFFADA\r",
+        "party_id": "                                                            C697985",
+        "address": "VIACARSO,22,PAILLO,MILANO20067ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "LUIGI PESCE\r",
+        "party_id": "                                                            YA1915699",
+        "address": "VIAGIUSEPPEMAZZINI116,VILLAFRANCADIVERONA,VERONA37069ITALY",
+        "nationality": "ITALIAN"
+      },
+      {
+        "name": "DANIELE ZUFFADA\r",
+        "party_id": "                                                            C697985",
+        "address": "VIACARSO,22,PAILLO,MILANO20067ITALY",
+        "nationality": "ITALIAN"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ADRIAN MERCIECA\r",
+        "party_id": "                                                            663682M",
+        "address": "85,ST.JOHNSTREET,VALLETTAVLT1165MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "PRICEWATERHOUSECOOPERS\r",
+        "party_id": "                                                             AB/26/84/38",
+        "address": "78MILLSTREETQORMIQRM3101MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

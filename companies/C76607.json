@@ -1,0 +1,113 @@
+{
+  "name": "BENVILLE PROPERTIES LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 1199,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1199,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "LUCIANO DE MELO FIGUEIREDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FG521742",
+        "address": "NO.6,RUADOJASMIN,2ESQUERDOLISBOAPORTUGAL"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "LUCIANO DE MELO FIGUEIREDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FG521742",
+        "address": "NO.6,RUADOJASMIN,2ESQUERDOLISBOAPORTUGAL"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "MARCO BUGELLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            31171M",
+        "address": "2,'THECOTTAGE',TRIQHANNIBAL,ATTARDATD3111MALTA"
+      },
+      {
+        "name": "ALISTAIR SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            143785M",
+        "address": "15,MALAHIDE,TRIQIL-KAHWIELA,SANTALUCIJASLC1832MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "Stravi Management Limited\r",
+        "nationality": "",
+        "party_id": "                                                            C 52997",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA"
+      },
+      {
+        "name": "LUCIANO DE MELO FIGUEIREDO\r",
+        "nationality": "BRASILIAN",
+        "party_id": "                                                            FG521742",
+        "address": "NO.6,RUADOJASMIN,2ESQUERDOLISBOAPORTUGAL"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JALLGO LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 76292",
+        "address": "114THESTRANDGZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "VISTRA (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 28629",
+        "address": "114,THESTRAND,GZIRAGZR1027MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "114 THE STRAND",
+  "company_id": "C 76607",
+  "registration_date": "Aug 26, 2016",
+  "shares_currency": "EUR",
+  "locality": "GZIRA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

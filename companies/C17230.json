@@ -1,0 +1,110 @@
+{
+  "name": "A. ZAHRA & SON LIMITED",
+  "total_issued_shares_value": 6988.12,
+  "total_authorised_shares_value": 6988.12,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414284M",
+        "address": "26,DAYCA,FLAT2,QORMIROAD,SANTAVENERASVR1304MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414284M",
+        "address": "26,DAYCA,FLAT2,QORMIROAD,SANTAVENERASVR1304MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414284M",
+        "address": "26,DAYCA,FLAT2,QORMIROAD,SANTAVENERASVR1304MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "DFK (Malta) Farrugia, Farrugia & Co\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/18",
+        "address": "36/2ManolMansions,VjaldePauleBALZANMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414284M",
+        "address": "26,DAYCA,FLAT2,QORMIROAD,SANTAVENERASVR1304MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ANGELO ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            1030644M",
+        "address": "TORONTO,PARISHPRIESTMIFSUDSTREET,HAMRUNHMR1854MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1400
+        }
+      },
+      {
+        "name": "MARY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            425141M",
+        "address": "TORONTO,PARISHPRIESTMIFSUDSTREET,HAMRUNHMR1854MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 100
+        }
+      },
+      {
+        "name": "ANTHONY ZAHRA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            414284M",
+        "address": "26,DAYCA,FLAT2,QORMIROAD,SANTAVENERASVR1304MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "TORONTO, PARISH PRIEST MIFSUD STREET,",
+  "company_id": "C 17230",
+  "registration_date": "Dec 15, 1994",
+  "shares_currency": "EUR",
+  "locality": "HAMRUN",
+  "status": "",
+  "total_authorised_shares": 3000
+}

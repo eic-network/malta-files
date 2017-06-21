@@ -1,0 +1,142 @@
+{
+  "name": "ALRise International Limited",
+  "total_issued_shares_value": 1502,
+  "total_authorised_shares_value": 5000,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 4978,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 1,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "IVAN GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            93967M",
+        "address": "35,FL6,TRIQSANFEDERIKU,VALLETTAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KEVIN F DINGLI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            664359M",
+        "address": "SARDINELLA,TREJQETALBERTM.CASSOLA,SWIEQIMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTONIO FRANCISCO BISPO ASCENCAO LAGARTIXO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            098251414ZZ7",
+        "address": "RUAD.JORGEDACOSTANO.12,TORREA,11ANDAR,LISBOA1400423PORTUGAL"
+      },
+      {
+        "name": "TONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            260360M",
+        "address": "SARDINELLA,203,TUNISROAD,PEMBROKEMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ANTONIO FRANCISCO BISPO ASCENCAO LAGARTIXO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            098251414ZZ7",
+        "address": "RUAD.JORGEDACOSTANO.12,TORREA,11ANDAR,LISBOA1400423PORTUGAL"
+      },
+      {
+        "name": "TONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            260360M",
+        "address": "SARDINELLA,203,TUNISROAD,PEMBROKEMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTONIO FRANCISCO BISPO ASCENCAO LAGARTIXO\r",
+        "nationality": "PORTUGUESE",
+        "party_id": "                                                            098251414ZZ7",
+        "address": "RUAD.JORGEDACOSTANO.12,TORREA,11ANDAR,LISBOA1400423PORTUGAL"
+      },
+      {
+        "name": "TONIO GRECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            260360M",
+        "address": "SARDINELLA,203,TUNISROAD,PEMBROKEMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "RITNOR- INVESTIMENTOS E CONSULTORIA, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            513025731",
+        "address": "RUADOMJORGEDACOSTA,NO12,TORREA,11.ANDAR,BELEMLISBON1400414PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500
+        }
+      },
+      {
+        "name": "SML CONSULTORIA EMPRESARIAL LTDA.,\r",
+        "nationality": "",
+        "party_id": "                                                            20.238.693/0001-62",
+        "address": "CALCADADASMARGARIDAS,163-ROOM02,ALPHAVILLECOMMERCIALCENTRE,ALPHAVILLEBARUERI,SAOPAULOCEP06453-038BRAZIL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "Maths4all, S.A.\r",
+        "nationality": "",
+        "party_id": "                                                            513249826",
+        "address": "RUADASAGUNCHEIRAS,FRACCAOCCASAISDAAZOIA,CC11652,SETUBALSESIMBRA2970254PORTUGAL",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1502,
+  "address": "WEST END BUILDINGS, 18/2, SOUTH STREET,",
+  "company_id": "C 58702",
+  "registration_date": "Dec 19, 2012",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 5000
+}

@@ -1,0 +1,109 @@
+{
+  "name": "BERNER MALTA LIMITED",
+  "total_issued_shares_value": 150000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 150000,
+      "type": "Ordinary",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ROBERT ZAMMIT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            564481M",
+        "address": "9,TWILIGHT,TRIQL-ISQOFTOMMASOGARGALLO,MOSTAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "MALCOLM SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            425165M",
+        "address": "KALANKA,TRIQIL-FOSSILI,BIRZEBBUGIABBG1143MALTA"
+      },
+      {
+        "name": "ALFIO SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596048M",
+        "address": "11,SOPHIASTREET,COSPICUABML1822MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "MALCOLM SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            425165M",
+        "address": "KALANKA,TRIQIL-FOSSILI,BIRZEBBUGIABBG1143MALTA"
+      },
+      {
+        "name": "ALFIO SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596048M",
+        "address": "11,SOPHIASTREET,COSPICUABML1822MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "NEXIA BT\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/61",
+        "address": "THEPENTHOUSE,SUITE2,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "MALCOLM SCERRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            425165M",
+        "address": "KALANKA,TRIQIL-FOSSILI,BIRZEBBUGIABBG1143MALTA"
+      },
+      {
+        "name": "ALFIO SCHEMBRI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            596048M",
+        "address": "11,SOPHIASTREET,COSPICUABML1822MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "KASCO HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 17886",
+        "address": "2,ST.JOHNELEMOSINERSTREET,COSPICUABML9051MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 75000
+        }
+      },
+      {
+        "name": "THOUGHTZONE LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 63174",
+        "address": "KALANKA,TRIQIL-FOSSILI,BIRZEBBUGIABBG1143MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 75000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "2, ST. JOHN ELEMOSINER STREET,",
+  "company_id": "C 60364",
+  "registration_date": "May 08, 2013",
+  "shares_currency": "EUR",
+  "locality": "COSPICUA",
+  "status": "",
+  "total_authorised_shares": 150000
+}

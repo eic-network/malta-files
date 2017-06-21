@@ -1,0 +1,70 @@
+{
+  "name": "BELLA G HOLDINGS LIMITED",
+  "total_issued_shares_value": 23293.73,
+  "total_authorised_shares_value": 23293.73,
+  "authorised_shares": [
+    {
+      "issued_shares": 80,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 80,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 9920,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 9920,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "JOSEPH FERRIGGI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            330932M",
+        "address": "4,BLOCK3,GHERIEXEMSTREET,RABATRBT05MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 80
+        }
+      },
+      {
+        "name": "ALISON FERRIGGI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            535484M",
+        "address": "VILLAJIBELLA,G.GANADOSTREET,TAL-VIRTU,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4960
+        }
+      },
+      {
+        "name": "BRENDA LEE FERRIGGI",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "VILLAJIBELLA,G.GANADOSTREET,TAL-VIRTU,RABATMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 4960
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 10000,
+  "address": "4, BLOCK 3, GHEXIEREM STREET,",
+  "company_id": "C 21665",
+  "registration_date": "Jul 16, 1997",
+  "shares_currency": "EUR",
+  "locality": "RABAT",
+  "status": "",
+  "total_authorised_shares": 10000
+}

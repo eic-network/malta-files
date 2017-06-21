@@ -1,0 +1,83 @@
+{
+  "name": "ANGLO ASSURED ADMINISTRATION LIMITED",
+  "total_issued_shares_value": 39500,
+  "total_authorised_shares_value": 50000,
+  "authorised_shares": [
+    {
+      "issued_shares": 39500,
+      "type": "Ordinary",
+      "authorised_share_capital": 50000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "RICHARD THOMAS LEE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            060150220",
+        "address": "177ATOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "RICHARD THOMAS LEE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            060150220",
+        "address": "177ATOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "RICHARD THOMAS LEE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            060150220",
+        "address": "177ATOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "RICHARD THOMAS LEE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            060150220",
+        "address": "177ATOWERROADSLIEMAMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JOHN CUTHBERT\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            740212167",
+        "address": "177ATOWERROADSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "RICHARD THOMAS LEE\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            060150220",
+        "address": "177ATOWERROADSLIEMAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 39499
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 39500,
+  "address": "177A TOWER ROAD",
+  "company_id": "C 30436",
+  "registration_date": "Nov 01, 2002",
+  "shares_currency": "GBP",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 50000
+}

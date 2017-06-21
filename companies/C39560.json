@@ -1,0 +1,159 @@
+{
+  "name": "ANEW LIFE MALTA LTD",
+  "total_issued_shares_value": 4658.75,
+  "total_authorised_shares_value": 4658.75,
+  "authorised_shares": [
+    {
+      "issued_shares": 980,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 980,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 1020,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1020,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "GIUSEPPE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "TAL-BONZU,TRIQL-IMGHAZELSWIEQISWQ3141MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10959M",
+        "address": "MORNINGSTAR,27,VICTORYSTREET,QORMIQRM2500MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEF GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168276M",
+        "address": "51,TRIQALFONSMARIJAGALEA,IKLINMALTA"
+      },
+      {
+        "name": "CARMEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10959M",
+        "address": "MORNINGSTAR,27,VICTORYSTREET,QORMIQRM2500MALTA"
+      },
+      {
+        "name": "CAROLINE MARY TWISS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            303874036",
+        "address": "7,CLAYTONECLOSE,OAKLEYFIELDS,CREWE,CHESHIRECW1300UNITEDKINGDOM"
+      },
+      {
+        "name": "CAROLE ZAMMIT MONTEBELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455583M",
+        "address": "33,THREECHURCHESSTREET,BALZANMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "JOSEF GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168276M",
+        "address": "51,TRIQALFONSMARIJAGALEA,IKLINMALTA"
+      },
+      {
+        "name": "CARMEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10959M",
+        "address": "MORNINGSTAR,27,VICTORYSTREET,QORMIQRM2500MALTA"
+      },
+      {
+        "name": "CAROLINE MARY TWISS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            303874036",
+        "address": "7,CLAYTONECLOSE,OAKLEYFIELDS,CREWE,CHESHIRECW1300UNITEDKINGDOM"
+      },
+      {
+        "name": "CAROLE ZAMMIT MONTEBELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455583M",
+        "address": "33,THREECHURCHESSTREET,BALZANMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEF GRIXTI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            168276M",
+        "address": "51,TRIQALFONSMARIJAGALEA,IKLINMALTA"
+      },
+      {
+        "name": "CARMEL SCICLUNA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10959M",
+        "address": "MORNINGSTAR,27,VICTORYSTREET,QORMIQRM2500MALTA"
+      },
+      {
+        "name": "CAROLINE MARY TWISS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            303874036",
+        "address": "7,CLAYTONECLOSE,OAKLEYFIELDS,CREWE,CHESHIRECW1300UNITEDKINGDOM"
+      },
+      {
+        "name": "CAROLE ZAMMIT MONTEBELLO\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            455583M",
+        "address": "33,THREECHURCHESSTREET,BALZANMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CAROLINE MARY TWISS\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            303874036",
+        "address": "7,CLAYTONECLOSE,OAKLEYFIELDS,CREWE,CHESHIRECW1300UNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 980
+        }
+      },
+      {
+        "name": "GEORGE FENECH\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            812351M",
+        "address": "APARTMENT1152,PORTOMASO,ST.JULIANSPTM01MALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1020
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 2000,
+  "address": "BOX 22, PORTOMASO BUSINESS TOWER, PORTOMASO,",
+  "company_id": "C 39560",
+  "registration_date": "Sep 19, 2006",
+  "shares_currency": "EUR",
+  "locality": "ST. JULIANS",
+  "status": "In Dissolution",
+  "total_authorised_shares": 2000
+}

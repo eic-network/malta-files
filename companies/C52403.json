@@ -1,0 +1,152 @@
+{
+  "name": "BDC MANAGEMENT SERVICES LTD",
+  "total_issued_shares_value": 5000,
+  "total_authorised_shares_value": 10000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 6000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryC",
+      "authorised_share_capital": 2000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Legal Representatives": [
+      {
+        "name": "DAVID J BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186471M",
+        "address": "8,BAYSTEPSMANSIONS,BAYJUNCTION,ST.JULIANSMALTA"
+      },
+      {
+        "name": "VINCENT ANTHONY MARMARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133184M",
+        "address": "13,CASAMARMARA,PLOT117,KANGUSTREET,ZURRIEQMALTA"
+      },
+      {
+        "name": "ANTHONY ZARB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136355M",
+        "address": "BLOCKE,NO.56,TA'GANZA,ZEJTUNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "DAVID J BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186471M",
+        "address": "8,BAYSTEPSMANSIONS,BAYJUNCTION,ST.JULIANSMALTA"
+      },
+      {
+        "name": "VINCENT ANTHONY MARMARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133184M",
+        "address": "13,CASAMARMARA,PLOT117,KANGUSTREET,ZURRIEQMALTA"
+      },
+      {
+        "name": "ANTHONY ZARB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136355M",
+        "address": "BLOCKE,NO.56,TA'GANZA,ZEJTUNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GWU HOLDINGS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 20877",
+        "address": "WORKERS'MEMORIALBUILDING,SOUTHSTREET,VALLETTAMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 3000
+        }
+      },
+      {
+        "name": "DAVID J BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186471M",
+        "address": "8,BAYSTEPSMANSIONS,TRIQALFREDGAUCI,ST.JULIANSMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "VINCENT ANTHONY MARMARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133184M",
+        "address": "13,CASAMARMARA,PLOT117,KANGUSTREET,ZURRIEQMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "C",
+          "issued_shares": 1000
+        }
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "GIORGIO & PARTNERS\r",
+        "nationality": "",
+        "party_id": "                                                            AB/26/84/57",
+        "address": "REGENTHOUSE,61BISAZZASTREET,SLIEMASLM1641MALTA"
+      }
+    ],
+    "Liquidators": [
+      {
+        "name": "ALEXANDER VALENZIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            404662M",
+        "address": "NUMBER3,FLAT2,TRIQSALVUAQUILINA,MOSTAMALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "DAVID J BORG\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            186471M",
+        "address": "8,BAYSTEPSMANSIONS,BAYJUNCTION,ST.JULIANSMALTA"
+      },
+      {
+        "name": "VINCENT ANTHONY MARMARA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            133184M",
+        "address": "13,CASAMARMARA,PLOT117,KANGUSTREET,ZURRIEQMALTA"
+      },
+      {
+        "name": "ANTHONY ZARB\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            136355M",
+        "address": "BLOCKE,NO.56,TA'GANZA,ZEJTUNMALTA"
+      }
+    ]
+  },
+  "total_issued_shares": 5000,
+  "address": "WMB, TRIQ IN-NOFSHINAR,",
+  "company_id": "C 52403",
+  "registration_date": "Mar 29, 2011",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 10000
+}

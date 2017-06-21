@@ -1,0 +1,88 @@
+{
+  "name": "BLUNET LIMITED",
+  "total_issued_shares_value": 3000,
+  "total_authorised_shares_value": 12000,
+  "authorised_shares": [
+    {
+      "issued_shares": 3000,
+      "type": "Ordinary",
+      "authorised_share_capital": 12000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "LUIGI SEBASTIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            149219P",
+        "address": "VIACONTIGLIANO,15-02100RIETIITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "LUIGI SEBASTIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            149219P",
+        "address": "VIACONTIGLIANO,15-02100RIETIITALY"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "LUIGI SEBASTIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            149219P",
+        "address": "VIACONTIGLIANO,15-02100RIETIITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "MAURIZIO MANELFI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            716948B",
+        "address": "VIALARGOA.STAMENO.5,RIETIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "ERCOLE MARCHESCHI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            035474R",
+        "address": "VIAGUAZZARONINO.28,05100TERNIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      },
+      {
+        "name": "LUIGI SEBASTIANI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            149219P",
+        "address": "VIACONTIGLIANO,15-02100RIETIITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 3000,
+  "address": "OFFICE 21, REGENT HOUSE, BISAZZA STREET,",
+  "company_id": "C 32083",
+  "registration_date": "Sep 17, 2003",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 12000
+}

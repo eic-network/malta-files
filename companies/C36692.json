@@ -1,0 +1,115 @@
+{
+  "name": "Betsi Ltd.",
+  "total_issued_shares_value": 6572000,
+  "total_authorised_shares_value": 10000000,
+  "authorised_shares": [
+    {
+      "issued_shares": 6571999,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 9990000,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 10000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "ALAN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3881M",
+        "address": "GREYSTONECOURTBLOCKA,FLAT7,KLARISSISTREET,ST.JULIANSMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALAN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3881M",
+        "address": "GREYSTONECOURTBLOCKA,FLAT7,KLARISSISTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GIUSEPPE TARRICONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5001498",
+        "address": "VIAFONTANILESNCMUROLUCANO(PZ)85054ITALY"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALAN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3881M",
+        "address": "GREYSTONECOURTBLOCKA,FLAT7,KLARISSISTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GIUSEPPE TARRICONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5001498",
+        "address": "VIAFONTANILESNCMUROLUCANO(PZ)85054ITALY"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "FRANK GOLLCHER\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            19027",
+        "address": "TA'GOLLIE,TRIQJOHNBUONTEMPO,THEVILLAGE,ST.JULIANSSTJ1803MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALAN ATTARD\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            3881M",
+        "address": "GREYSTONECOURTBLOCKA,FLAT7,KLARISSISTREET,ST.JULIANSMALTA"
+      },
+      {
+        "name": "GIUSEPPE TARRICONE\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AA5001498",
+        "address": "VIAFONTANILESNCMUROLUCANO(PZ)85054ITALY"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "T & T FINANZIARIA S.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            08425221002",
+        "address": "VIALEGRANSASSO23MILANO20131ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1500000
+        }
+      },
+      {
+        "name": "MEDIA SYSTEM TECHNOLOGIES S.R.L.\r",
+        "nationality": "",
+        "party_id": "                                                            138534",
+        "address": "ZONAINDUSTRIALEDIBARAGIANOBALVANO(PZ)85050ITALY",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 5071999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 6572000,
+  "address": "16, BRAMCOTE FUQ IL-GONNA",
+  "company_id": "C 36692",
+  "registration_date": "Jul 26, 2005",
+  "shares_currency": "EUR",
+  "locality": "SWIEQI",
+  "status": "",
+  "total_authorised_shares": 10000000
+}

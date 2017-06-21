@@ -1,0 +1,38 @@
+{
+  "name": "AUSE ITALY LIMITED",
+  "total_issued_shares_value": 1250,
+  "total_authorised_shares_value": 1250,
+  "authorised_shares": [
+    {
+      "issued_shares": 500,
+      "type": "Ordinary",
+      "authorised_share_capital": 500,
+      "nominal_value_per_share": 2.5
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "SERGIO ALLEGRETTI\r",
+        "nationality": "ITALIAN",
+        "party_id": "                                                            AB4675365",
+        "address": "VIAVODICE3,TERNI05100ITALY",
+        "shares": {
+          "nominal_value_per_share": 2.5,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 500
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 500,
+  "address": "84, ST. FRANCIS STREET,",
+  "company_id": "C 30285",
+  "registration_date": "Oct 02, 2002",
+  "shares_currency": "EUR",
+  "locality": "BALZAN",
+  "status": "",
+  "total_authorised_shares": 500
+}

@@ -1,0 +1,70 @@
+{
+  "company_id": "C 60107",
+  "address": "OFFICE 2, SUITE 2, THE PENTHOUSE, CAPITAL BUSINESS CENTRE, ENTRANCE C, TRIQ TAZ-ZWEJT,",
+  "name": "Brompton Limited",
+  "locality": "SAN GWANN",
+  "status": "",
+  "registration_date": "Apr 22, 2013",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1743,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1743
+    }
+  ],
+  "total_authorised_shares": 1743,
+  "total_authorised_shares_value": 1743,
+  "total_issued_shares": 1743,
+  "total_issued_shares_value": 1743,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "BRIAN TONNA\r",
+        "party_id": "                                                            316764M",
+        "address": "DELANOFLATS,FLAT6,TRIQHURDSBANK,ZONQORPOINT,MARSASCALAMSD1502MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "HIGH MOUNTAIN ESTATES LIMITED\r",
+        "party_id": "                                                            C 60066",
+        "address": "OFFICE2,SUITE2,THEPENTHOUSE,CAPITALBUSINESSCENTRE,ENTRANCEC,TRIQTAZ-ZWEJT,SANGWANNSGN3000MALTA",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1743,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "BRIAN TONNA\r",
+        "party_id": "                                                            316764M",
+        "address": "DELANOFLATS,FLAT6,TRIQHURDSBANK,ZONQORPOINT,MARSASCALAMSD1502MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "BRIAN TONNA\r",
+        "party_id": "                                                            316764M",
+        "address": "DELANOFLATS,FLAT6,TRIQHURDSBANK,ZONQORPOINT,MARSASCALAMSD1502MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "KARL CINI\r",
+        "party_id": "                                                            136975M",
+        "address": "21,VILLAFERMAUXCOMPLEX,TRIQSANTAKATARINA,ZEJTUNZTN1812MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

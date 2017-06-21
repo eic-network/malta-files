@@ -1,0 +1,139 @@
+{
+  "company_id": "C 44373",
+  "address": "125B/6, ST GEORGE'S ROAD,",
+  "name": "BRIGGS LIBYA LTD",
+  "locality": "ST. JULIANS",
+  "status": "",
+  "registration_date": "Jun 03, 2008",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1650,
+      "type": "OrdinaryA",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1650
+    },
+    {
+      "authorised_share_capital": 200,
+      "type": "OrdinaryB",
+      "nominal_value_per_share": 1,
+      "issued_shares": 200
+    },
+    {
+      "authorised_share_capital": 150,
+      "type": "OrdinaryC",
+      "nominal_value_per_share": 1,
+      "issued_shares": 150
+    }
+  ],
+  "total_authorised_shares": 2000,
+  "total_authorised_shares_value": 2000,
+  "total_issued_shares": 2000,
+  "total_issued_shares_value": 2000,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JOSEPH BORG\r",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SALEM SALEH KUKAN\r",
+        "party_id": "                                                            372989",
+        "address": "GURGISTREET,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "PAUL PISANI\r",
+        "party_id": "                                                            887450M",
+        "address": "CASAPISANITRIQIL-GILJUVICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "AOST GROUP LTD\r",
+        "party_id": "                                                            7072467",
+        "address": "THECLOCKHOUSE,140LONDONROAD,GUILDFORD,SURREYGU11UWENGLAND",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 1650,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      },
+      {
+        "name": "SALEM SALEH KUKAN\r",
+        "party_id": "                                                            372989",
+        "address": "GURGISTREET,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN",
+        "shares": {
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SALEM SALEH KUKAN\r",
+        "party_id": "                                                            372989",
+        "address": "GURGISTREET,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "PAUL PISANI\r",
+        "party_id": "                                                            887450M",
+        "address": "CASAPISANITRIQIL-GILJUVICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JOSEPH BORG\r",
+        "party_id": "                                                            234665M",
+        "address": "231,TOWERSTREET,MOSTAMST3507MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "SALEM SALEH KUKAN\r",
+        "party_id": "                                                            372989",
+        "address": "GURGISTREET,TRIPOLISTATEOFLIBYA",
+        "nationality": "LIBYAN"
+      },
+      {
+        "name": "PAUL PISANI\r",
+        "party_id": "                                                            887450M",
+        "address": "CASAPISANITRIQIL-GILJUVICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "PAUL PISANI\r",
+        "party_id": "                                                            887450M",
+        "address": "CASAPISANITRIQIL-GILJUVICTORIA(GOZO)MALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SPITERI BAILEY & CO\r",
+        "party_id": "                                                            AB/26/84/48",
+        "address": "TRIQDUNKARM,BIRKIRKARABY-PASS,BIRKIRKARABKR9038MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

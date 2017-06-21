@@ -1,0 +1,83 @@
+{
+  "name": "ARREDONDO LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1200,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "GILBERT MARIO ARREDONDO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            433742691",
+        "address": "776BUSHSTREETAPT.607,SANFRANCISCOCA94108UNITEDSTATES"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "GILBERT MARIO ARREDONDO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            433742691",
+        "address": "776BUSHSTREETAPT.607,SANFRANCISCOCA94108UNITEDSTATES"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "GILBERT MARIO ARREDONDO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            433742691",
+        "address": "776BUSHSTREETAPT.607,SANFRANCISCOCA94108UNITEDSTATES"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "GILBERT MARIO ARREDONDO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            433742691",
+        "address": "776BUSHSTREETAPT.607,SANFRANCISCOCA94108UNITEDSTATES"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "GILBERT MARIO ARREDONDO\r",
+        "nationality": "AMERICAN",
+        "party_id": "                                                            433742691",
+        "address": "776BUSHSTREETAPT.607,SANFRANCISCOCA94108UNITEDSTATES",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1199
+        }
+      },
+      {
+        "name": "VICTORIA SPITERI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            0928677",
+        "address": "CAMELIAFLATS,NO.2,TRIQIN-NISSIEGNAXXARMALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "CAMELIA FLATS, NO. 2, TRIQ IN-NISSIEG",
+  "company_id": "C 52920",
+  "registration_date": "May 23, 2011",
+  "shares_currency": "EUR",
+  "locality": "NAXXAR",
+  "status": "",
+  "total_authorised_shares": 1500
+}

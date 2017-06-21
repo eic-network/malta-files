@@ -1,0 +1,107 @@
+{
+  "name": "4 YACHT CARE LTD.",
+  "total_issued_shares_value": 1500,
+  "total_authorised_shares_value": 1500,
+  "authorised_shares": [
+    {
+      "issued_shares": 1500,
+      "type": "Ordinary",
+      "authorised_share_capital": 1500,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Judicial Representatives": [
+      {
+        "name": "VIRGINIE BOTTET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AF81458",
+        "address": "15CLOSPERAULTATHISMONS91200FRANCE"
+      },
+      {
+        "name": "JULIEN REICHENECKER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AC29203",
+        "address": "15,CLOSPERAULTATHISMONS91200FRANCE"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "VIRGINIE BOTTET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AF81458",
+        "address": "15CLOSPERAULTATHISMONS91200FRANCE"
+      },
+      {
+        "name": "JULIEN REICHENECKER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AC29203",
+        "address": "15,CLOSPERAULTATHISMONS91200FRANCE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "VIRGINIE BOTTET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AF81458",
+        "address": "15CLOSPERAULTATHISMONS91200FRANCE"
+      },
+      {
+        "name": "JULIEN REICHENECKER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AC29203",
+        "address": "15,CLOSPERAULTATHISMONS91200FRANCE"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "VIRGINIE BOTTET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AF81458",
+        "address": "15CLOSPERAULTATHISMONS91200FRANCE"
+      },
+      {
+        "name": "JULIEN REICHENECKER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AC29203",
+        "address": "15,CLOSPERAULTATHISMONS91200FRANCE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "VIRGINIE BOTTET\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AF81458",
+        "address": "15CLOSPERAULTATHISMONS91200FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      },
+      {
+        "name": "JULIEN REICHENECKER\r",
+        "nationality": "FRENCH",
+        "party_id": "                                                            13AC29203",
+        "address": "15,CLOSPERAULTATHISMONS91200FRANCE",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 750
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1500,
+  "address": "1A ST. MARK'S STREET",
+  "company_id": "C 65528",
+  "registration_date": "Jul 02, 2014",
+  "shares_currency": "EUR",
+  "locality": "VALLETTA",
+  "status": "",
+  "total_authorised_shares": 1500
+}

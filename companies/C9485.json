@@ -1,0 +1,78 @@
+{
+  "company_id": "C 9485",
+  "address": "\"POMPEI HOUSE\" GANU STREET,",
+  "name": "BORG TRANSPORTATION LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "In Dissolution",
+  "registration_date": "Mar 14, 1988",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 116469,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 116469
+    }
+  ],
+  "total_authorised_shares": 116469,
+  "total_authorised_shares_value": 116469,
+  "total_issued_shares": 116469,
+  "total_issued_shares_value": 116469,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "JANE PISANI\r",
+        "party_id": "                                                            248349M",
+        "address": "30,MANUEL,TRIQGANU,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "JANE PISANI\r",
+        "party_id": "                                                            248349M",
+        "address": "30,MANUEL,TRIQGANU,BIRKIRKARAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 116469,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "JANE PISANI\r",
+        "party_id": "                                                            248349M",
+        "address": "30,MANUEL,TRIQGANU,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "JANE PISANI\r",
+        "party_id": "                                                            248349M",
+        "address": "30,MANUEL,TRIQGANU,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "JANE PISANI\r",
+        "party_id": "                                                            248349M",
+        "address": "30,MANUEL,TRIQGANU,BIRKIRKARAMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "MARMARA' CAMILLERI & CO\r",
+        "party_id": "                                                            AB/26/84/37",
+        "address": "SUITE1,141,BALZANVALLEYBALZANBZN1404MALTA",
+        "nationality": ""
+      }
+    ]
+  }
+}

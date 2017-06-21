@@ -1,0 +1,97 @@
+{
+  "name": "BALMIER HOLDINGS LIMITED",
+  "total_issued_shares_value": 1200,
+  "total_authorised_shares_value": 1200,
+  "authorised_shares": [
+    {
+      "issued_shares": 200,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 200,
+      "nominal_value_per_share": 1
+    },
+    {
+      "issued_shares": 1000,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 1000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Secretaries": [
+      {
+        "name": "LARS CHRISTIAN BEITNES\r",
+        "nationality": "NORWEGIAN",
+        "party_id": "                                                            39043A",
+        "address": "48,FLAT9,TIGNESEAFRONT,SLIEMASLM3011MALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ALAN MICHAEL FIORINI\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            10050",
+        "address": "SUITE8,TA'MALLIABUILDINGS,TRIQIN-NEGOZJU,MRIEHELBIRKIRKARABKR3000MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ASTON CORPORATE MANAGEMENT (MALTA) LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 43671",
+        "address": "THEPLAZACOMMERCIALCENTRELEVEL8,SUITE5,BISAZZASTREETSLIEMASLM1640MALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SAMUEL KIRK DRAYTON\r",
+        "nationality": "BRITISH",
+        "party_id": "                                                            210838318",
+        "address": "49,ALDERROAD,POOLEBH122ABUNITEDKINGDOM",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 200
+        }
+      },
+      {
+        "name": "WNIC LTD\r",
+        "nationality": "",
+        "party_id": "                                                            C 57989",
+        "address": "THEPLAZACOMMERCIALCENTRE,LEVEL8,SUITE5,BISAZZASTREET,SLIEMASLM1640MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 20,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 1000
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 1200,
+  "address": "THE PLAZA COMMERCIAL CENTRE, LEVEL 8, SUITE 5, BISAZZA STREET,",
+  "company_id": "C 61666",
+  "registration_date": "Aug 23, 2013",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "",
+  "total_authorised_shares": 1200
+}

@@ -1,0 +1,120 @@
+{
+  "company_id": "C 78132",
+  "address": "8, VILLA SEMINIA, SIR TEMI ZAMMIT AVENUE,",
+  "name": "BROADWAY HOLDINGS LTD",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "registration_date": "Nov 15, 2016",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1000000,
+      "type": "Ordinary",
+      "nominal_value_per_share": 0.1,
+      "issued_shares": 86870
+    },
+    {
+      "authorised_share_capital": 200000,
+      "type": "PreferenceA",
+      "nominal_value_per_share": 0.1,
+      "issued_shares": 5630
+    }
+  ],
+  "total_authorised_shares": 1200000,
+  "total_authorised_shares_value": 120000,
+  "total_issued_shares": 92500,
+  "total_issued_shares_value": 9250,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ECAP TWO LIMITED\r",
+        "party_id": "                                                            1674190",
+        "address": "POBOX905,NERINECHAMBERSROAD,TORTOLASVIRGINISLANDS,BRITISH",
+        "nationality": "",
+        "shares": {
+          "type": "Preference",
+          "class": "A",
+          "issued_shares": 210,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      },
+      {
+        "name": "NEWBURN LIMITED\r",
+        "party_id": "                                                            009891V",
+        "address": "P.O.BOX227,CLINCH'SHOUSE,LORDSTREET,DOUGLASIM991RZISLEOFMAN",
+        "nationality": "",
+        "shares": {
+          "type": "Preference",
+          "class": "A",
+          "issued_shares": 4220,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      },
+      {
+        "name": "SOLEMERE LIMITED\r",
+        "party_id": "                                                            004570V",
+        "address": "CENTRALCORPORATESERVICESLIMITEDSECONDAVENUE,ONCHANIM34PAISLEOFMAN",
+        "nationality": "",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 86870,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 0.1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      },
+      {
+        "name": "DAVID MICHAEL BUTLER\r",
+        "party_id": "                                                            L046706",
+        "address": "6EDWARDSQUAREDONNYBROOKDUBLIN4IRELAND",
+        "nationality": "IRISH"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "ANTHONY AXISA\r",
+        "party_id": "                                                            350975M",
+        "address": "VILLASEMINIA,8,SIRTEMIZAMMITAVENUETA'XBIEXXBX1011MALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "BOOKIESTAR TRADING COMPANY LIMITED",
+  "total_issued_shares_value": 150000,
+  "total_authorised_shares_value": 150000,
+  "authorised_shares": [
+    {
+      "issued_shares": 150000,
+      "type": "Ordinary",
+      "authorised_share_capital": 150000,
+      "nominal_value_per_share": 1
+    }
+  ],
+  "involved_parties": {
+    "Shareholders": [
+      {
+        "name": "QUANTUM PARTNERS LIMITED\r",
+        "nationality": "",
+        "party_id": "                                                            C 51975",
+        "address": "188,21STSEPTEMBERAVENUE,NAXXARNXR1012MALTA",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1
+        }
+      },
+      {
+        "name": "WOODSIDE MARKETING INCORPORATED\r",
+        "nationality": "",
+        "party_id": "                                                            1647599",
+        "address": "TRIDENTCHAMBERS,P.O.BOX146,ROADTOWN,TORTOLAVIRGINISLANDS,BRITISH",
+        "shares": {
+          "nominal_value_per_share": 1,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 149999
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 150000,
+  "address": "30, KENILWORTH/1, SIR AUGUSTUS BARTOLO STREET,",
+  "company_id": "C 56285",
+  "registration_date": "May 11, 2012",
+  "shares_currency": "EUR",
+  "locality": "TA' XBIEX",
+  "status": "",
+  "total_authorised_shares": 150000
+}

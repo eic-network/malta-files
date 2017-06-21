@@ -1,0 +1,102 @@
+{
+  "company_id": "C 10343",
+  "address": "\"BEBE\" NO.12, BLOCK I, ST. JOHN'S SQUARE,",
+  "name": "BORGS` COMPANY LIMITED",
+  "locality": "VALLETTA",
+  "status": "",
+  "registration_date": "Feb 17, 1989",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 11175,
+      "type": "Ordinary",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 11175
+    },
+    {
+      "authorised_share_capital": 15000,
+      "type": "Preference",
+      "nominal_value_per_share": 2.329373,
+      "issued_shares": 15000
+    }
+  ],
+  "total_authorised_shares": 26175,
+  "total_authorised_shares_value": 60971.34,
+  "total_issued_shares": 26175,
+  "total_issued_shares_value": 60971.34,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "FRANK BORG\r",
+        "party_id": "                                                            545855M",
+        "address": "GIZIMINTRIQLORENZOMANCHEATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "CARMELO BORG\r",
+        "party_id": "                                                            454426M",
+        "address": "1,ST.JOHN'SSQUARE,VALLETTAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Preference",
+          "class": "",
+          "issued_shares": 7500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "FRANK BORG\r",
+        "party_id": "                                                            545855M",
+        "address": "GIZIMINTRIQLORENZOMANCHEATTARDMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 11175,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      },
+      {
+        "name": "MARIA GEMMA BORG\r",
+        "party_id": "                                                            127933M",
+        "address": "1,ST.JOHN'SSQUARE,VALLETTAMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Preference",
+          "class": "",
+          "issued_shares": 7500,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 2.329373
+        }
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "FRANK BORG\r",
+        "party_id": "                                                            545855M",
+        "address": "GIZIMINTRIQLORENZOMANCHEATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "FRANK BORG\r",
+        "party_id": "                                                            545855M",
+        "address": "GIZIMINTRIQLORENZOMANCHEATTARDMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "ANTHONY J CASSAR\r",
+        "party_id": "                                                            48020",
+        "address": "RIHANA,202,OLDRAILWAYROAD,BALZANMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

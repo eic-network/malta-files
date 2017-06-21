@@ -1,0 +1,70 @@
+{
+  "company_id": "C 71849",
+  "address": "ABACUS BUSINESS CENTRE TRIQ DUN KARM,",
+  "name": "BOUNCE MALTA LIMITED",
+  "locality": "BIRKIRKARA",
+  "status": "",
+  "registration_date": "Aug 13, 2015",
+  "authorised_shares": [
+    {
+      "authorised_share_capital": 1200,
+      "type": "Ordinary",
+      "nominal_value_per_share": 1,
+      "issued_shares": 1200
+    }
+  ],
+  "total_authorised_shares": 1200,
+  "total_authorised_shares_value": 1200,
+  "total_issued_shares": 1200,
+  "total_issued_shares_value": 1200,
+  "shares_currency": "EUR",
+  "involved_parties": {
+    "Directors": [
+      {
+        "name": "SIMON MIZZI\r",
+        "party_id": "                                                            1005405",
+        "address": "19,MUSEUMESPLENADE,RABATMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "SIMON MIZZI\r",
+        "party_id": "                                                            1005405",
+        "address": "19,MUSEUMESPLENADE,RABATMALTA",
+        "nationality": "MALTESE",
+        "shares": {
+          "type": "Ordinary",
+          "class": "",
+          "issued_shares": 1200,
+          "paid_up_%": 100,
+          "nominal_value_per_share": 1
+        }
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "SIMON MIZZI\r",
+        "party_id": "                                                            1005405",
+        "address": "19,MUSEUMESPLENADE,RABATMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "SIMON MIZZI\r",
+        "party_id": "                                                            1005405",
+        "address": "19,MUSEUMESPLENADE,RABATMALTA",
+        "nationality": "MALTESE"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "SIMON MIZZI\r",
+        "party_id": "                                                            1005405",
+        "address": "19,MUSEUMESPLENADE,RABATMALTA",
+        "nationality": "MALTESE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "name": "A & K CACHIA LTD",
+  "total_issued_shares_value": 104821.79,
+  "total_authorised_shares_value": 104821.78,
+  "authorised_shares": [
+    {
+      "issued_shares": 22500,
+      "type": "OrdinaryA",
+      "authorised_share_capital": 22500,
+      "nominal_value_per_share": 2.329373
+    },
+    {
+      "issued_shares": 22500,
+      "type": "OrdinaryB",
+      "authorised_share_capital": 22500,
+      "nominal_value_per_share": 2.329373
+    }
+  ],
+  "involved_parties": {
+    "Liquidators": [
+      {
+        "name": "BEPPE MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            146889M",
+        "address": "TAL-BONZU,TRIQL-IMGHAZELSWIEQISWQ3141MALTA"
+      }
+    ],
+    "Secretaries": [
+      {
+        "name": "CARMEL KARL CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175561M",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Legal Representatives": [
+      {
+        "name": "ALEXIS CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281173M",
+        "address": "DAVANDAL,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "CARMEL KARL CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175561M",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Directors": [
+      {
+        "name": "ALEXIS CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281173M",
+        "address": "DAVANDAL,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "CARMEL KARL CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175561M",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Auditors": [
+      {
+        "name": "SILVIO MUSCAT\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            48115",
+        "address": "63C,FLAT1,BIRKIRKARAROAD,ST.JULIANSSTJ1301MALTA"
+      }
+    ],
+    "Judicial Representatives": [
+      {
+        "name": "ALEXIS CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281173M",
+        "address": "DAVANDAL,VALLETTAROAD,ATTARDMALTA"
+      },
+      {
+        "name": "CARMEL KARL CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175561M",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA"
+      }
+    ],
+    "Shareholders": [
+      {
+        "name": "ALEXANDER ALEX CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            817044M",
+        "address": "DAVANDAL,VALLETTAROAD,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 15000
+        }
+      },
+      {
+        "name": "ALEXIS CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            281173M",
+        "address": "DAVANDAL,VALLETTAROAD,ATTARDMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "A",
+          "issued_shares": 7500
+        }
+      },
+      {
+        "name": "CARMEL KARL CACHIA\r",
+        "nationality": "MALTESE",
+        "party_id": "                                                            175561M",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 20834
+        }
+      },
+      {
+        "name": "EDWARD CACHIA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 833
+        }
+      },
+      {
+        "name": "PHILIP CACHIA",
+        "nationality": "MALTESE",
+        "party_id": "",
+        "address": "XENIA,TRIQIR-RUSSETT,KAPPARA,SANGWANNMALTA",
+        "shares": {
+          "nominal_value_per_share": 2.329373,
+          "paid_up_%": 100,
+          "type": "Ordinary",
+          "class": "B",
+          "issued_shares": 833
+        }
+      }
+    ]
+  },
+  "total_issued_shares": 45000,
+  "address": "ONDINE, 21/10, HIGH STREET,",
+  "company_id": "C 18301",
+  "registration_date": "Apr 19, 1995",
+  "shares_currency": "EUR",
+  "locality": "SLIEMA",
+  "status": "In Dissolution",
+  "total_authorised_shares": 45000
+}
